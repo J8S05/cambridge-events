@@ -1,0 +1,620 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cambridge Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cambridge Events: International
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-cambridge-comparative-constitutional-law-
+ discussio@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261118T130000
+DTEND;TZID=Europe/London:20261118T140000
+SUMMARY:Cambridge Comparative Constitutional Law Discussion Group (CCCLDG) 
+ Work-in-Progress Session: 'Contested Pathways to Citizenship: A Comparison
+  of Taiwan’s Investor Residence Scheme and UK BNO Visa Scheme for Hong K
+ ongers'
+LOCATION:Online webinar
+URL:https://www.law.cam.ac.uk/events/cambridge-comparative-constitutional-l
+ aw-discussion-group-cccldg-work-progress-session-0
+CATEGORIES:Law,Politics,International,Entrepreneurship
+DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Entrep
+ reneurship\nDetails: https://www.law.cam.ac.uk/events/cambridge-comparativ
+ e-constitutional-law-discussion-group-cccldg-work-progress-session-0\nDate
+ /time: \n\n Wednesday 18 November 2026 \n\n 1:00pm to 2:00pm\n\n Location:
+  \n\n Online webinar\n\n Sign up\n\n About \n\n Speaker: Yi-Chen Huang (Ac
+ ademia Sinica)\n The Cambridge Comparative Constitutional Law Discussion G
+ roup (CCCLDG)\, co-convened by Zheng Hong See and Even Y. Chao.\n CCCLDG i
+ s a forum that brings together graduate students interested in comparative
+  constitutional law and public law in general to discuss recent works and 
+ developments in comparative constitutional law.\n Please join the mailing 
+ list to receive updates and details of CCCLDG events.\n Convenors of CCCLD
+ G 2026-27: Zheng Hong See ( zhs23@cam.ac.uk ) and Even Y. Chao ( yyc41@cam
+ .ac.uk ).
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-cambridge-international-law-discussion-gr
+ oup-eleme@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261118T130000
+DTEND;TZID=Europe/London:20261118T140000
+SUMMARY:Cambridge International Law Discussion Group: 'The Element of Groun
+ d in Space Governance'
+LOCATION:Lauterpacht Centre for International Law
+URL:https://www.law.cam.ac.uk/events/cambridge-international-law-discussion
+ -group-element-ground-space-governance
+CATEGORIES:Law,International,Policy
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
+ https://www.law.cam.ac.uk/events/cambridge-international-law-discussion-gr
+ oup-element-ground-space-governance\nDate/time: \n\n Wednesday 18 November
+  2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for Inte
+ rnational Law\n\n About \n\n Speaker: Yirong Sun (PhD Candidate in Law at 
+ Cambridge)\n Has it ever come into your mind that satellites in outer spac
+ e are deeply tied to the ground? This session will discuss the plans of a 
+ two-year empirical phase (of the PhD project) using archival research\, in
+ terviews and participant observation to examine how the ground concentrate
+ s and redistributes power in Earth observation/remote sensing satellite mi
+ ssions. Where are ground stations located\, how do particular sites become
+  part of space infrastructure\, and how are land uses repurposed or intens
+ ified over time? These questions bring into view actors who do not necessa
+ rily own satellites themselves but whose land\, infrastructure or regulato
+ ry authority helps make satellite operations possible. \n The broad
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-book-presentation-bucharest@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261118T190000
+DTEND;TZID=Europe/London:20261118T200000
+SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
+ e European Security’\, Bucharest
+URL:https://www.cfg.cam.ac.uk/events/book-presentation-bucharest/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/book-presentation-bucharest/
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-internation
+ al-law-sc@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261119T150000
+DTEND;TZID=Europe/London:20261119T160000
+SUMMARY:CEENRG Seminars: 'How Safe is Safe? International Law at the Scienc
+ e-Norm Interface in the Controversy over the ‘Water’ Discharge from th
+ e Fukushima Nuclear Accident Site'
+LOCATION:David Attenborough Building\, Room 1.25
+URL:https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-internat
+ ional-law-science-norm-interface-controversy-over
+CATEGORIES:Law,International
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
+ ww.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-sc
+ ience-norm-interface-controversy-over\nDate/time: \n\n Thursday 19 Novembe
+ r 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Buildin
+ g\, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr Miharu Hirano (Associ
+ ate Professor\, Graduate School of Law\, Kobe University)\n Assessing the 
+ safety of water for human health and the environment is not a purely scie
+ ntific inquiry\; rather\, determining an acceptable level of risk is inex
+ tricably linked to normative value judgments. How effectively internation
+ al law guides States through such complex issues is frequently tested in
+  novel contexts lacking clear precedent. Japan’s discharge of tritium-c
+ ontaining ‘ALPS-treated water’ offers an interesting case study\, not
+  only for the global attention it has attracted\, but also for the import
+ ant legal questions it has raised. \n The Cambridge Centre for Environment
+ \, Energy\, and Natural Resource Governance (C-EENRG) is hosting a seminar
+  series througho
+END:VEVENT
+BEGIN:VEVENT
+UID:elab-6afa293178a4204d5c078138@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261119T160000
+DTEND;TZID=Europe/London:20261119T170000
+SUMMARY:Science\, Brand and Business: A Conversation with Jessie Inchauspé
+ \, the Glucose Goddess
+LOCATION:Chen-Tsao Lecture Theatre\, Judge Business School\, Trumpington St
+ reet
+URL:https://www.kingselab.org/all-events/jessie-inchauspe
+CATEGORIES:International,Entrepreneurship
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Internation
+ al\, Entrepreneurship\nDetails: https://www.kingselab.org/all-events/jessi
+ e-inchauspe\nJoin bestselling author\, biochemist and entrepreneur Jessie 
+ Inchauspé\, known as the Glucose Goddess\, for a conversation on turning 
+ scientific expertise into a global brand and successful commercial venture
+ s. Expect a candid conversation\, with plenty of time for your questions.
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
+ ule-law-d@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261119T160000
+DTEND;TZID=Europe/London:20261119T170000
+SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
+ eign Policy' by Ambassador Antonio de Aguiar Patriota
+LOCATION:Lauterpacht Centre for International Law
+URL:https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-an
+ d-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar
+CATEGORIES:Law,Politics,International,Policy
+DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Policy
+ \nDetails: https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-b
+ razil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-agui
+ ar\nDate/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Lo
+ cation: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley
+  Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an
+  in-person event only Antonio de Aguiar Patriota was appointed Ambassador 
+ to the United Kingdom of Great Britain and Northern Ireland in 2023. \n P
+ reviously\, he served as Minister of Foreign Affairs of Brazil (2011-2013)
+ \, Ambassador to the United States (2007-2009) and as Permanent Representa
+ tive of Brazil to the United Nations (2013-2016). He was Ambassador of Bra
+ zil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \
+ n Among his publications are “The UN Security Council after the Gulf War
+ ” (1998) and two volumes of “Speeches\, articles and interviews” dur
+ ing his period as Foreign Minister. He published in 2025 a collection of e
+ ssays in the English language entitled “A Human
+END:VEVENT
+BEGIN:VEVENT
+UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261119T173000
+DTEND;TZID=Europe/London:20261119T183000
+SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
+ ya Keynes
+LOCATION:King's College\, King's Parade
+URL:https://www.kingselab.org/all-events/soumaya-keynes
+CATEGORIES:Entrepreneurship,Politics,International,Policy
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
+ rship\, Politics\, International\, Policy\nDetails: https://www.kingselab.
+ org/all-events/soumaya-keynes\nJoin economist and journalist Soumaya Keyne
+ s for a conversation on the forces shaping the global economy. Drawing on 
+ her work analysing economic policy\, public affairs\, and international tr
+ ends\, Keynes will explore the challenges facing governments\, businesses\
+ , and societies in an era of rapid change.
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
+ ents
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261120T173000
+DTEND;TZID=Europe/London:20261120T183000
+SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
+ a of rising threats’
+LOCATION:McCrum Lecture Theatre\, Corpus Christi College\, Trumpington St C
+ B2 1RH
+URL:https://www.cfg.cam.ac.uk/events/general-matthew-jones-chief-of-defence
+ -intelligence/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/general-matthew-jones-chief-of-defence-intellige
+ nce/
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273132@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261123T130000
+DTEND;TZID=Europe/London:20261123T140000
+SUMMARY:From boring to extraction: surveying\, labour and the underground i
+ n colonial Assam and Burma\, mid to late 19th century
+LOCATION:Seminar Room 1\, Department of History and Philosophy of Science
+URL:https://talks.cam.ac.uk/talk/index/273132/
+CATEGORIES:International
+DESCRIPTION:Speaker: Shreya Khaund (History\, University of Warwick)\nCabin
+ et of Natural History\nTopics: International\nDetails: https://talks.cam.a
+ c.uk/talk/index/273132/
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
+ s-matters@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261123T173000
+DTEND;TZID=Europe/London:20261123T190000
+SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
+ matters
+URL:https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-w
+ hy-baltic-minority-politics-matters/
+CATEGORIES:Politics,International
+DESCRIPTION:Centre for Geopolitics\nTopics: Politics\, International\nDetai
+ ls: https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-
+ why-baltic-minority-politics-matters/
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273869@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261124T163000
+DTEND;TZID=Europe/London:20261124T180000
+SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
+ nd narratives of climate in/vulnerability in contemporary Iceland
+LOCATION:Scott Polar Research Institute\, Lecture Theatre
+URL:https://talks.cam.ac.uk/talk/index/273869/
+CATEGORIES:Politics,International,Policy
+DESCRIPTION:Speaker: Utsa Mukherjee (Education\, Brunel University of Londo
+ n)\nScott Polar Research Institute - HCEP (Histories\, Cultures\, Environm
+ ents and Politics) Research Seminars\nTopics: Politics\, International\, P
+ olicy\nDetails: https://talks.cam.ac.uk/talk/index/273869/\nWhile climate 
+ vulnerability\, that is the geographical distribution of risks on account 
+ of the climate crisis\, is widely discussed\; relatively little scholarly 
+ attention has been paid to how colonial fantasies of climate invulnerabili
+ ty underpin climate inaction and justify the maintenance of status quo (We
+ atherill\, 2025). This paper contributes to the emergent body of critical 
+ scholarship on the politics of climate in/vulnerability through a focus on
+  contemporary Iceland. Drawing on in-depth interviews with more than 80 pa
+ rticipants from across Iceland\, who recognise the reality of anthropogeni
+ c climate change and are committed to climate action\, we show how Iceland
+ ’s geographical location is invoked by participants to advance ideas of 
+ relative climate in/vulnerability of the island. Analysed through prisms o
+ f critical feminist and decolonial politics\, these narratives assume two 
+ main fo
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
+ u-ai-act-@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261125T130000
+DTEND;TZID=Europe/London:20261125T140000
+SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
+ Navigate Regulatory Complexity in the Digital Landscape'
+LOCATION:Faculty of Law\, B16
+URL:https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-unde
+ r-eu-ai-act-how-firms-navigate-regulatory-complexity
+CATEGORIES:Law,International,Policy
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
+ https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-e
+ u-ai-act-how-firms-navigate-regulatory-complexity\nDate/time: \n\n Wednesd
+ ay 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of La
+ w\, B16\n\n About \n\n Speaker : Professor Pablo Baquero\, HEC Paris\n Bi
+ ography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and 
+ a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intellig
+ ence for Science\, Business and Society. He is a member of the Smart Law H
+ ub at HEC Paris\, is involved in different interdisciplinary academic comm
+ unities focused on law and technology and collaborates closely with schola
+ rs across different disciplines\, in projects at the intersection between 
+ law and AI.  His scholarly interests are in the fields of law and technol
+ ogy (particularly law and artificial intelligence and smart contracts)\, p
+ rivate law and international business transactions. His perspective is com
+ parative and interdisciplinary\, considering the intersection of law with 
+ computer sci
+END:VEVENT
+BEGIN:VEVENT
+UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261126T163000
+DTEND;TZID=Europe/London:20261126T190000
+SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
+LOCATION:King's College\, King's Parade
+URL:https://www.kingselab.org/all-events/marcus-olsson
+CATEGORIES:Entrepreneurship,International
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
+ rship\, International\nDetails: https://www.kingselab.org/all-events/marcu
+ s-olsson\nJoin us for a screening of Marcus Olsson’s new movie\, ‘The 
+ Swedish Connection’\, a historical drama about a Swedish bureaucrat who 
+ attempts to save Jewish refugees during the Second World War. The screenin
+ g will be followed by a Q&A with Marcus\, and a drinks reception.
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event@cambridge-
+ events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261126T170000
+DTEND;TZID=Europe/London:20261126T180000
+SUMMARY:3VB University of Cambridge Event
+LOCATION:Downing College
+URL:https://www.law.cam.ac.uk/events/3vb-university-cambridge-event
+CATEGORIES:Law,International
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
+ ww.law.cam.ac.uk/events/3vb-university-cambridge-event\nDate/time: \n\n Th
+ ursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing C
+ ollege\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief int
+ roduction by 3VB's Rajesh Pillai KC\, members of 3VB will offer first-hand
+  insights into two recent landmark cases\, exploring how legal decisions a
+ re reached and the role of barristers in shaping them.\n Dominic Kennelly 
+ will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9\, co
+ ncerning state immunity and the enforcement of international arbitration a
+ wards\, while William Day and Amelia-Rose Edwards will explore Gatwick Inv
+ estment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14\, addressi
+ ng contractual interpretation and causation in private law.\n The talks wi
+ ll be followed by drinks\, refreshments and an opportunity to network with
+  members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: even
+ ts@3vb.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bennett-annual-public-policy-lecture-2026@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261126T173000
+DTEND;TZID=Europe/London:20261126T190000
+SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
+ )
+LOCATION:Lee Seng Tee Hall\, Wolfson College\, Bar
+URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
+ -2026/
+CATEGORIES:Law,International,Policy,Entrepreneurship
+DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
+ Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
+ ents/annual-public-policy-lecture-2026/\nDrawing on her experience as an e
+ ntrepreneur\, legislator and board member\, Martha Lane Fox will explore w
+ hat AI could mean for the next 50 years\, including its effects on work\, 
+ business\, entrepreneurial opportunity\, existing institutions\, culture\,
+  security and defence. Chaired by Prof Diane Coyle\, Bennett Professor of 
+ Public Policy\, University of Cambridge.
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-book-presentation-london@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261126T180000
+DTEND;TZID=Europe/London:20261126T203000
+SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
+ e European Security’\, London
+URL:https://www.cfg.cam.ac.uk/events/book-presentation-london/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/book-presentation-london/
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
+ ory-autho@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261127T130000
+DTEND;TZID=Europe/London:20261127T140000
+SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
+ nternational Law' - Prof Fuad Zarbiyev\, Geneva Graduate Institute
+LOCATION:Lauterpacht Centre for International Law
+URL:https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-
+ theory-authority-international-law-prof-fuad-zarbiyev
+CATEGORIES:Law,International
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
+ ww.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-autho
+ rity-international-law-prof-fuad-zarbiyev\nDate/time: \n\n Friday 27 Novem
+ ber 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for I
+ nternational Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register
+  here if attending online   Situations in which claims to authority clash
+  with each other abound in international law\, ranging from competition fo
+ r authority among international adjudicative bodies to the disputed alloca
+ tion of powers among international and domestic authorities across various
+  issue areas. What is common to all these situations is that each claim to
+  authority is typically supported by some formal or informal basis for eli
+ citing deference. Yet the practice shows that not all claims to deference 
+ entitlement are situated on the same plane\, with some exerting greater at
+ traction than others. Exclusively mandate-based authority claims\, for ins
+ tance\, rarely gain the upper hand over epistemically grounded claims to d
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
+ nce-and-t@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261127T173000
+DTEND;TZID=Europe/London:20261127T183000
+SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
+ oscience\, and the military in Britain\, 1930–1970’
+LOCATION:McCrum Lecture Theatre\, Corpus Christi College\, Bene’t Street 
+ CB2 1RH
+URL:https://www.cfg.cam.ac.uk/events/prof-richard-noakes-a-secret-radar-war
+ -psychic-powers-technoscience-and-the-military-in-britain-1930-1970/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/prof-richard-noakes-a-secret-radar-war-psychic-p
+ owers-technoscience-and-the-military-in-britain-1930-1970/
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
+ kman-hurd@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261130T170000
+DTEND;TZID=Europe/London:20261130T183000
+SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
+LOCATION:Alison Richard Building
+URL:https://www.polis.cam.ac.uk/events/talk-heaven-has-wall-prof-elizabeth-
+ shakman-hurd
+CATEGORIES:Politics,International
+DESCRIPTION:POLIS (Politics & International Studies)\nTopics: Politics\, In
+ ternational\nDetails: https://www.polis.cam.ac.uk/events/talk-heaven-has-w
+ all-prof-elizabeth-shakman-hurd\nDate/time: \n\n Monday 30 November 2026 \
+ n\n 5:00am to 6:30am\n\n Location: \n\n Alison Richard Building\n\n S2\n\n
+  Join us in S1\, Alison Richards Building on Monday 30th November 2026 @ 5
+ PM for a discussion with Prof. Elizabeth Shakman Hurd on her book Heaven H
+ as a Wall: Religion\, Borders\, and the Global United States\, (University
+  of Chicago Press\, 2025)\n\n About \n\n Professor Elizabeth Shakman Hurd\
+ , Heaven Has A Wall.  \n Join us in  S2\, Alison Richards Building  on 
+ Monday 30th November 2026   @ 5PM  for a discussion with Prof. Elizabeth
+  Shakman Hurd on her book Heaven Has a Wall: Religion\, Borders\, and the 
+ Global United States \, (University of Chicago Press\, 2025)\n Abstract: 
+  Everyone has a border story\, but for American borders there is more goi
+ ng on than meets the eye. At times\, the US ferociously enforces its borde
+ rs\, while at other times it circumvents or ignores them. US borders are p
+ resent and
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273722@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261202T180000
+DTEND;TZID=Europe/London:20261202T193000
+SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
+ ll - Revisiting Economic Security: an investigation of concepts and measur
+ es for the present day
+LOCATION:The Ramsden Room\, St Catharine's College
+URL:https://talks.cam.ac.uk/talk/index/273722/
+CATEGORIES:Politics,International
+DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
+ t Catharine's Political Economy Seminar Series\nTopics: Politics\, Interna
+ tional\nDetails: https://talks.cam.ac.uk/talk/index/273722/\nSpeaker: Prof
+ essor Shailaja Fennell\n Talk Title: Revisiting Economic Security: an inve
+ stigation of concepts and measures for the present day\n Time: 18:00 -19:3
+ 0 \n Location: Ramsden room\, St Catharine's College \n The seminar series
+  is supported by the Cambridge Political Economy Society and the Economics
+  and Policy Group at the Cambridge Judge Business School. \n\n Speaker Ove
+ rview: \n Shailaja Fennell is Professor of Economic Security and Resilienc
+ e in the Department of Land Economy. She obtained her B.A\, M. A. and M.Ph
+ il. in Economics from Delhi University\, before coming to the University o
+ f Cambridge to obtain another M.Phil. and then her PhD. in Economics at th
+ e Faculty of Economics. She is a fellow of Jesus College\, and also Direct
+ or of the Centre of South Asian Studies.
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273463@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261203T171500
+DTEND;TZID=Europe/London:20261203T190000
+SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
+  Development of the 1981–2 Sovereign Debt Crisis in Poland\, Romania and
+  Hungary
+LOCATION:Lightfoot Room - St John's College
+URL:https://talks.cam.ac.uk/talk/index/273463/
+CATEGORIES:Politics,International,Policy
+DESCRIPTION:Speaker: Catherine Lefevre\, Glasgow\nCore Seminar in Economic 
+ and Social History\nTopics: Politics\, International\, Policy\nDetails: ht
+ tps://talks.cam.ac.uk/talk/index/273463/\nThis talk demonstrates how UK ba
+ nks helped finance the UK’s foreign policy toward Central and Eastern Eu
+ ropean (CEE) during the Cold War with the support and encouragement of the
+  UK government. It examines the relationship between the UK government\, U
+ K banks and the Bank of England during the development of the CEE sovereig
+ n debt crisis in Poland\, Romania and Hungary and shows that UK banks play
+ ed a key role in the development of East–West relations during the Cold 
+ War through actively developing business ties with CEE countries which the
+  UK government saw as an opportunity to further its foreign policy goals i
+ n the region.
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
+ -special-@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261204T130000
+DTEND;TZID=Europe/London:20261204T140000
+SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
+ bunal for the Crime of Aggression against Ukraine?'
+LOCATION:Lauterpacht Centre for International Law
+URL:https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation-w
+ hat-special-about-special-tribunal-crime-aggression-against-ukraine
+CATEGORIES:Law,International,Criminology
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
+ ils: https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation
+ -what-special-about-special-tribunal-crime-aggression-against-ukraine\nDat
+ e/time: \n\n Friday 4 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n
+ \n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture H
+ all\n\n About \n\n Register here if attending online   At a time when som
+ e international courts and tribunals are under attack\, defunded or otherw
+ ise obstructed\, a new one is being created: the Special Tribunal for the 
+ Crime of Aggression against Ukraine. Ukrainian legal scholar Dr Gaiane Nur
+ idzhanian \, in conversation with LCIL Fellow Professor Sarah Nouwen\, wil
+ l explore what is special about the tribunal: why is it needed\, what is i
+ ts legal nature\, what are its prospects and the role in the development o
+ f international law? \n There is a sandwich lunch at 12.30 pm in the Old 
+ Library at the Centre. All lecture attendees welcome.\n The Friday Lunchti
+ me Lecture series is kindly supported by Cambridge University Press & Asse
+ ssment .
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261204T173000
+DTEND;TZID=Europe/London:20261204T190000
+SUMMARY:Belarus and the Baltic after 2022
+URL:https://www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/
+END:VEVENT
+BEGIN:VEVENT
+UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
+ -talk@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20261210T160000
+DTEND;TZID=Europe/London:20261210T173000
+SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
+ ent (book talk)
+URL:https://www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford
+ -and-daniel-j-sargent-book-talk/
+CATEGORIES:International
+DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
+ /www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford-and-danie
+ l-j-sargent-book-talk/
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273975@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20270119T140000
+DTEND;TZID=Europe/London:20270119T150000
+SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
+ te
+LOCATION:Webinar & Lecture Theatre 2\, Computer Laboratory\, William Gates 
+ Building
+URL:https://talks.cam.ac.uk/talk/index/273975/
+CATEGORIES:Law,International
+DESCRIPTION:Speaker: Shakti Avasthy\, Indian Police Service\nComputer Labor
+ atory Security Seminar\nTopics: Law\, International\nDetails: https://talk
+ s.cam.ac.uk/talk/index/273975/\nIn the fraud known in India as 'digital ar
+ rest'\, victims are told by people posing as officers of several state age
+ ncies that they are under investigation\, shown forged orders of the count
+ ry's highest court\, held under continuous video 'custody' for days\, and 
+ instructed to move their savings into a 'supervised' account for verificat
+ ion. Recorded complaints rose from about 40\,000 in 2022 to over 120\,000 
+ in 2024. This talk argues that the offence is not impersonation but instit
+ utional simulation: what the operators reproduce is not a person but the p
+ rocedural form by which a state proceeds against a citizen - inter-agency 
+ referral\, documentary authority\, staged adjudication\, custody - closely
+  enough that compliance follows from recognising the procedure rather than
+  believing any individual. Victims who verify are captured by the act of v
+ erifying. Drawing on one case reconstructed from the 
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
+ etata-pre@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20270122T173000
+DTEND;TZID=Europe/London:20270122T190000
+SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
+  Authority in the Case Law of the Court of Justice of the European Union'
+LOCATION:Faculty of Law
+URL:https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-res-inte
+ rpretata-precedent-and-its-authority-case-law-court
+CATEGORIES:Law,International,Rights & Justice
+DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Rights & Justice\
+ nDetails: https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-r
+ es-interpretata-precedent-and-its-authority-case-law-court\nDate/time: \n\
+ n Friday 22 January 2027 \n\n 5:30pm to 7:00pm\n\n Location: \n\n Faculty 
+ of Law\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Le
+ naerts\, Court of Justice of the European Union
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273981@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20270216T163000
+DTEND;TZID=Europe/London:20270216T180000
+SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
+ ical Case Studies
+URL:https://talks.cam.ac.uk/talk/index/273981/
+CATEGORIES:Politics,International
+DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott 
+ Polar Research Institute - HCEP (Histories\, Cultures\, Environments and P
+ olitics) Research Seminars\nTopics: Politics\, International\nDetails: htt
+ ps://talks.cam.ac.uk/talk/index/273981/
+END:VEVENT
+BEGIN:VEVENT
+UID:talks-273872@cambridge-events
+DTSTAMP:20261117T224509Z
+DTSTART;TZID=Europe/London:20270309T160000
+DTEND;TZID=Europe/London:20270309T180000
+SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N
+ orth
+LOCATION:Scott Polar Research Institute\, Lecture Theatre
+URL:https://talks.cam.ac.uk/talk/index/273872/
+CATEGORIES:Politics,International
+DESCRIPTION:Speaker: Holger Nehring (History & Heritage\, University of Sti
+ rling)\nScott Polar Research Institute - HCEP (Histories\, Cultures\, Envi
+ ronments and Politics) Research Seminars\nTopics: Politics\, International
+ \nDetails: https://talks.cam.ac.uk/talk/index/273872/
+END:VEVENT
+END:VCALENDAR

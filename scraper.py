@@ -864,6 +864,109 @@ def dedupe(events):
 def write_data(data):
     (HERE / "events.json").write_text(json.dumps(data, ensure_ascii=False, indent=1))
     (HERE / "events.js").write_text("window.EVENT_DATA = " + json.dumps(data, ensure_ascii=False) + ";\n")
+    write_calendars(data)
+
+
+# --------------------------------------------------------------------------
+# Calendar feeds (.ics) for subscribing in Apple / Google / Outlook Calendar
+# --------------------------------------------------------------------------
+CAL_DIR = HERE / "calendar"
+VTIMEZONE_LONDON = """BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE"""
+
+
+def slug(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def _ics_text(v):
+    v = str(v or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,")
+    return v.replace("\r\n", "\\n").replace("\n", "\\n")
+
+
+def _fold(line):
+    """Fold lines at 75 octets as the iCalendar standard requires."""
+    raw = line.encode("utf-8")
+    if len(raw) <= 75:
+        return line
+    parts, cur = [], b""
+    for ch in line:
+        b = ch.encode("utf-8")
+        if len(cur) + len(b) > (75 if not parts else 74):
+            parts.append(cur.decode("utf-8"))
+            cur = b""
+        cur += b
+    parts.append(cur.decode("utf-8"))
+    return "\r\n ".join(parts)
+
+
+def _ics_local(iso):
+    return iso.replace("-", "").replace(":", "")[:13] + "00"
+
+
+def build_ics(events, name, stamp):
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Cambridge Events Calendar//EN", "CALSCALE:GREGORIAN",
+             "METHOD:PUBLISH", f"X-WR-CALNAME:{_ics_text(name)}", "X-WR-TIMEZONE:Europe/London",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H", *VTIMEZONE_LONDON.split("\n")]
+    for e in events:
+        uid = re.sub(r"[^A-Za-z0-9._-]", "", e["id"])[:80] + "@cambridge-events"
+        if e.get("allDay"):
+            d1 = e["start"][:10].replace("-", "")
+            last = dt.date.fromisoformat((e.get("end") or e["start"])[:10])
+            d2 = (last + dt.timedelta(days=1)).strftime("%Y%m%d")
+            when = [f"DTSTART;VALUE=DATE:{d1}", f"DTEND;VALUE=DATE:{d2}"]
+        else:
+            end = e.get("end") or to_local(dt.datetime.fromisoformat(e["start"]) + dt.timedelta(hours=1))
+            when = [f"DTSTART;TZID=Europe/London:{_ics_local(e['start'])}",
+                    f"DTEND;TZID=Europe/London:{_ics_local(end)}"]
+        details = [
+            f"Speaker: {e['speaker']}" if e.get("speaker") else "",
+            e.get("series") or e.get("organiser") or "",
+            "Topics: " + ", ".join(e.get("topics") or []) if e.get("topics") else "",
+            f"Details: {e['url']}" if e.get("url") else "",
+            f"Book: {e['booking']}" if e.get("booking") and e.get("booking") != e.get("url") else "",
+            (e.get("description") or "")[:900],
+        ]
+        lines += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{stamp}", *when,
+                  f"SUMMARY:{_ics_text(e['title'])}"]
+        if e.get("venue"):
+            lines.append(f"LOCATION:{_ics_text(e['venue'])}")
+        if e.get("url"):
+            lines.append(f"URL:{e['url']}")
+        if e.get("topics"):
+            lines.append("CATEGORIES:" + ",".join(_ics_text(t) for t in e["topics"]))
+        lines += [f"DESCRIPTION:{_ics_text(chr(10).join(x for x in details if x))}", "END:VEVENT"]
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(_fold(l) for l in "\r\n".join(lines).split("\r\n")) + "\r\n"
+
+
+def write_calendars(data):
+    CAL_DIR.mkdir(exist_ok=True)
+    stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    cutoff = str(TODAY - dt.timedelta(days=14))
+    events = [e for e in data["events"] if (e.get("end") or e["start"])[:10] >= cutoff]
+    feeds = {"all": ("Cambridge Events (all)", events)}
+    for t in data.get("topics") or list(TOPICS):
+        feeds[slug(t)] = (f"Cambridge Events: {t}", [e for e in events if t in (e.get("topics") or [])])
+    for key, (name, evs) in feeds.items():
+        (CAL_DIR / f"{key}.ics").write_bytes(build_ics(evs, name, stamp).encode("utf-8"))
+    (CAL_DIR / "feeds.json").write_text(json.dumps(
+        [{"file": f"calendar/{k}.ics", "name": n, "count": len(e)} for k, (n, e) in feeds.items()], indent=1))
 
 
 def refresh_manual(log=print):

@@ -65,6 +65,9 @@ h1{font:700 21px/1.2 "Source Serif 4",Georgia,serif;margin:0 0 4px;letter-spacin
 .srcs{font-size:12px;color:var(--muted)}
 .srcs li{margin:2px 0}
 .srcs .bad{color:var(--warn)}
+.feed{display:flex;align-items:center;gap:6px;margin:4px 0}
+.feed a{flex:1}
+.feed button{border:1px solid var(--line);background:transparent;border-radius:6px;font-size:11px;padding:1px 6px;cursor:pointer;color:var(--muted)}
 .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px}
 .tabs{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
 .tabs button{border:0;background:transparent;padding:6px 14px;border-radius:7px;cursor:pointer;font-weight:500;color:var(--muted)}
@@ -171,6 +174,12 @@ h1{font:700 21px/1.2 "Source Serif 4",Georgia,serif;margin:0 0 4px;letter-spacin
       <div class="chips" id="intList" style="margin-top:8px"></div>
       <label class="toggle"><input type="checkbox" id="onlyInt"> Only show matches</label>
       <label class="toggle"><input type="checkbox" id="showHidden"> Show hidden events</label>
+    </div>
+
+    <div class="sect">
+      <h3>Subscribe in your calendar</h3>
+      <div class="sub" style="margin-bottom:8px">Adds events to Apple, Google or Outlook Calendar, updated automatically. On iPhone: tap a feed, then <b>Subscribe</b>.</div>
+      <ul class="srcs" id="feedList" style="padding-left:16px;margin:0"></ul>
     </div>
 
     <div class="sect">
@@ -652,6 +661,24 @@ $("#addForm").onsubmit = async ev => {
   } catch { toast(NO_SERVER_MSG, 6000); }
 };
 
+// Calendar feeds live on the public website, even when the app runs on this Mac.
+const SITE_URL = HOSTED ? new URL(".", location.href).href : "https://j8s05.github.io/cambridge-events/";
+async function renderFeeds(){
+  let feeds = [];
+  try { feeds = await fetch("calendar/feeds.json", {cache:"no-store"}).then(r => r.json()); } catch {}
+  if (!feeds.length) { $("#feedList").innerHTML = `<li class="sub">Feeds appear after the next update.</li>`; return; }
+  $("#feedList").innerHTML = feeds.map(f => {
+    const https = SITE_URL + f.file, webcal = https.replace(/^https?:/, "webcal:");
+    const label = f.name.replace(/^Cambridge Events:?\s*/, "").replace(/^\((.*)\)$/, "$1");
+    return `<li class="feed"><a href="${esc(webcal)}">${esc(label[0].toUpperCase() + label.slice(1))}</a><span class="sub">${f.count}</span>
+      <button data-copy="${esc(https)}" title="Copy link (for Google Calendar: Other calendars → From URL)">copy</button></li>`;
+  }).join("");
+}
+document.addEventListener("click", async ev => {
+  const b = ev.target.closest("[data-copy]"); if (!b) return;
+  try { await navigator.clipboard.writeText(b.dataset.copy); toast("Link copied"); } catch { prompt("Copy this link:", b.dataset.copy); }
+});
+
 async function load(){
   let data = null;
   try { const r = await fetch("events.json", {cache:"no-store"}); if (r.ok) data = await r.json(); } catch {}
@@ -661,7 +688,7 @@ async function load(){
   // keep starred event details fresh
   S.plan.forEach(id => { const e = data.events.find(x => x.id === id); if (e) S.planCache[id] = e; });
   store.set("planCache", S.planCache);
-  renderSidebar(); render();
+  renderSidebar(); render(); renderFeeds();
 }
 
 const n = new Date();

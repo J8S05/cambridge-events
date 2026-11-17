@@ -25,6 +25,13 @@ On the website, your starred plan, interests and filters are saved in that phone
 
 GitHub can pause scheduled jobs in repositories that have had no activity for 60 days. If the updates ever stop, go to the **Actions** tab and re-enable the workflow.
 
+## Calendar subscriptions
+
+Each update also writes calendar feeds to the `calendar/` folder: `all.ics`, plus one per topic (`law.ics`, `politics.ics`, `entrepreneurship.ics` and so on). You'll find them under **Subscribe in your calendar** in the app's sidebar.
+
+- **iPhone or Mac:** tap or click a feed, then choose **Subscribe**. Apple Calendar then checks for new events by itself.
+- **Google Calendar:** click **copy** next to a feed. In Google Calendar on a computer, go to **Other calendars → + → From URL** and paste the link.
+
 ## Sources
 
 | Source | How it's read |
