@@ -1,0 +1,8 @@
+# Local settings for Claude / editors - not part of the app
+.claude/
+.vscode/
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc

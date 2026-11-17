@@ -1,0 +1,678 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Cam Events">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>Cambridge Politics & Law Events</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#1d1f23; --muted:#646a73; --faint:#9aa0a8; --line:#e4e2dc; --line2:#efede8;
+  --accent:#0b6e65; --accent-ink:#ffffff; --accent-soft:#e1f0ee; --warn:#b4471b; --warn-soft:#fbe9e1; --star:#d39b00;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 16px rgba(0,0,0,.05);
+  --t-law:#2f5fb3; --t-politics:#b83a4b; --t-international:#1f8a70; --t-policy:#a8640d;
+  --t-rights:#7b4bb5; --t-crim:#4b5563; --t-thought:#a3417f; --t-ent:#c2410c; --t-ea:#0e7490;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171a; --panel:#1d2024; --ink:#e9eaec; --muted:#a1a7b0; --faint:#6f7680; --line:#2d3137; --line2:#24282d;
+    --accent:#3fb7a8; --accent-ink:#0d1f1d; --accent-soft:#1b3330; --warn:#f08a5d; --warn-soft:#3a2219; --star:#f2c14e;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+    --t-law:#7aa5f0; --t-politics:#f07b8b; --t-international:#5cc9a7; --t-policy:#e8a64a;
+    --t-rights:#b48ef0; --t-crim:#a8b0bd; --t-thought:#e584c0; --t-ent:#fb923c; --t-ea:#67d4e8;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15171a; --panel:#1d2024; --ink:#e9eaec; --muted:#a1a7b0; --faint:#6f7680; --line:#2d3137; --line2:#24282d;
+  --accent:#3fb7a8; --accent-ink:#0d1f1d; --accent-soft:#1b3330; --warn:#f08a5d; --warn-soft:#3a2219; --star:#f2c14e;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+  --t-law:#7aa5f0; --t-politics:#f07b8b; --t-international:#5cc9a7; --t-policy:#e8a64a;
+  --t-rights:#b48ef0; --t-crim:#a8b0bd; --t-thought:#e584c0; --t-ent:#fb923c; --t-ea:#67d4e8;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 Inter,system-ui,-apple-system,sans-serif}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent)}
+.app{display:grid;grid-template-columns:280px 1fr;min-height:100vh}
+aside{border-right:1px solid var(--line);padding:20px 18px;background:var(--panel);position:sticky;top:0;height:100vh;overflow:auto}
+main{padding:20px 28px 60px;min-width:0}
+h1{font:700 21px/1.2 "Source Serif 4",Georgia,serif;margin:0 0 4px;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:12.5px}
+.sect{margin-top:22px}
+.sect h3{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 8px;font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:transparent;border-radius:999px;padding:4px 10px;font-size:12.5px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.chip .dot{width:8px;height:8px;border-radius:50%}
+.chip[aria-pressed="false"]{opacity:.45}
+.chip:hover{border-color:var(--faint)}
+.row{display:flex;gap:8px;align-items:center}
+.input{width:100%;border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:8px 10px}
+.input:focus{outline:2px solid var(--accent);outline-offset:-1px}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:7px 12px;cursor:pointer;font-weight:500;white-space:nowrap}
+.btn:hover{border-color:var(--faint)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn.small{padding:4px 9px;font-size:12.5px}
+.btn:disabled{opacity:.5;cursor:default}
+.tag{display:inline-block;font-size:11px;font-weight:600;padding:1px 7px;border-radius:999px;border:1px solid currentColor;line-height:1.5}
+.interest{display:inline-flex;align-items:center;gap:4px;background:var(--accent-soft);color:var(--ink);border-radius:999px;padding:2px 4px 2px 10px;font-size:12.5px}
+.interest button{border:0;background:transparent;cursor:pointer;color:var(--muted);padding:0 4px;font-size:14px}
+.toggle{display:flex;align-items:center;gap:8px;font-size:13px;cursor:pointer;margin-top:8px}
+.srcs{font-size:12px;color:var(--muted)}
+.srcs li{margin:2px 0}
+.srcs .bad{color:var(--warn)}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px}
+.tabs{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+.tabs button{border:0;background:transparent;padding:6px 14px;border-radius:7px;cursor:pointer;font-weight:500;color:var(--muted)}
+.tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink)}
+.spacer{flex:1}
+.datebar{display:flex;gap:6px;align-items:center}
+.datebar input{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 8px}
+.heading{font:600 18px/1.3 "Source Serif 4",Georgia,serif;margin:6px 0 14px}
+.grid2{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}
+.bucket h4{margin:0 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+.bucket .empty{color:var(--faint);font-size:13px;padding:10px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--c,var(--accent));border-radius:10px;padding:10px 12px;margin-bottom:8px;cursor:pointer;box-shadow:var(--shadow);position:relative}
+.card:hover{border-color:var(--faint);border-left-color:var(--c,var(--accent))}
+.card .time{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.card .title{font-weight:600;margin:2px 0 3px;padding-right:28px}
+.card .meta{font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:6px}
+.card.match{background:linear-gradient(0deg,var(--accent-soft),var(--accent-soft)) padding-box}
+.card .starbtn{position:absolute;top:8px;right:8px}
+.starbtn{border:0;background:transparent;cursor:pointer;font-size:18px;color:var(--faint);line-height:1;padding:2px}
+.starbtn.on{color:var(--star)}
+.clash{color:var(--warn);font-size:12px;font-weight:600}
+.now-line{display:flex;align-items:center;gap:10px;margin:0 0 16px;padding:10px 14px;border-radius:10px;background:var(--accent-soft)}
+/* timeline (day) */
+.timeline{position:relative;border-left:1px solid var(--line);margin-left:44px}
+.hour{position:relative;height:56px;border-top:1px solid var(--line2)}
+.hour span{position:absolute;left:-46px;top:-8px;font-size:11px;color:var(--faint);width:40px;text-align:right;font-variant-numeric:tabular-nums}
+.tl-ev{position:absolute;border-radius:7px;padding:4px 7px;font-size:12px;overflow:hidden;cursor:pointer;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--c);box-shadow:var(--shadow)}
+.tl-ev b{display:block;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tl-ev small{color:var(--muted)}
+.tl-ev.starred{outline:2px solid var(--star);outline-offset:-1px}
+.tl-now{position:absolute;left:0;right:0;border-top:2px solid var(--warn);z-index:3}
+.tl-now::before{content:"";position:absolute;left:-5px;top:-5px;width:8px;height:8px;border-radius:50%;background:var(--warn)}
+/* week */
+.week{display:grid;grid-template-columns:44px repeat(7,minmax(0,1fr));border:1px solid var(--line);border-radius:12px;background:var(--panel);overflow:hidden}
+.week .wh{padding:8px 6px;border-bottom:1px solid var(--line);border-left:1px solid var(--line2);font-size:12px;text-align:center;cursor:pointer}
+.week .wh b{display:block;font-size:17px;font-weight:600}
+.week .wh.today b{color:var(--accent)}
+.week .wcol{position:relative;border-left:1px solid var(--line2)}
+.week .wslot{height:44px;border-top:1px solid var(--line2)}
+.week .wlab{height:44px;font-size:10.5px;color:var(--faint);text-align:right;padding-right:5px;transform:translateY(-7px);font-variant-numeric:tabular-nums}
+.week .tl-ev{font-size:11px;padding:3px 5px}
+.allday{font-size:11px;padding:2px 6px;margin:3px;border-radius:5px;background:var(--accent-soft);cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+/* list */
+.day-group{margin-bottom:22px}
+.day-group h4{font:600 15px "Source Serif 4",Georgia,serif;margin:0 0 8px;position:sticky;top:0;background:var(--bg);padding:6px 0;z-index:1}
+/* drawer */
+.drawer-bg{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;z-index:50}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(520px,100%);background:var(--panel);z-index:51;transform:translateX(100%);transition:transform .2s ease;overflow:auto;padding:24px;box-shadow:-8px 0 30px rgba(0,0,0,.15)}
+.drawer.open{transform:none}
+.drawer-bg.open{display:block}
+.drawer h2{font:700 21px/1.25 "Source Serif 4",Georgia,serif;margin:8px 0 12px}
+.drawer dl{display:grid;grid-template-columns:90px 1fr;gap:6px 12px;font-size:13.5px;margin:0 0 16px}
+.drawer dt{color:var(--muted)}
+.drawer dd{margin:0}
+.drawer .desc{white-space:pre-wrap;font-size:13.5px;line-height:1.55;color:var(--ink);border-top:1px solid var(--line);padding-top:14px}
+.drawer .actions{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 16px}
+.x{position:absolute;top:14px;right:14px}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:9px;font-size:13px;z-index:60;display:none;max-width:90vw}
+.plan-summary{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:16px;color:var(--muted);font-size:13px}
+.plan-summary b{color:var(--ink);font-size:20px;display:block}
+.menu-btn{display:none}
+@media (max-width:900px){
+  .app{grid-template-columns:1fr}
+  aside{position:fixed;inset:0 auto 0 0;width:300px;z-index:40;transform:translateX(-100%);transition:transform .2s;box-shadow:var(--shadow)}
+  aside.open{transform:none}
+  .menu-btn{display:inline-block}
+  main{padding:16px}
+  .grid2{grid-template-columns:1fr}
+  .week{overflow-x:auto;grid-template-columns:36px repeat(7,minmax(90px,1fr))}
+  .weekwrap{overflow-x:auto}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside id="side">
+    <h1>Cambridge Politics & Law</h1>
+    <div class="sub" id="updated">Loading events…</div>
+    <div class="row" style="margin-top:12px">
+      <button class="btn small" id="refreshBtn" title="Re-scrape all sources">↻ Refresh data</button>
+      <button class="btn small" id="themeBtn" title="Toggle light/dark">◐</button>
+    </div>
+
+    <div class="sect">
+      <h3>Search</h3>
+      <input class="input" id="q" placeholder="Speaker, topic, venue…" autocomplete="off">
+    </div>
+
+    <div class="sect">
+      <h3>Topics</h3>
+      <div class="chips" id="topicChips"></div>
+    </div>
+
+    <div class="sect">
+      <h3>Sources</h3>
+      <div class="chips" id="sourceChips"></div>
+    </div>
+
+    <div class="sect">
+      <h3>My interests</h3>
+      <div class="sub" style="margin-bottom:8px">Keywords to highlight (e.g. <i>international law, China, constitutional</i>).</div>
+      <form id="intForm" class="row"><input class="input" id="intInput" placeholder="Add keyword"><button class="btn small">Add</button></form>
+      <div class="chips" id="intList" style="margin-top:8px"></div>
+      <label class="toggle"><input type="checkbox" id="onlyInt"> Only show matches</label>
+      <label class="toggle"><input type="checkbox" id="showHidden"> Show hidden events</label>
+    </div>
+
+    <div class="sect">
+      <h3>Termcards</h3>
+      <div class="sub" style="margin-bottom:8px">These societies publish termcards as images or on Instagram, so they can't be read automatically. Open one, then add its events below.</div>
+      <ul class="srcs" style="padding-left:16px;margin:0 0 10px">
+        <li><a href="https://cus.org/termcard" target="_blank" rel="noopener">Cambridge Union termcard</a></li>
+        <li><a href="https://www.culs.org.uk/about-us/termcards" target="_blank" rel="noopener">CU Law Society (CULS) termcards</a></li>
+        <li><a href="https://www.cuca.org.uk/" target="_blank" rel="noopener">CU Conservative Association</a></li>
+        <li><a href="https://www.cambridgelabourclub.org/" target="_blank" rel="noopener">CU Labour Club</a></li>
+        <li><a href="https://cula.org.uk/events/" target="_blank" rel="noopener">CU Liberal Association</a></li>
+        <li>King's Politics Society and other college politics societies (mostly Instagram)</li>
+        <li><a href="https://www.enterprise.cam.ac.uk/" target="_blank" rel="noopener">Leaps by Cambridge Enterprise</a> (no public events calendar)</li>
+      </ul>
+      <details id="addBox">
+        <summary class="btn small" style="display:inline-block;list-style:none">＋ Add termcard event</summary>
+        <form id="addForm" style="display:grid;gap:6px;margin-top:10px">
+          <input class="input" name="title" placeholder="Event title *" required>
+          <input class="input" name="organiser" placeholder="Society (e.g. Cambridge Union)" list="orgList">
+          <datalist id="orgList">
+            <option>Cambridge Union</option><option>CU Law Society (CULS)</option><option>CU Conservative Association (CUCA)</option>
+            <option>CU Labour Club (CULC)</option><option>CU Liberal Association (CULA)</option><option>King's Politics Society</option>
+            <option>Leaps by Cambridge Enterprise</option>
+          </datalist>
+          <input class="input" name="speaker" placeholder="Speaker(s)">
+          <div class="row"><input class="input" type="date" name="date" required title="Date">
+            <input class="input" type="time" name="from" title="Start time" style="max-width:110px">
+            <input class="input" type="time" name="to" title="End time" style="max-width:110px"></div>
+          <input class="input" name="venue" placeholder="Venue">
+          <input class="input" name="url" placeholder="Link (Instagram post, ticket page…)">
+          <select class="input" name="topic"><option value="">Topic: detect automatically</option></select>
+          <button class="btn primary">Save event</button>
+        </form>
+      </details>
+    </div>
+
+    <div class="sect">
+      <h3>Data sources</h3>
+      <ul class="srcs" id="srcStatus" style="padding-left:16px;margin:0"></ul>
+      <div class="sub" style="margin-top:8px">The Centre for Public Law's own site blocks automated access; its seminars come through the Faculty of Law listing.</div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <button class="btn menu-btn" id="menuBtn">☰ Filters</button>
+      <div class="tabs" role="tablist" id="tabs">
+        <button role="tab" data-view="day" aria-selected="true">Day</button>
+        <button role="tab" data-view="week" aria-selected="false">Week</button>
+        <button role="tab" data-view="list" aria-selected="false">List</button>
+        <button role="tab" data-view="plan" aria-selected="false">My plan <span id="planCount"></span></button>
+      </div>
+      <div class="spacer"></div>
+      <div class="datebar" id="datebar">
+        <button class="btn small" id="prev" aria-label="Previous">‹</button>
+        <input type="date" id="dateIn">
+        <input type="time" id="timeIn" step="900" title="Time of day">
+        <button class="btn small" id="next" aria-label="Next">›</button>
+        <button class="btn small" id="nowBtn">Now</button>
+      </div>
+    </div>
+    <div id="view"></div>
+  </main>
+</div>
+
+<div class="drawer-bg" id="drawerBg"></div>
+<div class="drawer" id="drawer" role="dialog" aria-modal="true"></div>
+<div class="toast" id="toast"></div>
+
+<script src="events.js" onerror="void 0"></script>
+<script>
+(() => {
+const TOPIC_COLORS = {
+  "Law":"--t-law","Politics":"--t-politics","International":"--t-international","Policy":"--t-policy",
+  "Rights & Justice":"--t-rights","Criminology":"--t-crim","Political Thought":"--t-thought",
+  "Entrepreneurship":"--t-ent","Effective Altruism":"--t-ea"
+};
+const SOURCE_GROUPS = ["Department","Research centre","Entrepreneurship","Societies","Manual","talks.cam","Eventbrite"];
+const SOURCE_LABELS = {"Department":"Departments","Research centre":"Research centres","Entrepreneurship":"Entrepreneurship",
+  "Societies":"Societies","Manual":"Termcards","talks.cam":"talks.cam","Eventbrite":"Eventbrite"};
+const DAY_START = 8, DAY_END = 22;
+
+// ---------- persistent state ----------
+const store = {
+  get(k, d){ try { const v = localStorage.getItem("cpl." + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v){ try { localStorage.setItem("cpl." + k, JSON.stringify(v)); } catch {} }
+};
+const S = {
+  data: {events:[], topics:Object.keys(TOPIC_COLORS), sources:{}},
+  view: store.get("view","day"),
+  date: null, time: null,
+  q: "",
+  topics: new Set(store.get("topics", Object.keys(TOPIC_COLORS))),
+  includeUntagged: store.get("untagged", true),
+  sources: new Set(store.get("sources", SOURCE_GROUPS)),
+  interests: store.get("interests", []),
+  onlyInt: store.get("onlyInt", false),
+  showHidden: false,
+  plan: new Set(store.get("plan", [])),
+  hidden: new Set(store.get("hidden", [])),
+  planCache: store.get("planCache", {}),   // keep starred event details even after they drop off the feed
+};
+// Topics/sources added in a later version start switched on, even if older filter choices are saved.
+(() => {
+  const kt = new Set(store.get("knownTopics", [])), ks = new Set(store.get("knownSources", []));
+  if (kt.size) Object.keys(TOPIC_COLORS).forEach(t => { if (!kt.has(t)) S.topics.add(t); });
+  if (ks.size) SOURCE_GROUPS.forEach(g => { if (!ks.has(g)) S.sources.add(g); });
+  if (!kt.size && store.get("topics", null)) Object.keys(TOPIC_COLORS).forEach(t => { if (!["Entrepreneurship","Effective Altruism"].includes(t)) return; S.topics.add(t); });
+  if (!ks.size && store.get("sources", null)) SOURCE_GROUPS.forEach(g => { if (["Department","talks.cam","Eventbrite"].includes(g)) return; S.sources.add(g); });
+  store.set("knownTopics", Object.keys(TOPIC_COLORS)); store.set("knownSources", SOURCE_GROUPS);
+  store.set("topics", [...S.topics]); store.set("sources", [...S.sources]);
+})();
+
+// ---------- helpers ----------
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pad = n => String(n).padStart(2,"0");
+const ymd = d => `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+const parse = s => { const [d,t="00:00"] = s.split("T"); const [y,m,da] = d.split("-").map(Number); const [h,mi] = t.split(":").map(Number); return new Date(y,m-1,da,h,mi); };
+const endOf = e => e.end ? parse(e.end) : new Date(parse(e.start).getTime() + 60*60000);
+const fmtTime = d => d.toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit"});
+const fmtDay = d => d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"});
+const fmtDayShort = d => d.toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short"});
+const addDays = (d,n) => { const x = new Date(d); x.setDate(x.getDate()+n); return x; };
+const mondayOf = d => addDays(d, -((d.getDay()+6)%7));
+const colorOf = e => `var(${TOPIC_COLORS[e.topics?.[0]] || "--accent"})`;
+const timeRange = e => e.allDay ? "All day" : `${fmtTime(parse(e.start))}${e.end ? "–" + fmtTime(parse(e.end)) : ""}`;
+const HOSTED = !/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname) && location.protocol !== "file:";
+const NO_SERVER_MSG = HOSTED
+  ? "The website can't save changes. Add termcard events by editing termcards.json on GitHub, or use the app on your Mac."
+  : "This needs the local server: run  python3 app.py";
+function toast(msg, ms=2600){ const t=$("#toast"); t.textContent=msg; t.style.display="block"; clearTimeout(t._h); t._h=setTimeout(()=>t.style.display="none", ms); }
+
+function interestHits(e){
+  if (!S.interests.length) return [];
+  const blob = `${e.title} ${e.speaker} ${e.series} ${e.organiser} ${e.description} ${e.topics.join(" ")}`.toLowerCase();
+  return S.interests.filter(k => blob.includes(k.toLowerCase()));
+}
+
+function visible(e, {ignoreHidden=false} = {}){
+  if (!ignoreHidden && !S.showHidden && S.hidden.has(e.id)) return false;
+  if (!S.sources.has(e.sourceGroup)) return false;
+  if (e.topics.length ? !e.topics.some(t => S.topics.has(t)) : !S.includeUntagged) return false;
+  if (S.q){
+    const blob = `${e.title} ${e.speaker} ${e.venue} ${e.series} ${e.organiser} ${e.description}`.toLowerCase();
+    if (!S.q.toLowerCase().split(/\s+/).every(w => blob.includes(w))) return false;
+  }
+  if (S.onlyInt && S.interests.length && !interestHits(e).length) return false;
+  return true;
+}
+const filtered = () => S.data.events.filter(e => visible(e));
+const eventsOn = (dayStr, list=filtered()) => list.filter(e => e.start.slice(0,10) <= dayStr && (e.end||e.start).slice(0,10) >= dayStr);
+const byId = id => S.data.events.find(e => e.id === id) || S.planCache[id];
+
+function clashes(e){
+  if (!S.plan.has(e.id) || e.allDay) return [];
+  const s = parse(e.start), en = endOf(e);
+  return [...S.plan].map(byId).filter(o => o && o.id !== e.id && !o.allDay && parse(o.start) < en && endOf(o) > s);
+}
+
+// ---------- rendering pieces ----------
+function tagHtml(t){ return `<span class="tag" style="color:var(${TOPIC_COLORS[t]||"--muted"})">${esc(t)}</span>`; }
+
+function card(e, {showDate=false} = {}){
+  const hits = interestHits(e), starred = S.plan.has(e.id), cl = clashes(e);
+  const when = (showDate ? fmtDayShort(parse(e.start)) + " · " : "") + timeRange(e);
+  return `<div class="card ${hits.length ? "match" : ""}" style="--c:${colorOf(e)}" data-id="${esc(e.id)}" tabindex="0">
+    <button class="starbtn ${starred ? "on" : ""}" data-star="${esc(e.id)}" title="${starred ? "Remove from plan" : "Add to my plan"}" aria-label="Add to plan">${starred ? "★" : "☆"}</button>
+    <div class="time">${esc(when)}${S.hidden.has(e.id) ? " · <i>hidden</i>" : ""}</div>
+    <div class="title">${esc(e.title)}</div>
+    <div class="meta">${esc([e.speaker, e.venue].filter(Boolean).join(" · ") || e.source)}</div>
+    <div class="meta">${esc(e.series || e.organiser || e.source)}</div>
+    <div class="tags">${e.topics.map(tagHtml).join("")}${hits.length ? `<span class="tag" style="color:var(--accent)">★ ${esc(hits.join(", "))}</span>` : ""}</div>
+    ${cl.length ? `<div class="clash">⚠ Clashes with: ${esc(cl.map(c => c.title.slice(0,50)).join("; "))}</div>` : ""}
+  </div>`;
+}
+
+// Assign side-by-side lanes to overlapping timed events.
+function layout(evs){
+  const items = evs.map(e => ({e, s:parse(e.start), en:endOf(e)})).sort((a,b) => a.s-b.s || b.en-a.en);
+  let groups = [], cur = [], curEnd = 0;
+  for (const it of items){
+    if (cur.length && it.s >= curEnd){ groups.push(cur); cur = []; curEnd = 0; }
+    cur.push(it); curEnd = Math.max(curEnd, it.en);
+  }
+  if (cur.length) groups.push(cur);
+  for (const g of groups){
+    const lanes = [];
+    for (const it of g){
+      let l = lanes.findIndex(end => end <= it.s);
+      if (l < 0){ l = lanes.length; lanes.push(0); }
+      lanes[l] = it.en; it.lane = l;
+    }
+    g.forEach(it => it.lanes = lanes.length);
+  }
+  return items;
+}
+
+function timelineEvents(evs, dayStr, pxPerHour){
+  const day0 = parse(dayStr + "T00:00");
+  return layout(evs.filter(e => !e.allDay)).map(it => {
+    const sH = Math.max(DAY_START, (it.s - day0)/36e5), eH = Math.min(DAY_END, Math.max(sH + .5, (it.en - day0)/36e5));
+    const top = (sH - DAY_START) * pxPerHour, h = Math.max(22, (eH - sH) * pxPerHour - 2);
+    const w = 100 / it.lanes;
+    return `<div class="tl-ev ${S.plan.has(it.e.id) ? "starred" : ""}" data-id="${esc(it.e.id)}" style="--c:${colorOf(it.e)};top:${top}px;height:${h}px;left:calc(${it.lane*w}% + 3px);width:calc(${w}% - 6px)" title="${esc(it.e.title)}">
+      <b>${S.plan.has(it.e.id) ? "★ " : ""}${esc(it.e.title)}</b><small>${esc(timeRange(it.e))}${it.e.venue ? " · " + esc(it.e.venue) : ""}</small></div>`;
+  }).join("");
+}
+
+// ---------- views ----------
+function renderDay(){
+  const dayStr = S.date, at = parse(`${S.date}T${S.time}`);
+  const evs = eventsOn(dayStr).sort((a,b) => a.start.localeCompare(b.start));
+  const timed = evs.filter(e => !e.allDay), allDay = evs.filter(e => e.allDay);
+  const now = timed.filter(e => parse(e.start) <= at && endOf(e) > at);
+  const soon = timed.filter(e => parse(e.start) > at && parse(e.start) - at <= 3*36e5);
+  const later = timed.filter(e => parse(e.start) - at > 3*36e5);
+  const earlier = timed.filter(e => endOf(e) <= at);
+  const pph = 56;
+  const isToday = dayStr === ymd(new Date());
+  const nowTop = ((at.getHours() + at.getMinutes()/60) - DAY_START) * pph;
+  const bucket = (title, list, emptyMsg) => `<div class="bucket"><h4>${title} (${list.length})</h4>${list.length ? list.map(e => card(e)).join("") : `<div class="empty">${emptyMsg}</div>`}</div>`;
+  $("#view").innerHTML = `
+    <div class="heading">${fmtDay(parse(dayStr))}${isToday ? " · Today" : ""}</div>
+    <div class="now-line"><b>At ${fmtTime(at)}:</b> ${now.length} happening, ${soon.length} starting in the next 3 hours, ${evs.length} events this day.</div>
+    <div class="grid2">
+      <div>
+        ${bucket("Happening at " + fmtTime(at), now, "Nothing on at this time.")}
+        ${bucket("Starting within 3 hours", soon, "Nothing starting soon.")}
+        ${bucket("Later", later, "Nothing later this day.")}
+        ${allDay.length ? bucket("All day / multi-day", allDay, "") : ""}
+        ${earlier.length ? `<details><summary class="sub" style="cursor:pointer;margin-bottom:8px">Earlier today (${earlier.length})</summary>${earlier.map(e => card(e)).join("")}</details>` : ""}
+      </div>
+      <div>
+        <div class="bucket"><h4>Timeline</h4></div>
+        <div class="timeline" style="height:${(DAY_END-DAY_START)*pph}px">
+          ${Array.from({length:DAY_END-DAY_START}, (_,i) => `<div class="hour"><span>${pad(DAY_START+i)}:00</span></div>`).join("")}
+          <div style="position:absolute;inset:0">${timelineEvents(timed, dayStr, pph)}
+          ${nowTop >= 0 && nowTop <= (DAY_END-DAY_START)*pph ? `<div class="tl-now" style="top:${nowTop}px"></div>` : ""}</div>
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderWeek(){
+  const mon = mondayOf(parse(S.date + "T00:00")), list = filtered(), pph = 44, today = ymd(new Date());
+  const days = Array.from({length:7}, (_,i) => addDays(mon,i));
+  let head = `<div></div>` + days.map(d => `<div class="wh ${ymd(d) === today ? "today" : ""}" data-day="${ymd(d)}">${d.toLocaleDateString("en-GB",{weekday:"short"})}<b>${d.getDate()}</b><span class="sub">${eventsOn(ymd(d), list).length} events</span></div>`).join("");
+  let allday = `<div></div>` + days.map(d => `<div style="border-left:1px solid var(--line2);min-height:6px">${eventsOn(ymd(d), list).filter(e => e.allDay).map(e => `<div class="allday" data-id="${esc(e.id)}">${esc(e.title)}</div>`).join("")}</div>`).join("");
+  let labels = `<div>${Array.from({length:DAY_END-DAY_START}, (_,i) => `<div class="wlab">${pad(DAY_START+i)}:00</div>`).join("")}</div>`;
+  let cols = days.map(d => {
+    const ds = ymd(d);
+    return `<div class="wcol">${Array.from({length:DAY_END-DAY_START}, () => `<div class="wslot"></div>`).join("")}
+      <div style="position:absolute;inset:0">${timelineEvents(eventsOn(ds, list).filter(e => !e.allDay), ds, pph)}</div></div>`;
+  }).join("");
+  $("#view").innerHTML = `<div class="heading">Week of ${fmtDayShort(mon)} – ${fmtDayShort(addDays(mon,6))}</div>
+    <div class="weekwrap"><div class="week">${head}${allday}${labels}${cols}</div></div>
+    <div class="sub" style="margin-top:8px">Click a day header to open it in Day view. Starred events are outlined in gold.</div>`;
+}
+
+function renderList(){
+  const from = S.date, list = filtered().filter(e => (e.end || e.start).slice(0,10) >= from);
+  const groups = {};
+  list.forEach(e => (groups[e.start.slice(0,10)] ||= []).push(e));
+  const keys = Object.keys(groups).sort();
+  $("#view").innerHTML = `<div class="heading">${list.length} upcoming events from ${fmtDayShort(parse(from))}</div>` +
+    (keys.length ? keys.map(k => `<div class="day-group"><h4>${fmtDay(parse(k))}</h4>${groups[k].map(e => card(e)).join("")}</div>`).join("")
+                 : `<div class="empty sub">No events match your filters.</div>`);
+}
+
+function renderPlan(){
+  const items = [...S.plan].map(byId).filter(Boolean).sort((a,b) => a.start.localeCompare(b.start));
+  const upcoming = items.filter(e => (e.end||e.start).slice(0,10) >= ymd(new Date()));
+  const past = items.filter(e => !upcoming.includes(e));
+  const nClash = upcoming.filter(e => clashes(e).length).length;
+  const groups = {};
+  upcoming.forEach(e => (groups[e.start.slice(0,10)] ||= []).push(e));
+  $("#view").innerHTML = `
+    <div class="heading">My plan</div>
+    <div class="plan-summary">
+      <div><b>${upcoming.length}</b>upcoming events</div>
+      <div><b>${new Set(upcoming.map(e => e.start.slice(0,10))).size}</b>days</div>
+      <div><b style="color:${nClash ? "var(--warn)" : "inherit"}">${nClash}</b>with clashes</div>
+      <div class="spacer"></div>
+      <div class="row"><button class="btn primary" id="exportAll" ${upcoming.length ? "" : "disabled"}>⤓ Export to calendar (.ics)</button>
+      <button class="btn" id="clearPast" ${past.length ? "" : "disabled"}>Clear past</button></div>
+    </div>
+    ${upcoming.length ? Object.keys(groups).sort().map(k => `<div class="day-group"><h4>${fmtDay(parse(k))}</h4>${groups[k].map(e => card(e)).join("")}</div>`).join("")
+      : `<div class="sub">Star events (☆) in any view to build your plan. Clashes are flagged, and you can export everything to Apple/Google/Outlook calendar.</div>`}
+    ${past.length ? `<details style="margin-top:20px"><summary class="sub" style="cursor:pointer">Past (${past.length})</summary>${past.map(e => card(e,{showDate:true})).join("")}</details>` : ""}`;
+  $("#exportAll")?.addEventListener("click", () => downloadIcs(upcoming, "my-cambridge-events.ics"));
+  $("#clearPast")?.addEventListener("click", () => { past.forEach(e => S.plan.delete(e.id)); savePlan(); render(); });
+}
+
+function render(){
+  document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.view === S.view));
+  $("#timeIn").style.display = S.view === "day" ? "" : "none";
+  $("#datebar").style.display = S.view === "plan" ? "none" : "";
+  $("#dateIn").value = S.date; $("#timeIn").value = S.time;
+  $("#planCount").textContent = S.plan.size ? `(${S.plan.size})` : "";
+  ({day:renderDay, week:renderWeek, list:renderList, plan:renderPlan})[S.view]();
+}
+
+// ---------- drawer ----------
+function openDrawer(id){
+  const e = byId(id); if (!e) return;
+  const starred = S.plan.has(e.id), cl = clashes(e), hits = interestHits(e);
+  const links = [{source:e.source, url:e.url}, ...(e.alsoListed || [])].filter(l => l.url);
+  $("#drawer").innerHTML = `
+    <button class="btn small x" id="closeDr" aria-label="Close">✕</button>
+    <div class="tags" style="display:flex;gap:4px;flex-wrap:wrap">${e.topics.map(tagHtml).join("")}</div>
+    <h2>${esc(e.title)}</h2>
+    <dl>
+      <dt>When</dt><dd>${esc(fmtDay(parse(e.start)))}<br>${esc(timeRange(e))}</dd>
+      ${e.venue ? `<dt>Where</dt><dd>${esc(e.venue)} <a href="https://www.google.com/maps/search/${encodeURIComponent(e.venue + ", Cambridge")}" target="_blank" rel="noopener">map ↗</a></dd>` : ""}
+      ${e.speaker ? `<dt>Speaker</dt><dd>${esc(e.speaker)}</dd>` : ""}
+      ${e.series ? `<dt>Series</dt><dd>${esc(e.series)}</dd>` : ""}
+      ${e.organiser ? `<dt>Organiser</dt><dd>${esc(e.organiser)}</dd>` : ""}
+      <dt>Listed on</dt><dd>${links.length ? "" : esc(e.source)}${links.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.source)} ↗</a>`).join("<br>")}</dd>
+      ${hits.length ? `<dt>Matches</dt><dd>${esc(hits.join(", "))}</dd>` : ""}
+    </dl>
+    ${cl.length ? `<div class="now-line" style="background:var(--warn-soft)"><span class="clash">⚠ Clashes with ${esc(cl.map(c => `${c.title} (${timeRange(c)})`).join("; "))}</span></div>` : ""}
+    <div class="actions">
+      <button class="btn ${starred ? "" : "primary"}" id="drStar">${starred ? "★ In my plan – remove" : "☆ Add to my plan"}</button>
+      ${e.booking ? `<a class="btn" href="${esc(e.booking)}" target="_blank" rel="noopener">Book / register ↗</a>` : ""}
+      <a class="btn" href="${esc(gcalLink(e))}" target="_blank" rel="noopener">Google Calendar ↗</a>
+      <button class="btn" id="drIcs">⤓ .ics</button>
+      <button class="btn" id="drHide">${S.hidden.has(e.id) ? "Unhide" : "Not interested (hide)"}</button>
+      ${e.manual ? `<button class="btn" id="drDel" style="color:var(--warn)">Delete this termcard entry</button>` : ""}
+    </div>
+    ${e.description ? `<div class="desc">${esc(e.description)}${e.description.length >= 1490 ? "…" : ""}</div>` : `<div class="sub">No description – see the original listing.</div>`}`;
+  $("#drawer").classList.add("open"); $("#drawerBg").classList.add("open");
+  $("#closeDr").onclick = closeDrawer;
+  $("#drStar").onclick = () => { toggleStar(e.id); openDrawer(e.id); };
+  $("#drIcs").onclick = () => downloadIcs([e], e.title.slice(0,40).replace(/\W+/g,"-") + ".ics");
+  $("#drHide").onclick = () => { S.hidden.has(e.id) ? S.hidden.delete(e.id) : S.hidden.add(e.id); store.set("hidden",[...S.hidden]); closeDrawer(); render(); toast(S.hidden.has(e.id) ? "Hidden. Tick ‘Show hidden events’ to see it again." : "Unhidden."); };
+  $("#drDel")?.addEventListener("click", async () => {
+    if (!confirm(`Delete “${e.title}” from your termcard entries?`)) return;
+    try {
+      const r = await fetch("api/manual?id=" + encodeURIComponent(e.id), {method:"DELETE"});
+      if (!r.ok) throw 0;
+      closeDrawer(); await load(); toast("Entry deleted");
+    } catch { toast(NO_SERVER_MSG, 6000); }
+  });
+  $("#closeDr").focus();
+}
+function closeDrawer(){ $("#drawer").classList.remove("open"); $("#drawerBg").classList.remove("open"); }
+
+function savePlan(){
+  store.set("plan", [...S.plan]);
+  const cache = {}; S.plan.forEach(id => { const e = byId(id); if (e) cache[id] = e; });
+  S.planCache = cache; store.set("planCache", cache);
+}
+function toggleStar(id){
+  const e = byId(id);
+  if (S.plan.has(id)) { S.plan.delete(id); toast("Removed from your plan"); }
+  else { S.plan.add(id); const c = clashes(e); toast(c.length ? `Added – ⚠ clashes with “${c[0].title.slice(0,50)}”` : "Added to your plan", c.length ? 4000 : 2000); }
+  savePlan(); render();
+}
+
+// ---------- calendar export ----------
+const icsDate = s => s.replace(/[-:]/g,"").slice(0,13) + "00";
+const icsEsc = s => String(s||"").replace(/\\/g,"\\\\").replace(/\n/g,"\\n").replace(/[,;]/g, m => "\\" + m);
+function gcalLink(e){
+  const s = icsDate(e.start), en = icsDate(e.end || ymd(endOf(e)) + "T" + fmtTime(endOf(e)));
+  const p = new URLSearchParams({action:"TEMPLATE", text:e.title, dates:`${s}/${en}`, ctz:"Europe/London",
+    details:`${e.url}\n\n${(e.description||"").slice(0,600)}`, location:e.venue||""});
+  return "https://calendar.google.com/calendar/render?" + p;
+}
+function downloadIcs(evs, name){
+  const fold = l => l.match(/.{1,73}/g).join("\r\n ");
+  const lines = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cambridge Politics & Law Events//EN","CALSCALE:GREGORIAN"];
+  for (const e of evs){
+    const end = e.end || (ymd(endOf(e)) + "T" + fmtTime(endOf(e)));
+    lines.push("BEGIN:VEVENT", `UID:${e.id}@cam-pol-law`, `DTSTAMP:${new Date().toISOString().replace(/[-:]/g,"").slice(0,15)}Z`,
+      e.allDay ? `DTSTART;VALUE=DATE:${e.start.slice(0,10).replace(/-/g,"")}` : `DTSTART;TZID=Europe/London:${icsDate(e.start)}`,
+      e.allDay ? `DTEND;VALUE=DATE:${ymd(addDays(parse(end),1)).replace(/-/g,"")}` : `DTEND;TZID=Europe/London:${icsDate(end)}`,
+      fold(`SUMMARY:${icsEsc(e.title)}`), fold(`LOCATION:${icsEsc(e.venue)}`), fold(`URL:${e.url}`),
+      fold(`DESCRIPTION:${icsEsc([e.speaker && "Speaker: " + e.speaker, e.series, e.url, (e.description||"").slice(0,800)].filter(Boolean).join("\n\n"))}`),
+      "END:VEVENT");
+  }
+  lines.push("END:VCALENDAR");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([lines.join("\r\n")], {type:"text/calendar"}));
+  a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+}
+
+// ---------- sidebar ----------
+function renderSidebar(){
+  const topics = S.data.topics?.length ? S.data.topics : Object.keys(TOPIC_COLORS);
+  const counts = {}; S.data.events.forEach(e => e.topics.forEach(t => counts[t] = (counts[t]||0) + 1));
+  $("#topicChips").innerHTML = topics.map(t => `<button class="chip" data-topic="${esc(t)}" aria-pressed="${S.topics.has(t)}"><span class="dot" style="background:var(${TOPIC_COLORS[t]||"--muted"})"></span>${esc(t)} <span class="sub">${counts[t]||0}</span></button>`).join("")
+    + `<button class="chip" data-topic="__untagged" aria-pressed="${S.includeUntagged}">Untagged</button>`;
+  const sc = {}; S.data.events.forEach(e => sc[e.sourceGroup] = (sc[e.sourceGroup]||0) + 1);
+  $("#sourceChips").innerHTML = SOURCE_GROUPS.map(g => `<button class="chip" data-src="${g}" aria-pressed="${S.sources.has(g)}">${SOURCE_LABELS[g] || g} <span class="sub">${sc[g]||0}</span></button>`).join("");
+  $("#intList").innerHTML = S.interests.map((k,i) => `<span class="interest">${esc(k)}<button data-rmint="${i}" aria-label="Remove ${esc(k)}">×</button></span>`).join("");
+  $("#onlyInt").checked = S.onlyInt;
+  $("#srcStatus").innerHTML = Object.entries(S.data.sources || {}).map(([k,v]) => `<li class="${v.ok ? "" : "bad"}">${esc(k)}: ${v.ok ? v.count + " events" : "failed"}</li>`).join("");
+  $("#updated").textContent = S.data.generated ? `${S.data.events.length} events · updated ${parse(S.data.generated).toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}` : "No data yet";
+}
+
+// ---------- events / wiring ----------
+document.addEventListener("click", ev => {
+  const star = ev.target.closest("[data-star]");
+  if (star){ ev.stopPropagation(); toggleStar(star.dataset.star); return; }
+  const item = ev.target.closest("[data-id]");
+  if (item){ openDrawer(item.dataset.id); return; }
+  const wh = ev.target.closest("[data-day]");
+  if (wh){ S.date = wh.dataset.day; setView("day"); return; }
+  const tp = ev.target.closest("[data-topic]");
+  if (tp){
+    const t = tp.dataset.topic;
+    if (t === "__untagged") { S.includeUntagged = !S.includeUntagged; store.set("untagged", S.includeUntagged); }
+    else if (ev.altKey || ev.metaKey) { S.topics = new Set([t]); }   // alt/cmd-click = solo
+    else S.topics.has(t) ? S.topics.delete(t) : S.topics.add(t);
+    store.set("topics", [...S.topics]); renderSidebar(); render(); return;
+  }
+  const src = ev.target.closest("[data-src]");
+  if (src){ const g = src.dataset.src; S.sources.has(g) ? S.sources.delete(g) : S.sources.add(g); store.set("sources",[...S.sources]); renderSidebar(); render(); return; }
+  const rm = ev.target.closest("[data-rmint]");
+  if (rm){ S.interests.splice(+rm.dataset.rmint, 1); store.set("interests", S.interests); renderSidebar(); render(); }
+});
+document.addEventListener("keydown", ev => {
+  if (ev.key === "Escape") closeDrawer();
+  if (ev.key === "Enter" && ev.target.matches?.(".card")) openDrawer(ev.target.dataset.id);
+});
+$("#drawerBg").onclick = closeDrawer;
+$("#intForm").onsubmit = ev => { ev.preventDefault(); const v = $("#intInput").value.trim(); if (v && !S.interests.includes(v)) { S.interests.push(v); store.set("interests", S.interests); } $("#intInput").value = ""; renderSidebar(); render(); };
+$("#onlyInt").onchange = ev => { S.onlyInt = ev.target.checked; store.set("onlyInt", S.onlyInt); render(); };
+$("#showHidden").onchange = ev => { S.showHidden = ev.target.checked; render(); };
+let qT; $("#q").oninput = ev => { clearTimeout(qT); qT = setTimeout(() => { S.q = ev.target.value.trim(); render(); }, 150); };
+function setView(v){ S.view = v; store.set("view", v); render(); }
+document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => setView(b.dataset.view));
+$("#dateIn").onchange = ev => { if (ev.target.value) { S.date = ev.target.value; render(); } };
+$("#timeIn").onchange = ev => { if (ev.target.value) { S.time = ev.target.value; render(); } };
+const step = () => S.view === "week" ? 7 : 1;
+$("#prev").onclick = () => { S.date = ymd(addDays(parse(S.date), -step())); render(); };
+$("#next").onclick = () => { S.date = ymd(addDays(parse(S.date), step())); render(); };
+$("#nowBtn").onclick = () => { const n = new Date(); S.date = ymd(n); S.time = `${pad(n.getHours())}:${pad(n.getMinutes())}`; render(); };
+$("#menuBtn").onclick = () => $("#side").classList.toggle("open");
+$("#themeBtn").onclick = () => {
+  const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  document.documentElement.dataset.theme = cur === "dark" ? "light" : "dark"; store.set("theme", document.documentElement.dataset.theme);
+};
+if (store.get("theme")) document.documentElement.dataset.theme = store.get("theme");
+
+$("#refreshBtn").onclick = async () => {
+  const btn = $("#refreshBtn");
+  try {
+    const r = await fetch("api/refresh", {method:"POST"});
+    if (!r.ok) throw 0;
+  } catch { toast(HOSTED ? "The website updates itself every 6 hours." : "Refresh needs the local server: run  python3 app.py", 5000); return; }
+  btn.disabled = true; btn.textContent = "↻ Fetching…";
+  const poll = async () => {
+    const st = await fetch("api/status").then(r => r.json()).catch(() => ({running:false}));
+    if (st.log?.length) $("#updated").textContent = st.log[st.log.length-1];
+    if (st.running) return setTimeout(poll, 1500);
+    btn.disabled = false; btn.textContent = "↻ Refresh data";
+    await load(); toast("Events updated");
+  };
+  setTimeout(poll, 1200);
+};
+
+$("#addForm").topic.innerHTML += Object.keys(TOPIC_COLORS).map(t => `<option>${esc(t)}</option>`).join("");
+$("#addForm").onsubmit = async ev => {
+  ev.preventDefault();
+  const f = ev.target, d = f.date.value;
+  const body = {
+    title: f.title.value, organiser: f.organiser.value, speaker: f.speaker.value, venue: f.venue.value, url: f.url.value,
+    start: f.from.value ? `${d}T${f.from.value}` : d, end: f.to.value ? `${d}T${f.to.value}` : "",
+    topics: f.topic.value ? [f.topic.value] : undefined,
+  };
+  try {
+    const r = await fetch("api/manual", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body)});
+    if (!r.ok) throw 0;
+    const keepOrg = f.organiser.value; f.reset(); f.organiser.value = keepOrg; f.date.value = d;
+    S.sources.add("Manual"); store.set("sources", [...S.sources]);
+    await load(); toast("Saved – it now appears in the calendar");
+  } catch { toast(NO_SERVER_MSG, 6000); }
+};
+
+async function load(){
+  let data = null;
+  try { const r = await fetch("events.json", {cache:"no-store"}); if (r.ok) data = await r.json(); } catch {}
+  if (!data && window.EVENT_DATA) data = window.EVENT_DATA;
+  if (!data){ $("#view").innerHTML = `<div class="sub">No event data yet. Run <code>python3 app.py</code> (or <code>python3 scraper.py</code>) in this folder.</div>`; return; }
+  S.data = data;
+  // keep starred event details fresh
+  S.plan.forEach(id => { const e = data.events.find(x => x.id === id); if (e) S.planCache[id] = e; });
+  store.set("planCache", S.planCache);
+  renderSidebar(); render();
+}
+
+const n = new Date();
+S.date = ymd(n); S.time = `${pad(n.getHours())}:${pad(n.getMinutes())}`;
+load();
+// While the app is open, roll the "now" time forward every minute if the user is viewing the present.
+setInterval(() => {
+  const m = new Date(), cur = `${pad(m.getHours())}:${pad(m.getMinutes())}`;
+  if (S.view === "day" && S.date === ymd(m) && Math.abs(parse(`${S.date}T${S.time}`) - m) < 3*60000) { S.time = cur; render(); }
+}, 60000);
+})();
+</script>
+</body>
+</html>
