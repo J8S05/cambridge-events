@@ -2,7 +2,7 @@
  {
   "file": "calendar/all.ics",
   "name": "Cambridge Events (all)",
-  "count": 96
+  "count": 97
  },
  {
   "file": "calendar/law.ics",
@@ -12,12 +12,12 @@
  {
   "file": "calendar/politics.ics",
   "name": "Cambridge Events: Politics",
-  "count": 23
+  "count": 22
  },
  {
   "file": "calendar/international.ics",
   "name": "Cambridge Events: International",
-  "count": 28
+  "count": 29
  },
  {
   "file": "calendar/policy.ics",
@@ -27,12 +27,12 @@
  {
   "file": "calendar/rights-justice.ics",
   "name": "Cambridge Events: Rights & Justice",
-  "count": 11
+  "count": 10
  },
  {
   "file": "calendar/criminology.ics",
   "name": "Cambridge Events: Criminology",
-  "count": 9
+  "count": 8
  },
  {
   "file": "calendar/political-thought.ics",
@@ -42,7 +42,7 @@
  {
   "file": "calendar/entrepreneurship.ics",
   "name": "Cambridge Events: Entrepreneurship",
-  "count": 14
+  "count": 15
  },
  {
   "file": "calendar/effective-altruism.ics",
