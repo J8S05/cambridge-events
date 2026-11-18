@@ -25,36 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-cambridge-comparative-constitutional-law-
- discussio@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261118T130000
-DTEND;TZID=Europe/London:20261118T140000
-SUMMARY:Cambridge Comparative Constitutional Law Discussion Group (CCCLDG) 
- Work-in-Progress Session: 'Contested Pathways to Citizenship: A Comparison
-  of Taiwan’s Investor Residence Scheme and UK BNO Visa Scheme for Hong K
- ongers'
-LOCATION:Online webinar
-URL:https://www.law.cam.ac.uk/events/cambridge-comparative-constitutional-l
- aw-discussion-group-cccldg-work-progress-session-0
-CATEGORIES:Law,Politics,International,Entrepreneurship
-DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Entrep
- reneurship\nDetails: https://www.law.cam.ac.uk/events/cambridge-comparativ
- e-constitutional-law-discussion-group-cccldg-work-progress-session-0\nDate
- /time: \n\n Wednesday 18 November 2026 \n\n 1:00pm to 2:00pm\n\n Location:
-  \n\n Online webinar\n\n Sign up\n\n About \n\n Speaker: Yi-Chen Huang (Ac
- ademia Sinica)\n The Cambridge Comparative Constitutional Law Discussion G
- roup (CCCLDG)\, co-convened by Zheng Hong See and Even Y. Chao.\n CCCLDG i
- s a forum that brings together graduate students interested in comparative
-  constitutional law and public law in general to discuss recent works and 
- developments in comparative constitutional law.\n Please join the mailing 
- list to receive updates and details of CCCLDG events.\n Convenors of CCCLD
- G 2026-27: Zheng Hong See ( zhs23@cam.ac.uk ) and Even Y. Chao ( yyc41@cam
- .ac.uk ).
-END:VEVENT
-BEGIN:VEVENT
 UID:talks-273685@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T140000
 DTEND;TZID=Europe/London:20261119T150000
 SUMMARY:Building a generational company (Entrepreneurs First)
@@ -66,7 +38,7 @@ DESCRIPTION:Data Intensive Science Seminar Series\nTopics: Entrepreneurship
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afa293178a4204d5c078138@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:Science\, Brand and Business: A Conversation with Jessie Inchauspé
@@ -77,14 +49,16 @@ URL:https://www.kingselab.org/all-events/jessie-inchauspe
 CATEGORIES:International,Entrepreneurship
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Internation
  al\, Entrepreneurship\nDetails: https://www.kingselab.org/all-events/jessi
- e-inchauspe\nJoin bestselling author\, biochemist and entrepreneur Jessie 
- Inchauspé\, known as the Glucose Goddess\, for a conversation on turning 
- scientific expertise into a global brand and successful commercial venture
- s. Expect a candid conversation\, with plenty of time for your questions.
+ e-inchauspe\nSign-up needed: https://www.eventbrite.co.uk/e/2004868217809?
+ aff=oddtdtcreator\nJoin bestselling author\, biochemist and entrepreneur J
+ essie Inchauspé\, known as the Glucose Goddess\, for a conversation on tu
+ rning scientific expertise into a global brand and successful commercial v
+ entures. Expect a candid conversation\, with plenty of time for your quest
+ ions.
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
@@ -94,39 +68,32 @@ URL:https://www.kingselab.org/all-events/soumaya-keynes
 CATEGORIES:Entrepreneurship,Politics,International,Policy
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  rship\, Politics\, International\, Policy\nDetails: https://www.kingselab.
- org/all-events/soumaya-keynes\nJoin economist and journalist Soumaya Keyne
- s for a conversation on the forces shaping the global economy. Drawing on 
- her work analysing economic policy\, public affairs\, and international tr
- ends\, Keynes will explore the challenges facing governments\, businesses\
- , and societies in an era of rapid change.
+ org/all-events/soumaya-keynes\nSign-up needed: https://www.eventbrite.co.u
+ k/e/economics-policy-and-the-world-ahead-a-conversation-with-soumaya-keyne
+ s-tickets-1993921385539\nJoin economist and journalist Soumaya Keynes for 
+ a conversation on the forces shaping the global economy. Drawing on her wo
+ rk analysing economic policy\, public affairs\, and international trends\,
+  Keynes will explore the challenges facing governments\, businesses\, and 
+ societies in an era of rapid change.
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afd91cb96afb60473ba56d9@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T193000
 SUMMARY:Pitch@King's
 URL:https://www.kingselab.org/all-events/pitchkings
 CATEGORIES:Entrepreneurship
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\nDetails: https://www.kingselab.org/all-events/pitchkings\nWhat? \nP
- itch@King’s gives you the chance to practise your pitching skills with s
- upport from across the E-Lab\, and to compete for a share of a £9\,000 pr
- ize pot .\n Across Michaelmas and Lent terms\, participants will pitch the
- ir ventures to a live audience in knockout rounds\, with the strongest tea
- ms going on to a final in Easter term. It’s a chance to refine your pitc
- h\, build confidence\, and gain exposure within the entrepreneurial ecosys
- tem at King’s.\n\n Each session offers constructive feedback from our E-
- Lab community\, including Visiting Entrepreneurs\, mentors and Research As
- sociates\, who bring industry insight and practical expertise. It’s a su
- pportive but challenging environment\, designed to mirror real venture dev
- elopment and investment scenarios\, and ideal if you want to test an idea\
- , attract collaborators or sharpen your presentation skills.\n\n For who? 
- \nWe welcome entrepreneurs from
+ rship\nDetails: https://www.kingselab.org/all-events/pitchkings\nPitch@Kin
+ g’s gives participating teams the chance to practise their pitching skil
+ ls with support from across the E-Lab\, and to compete for a share of a £
+ 9\,000 prize pot . The first round will take place on Wednesday the 25th o
+ f November.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T160000
 DTEND;TZID=Europe/London:20261126T173000
 SUMMARY:Pitch @ Judge #5 – Autumn 2026
@@ -140,7 +107,7 @@ DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb054f81a2b23ad553feef@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T210000
 SUMMARY:Laidlaw Scholars 2025 Cohort Graduation
@@ -155,7 +122,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -164,15 +131,17 @@ URL:https://www.kingselab.org/all-events/marcus-olsson
 CATEGORIES:Entrepreneurship,International
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  rship\, International\nDetails: https://www.kingselab.org/all-events/marcu
- s-olsson\nJoin us for a screening of a new Netflix original film\, The Swe
- dish Connection \, a historical drama about a Swedish bureaucrat who attem
- pts to save Jewish refugees during the Second World War. The screening wil
- l be followed by a Q&A with Marcus Olsson\, who wrote and directed the fil
- m with Thérèse Ahlbec. There will also be a drinks reception.
+ s-olsson\nSign-up needed: https://www.eventbrite.com/e/the-swedish-connect
+ ion-film-screening-and-qa-with-marcus-olsson-tickets-2004897897582?aff=odd
+ tdtcreator\nJoin us for a screening of a new Netflix original film\, The S
+ wedish Connection \, a historical drama about a Swedish bureaucrat who att
+ empts to save Jewish refugees during the Second World War. The screening w
+ ill be followed by a Q&A with Marcus Olsson\, who wrote and directed the f
+ ilm with Thérèse Ahlbec. There will also be a drinks reception.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -183,16 +152,18 @@ URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
 CATEGORIES:Law,International,Policy,Entrepreneurship
 DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
  Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nDrawing on her experience as an e
- ntrepreneur\, legislator and board member\, Martha Lane Fox will explore w
- hat AI could mean for the next 50 years\, including its effects on work\, 
- business\, entrepreneurial opportunity\, existing institutions\, culture\,
-  security and defence. Chaired by Prof Diane Coyle\, Bennett Professor of 
- Public Policy\, University of Cambridge.
+ ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
+ brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
+ -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
+ islator and board member\, Martha Lane Fox will explore what AI could mean
+  for the next 50 years\, including its effects on work\, business\, entrep
+ reneurial opportunity\, existing institutions\, culture\, security and def
+ ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
+ niversity of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6aa94fc5fe463936242563f7@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261129T090000
 DTEND;TZID=Europe/London:20261129T170000
 SUMMARY:Laidlaw Programme Leadership and Research Day
@@ -205,7 +176,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:ce-commercialisation-101-online-essentials@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261130T093000
 DTEND;TZID=Europe/London:20261130T103000
 SUMMARY:Commercialisation 101: Online Essentials
@@ -214,10 +185,11 @@ URL:https://www.enterprise.cam.ac.uk/events/commercialisation-101-online-es
 CATEGORIES:Entrepreneurship
 DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
  //www.enterprise.cam.ac.uk/events/commercialisation-101-online-essentials/
+ \nSign-up needed
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-retail-capital-in-venture-capital@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261201T111500
 DTEND;TZID=Europe/London:20261201T123000
 SUMMARY:Retail capital as a stepping stone in venture capital: theory and e
@@ -227,12 +199,12 @@ URL:https://www.jbs.cam.ac.uk/events/retail-capital-in-venture-capital/
 CATEGORIES:Entrepreneurship
 DESCRIPTION:Finance Seminar Series On-campus events Research seminars\nTopi
  cs: Entrepreneurship\nDetails: https://www.jbs.cam.ac.uk/events/retail-cap
- ital-in-venture-capital/\nJoin our Finance seminar with Ran Xing\, Assista
- nt Professor of Finance at City University of New York.
+ ital-in-venture-capital/\nNo sign-up needed\nJoin our Finance seminar with
+  Ran Xing\, Assistant Professor of Finance at City University of New York.
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6ac8d6d2677c0f2331acd7cb@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261203T173000
 DTEND;TZID=Europe/London:20261203T183000
 SUMMARY:Rebuild Identity First: Failing Well with Rachel Higham
@@ -240,13 +212,14 @@ LOCATION:King's College\, King's Parade
 URL:https://www.kingselab.org/all-events/rachel-higham
 CATEGORIES:Entrepreneurship
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\nDetails: https://www.kingselab.org/all-events/rachel-higham\nFormer
-  FTSE 100 CTO Rachel Higham joins us for a fireside chat on failure\, resi
- lience and what you need in place before a crisis hits.
+ rship\nDetails: https://www.kingselab.org/all-events/rachel-higham\nSign-u
+ p needed: https://www.eventbrite.co.uk/e/2003209136452?aff=oddtdtcreator\n
+ Former FTSE 100 CTO Rachel Higham joins us for a fireside chat on failure\
+ , resilience and what you need in place before a crisis hits.
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb0228b1f9cf292ded16a4@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261205T123000
 DTEND;TZID=Europe/London:20261205T143000
 SUMMARY:Essay Competition Prizegiving Ceremony
@@ -260,7 +233,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-frontier-tech-female-founders-day@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270308T084500
 DTEND;TZID=Europe/London:20270308T173000
 SUMMARY:Frontier Tech Female Founders Day
@@ -269,9 +242,10 @@ URL:https://www.jbs.cam.ac.uk/events/frontier-tech-female-founders-day/
 CATEGORIES:Entrepreneurship
 DESCRIPTION:Accelerate Cambridge Entrepreneurship events\nTopics: Entrepren
  eurship\nDetails: https://www.jbs.cam.ac.uk/events/frontier-tech-female-fo
- unders-day/\nJoin us for a day dedicated to women building frontier techn
- ology ventures across AI and machine learning\, quantum\, synthetic biolo
- gy\, climate and energy tech\, advanced hardware and robotics\, web3\, and
-  more.
+ unders-day/\nSign-up needed: https://cambridge.eu.qualtrics.com/jfe/form/S
+ V_3sgOLfk7yq0qKcm\nJoin us for a day dedicated to women building frontier
+  technology ventures across AI and machine learning\, quantum\, synthetic
+  biology\, climate and energy tech\, advanced hardware and robotics\, web3
+ \, and more.
 END:VEVENT
 END:VCALENDAR

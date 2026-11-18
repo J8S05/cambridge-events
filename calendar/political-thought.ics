@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-phi
  losophy-e@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261201T170000
 DTEND;TZID=Europe/London:20261201T180000
 SUMMARY:Talking Animals\, Law and Philosophy event: 'Whale Legal Personhood
@@ -64,13 +64,13 @@ URL:https://www.law.cam.ac.uk/press/events/2026/12/talking-animals-law-and-
 CATEGORIES:Law,Political Thought
 DESCRIPTION:Faculty of Law\nTopics: Law\, Political Thought\nDetails: https
  ://www.law.cam.ac.uk/press/events/2026/12/talking-animals-law-and-philosop
- hy-event-whale-legal-personhood-insights-posthuman-theory-and\nDate/time: 
- \n\n Tuesday 1 December 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Onli
- ne webinar\n\n About \n\n Please join us for our next event in the Talking
-  Animals\, Law & Philosophy series.\n Speaker: Emily Jones (Newcastle Law 
- School)\n All events take place on Zoom from 5-6.30pm (UK time). They are 
- free and open to all. For more information about the Talking Animals serie
- s and to register for the events\, visit the Cambridge Centre for Animal R
- ights Law website .
+ hy-event-whale-legal-personhood-insights-posthuman-theory-and\nSign-up nee
+ ded\nDate/time: \n\n Tuesday 1 December 2026 \n\n 5:00pm to 6:00pm\n\n Loc
+ ation: \n\n Online webinar\n\n About \n\n Please join us for our next even
+ t in the Talking Animals\, Law & Philosophy series.\n Speaker: Emily Jones
+  (Newcastle Law School)\n All events take place on Zoom from 5-6.30pm (UK 
+ time). They are free and open to all. For more information about the Talki
+ ng Animals series and to register for the events\, visit the Cambridge Cen
+ tre for Animal Rights Law website .
 END:VEVENT
 END:VCALENDAR
