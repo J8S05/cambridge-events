@@ -431,6 +431,10 @@ def _ld_json(h):
             continue
 
 
+EB_DIAG = []          # why Eventbrite returned nothing (saved in events.json under "sources")
+EB_FILE = HERE / "eventbrite.json"   # Eventbrite events uploaded from the Mac by eventbrite_sync.py
+
+
 def scrape_eventbrite(log):
     urls = {}
     for page_url in EVENTBRITE_PAGES:
@@ -438,8 +442,11 @@ def scrape_eventbrite(log):
             try:
                 h = fetch(page_url + (f"?page={pg}" if pg > 1 else ""))
             except Exception as e:
+                EB_DIAG.append(f"HTTP {e.code}" if hasattr(e, "code") else f"{type(e).__name__}: {str(e)[:60]}")
                 log(f"Eventbrite {page_url} p{pg}: {e}")
                 break
+            if "ItemList" not in h:
+                EB_DIAG.append(f"page without event list ({len(h)} bytes)")
             for d in _ld_json(h):
                 if isinstance(d, dict) and d.get("@type") == "ItemList":
                     for it in d.get("itemListElement", []):
@@ -499,6 +506,17 @@ def scrape_eventbrite(log):
     with cf.ThreadPoolExecutor(8) as ex:
         evs = [e for e in ex.map(safe_one, list(urls)) if e]
     log(f"Eventbrite: {len(evs)} relevant events")
+    if not evs and EB_FILE.exists():
+        # Eventbrite isn't reachable from here (GitHub's servers): use the copy uploaded from the Mac, if recent.
+        try:
+            saved = json.loads(EB_FILE.read_text())
+            age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(saved["fetched"])
+            if age < dt.timedelta(days=4):
+                evs = [e for e in saved["events"] if in_window(e["start"])]
+                EB_DIAG.append(f"used {len(evs)} events uploaded from the Mac {age.total_seconds() / 3600:.0f} h ago")
+                log(f"Eventbrite: using {len(evs)} events from eventbrite.json")
+        except Exception as e:
+            log(f"eventbrite.json unreadable: {e}")
     return evs
 
 
@@ -916,6 +934,48 @@ def enrich_access(events, log=print):
 
 
 # --------------------------------------------------------------------------
+# Highlights: named lectures, senior speakers, Union events and conversations
+# --------------------------------------------------------------------------
+HIGHLIGHT_RULES = [
+    (4, "Named public lecture", re.compile(
+        r"\b(annual|memorial|distinguished|inaugural|valedictory|public|keynote|plenary|guest)\s+lecture\b|"
+        r"\b[A-Z][\w'’.-]+(\s+[A-Z][\w'’.-]+)*\s+Lecture\s+20\d\d\b|\blecture\s+20\d\d\b|\bbig ideas lecture\b|\bkeynote\b")),
+    (4, "Senior figure speaking", re.compile(
+        r"\b(Lord|Lady|Baroness|Baron|Sir|Dame|Rt\.? Hon|Right Honourable|Prime Minister|Secretary of State|Minister|"
+        r"Ambassador|High Commissioner|Lord Justice|Lady Justice|Mr Justice|Mrs Justice|Advocate General|Attorney General|"
+        r"Solicitor General|Secretary[- ]General|Special Rapporteur|Governor of the Bank|Nobel|Lieutenant General|"
+        r"Major General|General Sir|Admiral|Air Marshal|President Koen|"
+        r"(Justice|Judge|President|Deputy President|Registrar) (of|at) the (UK |European |International )?(Supreme Court|Court of Justice|Court of Human Rights|International Court|Criminal Court|ICJ|ICC)|"
+        r"former (President|Prime Minister|Minister|Ambassador|Chief|Head|Director|Judge|Secretary|Chancellor))\b|"
+        r"\b(MP|MEP|KC|QC|CEO|CBE|OBE|DBE|KBE)\b")),
+    (3, "Cambridge Union event", re.compile(r"cambridge union|union society", re.I)),
+    (2, "Conversation, debate or book launch", re.compile(
+        r"\bin conversation\b|\bconversation with\b|\bbook (launch|presentation)\b|\bfilm screening\b|\bwith the director\b|"
+        r"\bQ&A\b|\bpanel discussion\b|\bdebate\b|\bfireside\b", re.I)),
+    (1, "Senior academic", re.compile(r"\bProf(essor)?\.?\s+(Sir|Dame|Lord|Lady)\b|\bRegius\b|\bFBA\b|\bFRS\b")),
+]
+HIGHLIGHT_LOW = re.compile(
+    r"work[- ]in[- ]progress|discussion group|reading group|\bphd\b|doctoral|graduate (workshop|conference)|brown[- ]bag|"
+    r"job talk|training|careers? (fair|service|event)|\bfair\b|drop[- ]in|social\b|\bpub\b|update 20\d\d|\bcpd\b|\bworkshop\b|"
+    r"showcase|prizegiving|graduation|exploration day|open day|networking|alumni|committee|\bagm\b|meeting\b", re.I)
+
+
+def mark_highlights(events):
+    for e in events:
+        text = f"{e['title']} {e.get('speaker', '')} {(e.get('description') or '')[:500]}"
+        score, why = 0, []
+        for pts, label, rx in HIGHLIGHT_RULES:
+            m = rx.search(text + (f" {e.get('organiser', '')} {e.get('series', '')}" if pts == 3 else ""))
+            if m:
+                score += pts
+                why.append(f"{label} ({m.group(0).strip()})" if label == "Senior figure speaking" else label)
+        if HIGHLIGHT_LOW.search(e["title"]):
+            score -= 4
+        e["highlight"] = score >= 4
+        e["highlightWhy"] = why if e["highlight"] else []
+
+
+# --------------------------------------------------------------------------
 # Orchestration
 # --------------------------------------------------------------------------
 def _safe(fn, arg, log, default):
@@ -1053,6 +1113,7 @@ def build_ics(events, name, stamp):
         details = [
             f"Speaker: {e['speaker']}" if e.get("speaker") else "",
             e.get("series") or e.get("organiser") or "",
+            ("Highlight: " + "; ".join(e["highlightWhy"])) if e.get("highlight") else "",
             "Topics: " + ", ".join(e.get("topics") or []) if e.get("topics") else "",
             f"Details: {e['url']}" if e.get("url") else "",
             (ACCESS_LABELS[e["access"]] + (f": {e['booking']}" if e.get("booking") else "")) if e.get("access") in ACCESS_LABELS
@@ -1092,6 +1153,7 @@ def refresh_manual(log=print):
     data = json.loads(path.read_text()) if path.exists() else {"events": [], "sources": {}, "topics": list(TOPICS)}
     manual = load_manual(log)
     data["events"] = sorted([e for e in data["events"] if not e.get("manual")] + manual, key=lambda e: e["start"])
+    mark_highlights(data["events"])
     data.setdefault("sources", {})["Termcards (manual)"] = {"ok": True, "count": len(manual)}
     data["topics"] = list(TOPICS)
     write_data(data)
@@ -1124,6 +1186,8 @@ def run(log=print):
             try:
                 evs = f.result()
                 status[name] = {"ok": True, "count": len(evs)}
+                if name == "Eventbrite" and EB_DIAG:
+                    status[name]["note"] = " | ".join(dict.fromkeys(EB_DIAG))[:300]
                 all_events += evs
             except Exception as e:
                 status[name] = {"ok": False, "error": str(e)}
@@ -1131,6 +1195,7 @@ def run(log=print):
     events = dedupe([e for e in all_events if e["start"] and e["title"]])
     events.sort(key=lambda e: e["start"])
     enrich_access(events, log)
+    mark_highlights(events)
     data = {
         "generated": dt.datetime.now(LONDON).strftime("%Y-%m-%dT%H:%M"),
         "topics": list(TOPICS),

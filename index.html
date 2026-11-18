@@ -118,7 +118,7 @@ main{min-width:0;padding:0 28px 80px}
 .when{font-variant-numeric:tabular-nums}
 .when b{font:700 17px/1.1 "Source Serif 4",Georgia,serif;white-space:nowrap}
 .when b small{font:600 11px Inter,system-ui,sans-serif;margin-left:1px}
-.when .d{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-bottom:3px;font-weight:600}
+.when .d{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:3px;font-weight:600}
 .when .end{display:block;font-size:11px;color:var(--faint);margin-top:4px}
 .what{min-width:0}
 .what .org{font-weight:700;font-size:13px;color:var(--ink)}
@@ -129,6 +129,10 @@ main{min-width:0;padding:0 28px 80px}
 .acc.need{background:#fdf0cf;color:#7a4b00}
 .acc.online{background:var(--line2);color:var(--muted)}
 .acc.open{background:var(--accent-soft);color:var(--accent)}
+.acc.hl{background:linear-gradient(90deg,#fff1c2,#ffe7a3);color:#6b4500}
+:root[data-theme="dark"] .acc.hl{background:#4a3a0c;color:#ffd970}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .acc.hl{background:#4a3a0c;color:#ffd970}}
+.item.hl .ttl{font-weight:700}
 .acc.done{background:var(--accent-soft);color:var(--accent)}
 :root[data-theme="dark"] .acc.need{background:#3d2f0e;color:#f5c75a}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .acc.need{background:#3d2f0e;color:#f5c75a}}
@@ -385,6 +389,8 @@ const S = {
   cands: [],
   access: store.get("access", "any"),   // any | need | none
   signed: new Set(store.get("signed", [])),
+  hlOnly: store.get("hlOnly", false),
+  hlMine: store.get("hlMine", {}),   // your own overrides: {id: true|false}
 };
 if (!["now","days","week","upcoming","plan"].includes(S.view)) S.view = "now";
 // Topics/sources added in a later version start switched on, even if older filter choices are saved.
@@ -422,6 +428,7 @@ function relTime(ms){
   if (min < 60) return `in ${min} min`;
   const h = Math.floor(min/60), m = min % 60;
   if (h < 24) return `in ${h} h${m ? " " + m + " min" : ""}`;
+  if (h < 48) return `in ${h} h`;
   const d = Math.round(h/24); return `in ${d} day${d > 1 ? "s" : ""}`;
 }
 function dayLabel(d){
@@ -443,6 +450,8 @@ const ACCESS = {
   members:{label:"Members only", icon:"🔒", cls:"online"},
   open:{label:"No sign-up needed", icon:"✓", cls:"open"},
 };
+const isHl = e => (e.id in S.hlMine) ? S.hlMine[e.id] : !!e.highlight;
+const hlBadge = e => isHl(e) ? `<span class="acc hl">🌟 Highlight</span>` : "";
 const needsSignup = e => !!ACCESS[e.access]?.need;
 function accBadge(e){
   const a = ACCESS[e.access]; if (!a) return "";
@@ -460,6 +469,7 @@ function visible(e){
   }
   if (S.onlyInt && S.interests.length && !interestHits(e).length) return false;
   if (S.access === "need" && !needsSignup(e)) return false;
+  if (S.hlOnly && !isHl(e)) return false;
   if (S.access === "none" && e.access !== "open" && e.access !== "online-register") return false;
   return true;
 }
@@ -480,15 +490,15 @@ const orgOf = e => e.sourceGroup === "talks.cam" ? (e.series || e.organiser || e
 function row(e, {showDate=false} = {}){
   const hits = interestHits(e), starred = S.plan.has(e.id), cl = clashes(e), s = parse(e.start);
   const t = e.allDay ? {n:"All", ap:" day"} : t12(s);
-  return `<article class="item ${hits.length ? "match" : ""} ${S.hidden.has(e.id) ? "hid" : ""}" style="--c:${colorOf(e)}" data-id="${esc(e.id)}" tabindex="0">
-    <div class="when">${showDate ? `<span class="d">${esc(dayLabel(s))}</span>` : ""}<b>${t.n}<small>${t.ap}</small></b>
+  return `<article class="item ${hits.length ? "match" : ""} ${isHl(e) ? "hl" : ""} ${S.hidden.has(e.id) ? "hid" : ""}" style="--c:${colorOf(e)}" data-id="${esc(e.id)}" tabindex="0">
+    <div class="when">${showDate ? `<span class="d">${esc(ymd(s) === ymd(new Date()) ? "Today" : s.toLocaleDateString("en-GB",{weekday:"short", day:"numeric", month: s - new Date() > 6*864e5 ? "short" : undefined}))}</span>` : ""}<b>${t.n}<small>${t.ap}</small></b>
       ${!e.allDay && e.end ? `<span class="end">until ${esc(fmtTime(parse(e.end)))}</span>` : ""}</div>
     <div class="what">
       <div class="org">${esc(orgOf(e))}</div>
       <div class="ttl">${esc(e.title)}</div>
       ${e.speaker ? `<div class="meta">${esc(e.speaker)}</div>` : ""}
       ${e.venue ? `<div class="meta">📍 ${esc(e.venue)}</div>` : ""}
-      <div class="tags">${accBadge(e)}${e.topics.map(tagHtml).join("")}${hits.length ? `<span class="tag" style="color:var(--accent)">★ ${esc(hits.join(", "))}</span>` : ""}${S.hidden.has(e.id) ? `<span class="tag" style="color:var(--muted)">hidden</span>` : ""}</div>
+      <div class="tags">${hlBadge(e)}${accBadge(e)}${e.topics.map(tagHtml).join("")}${hits.length ? `<span class="tag" style="color:var(--accent)">★ ${esc(hits.join(", "))}</span>` : ""}${S.hidden.has(e.id) ? `<span class="tag" style="color:var(--muted)">hidden</span>` : ""}</div>
       ${cl.length ? `<div class="clash">⚠ Clashes with: ${esc(cl.map(c => c.title.slice(0,50)).join("; "))}</div>` : ""}
     </div>
     <button class="starbtn ${starred ? "on" : ""}" data-star="${esc(e.id)}" aria-label="${starred ? "Remove from my plan" : "Add to my plan"}">${starred ? "★" : "☆"}</button>
@@ -550,17 +560,21 @@ function renderNow(){
   const now = timed.filter(e => parse(e.start) <= at && endOf(e) > at);
   const later = timed.filter(e => parse(e.start) > at);
   const earlier = timed.filter(e => endOf(e) <= at && !now.includes(e));
-  const next = list.filter(e => !e.allDay && parse(e.start) > at).sort(byStart)[0];
+  const upcomingTimed = list.filter(e => !e.allDay && parse(e.start) > at).sort(byStart);
+  const nextHl = upcomingTimed.find(isHl);          // the big card shows the next highlight…
+  const next = nextHl || upcomingTimed[0];          // …or simply the next event if none is coming up
   let hero = "";
   if (next){
     const s = parse(next.start), t = t12(s), [h, m] = t.n.split(".");
     hero = `<div class="hero" data-id="${esc(next.id)}">
-      <div class="lbl"><span>Next event</span><span>${esc(dayLabel(s))} · ${esc(relTime(s - at))}</span></div>
+      <div class="lbl"><span>${nextHl ? "🌟 Next highlight" : "Next event"}</span><span>${esc(dayLabel(s))} · ${esc(relTime(s - at))}</span></div>
       <div class="tiles">${[...h].map(c => `<span>${c}</span>`).join("")}${m ? `<i>.</i>${[...m].map(c => `<span>${c}</span>`).join("")}` : ""}<small>${t.ap.toUpperCase()}</small></div>
       <div class="ttl">${esc(next.title)}</div>
       <div class="meta">${esc([orgOf(next), next.venue].filter(Boolean).join(" · "))}</div>
     </div>`;
   }
+  const soonEnd = ymd(addDays(parse(S.date), 14));
+  const hlSoon = S.hlOnly ? [] : list.filter(e => isHl(e) && parse(e.start) > at && e.start.slice(0,10) <= soonEnd && !later.includes(e) && e !== next).sort(byStart).slice(0, 6);
   let tomorrow = "";
   if (later.length < 3){
     const nd = ymd(addDays(parse(S.date), 1)), tl = eventsOn(nd, list).sort(byStart);
@@ -576,6 +590,7 @@ function renderNow(){
     ${now.length ? section(`<span class="live"></span>Happening now`, now, "") : ""}
     ${section(now.length || S.time > "12:00" ? "Later today" : "Today", later, "Nothing else on today.")}
     ${allDay.length ? section("All day", allDay, "") : ""}
+    ${hlSoon.length ? `<h2 class="sec-h">🌟 Highlights <span class="sub">next 2 weeks</span><span class="spacer"></span><button class="btn small" data-hlall>See all</button></h2>${listHtml(hlSoon, {showDate:true})}` : ""}
     ${tomorrow}
     ${earlier.length ? `<details style="margin-top:22px"><summary class="sub" style="cursor:pointer">Earlier today (${earlier.length})</summary><div style="margin-top:10px">${listHtml(earlier)}</div></details>` : ""}`;
 }
@@ -672,6 +687,7 @@ function renderPlan(){
 function renderPills(){
   const all = allTopics(), allOn = allTopicsOn();
   $("#pills").innerHTML = `<button class="pill" data-pill="__all" aria-pressed="${allOn}">All topics</button>` +
+    `<button class="pill" data-hlpill aria-pressed="${S.hlOnly}">🌟 Highlights</button>` +
     `<button class="pill" data-accpill aria-pressed="${S.access === "need"}">✍️ Sign-up needed</button>` +
     all.map(t => `<button class="pill" data-pill="${esc(t)}" aria-pressed="${!allOn && S.topics.has(t)}"><span class="dot" style="background:var(${TOPIC_COLORS[t]||"--muted"})"></span>${esc(t)}</button>`).join("");
 }
@@ -679,7 +695,7 @@ function renderPills(){
 function render(){
   document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.view === S.view));
   $("#planCount").textContent = S.plan.size ? `★${S.plan.size}` : "";
-  const nf = [...SOURCE_GROUPS].filter(g => !S.sources.has(g)).length + (S.q ? 1 : 0) + (S.onlyInt && S.interests.length ? 1 : 0) + (S.includeUntagged ? 0 : 1) + (S.access !== "any" ? 1 : 0);
+  const nf = [...SOURCE_GROUPS].filter(g => !S.sources.has(g)).length + (S.q ? 1 : 0) + (S.onlyInt && S.interests.length ? 1 : 0) + (S.includeUntagged ? 0 : 1) + (S.access !== "any" ? 1 : 0) + (S.hlOnly ? 1 : 0);
   $("#filterBadge").innerHTML = nf ? `<span class="badge">${nf}</span>` : "";
   $("#pills").style.display = S.view === "plan" ? "none" : "";
   renderPills();
@@ -726,12 +742,14 @@ function openDrawer(id){
       <dt>Listed on</dt><dd>${links.length ? "" : esc(e.source)}${links.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.source)} ↗</a>`).join("<br>")}</dd>
       ${hits.length ? `<dt>Matches</dt><dd>${esc(hits.join(", "))}</dd>` : ""}
     </dl>
+    ${isHl(e) ? `<div class="note" style="background:#fff6d9;color:#5c3d00"><b>🌟 Highlight</b>${(e.id in S.hlMine) ? " – marked by you" : e.highlightWhy?.length ? ": " + esc(e.highlightWhy.join("; ")) : ""}</div>` : ""}
     ${signupBox(e)}
     ${cl.length ? `<div class="note warn"><span class="clash">⚠ Clashes with ${esc(cl.map(c => `${c.title} (${timeRange(c)})`).join("; "))}</span></div>` : ""}
     <div class="actions">
       <button class="btn ${starred ? "" : "primary"}" data-star="${esc(e.id)}">${starred ? "★ In my plan – remove" : "☆ Add to my plan"}</button>
       <a class="btn" href="${esc(gcalLink(e))}" target="_blank" rel="noopener">Google Calendar ↗</a>
       <button class="btn" id="drIcs">⤓ .ics</button>
+      <button class="btn" id="drHl">${isHl(e) ? "Not a highlight" : "🌟 Mark as highlight"}</button>
       <button class="btn" id="drHide">${S.hidden.has(e.id) ? "Unhide" : "Not interested (hide)"}</button>
       ${e.manual ? `<button class="btn" id="drDel" style="color:var(--warn)">Delete this event</button>` : ""}
     </div>
@@ -739,6 +757,11 @@ function openDrawer(id){
     </div>`;
   showOverlay("drawer");
   $("#drIcs").onclick = () => downloadIcs([e], e.title.slice(0,40).replace(/\W+/g,"-") + ".ics");
+  $("#drHl").onclick = () => {
+    const want = !isHl(e);
+    if (want === !!e.highlight) delete S.hlMine[e.id]; else S.hlMine[e.id] = want;
+    store.set("hlMine", S.hlMine); render(); openDrawer(e.id); toast(want ? "Marked as a highlight" : "Removed from highlights");
+  };
   $("#drHide").onclick = () => { S.hidden.has(e.id) ? S.hidden.delete(e.id) : S.hidden.add(e.id); store.set("hidden",[...S.hidden]); hideOverlay(); render(); toast(S.hidden.has(e.id) ? "Hidden. Turn on ‘Show hidden events’ in Filters to see it again." : "Unhidden."); };
   $("#drDel")?.addEventListener("click", () => deleteManual(e));
 }
@@ -1065,6 +1088,8 @@ document.addEventListener("click", ev => {
   if (t.closest("[data-now]")) { goNow(); render(); return; }
   const dm = t.closest("[data-daymode]");
   if (dm){ S.dayMode = dm.dataset.daymode; store.set("dayMode", S.dayMode); render(); return; }
+  if (t.closest("[data-hlall]")) { S.hlOnly = true; store.set("hlOnly", true); setView("upcoming"); return; }
+  if (t.closest("[data-hlpill]")) { S.hlOnly = !S.hlOnly; store.set("hlOnly", S.hlOnly); render(); return; }
   if (t.closest("[data-accpill]")) { setAccess(S.access === "need" ? "any" : "need"); return; }
   const accb = t.closest("[data-acc]");
   if (accb){ setAccess(accb.dataset.acc); return; }

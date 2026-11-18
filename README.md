@@ -69,6 +69,14 @@ You can also edit `termcards.json` directly:
 ]
 ```
 
+## Highlights and sign-ups
+
+Each event gets a sign-up label (sign-up needed, paid ticket, sign-up only to join online, members only, no sign-up needed), read from the event's own page. Events that look especially worth going to are marked 🌟 **Highlight**: named public lectures, senior speakers (judges, ambassadors, ministers, peers, KCs, generals), Cambridge Union events, and conversations, debates and book launches. Internal formats such as reading groups and work-in-progress seminars are left out. The rules are `HIGHLIGHT_RULES` in `scraper.py`. Open any event and tap **Mark as highlight** or **Not a highlight** to override.
+
+## Eventbrite from the Mac
+
+Eventbrite doesn't answer GitHub's servers, so `eventbrite_sync.py` fetches it on the Mac every 6 hours and uploads `eventbrite.json`, which the GitHub update then uses. Set it up with `bash install_mac_sync.sh` (remove with `bash install_mac_sync.sh remove`). Log: `~/Library/Logs/cambridge-events-sync.log`.
+
 ## Using it
 
 - **Day**: pick a date and time to see what's on at that moment, what starts in the next 3 hours, what's later, and a timeline of the day.
