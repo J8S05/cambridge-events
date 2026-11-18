@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T13:27",
+ "generated": "2026-11-18T14:40",
  "topics": [
   "Law",
   "Politics",
@@ -20,6 +20,14 @@
    "ok": true,
    "count": 4
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 10
+  },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
@@ -32,11 +40,7 @@
    "ok": true,
    "count": 3
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 10
-  },
-  "King's E-Lab": {
+  "Centre for Geopolitics": {
    "ok": true,
    "count": 8
   },
@@ -50,15 +54,11 @@
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 46
+   "count": 44
   },
   "Eventbrite": {
    "ok": true,
    "count": 0
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 8
   },
   "talks.cam": {
    "ok": true,
@@ -85,52 +85,9 @@
     "Politics",
     "Policy"
    ],
-   "alsoListed": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cambridge-comparative-constitutional-law-discussion-group-cccldg-work-progress-session-0",
-   "title": "Cambridge Comparative Constitutional Law Discussion Group (CCCLDG) Work-in-Progress Session: 'Contested Pathways to Citizenship: A Comparison of Taiwan’s Investor Residence Scheme and UK BNO Visa Scheme for Hong Kongers'",
-   "start": "2026-11-18T13:00",
-   "end": "2026-11-18T14:00",
-   "allDay": false,
-   "venue": "Online webinar",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Wednesday 18 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Online webinar\n\n Sign up\n\n About \n\n Speaker: Yi-Chen Huang (Academia Sinica)\n The Cambridge Comparative Constitutional Law Discussion Group (CCCLDG), co-convened by Zheng Hong See and Even Y. Chao.\n CCCLDG is a forum that brings together graduate students interested in comparative constitutional law and public law in general to discuss recent works and developments in comparative constitutional law.\n Please join the mailing list to receive updates and details of CCCLDG events.\n Convenors of CCCLDG 2026-27: Zheng Hong See ( zhs23@cam.ac.uk ) and Even Y. Chao ( yyc41@cam.ac.uk ).",
-   "url": "https://www.law.cam.ac.uk/events/cambridge-comparative-constitutional-law-discussion-group-cccldg-work-progress-session-0",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Politics",
-    "International",
-    "Entrepreneurship"
-   ],
-   "alsoListed": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cambridge-international-law-discussion-group-element-ground-space-governance",
-   "title": "Cambridge International Law Discussion Group: 'The Element of Ground in Space Governance'",
-   "start": "2026-11-18T13:00",
-   "end": "2026-11-18T14:00",
-   "allDay": false,
-   "venue": "Lauterpacht Centre for International Law",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Wednesday 18 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n About \n\n Speaker: Yirong Sun (PhD Candidate in Law at Cambridge)\n Has it ever come into your mind that satellites in outer space are deeply tied to the ground? This session will discuss the plans of a two-year empirical phase (of the PhD project) using archival research, interviews and participant observation to examine how the ground concentrates and redistributes power in Earth observation/remote sensing satellite missions. Where are ground stations located, how do particular sites become part of space infrastructure, and how are land uses repurposed or intensified over time? These questions bring into view actors who do not necessarily own satellites themselves but whose land, infrastructure or regulatory authority helps make satellite operations possible. \n The broader PhD project asks what these dependencies mean for public participation in the governance of Earth observation satellite missions. How can landowners, ground station operators and authorities responsible for land use and spectrum influence the terms on which these projects operate? Where the r",
-   "url": "https://www.law.cam.ac.uk/events/cambridge-international-law-discussion-group-element-ground-space-governance",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "International",
-    "Policy"
-   ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platforms",
@@ -146,11 +103,13 @@
    "url": "https://www.cghr.polis.cam.ac.uk/events/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms/",
    "source": "Centre of Governance and Human Rights (CGHR)",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms-tickets-2002988131420?aff=oddtdtcreator&keep_tld=true",
    "topics": [
     "Rights & Justice"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
@@ -172,7 +131,9 @@
     "Rights & Justice",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "centre-book-presentation-bucharest",
@@ -192,7 +153,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273542",
@@ -212,27 +175,31 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-private-law-seminar-series-what-remedial-constructive-trust",
+   "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-what-remedial-constructive-trust",
    "title": "Private Law Seminar Series: 'What is a Remedial Constructive Trust?'",
    "start": "2026-11-19T13:00",
    "end": "2026-11-19T14:00",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/private-law-seminar-series-what-remedial-constructive-trust",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "url": "https://www.law.cam.ac.uk/events/private-law-seminar-series-what-remedial-constructive-trust",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
   },
   {
    "id": "talks-273685",
@@ -252,7 +219,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-international-law-science-norm-interface-controversy-over",
@@ -268,12 +237,14 @@
    "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-science-norm-interface-controversy-over",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://forms.cloud.microsoft/e/9tuK2dMhaP",
    "topics": [
     "Law",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-making-successful-pupillage-applications",
@@ -293,7 +264,9 @@
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6afa293178a4204d5c078138",
@@ -309,12 +282,14 @@
    "url": "https://www.kingselab.org/all-events/jessie-inchauspe",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/2004868217809?aff=oddtdtcreator",
    "topics": [
     "International",
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "TICKETS: Register here !"
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
@@ -337,7 +312,9 @@
     "International",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6a54f3688bd7eb12c9e49fee",
@@ -353,47 +330,51 @@
    "url": "https://www.kingselab.org/all-events/soumaya-keynes",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/economics-policy-and-the-world-ahead-a-conversation-with-soumaya-keynes-tickets-1993921385539",
    "topics": [
     "Entrepreneurship",
     "Politics",
     "International",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "TICKETS: Register here !"
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music-interactive",
+   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
    "title": "CIPIL Evening Seminar: 'Beyond Sync: Copyright, Collective Management and the Licensing of Music in Interactive Games'",
    "start": "2026-11-19T17:30",
    "end": "2026-11-19T18:30",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Professor Sabine Jacques, University of Liverpool\n Abstract: Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of platform liability, illustrated b",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music-interactive",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor Sabine Jacques, University of Liverpool\n Abstract: Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of platfor",
+   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
    "title": "Cambridge Legal Theory Discussion Group (CLTDG): 'Can Criminal Conversations Be Genuine?'",
    "start": "2026-11-19T18:15",
    "end": "2026-11-19T19:15",
    "allDay": false,
-   "venue": "Faculty of Law, G28 (The Beckwith Moot Court Room)",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 6:15pm to 7:15pm\n\n Location: \n\n Faculty of Law, G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Joaquin Casalia (LSE)\n Abstract: Most legal academics analysing populism focus exclusively on formal legal changes. Some even suggest that constitutional scholars should keep in mind that it is more important to see what populists are doing than what they are saying. However, we act with words. As language philosopher J.L. Austin demonstrated, to say something is usually to do a number of things.\n Currently, democratic guardrails of constitutions are undermined not only by amendments to its provisions but also by political actors making them ‘dead letter.’ Speech act theory in general, and feminist philosophy of language in particular, provide valuable tools to explain (i) how populism can use speech to silence institutions and the opposition, and (ii) how populist speech can informally transform or undo constitutional norms.\n Some scholars, including Nadia Urbinati, describe the relationship between populism and democracy as parasitic. This research contributes to the explanation of such a description by evincing how populists can us",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 6:15pm to 7:15pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Joaquin Casalia (LSE)\n Abstract: Most legal academics analysing populism focus exclusively on formal legal changes. Some even suggest that constitutional scholars should keep in mind that it is more important to see what populists are doing than what they are saying. However, we act with words. As language philosopher J.L. Austin demonstrated, to say something is usually to do a number of things.\n Currently, democratic guardrails of constitutions are undermined not only by amendments to its provisions but also by political actors making them ‘dead letter.’ Speech act theory in general, and feminist philosophy of language in particular, provide valuable tools to explain (i) how populism can use speech to silence institutions and the opposition, and (ii) how populist speech can informally transform or undo constitutional norms.\n Some scholars, including Nadia Urbinati, describe the relationship between populism and democracy as parasitic. This research contributes to the explanation of such a description by evi",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -401,7 +382,9 @@
     "Law",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "ea-mOY3n4xNVH93aueventsluma",
@@ -421,7 +404,9 @@
    "topics": [
     "Effective Altruism"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free)."
   },
   {
    "id": "ea-BBum5X4ESJKq4Ieventsluma",
@@ -441,7 +426,9 @@
    "topics": [
     "Effective Altruism"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free)."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-age-ai-interdisciplinary-dialogue",
@@ -449,19 +436,21 @@
    "start": "2026-11-19T19:00",
    "end": "2026-11-19T20:30",
    "allDay": false,
-   "venue": "David Williams Building, Faculty of Law",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Cambridge University AI in Law Society (CUAILS)\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:00pm to 8:30pm\n\n Location: \n\n David Williams Building, Faculty of Law\n\n LG18\n\n Open map \n\n Sign up\n\n About \n\n This is the inaugural event of the Cambridge University AI in Law Society (CUAILS), a newly established society recognised by the Faculty of Law!\n As artificial intelligence continues to reshape the legal landscape, what opportunities and challenges lie ahead for legal research, regulation, and practice? How might AI transform the legal profession, and how should the law respond to these technological developments?\n Bringing together distinguished speakers from academia, public policy, the technology industry, and legal practice, our inaugural panel will explore these questions from a range of interdisciplinary perspectives.\n We are honoured to welcome:\n Dr Christoph Winter – Assistant Professor of Law and AI at Cambridge, Director of the Cambridge Programme on AI Science & Policy, and Director of the Institute for Law & AI. Professor Alison Young – Sir David Williams Professor of Public Law at Cambridge and Law Commissioner for Public Law and the Law in Wales. Tom Conti-Lesli",
+   "description": "Cambridge University AI in Law Society (CUAILS)\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:00pm to 8:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n LG18\n\n Open map \n\n Sign up\n\n About \n\n This is the inaugural event of the Cambridge University AI in Law Society (CUAILS), a newly established society recognised by the Faculty of Law!\n As artificial intelligence continues to reshape the legal landscape, what opportunities and challenges lie ahead for legal research, regulation, and practice? How might AI transform the legal profession, and how should the law respond to these technological developments?\n Bringing together distinguished speakers from academia, public policy, the technology industry, and legal practice, our inaugural panel will explore these questions from a range of interdisciplinary perspectives.\n We are honoured to welcome:\n Dr Christoph Winter – Assistant Professor of Law and AI at Cambridge, Director of the Cambridge Programme on AI Science & Policy, and Director of the Institute for Law & AI. Professor Alison Young – Sir David Williams Professor of Public Law at Cambridge and Law Commissioner for Public Law and the Law in Wales. Tom Conti-Lesli",
    "url": "https://www.law.cam.ac.uk/events/law-age-ai-interdisciplinary-dialogue",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://forms.gle/my5VfW5iGLEgzFrS6",
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
@@ -477,12 +466,14 @@
    "url": "https://www.law.cam.ac.uk/events/eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_b3pBZkpHT5meSMH3HTB3qQ",
    "topics": [
     "Law",
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G"
   },
   {
    "id": "jbs-from-sustainable-decisions-to-societal-transitions",
@@ -502,7 +493,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law-torts-and-climate-change",
@@ -523,7 +516,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge",
@@ -539,12 +534,14 @@
    "url": "https://www.crim.cam.ac.uk/events/film-screening-director-hardest-bridge",
    "source": "Institute of Criminology",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://www.ticketsource.com/restorative-justice/the-hardest-bridge-screening-and-discussion-restorative-justice-week/e-vjdvkya",
    "topics": [
     "Rights & Justice",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more details, and to register attendance, please view the event page:"
   },
   {
    "id": "centre-general-matthew-jones-chief-of-defence-intelligence",
@@ -564,7 +561,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "ea-TAzwkNqjOhF66Yeventsluma",
@@ -584,7 +583,9 @@
    "topics": [
     "Effective Altruism"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free)."
   },
   {
    "id": "talks-273132",
@@ -604,7 +605,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "jbs-book-presentation-the-inclusive-wealth-of-nations",
@@ -624,7 +627,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
@@ -640,12 +645,14 @@
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_C3zFlTtARXqRjWSJ8Cm5BQ#/registration",
    "topics": [
     "Law",
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Register now"
   },
   {
    "id": "centre-national-cultural-autonomy-revisited-why-baltic-minority-politics-matters",
@@ -666,7 +673,9 @@
     "Politics",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "bennett-uk-digital-economics-2026",
@@ -686,47 +695,31 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea."
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy-protection",
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
    "title": "Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational Obligations: Beyond the Autonomy-Protection Spectrum'",
    "start": "2026-11-24T12:00",
    "end": "2026-11-24T13:00",
    "allDay": false,
-   "venue": "Faculty of Law, B16",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 12:00pm to 1:00pm\n\n Location: \n\n Faculty of Law, B16\n\n About \n\n Speaker: Dr Matt Hasler (Teaching By-Fellow in Law and Philosophy, Churchill College)\n Family law systems characteristically impose relational obligations: legal duties of financial provision that attach to personal or familial relationships, and thereby impose special financial responsibilities on their bearers. Relational obligations pose a host of important normative questions. To which kinds of relationships should they attach? What should their content be? And to what extent, if at all, should parties be entitled to alter or disapply such obligations by means of private contracts?\n It is often suggested that our answers to these questions will be significantly determined by our attitudes to two apparently competing principles. On the one hand, respect for individual autonomy is said to favour less demanding relational obligations that attach to a narrower range of relationships, and are more amenable to contractual amendment. On the other, concerns to protect vulnerable parties are said to favour more demanding relational obligations that attach to a wider range of rel",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy-protection",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 12:00pm to 1:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker: Dr Matt Hasler (Teaching By-Fellow in Law and Philosophy, Churchill College)\n Family law systems characteristically impose relational obligations: legal duties of financial provision that attach to personal or familial relationships, and thereby impose special financial responsibilities on their bearers. Relational obligations pose a host of important normative questions. To which kinds of relationships should they attach? What should their content be? And to what extent, if at all, should parties be entitled to alter or disapply such obligations by means of private contracts?\n It is often suggested that our answers to these questions will be significantly determined by our attitudes to two apparently competing principles. On the one hand, respect for individual autonomy is said to favour less demanding relational obligations that attach to a narrower range of relationships, and are more amenable to contractual amendment. On the other, concerns to protect vulnerable parties are said to favour more demanding relational obligations that atta",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_5oagNLNCQJqnj8BVq_sCbw",
    "topics": [
     "Law"
    ],
-   "alsoListed": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, G28 (The Beckwith Moot Court Room)",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online ."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
@@ -734,11 +727,11 @@
    "start": "2026-11-24T13:00",
    "end": "2026-11-24T14:00",
    "allDay": false,
-   "venue": "Faculty of Law, B16",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, B16\n\n About \n\n Speaker : Professor Atinuke Adediran (Associate Professor of Law, Fordham University School of Law, USA)\n Abstract :  Corporate law commonly treats disclosure as a means of providing information to investors and shareholders. This seminar asks what disclosure does when corporations speak about racial inequality. Drawing on Disclosureland's original empirical study of statements, pledges, and regulatory filings from more than 2,000 companies, the book shows that corporate words operate as tools of governance, shaping what firms recognize, measure, fund as philanthropic endeavors, and ultimately choose to withdraw. Focusing on the proliferation of corporate racial-equity commitments after 2020 and their subsequent softening, narrowing, or disappearance, the seminar will identify three recurring practices: opportunistic commitment, disclosure as deflection, and strategic retraction as legal and political conditions change. The seminar will argue that voluntary disclosure can create an appearance of accountability while allowing corporations to define the meaning and boundaries",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker : Professor Atinuke Adediran (Associate Professor of Law, Fordham University School of Law, USA)\n Abstract :  Corporate law commonly treats disclosure as a means of providing information to investors and shareholders. This seminar asks what disclosure does when corporations speak about racial inequality. Drawing on Disclosureland's original empirical study of statements, pledges, and regulatory filings from more than 2,000 companies, the book shows that corporate words operate as tools of governance, shaping what firms recognize, measure, fund as philanthropic endeavors, and ultimately choose to withdraw. Focusing on the proliferation of corporate racial-equity commitments after 2020 and their subsequent softening, narrowing, or disappearance, the seminar will identify three recurring practices: opportunistic commitment, disclosure as deflection, and strategic retraction as legal and political conditions change. The seminar will argue that voluntary disclosure can create an appearance of accountability while allowing corporations to define t",
    "url": "https://www.law.cam.ac.uk/events/3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -747,7 +740,31 @@
     "Law",
     "Rights & Justice"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273869",
@@ -769,7 +786,9 @@
     "International",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273765",
@@ -789,7 +808,9 @@
    "topics": [
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-274135",
@@ -815,7 +836,9 @@
      "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/events/baxandall-lecture-can-courts-save-environment-without-weakening-democracy-rethinking"
     }
-   ]
+   ],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
@@ -823,21 +846,23 @@
    "start": "2026-11-25T13:00",
    "end": "2026-11-25T14:00",
    "allDay": false,
-   "venue": "Faculty of Law, B16",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, B16\n\n About \n\n Speaker : Professor Pablo Baquero, HEC Paris\n Biography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intelligence for Science, Business and Society. He is a member of the Smart Law Hub at HEC Paris, is involved in different interdisciplinary academic communities focused on law and technology and collaborates closely with scholars across different disciplines, in projects at the intersection between law and AI.  His scholarly interests are in the fields of law and technology (particularly law and artificial intelligence and smart contracts), private law and international business transactions. His perspective is comparative and interdisciplinary, considering the intersection of law with computer science, economics, business and sociology. His research examines how legal institutions and technologies can support practices of innovation in a socially and economically inclusive way, contributing to disseminate to most firms the opportunities to produce in the frontiers of innovation and exten",
+   "description": "Date/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker : Professor Pablo Baquero, HEC Paris\n Biography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intelligence for Science, Business and Society. He is a member of the Smart Law Hub at HEC Paris, is involved in different interdisciplinary academic communities focused on law and technology and collaborates closely with scholars across different disciplines, in projects at the intersection between law and AI.  His scholarly interests are in the fields of law and technology (particularly law and artificial intelligence and smart contracts), private law and international business transactions. His perspective is comparative and interdisciplinary, considering the intersection of law with computer science, economics, business and sociology. His research examines how legal institutions and technologies can support practices of innovation in a socially and economically inclusive way, contributing to disseminate to most firms the opportunities to produce in the frontie",
    "url": "https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_jROFaE58SGGjH7XBoHjIrA",
    "topics": [
     "Law",
     "International",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
   },
   {
    "id": "jbs-inside-a-frontier-tech-scale-up",
@@ -857,7 +882,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
@@ -878,7 +905,9 @@
     "Rights & Justice",
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6afd91cb96afb60473ba56d9",
@@ -890,7 +919,7 @@
    "speaker": "",
    "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
    "series": "",
-   "description": "What? \nPitch@King’s gives you the chance to practise your pitching skills with support from across the E-Lab, and to compete for a share of a £9,000 prize pot .\n Across Michaelmas and Lent terms, participants will pitch their ventures to a live audience in knockout rounds, with the strongest teams going on to a final in Easter term. It’s a chance to refine your pitch, build confidence, and gain exposure within the entrepreneurial ecosystem at King’s.\n\n Each session offers constructive feedback from our E-Lab community, including Visiting Entrepreneurs, mentors and Research Associates, who bring industry insight and practical expertise. It’s a supportive but challenging environment, designed to mirror real venture development and investment scenarios, and ideal if you want to test an idea, attract collaborators or sharpen your presentation skills.\n\n For who? \nWe welcome entrepreneurs from all disciplines, whether you’re a team or a solo founder. \n When and where? \nWednesday 25th November, 5:30-7:30pm, in the Audit Room at King’s College.\n What is the structure? \nPitch@King’s runs in three rounds:\n Knockout 1: Wednesday 25th November\n Knockout 2: Friday 26th February\n Final: Wednesday 21st April\n After each knockout, four teams from each stream will go through. The eight finalists will pitch to members of our Senior Advisory Board and a panel of esteemed judges in the final.\n Prizes \nA top prize and a runner-up will be awarded. Part of the prize pot is generously supported by E",
+   "description": "Pitch@King’s gives participating teams the chance to practise their pitching skills with support from across the E-Lab, and to compete for a share of a £9,000 prize pot . The first round will take place on Wednesday the 25th of November.",
    "url": "https://www.kingselab.org/all-events/pitchkings",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
@@ -898,7 +927,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "centre-what-next-for-cuba",
@@ -918,7 +949,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273072",
@@ -938,27 +971,54 @@
    "topics": [
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-university-cambridge-barristers-fair-2026",
+   "id": "dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026",
    "title": "University of Cambridge Barristers Fair 2026",
    "start": "2026-11-26T13:00",
    "end": "2026-11-26T14:00",
    "allDay": false,
-   "venue": "Faculty of Law",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law\n\n About \n\n Meet a niche group of organisations offering pupillages at the official University of Cambridge Barristers Fair. This event will help you find answers to all the questions you have about the Bar from those working at a cross-section of chambers as well as representatives from Law Schools. Learn more about routes in to the profession, qualifications needed to become a barrister and funding options available. Practicing barristers will share their experience of the Bar as well as different practice areas and application tips.\n Who is this event for? Students and recent graduates wanting to engage directly with organisations looking for barristers in an informal setting to:\n develop insights into different company cultures, working practices and career paths and compare what they have to offer discuss career paths and job roles and where you might fit gain inside information on hiring and selection processes build your network To get the most out of the event, we advise you to read our careers resources for aspiring Barristers\n Entry is restricted to current University of Cambridge",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/university-cambridge-barristers-fair-2026",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n About \n\n Meet a niche group of organisations offering pupillages at the official University of Cambridge Barristers Fair. This event will help you find answers to all the questions you have about the Bar from those working at a cross-section of chambers as well as representatives from Law Schools. Learn more about routes in to the profession, qualifications needed to become a barrister and funding options available. Practicing barristers will share their experience of the Bar as well as different practice areas and application tips.\n Who is this event for? Students and recent graduates wanting to engage directly with organisations looking for barristers in an informal setting to:\n develop insights into different company cultures, working practices and career paths and compare what they have to offer discuss career paths and job roles and where you might fit gain inside information on hiring and selection processes build your network To get the most out of the event, we advise you to read our careers resources for aspiring Barristers\n Entry is restricted to curren",
+   "url": "https://www.law.cam.ac.uk/events/university-cambridge-barristers-fair-2026",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
@@ -980,28 +1040,9 @@
     "Politics",
     "Political Thought"
    ],
-   "alsoListed": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "jbs-pitch-and-judge-5-autumn-2026",
@@ -1022,7 +1063,9 @@
     "Law",
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6afb054f81a2b23ad553feef",
@@ -1042,7 +1085,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6a54f54a92a5d806b925ed23",
@@ -1058,12 +1103,14 @@
    "url": "https://www.kingselab.org/all-events/marcus-olsson",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
-   "booking": null,
+   "booking": "https://www.eventbrite.com/e/the-swedish-connection-film-screening-and-qa-with-marcus-olsson-tickets-2004897897582?aff=oddtdtcreator",
    "topics": [
     "Entrepreneurship",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "TICKETS: Please register on Eventbrite."
   },
   {
    "id": "talks-273143",
@@ -1094,20 +1141,22 @@
      "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/press/events/2026/11/institute-criminology-professor-angie-hobbs-flourishing-character-and-justice-why-plato-matters-now"
     }
-   ]
+   ],
+   "access": "register",
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event",
-   "title": "3VB University of Cambridge Event",
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
+   "title": "3VB’s University of Cambridge Event",
    "start": "2026-11-26T17:00",
    "end": "2026-11-26T18:00",
    "allDay": false,
-   "venue": "Downing College",
+   "venue": "Downing College, West Lodge & Maitland Room",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com",
-   "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -1118,9 +1167,11 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event"
+     "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event"
     }
-   ]
+   ],
+   "access": "register",
+   "accessNote": "RSVP: events@3vb."
   },
   {
    "id": "bennett-annual-public-policy-lecture-2026",
@@ -1136,34 +1187,38 @@
    "url": "https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture-2026/",
    "source": "Bennett School of Public Policy",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053",
    "topics": [
     "Law",
     "International",
     "Policy",
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Book Your Place"
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
    "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
    "start": "2026-11-26T17:30",
    "end": "2026-11-26T18:30",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s judgment [2026] UKSC 3-Emo",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
+   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg",
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
   },
   {
    "id": "centre-book-presentation-london",
@@ -1183,7 +1238,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Attendance is free, but registration is required."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
@@ -1199,12 +1256,14 @@
    "url": "https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_nGUBoEFXRNGJVhVza-i-Hg",
    "topics": [
     "Law",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio"
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
@@ -1225,7 +1284,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970",
@@ -1245,7 +1306,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
@@ -1265,7 +1328,9 @@
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-medical-law-society-debate-thbt-patient-autonomy-should-prevail-over-medical",
@@ -1285,7 +1350,9 @@
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No sign-up for spectating required, but you may want to if you would like a reminder email prior."
   },
   {
    "id": "elab-6aa94fc5fe463936242563f7",
@@ -1305,7 +1372,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "ce-commercialisation-101-online-essentials",
@@ -1325,7 +1394,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Fill out the form below to register!"
   },
   {
    "id": "jbs-public-control-of-energy",
@@ -1345,7 +1416,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-shakman-hurd",
@@ -1366,7 +1439,9 @@
     "Politics",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "jbs-retail-capital-in-venture-capital",
@@ -1386,7 +1461,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-philosophy-event-whale-legal-personhood-insights-posthuman-theory-and",
@@ -1407,20 +1484,22 @@
     "Law",
     "Political Thought"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information about the Talking Animals series and to register for the events, visit the Cambridge Centre for Animal Rights Law website ."
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-12-cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
    "title": "Cambridge Legal Theory Discussion Group (CLTDG): 'Does Consent Matter Only Indirectly in Sex Crimes?'",
    "start": "2026-12-01T18:45",
    "end": "2026-12-01T19:45",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Tuesday 1 December 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law School)\n Abstract: Most legal academics analysing populism focus exclusively on formal legal changes. Some even suggest that constitutional scholars should keep in mind that it is more important to see what populists are doing than what they are saying. However, we act with words. As language philosopher J.L. Austin demonstrated, to say something is usually to do a number of things.\n Currently, democratic guardrails of constitutions are undermined not only by amendments to its provisions but also by political actors making them ‘dead letter.’ Speech act theory in general, and feminist philosophy of language in particular, provide valuable tools to explain (i) how populism can use speech to silence institutions and the opposition, and (ii) how populist speech can informally transform or undo constitutional norms.\n Some scholars, including Nadia Urbinati, describe the relationship between populism and democracy as parasitic. This research contributes to the explanation of such a description by evincing how populists can use speech to corrupt d",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/12/cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
+   "description": "Date/time: \n\n Tuesday 1 December 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law School)\n Abstract: Most legal academics analysing populism focus exclusively on formal legal changes. Some even suggest that constitutional scholars should keep in mind that it is more important to see what populists are doing than what they are saying. However, we act with words. As language philosopher J.L. Austin demonstrated, to say something is usually to do a number of things.\n Currently, democratic guardrails of constitutions are undermined not only by amendments to its provisions but also by political actors making them ‘dead letter.’ Speech act theory in general, and feminist philosophy of language in particular, provide valuable tools to explain (i) how populism can use speech to silence institutions and the opposition, and (ii) how populist speech can informally transform or undo constitutional norms.\n Some scholars, including Nadia Urbinati, describe the relationship between populism and democracy as parasitic. This research contributes to the explanation of such a description by evincing how populists c",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -1428,7 +1507,9 @@
     "Law",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "jbs-the-value-of-codifying-organisational-knowledge",
@@ -1448,7 +1529,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "talks-273144",
@@ -1478,7 +1561,9 @@
      "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
     }
-   ]
+   ],
+   "access": "register",
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
   },
   {
    "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
@@ -1494,12 +1579,14 @@
    "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
    "source": "Centre of Governance and Human Rights (CGHR)",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
    "topics": [
     "Rights & Justice",
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "talks-273722",
@@ -1520,20 +1607,22 @@
     "Politics",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-12-private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
+   "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
    "title": "Private Law Seminar Series: 'Tindall v Thames Valley Police: the end of assumption of responsibility'",
    "start": "2026-12-03T13:00",
    "end": "2026-12-03T14:00",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 3 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Professor Helen Scott (University of Cambridge)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/12/private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
+   "description": "Date/time: \n\n Thursday 3 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor Helen Scott (University of Cambridge)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "url": "https://www.law.cam.ac.uk/events/private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -1541,7 +1630,9 @@
     "Law",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-climate-ethics-policy-methodology",
@@ -1557,12 +1648,14 @@
    "url": "https://www.law.cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying-climate-ethics-policy-methodology",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
    "topics": [
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "talks-273463",
@@ -1584,7 +1677,9 @@
     "International",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6ac8d6d2677c0f2331acd7cb",
@@ -1600,11 +1695,13 @@
    "url": "https://www.kingselab.org/all-events/rachel-higham",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/2003209136452?aff=oddtdtcreator",
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "TICKETS: Register here"
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026",
@@ -1620,11 +1717,13 @@
    "url": "https://www.law.cam.ac.uk/events/humanities-exploration-day-2026",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://www.tickettailor.com/events/facultyofclassicsuniversityofcambridge/2444714",
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants."
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
@@ -1640,13 +1739,15 @@
    "url": "https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_63c_m3-CQVuG0bm6uCOPfw",
    "topics": [
     "Law",
     "International",
     "Criminology"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special"
   },
   {
    "id": "centre-belarus-and-the-baltic-after-2022",
@@ -1666,7 +1767,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "elab-6afb0228b1f9cf292ded16a4",
@@ -1686,7 +1789,9 @@
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "ea-YDtcUYfkrGcFoHeventsluma",
@@ -1706,7 +1811,9 @@
    "topics": [
     "Effective Altruism"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free)."
   },
   {
    "id": "jbs-research-showcase-climate-adaptation-in-small-island-states",
@@ -1726,7 +1833,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk",
@@ -1746,7 +1855,9 @@
    "topics": [
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-there-be-feminist-general-jurisprudence",
@@ -1767,7 +1878,9 @@
     "Law",
     "Rights & Justice"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273975",
@@ -1788,7 +1901,9 @@
     "Law",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "talks-273723",
@@ -1810,7 +1925,9 @@
     "Politics",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
@@ -1818,21 +1935,23 @@
    "start": "2027-01-22T17:30",
    "end": "2027-01-22T19:00",
    "allDay": false,
-   "venue": "Faculty of Law",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Friday 22 January 2027 \n\n 5:30pm to 7:00pm\n\n Location: \n\n Faculty of Law\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Lenaerts, Court of Justice of the European Union",
+   "description": "Date/time: \n\n Friday 22 January 2027 \n\n 5:30pm to 7:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Lenaerts, Court of Justice of the European Union",
    "url": "https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171?aff=oddtdtcreator",
    "topics": [
     "Law",
     "International",
     "Rights & Justice"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium",
@@ -1853,7 +1972,9 @@
     "Law",
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "With presentations by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua "
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cflcambridge-socio-legal-group-seminar-evolution-parenthood-brazil-single-parent-stigma",
@@ -1861,19 +1982,21 @@
    "start": "2027-01-25T13:00",
    "end": "2027-01-25T14:00",
    "allDay": false,
-   "venue": "Faculty of Law, G24",
+   "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Monday 25 January 2027 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Professor João Costa-Neto (University of Brasília)\n Abstract: Brazilian family law has undergone a remarkable transformation: from a system built around marriage, biological descent and exclusive parenthood to one increasingly willing to recognise families as they are actually lived. This talk will trace that evolution, focusing on the rise of socioaffective parenthood and the idea that being a parent may result not only from biology, but also from care, responsibility and the social reality of family life. It then explores the most striking consequence of that shift: multiple parenthood, under which biological and socioaffective parents may coexist with equal legal status. Drawing on constitutional change, legal scholarship and recent case law, we will understand how Brazil moved from debating who the “real” parent is to accepting that, in some families, there may be more than one.\n This event is a hybrid event. If you are in Cambridge, please do join us in the Faculty. To attend online you must register via Zoom .\n Register to attend remotely \n Find out more about t",
+   "description": "Date/time: \n\n Monday 25 January 2027 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor João Costa-Neto (University of Brasília)\n Abstract: Brazilian family law has undergone a remarkable transformation: from a system built around marriage, biological descent and exclusive parenthood to one increasingly willing to recognise families as they are actually lived. This talk will trace that evolution, focusing on the rise of socioaffective parenthood and the idea that being a parent may result not only from biology, but also from care, responsibility and the social reality of family life. It then explores the most striking consequence of that shift: multiple parenthood, under which biological and socioaffective parents may coexist with equal legal status. Drawing on constitutional change, legal scholarship and recent case law, we will understand how Brazil moved from debating who the “real” parent is to accepting that, in some families, there may be more than one.\n This event is a hybrid event. If you are in Cambridge, please do join us in the Faculty. To attend online you must register via Zoom .\n Register to attend remote",
    "url": "https://www.law.cam.ac.uk/events/cflcambridge-socio-legal-group-seminar-evolution-parenthood-brazil-single-parent-stigma",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
-   "booking": null,
+   "booking": "https://us02web.zoom.us/webinar/register/WN_DSc1d-YWQsWZRVUM8s5EKg",
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "To attend online you must register via Zoom ."
   },
   {
    "id": "jbs-eei-the-behavioural-economics-of-social-media-bans",
@@ -1893,7 +2016,9 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "open",
+   "accessNote": "No registration required."
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2027-01-cambridge-medical-law-society-medical-negligence-moot-3rd-round",
@@ -1913,7 +2038,9 @@
    "topics": [
     "Law"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-and-tort-law",
@@ -1934,7 +2061,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "talks-273737",
@@ -1954,7 +2083,9 @@
    "topics": [
     "Politics"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-land-law",
@@ -1975,7 +2106,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "talks-273981",
@@ -1996,7 +2129,9 @@
     "Politics",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-ai-law",
@@ -2017,7 +2152,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
@@ -2038,7 +2175,9 @@
     "Law",
     "Policy"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   },
   {
    "id": "jbs-frontier-tech-female-founders-day",
@@ -2054,11 +2193,13 @@
    "url": "https://www.jbs.cam.ac.uk/events/frontier-tech-female-founders-day/",
    "source": "Cambridge Judge Business School",
    "sourceGroup": "Entrepreneurship",
-   "booking": null,
+   "booking": "https://cambridge.eu.qualtrics.com/jfe/form/SV_3sgOLfk7yq0qKcm",
    "topics": [
     "Entrepreneurship"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Registration required"
   },
   {
    "id": "talks-273872",
@@ -2079,7 +2220,9 @@
     "Politics",
     "International"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "",
+   "accessNote": ""
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-human-rights-law",
@@ -2101,7 +2244,9 @@
     "Policy",
     "Rights & Justice"
    ],
-   "alsoListed": []
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
   }
  ]
 }

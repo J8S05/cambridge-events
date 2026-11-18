@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273701@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261117T130000
 DTEND;TZID=Europe/London:20261117T140000
 SUMMARY:Gendered Land Use and Agency in the Brazilian Amazon and Beyond
@@ -50,36 +50,8 @@ DESCRIPTION:Speaker: Leonie Hodel\, University of Cambridge\nPolitical Ecol
  s largely absent from accounts of this expansion. Even where women are 
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-cambridge-international-law-discussion-gr
- oup-eleme@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261118T130000
-DTEND;TZID=Europe/London:20261118T140000
-SUMMARY:Cambridge International Law Discussion Group: 'The Element of Groun
- d in Space Governance'
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/events/cambridge-international-law-discussion
- -group-element-ground-space-governance
-CATEGORIES:Law,International,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
- https://www.law.cam.ac.uk/events/cambridge-international-law-discussion-gr
- oup-element-ground-space-governance\nDate/time: \n\n Wednesday 18 November
-  2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for Inte
- rnational Law\n\n About \n\n Speaker: Yirong Sun (PhD Candidate in Law at 
- Cambridge)\n Has it ever come into your mind that satellites in outer spac
- e are deeply tied to the ground? This session will discuss the plans of a 
- two-year empirical phase (of the PhD project) using archival research\, in
- terviews and participant observation to examine how the ground concentrate
- s and redistributes power in Earth observation/remote sensing satellite mi
- ssions. Where are ground stations located\, how do particular sites become
-  part of space infrastructure\, and how are land uses repurposed or intens
- ified over time? These questions bring into view actors who do not necessa
- rily own satellites themselves but whose land\, infrastructure or regulato
- ry authority helps make satellite operations possible. \n The broad
-END:VEVENT
-BEGIN:VEVENT
 UID:talks-273542@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T113000
 DTEND;TZID=Europe/London:20261119T123000
 SUMMARY:Evidence informed policy and policy informed research for cleaner a
@@ -106,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -134,7 +106,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Policy
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
@@ -144,15 +116,17 @@ URL:https://www.kingselab.org/all-events/soumaya-keynes
 CATEGORIES:Entrepreneurship,Politics,International,Policy
 DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  rship\, Politics\, International\, Policy\nDetails: https://www.kingselab.
- org/all-events/soumaya-keynes\nJoin economist and journalist Soumaya Keyne
- s for a conversation on the forces shaping the global economy. Drawing on 
- her work analysing economic policy\, public affairs\, and international tr
- ends\, Keynes will explore the challenges facing governments\, businesses\
- , and societies in an era of rapid change.
+ org/all-events/soumaya-keynes\nSign-up needed: https://www.eventbrite.co.u
+ k/e/economics-policy-and-the-world-ahead-a-conversation-with-soumaya-keyne
+ s-tickets-1993921385539\nJoin economist and journalist Soumaya Keynes for 
+ a conversation on the forces shaping the global economy. Drawing on her wo
+ rk analysing economic policy\, public affairs\, and international trends\,
+  Keynes will explore the challenges facing governments\, businesses\, and 
+ societies in an era of rapid change.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-from-sustainable-decisions-to-societal-transitions@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261120T140000
 DTEND;TZID=Europe/London:20261120T153000
 SUMMARY:From sustainable decisions to societal transitions: the psychology 
@@ -169,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law
  -torts-an@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261120T160000
 DTEND;TZID=Europe/London:20261120T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Civil Law Torts and Climate C
@@ -180,23 +154,23 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-civil-
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-civil-law-torts-and-clima
- te-change\nDate/time: \n\n Friday 20 November 2026 \n\n 4:00pm to 5:00pm\n
- \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Elbe
- rt de Jong (Full Professor of Private Law at Utrecht University\, The Neth
- erlands)\n Climate change is rapidly entering the domain of tort law. This
-  development is driven by regulation and litigation\, advances in climate 
- science\, and the increasingly tangible impacts of climate change on inter
- ests protected by private law.\n With a focus on European jurisdictions\, 
- this seminar examines the doctrinal and institutional challenges involved 
- in developing and allocating climate change-related responsibility and lia
- bility among private actors.\n The Cambridge Seminar Series on Law and the
-  Climate Crisis explores the vital role of legal systems in tackling one o
- f the most pressing issues of our time.\n This series brings together top 
- experts in law and climate action to discus
+ te-change\nSign-up needed\nDate/time: \n\n Friday 20 November 2026 \n\n 4:
+ 00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n
+ \n Speaker: Elbert de Jong (Full Professor of Private Law at Utrecht Unive
+ rsity\, The Netherlands)\n Climate change is rapidly entering the domain o
+ f tort law. This development is driven by regulation and litigation\, adva
+ nces in climate science\, and the increasingly tangible impacts of climate
+  change on interests protected by private law.\n With a focus on European 
+ jurisdictions\, this seminar examines the doctrinal and institutional chal
+ lenges involved in developing and allocating climate change-related respon
+ sibility and liability among private actors.\n The Cambridge Seminar Serie
+ s on Law and the Climate Crisis explores the vital role of legal systems i
+ n tackling one of the most pressing issues of our time.\n This series brin
+ gs together top experts in law and climate action to discus
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-book-presentation-the-inclusive-wealth-of-nations@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261123T163000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Book presentation: The Inclusive Wealth of Nations: Prosperity\, Su
@@ -207,13 +181,13 @@ URL:https://www.jbs.cam.ac.uk/events/book-presentation-the-inclusive-wealth
 CATEGORIES:Policy
 DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
  nars Research seminars\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk
- /events/book-presentation-the-inclusive-wealth-of-nations/\nJoin our Energ
- y & Environment seminar with Eoin McLaughlin\, Professor of Economics\, He
- riot-Watt University.
+ /events/book-presentation-the-inclusive-wealth-of-nations/\nNo sign-up nee
+ ded\nJoin our Energy & Environment seminar with Eoin McLaughlin\, Professo
+ r of Economics\, Heriot-Watt University.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-uk-digital-economics-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Fifth workshop on UK digital economics
@@ -222,13 +196,13 @@ LOCATION:McGrath Centre St Catharine's College Cambridge CB2 1DS The UK –
 URL:https://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/
 CATEGORIES:Policy
 DESCRIPTION:Bennett School of Public Policy\nTopics: Policy\nDetails: https
- ://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/\nThe UK 
- – Researcher Practitioner Network for the Economics of Digitization is p
- leased to present the 5th Workshop on Digital Economics.
+ ://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/\nSign-up 
+ needed\nThe UK – Researcher Practitioner Network for the Economics of Di
+ gitization is pleased to present the 5th Workshop on Digital Economics.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -257,35 +231,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
  Navigate Regulatory Complexity in the Digital Landscape'
-LOCATION:Faculty of Law\, B16
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-unde
  r-eu-ai-act-how-firms-navigate-regulatory-complexity
 CATEGORIES:Law,International,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
  https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-e
- u-ai-act-how-firms-navigate-regulatory-complexity\nDate/time: \n\n Wednesd
- ay 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of La
- w\, B16\n\n About \n\n Speaker : Professor Pablo Baquero\, HEC Paris\n Bi
- ography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and 
- a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intellig
- ence for Science\, Business and Society. He is a member of the Smart Law H
- ub at HEC Paris\, is involved in different interdisciplinary academic comm
- unities focused on law and technology and collaborates closely with schola
- rs across different disciplines\, in projects at the intersection between 
- law and AI.  His scholarly interests are in the fields of law and technol
- ogy (particularly law and artificial intelligence and smart contracts)\, p
- rivate law and international business transactions. His perspective is com
- parative and interdisciplinary\, considering the intersection of law with 
- computer sci
+ u-ai-act-how-firms-navigate-regulatory-complexity\nSign-up only to join on
+ line: https://cam-ac-uk.zoom.us/webinar/register/WN_jROFaE58SGGjH7XBoHjIrA
+ \nDate/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Loc
+ ation: \n\n Faculty of Law\, David Williams Building\n\n B16\n\n About \n\
+ n Speaker : Professor Pablo Baquero\, HEC Paris\n Biography : Pablo Marc
+ ello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! P
+ aris Center on Data Analytics and Artificial Intelligence for Science\, Bu
+ siness and Society. He is a member of the Smart Law Hub at HEC Paris\, is 
+ involved in different interdisciplinary academic communities focused on la
+ w and technology and collaborates closely with scholars across different d
+ isciplines\, in projects at the intersection between law and AI.  His sch
+ olarly interests are in the fields of law and technology (particularly law
+  and artificial intelligence and smart contracts)\, private law and intern
+ ational business transactions. His perspective is comparative and interdis
+ ciplinary\, considering the intersectio
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-inside-a-frontier-tech-scale-up@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261125T150000
 DTEND;TZID=Europe/London:20261125T170000
 SUMMARY:A first conversation inside a frontier tech scale up: AI\, quantum 
@@ -302,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-cha
  nge-natio@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -313,20 +288,21 @@ URL:https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-cou
- rts-promising-route\nDate/time: \n\n Thursday 26 November 2026 \n\n 3:00pm
-  to 4:00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\n\n 
- About \n\n Speaker: Professor Andreas Paulus (Professor\, Chair of Public 
- and International Law\, University of Göttingen)\n The Cambridge Centre f
- or Environment\, Energy\, and Natural Resource Governance (C-EENRG) is hos
- ting a seminar series throughout the 2026-27 academic year.\n Many semina
- rs take place as hybrid meetings (in person seminars in the DAB - David At
- tenborough Building  + online in Zoom) every Thursday (please check preci
- se date and time as may vary) during the term. Please refer to the Land E
- conomy website for more details and online registration.
+ rts-promising-route\nSign-up needed: https://forms.office.com/e/K4QaYcz4mi
+ \nDate/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Loca
+ tion: \n\n David Attenborough Building\, Room 1.25\n\n About \n\n Speaker:
+  Professor Andreas Paulus (Professor\, Chair of Public and International L
+ aw\, University of Göttingen)\n The Cambridge Centre for Environment\, En
+ ergy\, and Natural Resource Governance (C-EENRG) is hosting a seminar seri
+ es throughout the 2026-27 academic year.\n Many seminars take place as hy
+ brid meetings (in person seminars in the DAB - David Attenborough Building
+   + online in Zoom) every Thursday (please check precise date and time as
+  may vary) during the term. Please refer to the Land Economy website for 
+ more details and online registration.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -337,17 +313,19 @@ URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
 CATEGORIES:Law,International,Policy,Entrepreneurship
 DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
  Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nDrawing on her experience as an e
- ntrepreneur\, legislator and board member\, Martha Lane Fox will explore w
- hat AI could mean for the next 50 years\, including its effects on work\, 
- business\, entrepreneurial opportunity\, existing institutions\, culture\,
-  security and defence. Chaired by Prof Diane Coyle\, Bennett Professor of 
- Public Policy\, University of Cambridge.
+ ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
+ brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
+ -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
+ islator and board member\, Martha Lane Fox will explore what AI could mean
+  for the next 50 years\, including its effects on work\, business\, entrep
+ reneurial opportunity\, existing institutions\, culture\, security and def
+ ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
+ niversity of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -358,23 +336,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-attributio
- n-science-can-it-establish\nDate/time: \n\n Friday 27 November 2026 \n\n 4
- :00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \
- n\n Speaker: Dr Rupert Stuart-Smith (Deputy Director and Senior Research F
- ellow in Climate Science and the Law at the Oxford Sustainable Law Program
- me\, University of Oxford)\n Two decades of attribution research have shed
-  light on the impacts of climate change occurring worldwide. The first wav
- e of attribution research quantified climate change impacts on the intensi
- ty and probability of extreme weather events and slow-onset changes in gla
- ciers and sea levels. Over the past decade\, impact attribution studies ha
- ve extended these methods to assess the attributable impacts of extreme ev
- ents on agriculture\, health\, economic losses and biodiversity. Concurren
- tly\, source attribution research quantified individual emitters’ contri
- butions to climate change impacts.\n Steady progress towards 
+ n-science-can-it-establish\nSign-up needed\nDate/time: \n\n Friday 27 Nove
+ mber 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Buil
+ ding\n\n About \n\n Speaker: Dr Rupert Stuart-Smith (Deputy Director and S
+ enior Research Fellow in Climate Science and the Law at the Oxford Sustain
+ able Law Programme\, University of Oxford)\n Two decades of attribution re
+ search have shed light on the impacts of climate change occurring worldwid
+ e. The first wave of attribution research quantified climate change impact
+ s on the intensity and probability of extreme weather events and slow-onse
+ t changes in glaciers and sea levels. Over the past decade\, impact attrib
+ ution studies have extended these methods to assess the attributable impac
+ ts of extreme events on agriculture\, health\, economic losses and biodive
+ rsity. Concurrently\, source attribution research quantified individual em
+ itters’ contributions to climate change impacts.\n Steady progress towar
+ ds 
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -384,12 +363,12 @@ URL:https://www.jbs.cam.ac.uk/events/public-control-of-energy/
 CATEGORIES:Policy
 DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
  p (EPRG) Energy and Environment seminars\nTopics: Policy\nDetails: https:/
- /www.jbs.cam.ac.uk/events/public-control-of-energy/\nJoin our Energy Polic
- y Research Group seminar with Dr Stephen Hall.
+ /www.jbs.cam.ac.uk/events/public-control-of-energy/\nNo sign-up needed\nJo
+ in our Energy Policy Research Group seminar with Dr Stephen Hall.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -399,14 +378,14 @@ URL:https://www.jbs.cam.ac.uk/events/the-value-of-codifying-organisational-
 CATEGORIES:Policy
 DESCRIPTION:Economics and Policy seminar series On-campus events Research s
  eminars\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk/events/the-val
- ue-of-codifying-organisational-knowledge/\nJoin our Economics and Policy s
- eminar with Eduard Talamàs of IESE Business School\, University of Navarr
- a.
+ ue-of-codifying-organisational-knowledge/\nNo sign-up needed\nJoin our Eco
+ nomics and Policy seminar with Eduard Talamàs of IESE Business School\, U
+ niversity of Navarra.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -417,21 +396,22 @@ URL:https://www.law.cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying-climate-ethics-pol
- icy-methodology\nDate/time: \n\n Thursday 3 December 2026 \n\n 3:00pm to 4
- :00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\n\n About
-  \n\n Speaker: Kevin Le Merle (FWO PhD Fellow\, Department of Political an
- d Social Sciences\, Ghent University\, and United Nations University Insti
- tute of Comparative Regional Integration Studies (UNU-CRIS))\n The Cambrid
- ge Centre for Environment\, Energy\, and Natural Resource Governance (C-EE
- NRG) is hosting a seminar series throughout the 2026-27 academic year.\n 
- Many seminars take place as hybrid meetings (in person seminars in the DAB
-  - David Attenborough Building  + online in Zoom) every Thursday (please 
- check precise date and time as may vary) during the term. Please refer to
-  the Land Economy website for more details and online registration.
+ icy-methodology\nSign-up needed: https://forms.office.com/e/K4QaYcz4mi\nDa
+ te/time: \n\n Thursday 3 December 2026 \n\n 3:00pm to 4:00pm\n\n Location:
+  \n\n David Attenborough Building\, Room 1.25\n\n About \n\n Speaker: Kevi
+ n Le Merle (FWO PhD Fellow\, Department of Political and Social Sciences\,
+  Ghent University\, and United Nations University Institute of Comparative
+  Regional Integration Studies (UNU-CRIS))\n The Cambridge Centre for Envir
+ onment\, Energy\, and Natural Resource Governance (C-EENRG) is hosting a s
+ eminar series throughout the 2026-27 academic year.\n Many seminars take 
+ place as hybrid meetings (in person seminars in the DAB - David Attenborou
+ gh Building  + online in Zoom) every Thursday (please check precise date 
+ and time as may vary) during the term. Please refer to the Land Economy w
+ ebsite for more details and online registration.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -456,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -466,13 +446,13 @@ URL:https://www.jbs.cam.ac.uk/events/research-showcase-climate-adaptation-i
 CATEGORIES:Policy
 DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
  nars Research seminars\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk
- /events/research-showcase-climate-adaptation-in-small-island-states/\nJoin
-  our Energy & Environment seminar with Mehmet Murat Çobanoğlu and Teddy 
- Carmichael of the University of Cambridge.
+ /events/research-showcase-climate-adaptation-in-small-island-states/\nNo s
+ ign-up needed\nJoin our Energy & Environment seminar with Mehmet Murat Ço
+ banoğlu and Teddy Carmichael of the University of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -498,7 +478,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -508,14 +488,14 @@ URL:https://www.jbs.cam.ac.uk/events/eei-the-behavioural-economics-of-socia
 CATEGORIES:Policy
 DESCRIPTION:El-Erian Institute of Behavioural Economics and Policy events O
  n-campus events\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk/events
- /eei-the-behavioural-economics-of-social-media-bans/\nWish that social med
- ia didn't exist? Join us to discuss social media bans and preferences with
-  Professor Cass R Sunstein\, Harvard University.
+ /eei-the-behavioural-economics-of-social-media-bans/\nNo sign-up needed\nW
+ ish that social media didn't exist? Join us to discuss social media bans a
+ nd preferences with Professor Cass R Sunstein\, Harvard University.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -524,25 +504,25 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-change
  -and-tort-law
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
- cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law\nDate
- /time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\
- n David Attenborough Building\n\n About \n\n Speaker: Lord Philip Sales (U
- nited Kingdom Supreme Court)\n The Cambridge Seminar Series on Law and the
-  Climate Crisis explores the vital role of legal systems in tackling one o
- f the most pressing issues of our time.\n This series brings together top 
- experts in law and climate action to discuss how climate change interacts 
- with specific areas of law\, setting out both how legal fields are being i
- mpacted by climate change and how the law can help drive climate action.\n
-  The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted b
- y the Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the 
- Centre for Environment\, Energy and Natural Resource Governance (CEENRG)\,
-  the Cambridge Climate Society\, the Lauterpacht Centre for International 
- Law\, and the Net Zero Lawyers
+ cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law\nSign
+ -up needed\nDate/time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n
+ \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Lord
+  Philip Sales (United Kingdom Supreme Court)\n The Cambridge Seminar Serie
+ s on Law and the Climate Crisis explores the vital role of legal systems i
+ n tackling one of the most pressing issues of our time.\n This series brin
+ gs together top experts in law and climate action to discuss how climate c
+ hange interacts with specific areas of law\, setting out both how legal fi
+ elds are being impacted by climate change and how the law can help drive c
+ limate action.\n The Cambridge Seminar Series on Law and the Climate Crisi
+ s is co-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambr
+ idge Zero\, the Centre for Environment\, Energy and Natural Resource Gover
+ nance (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre fo
+ r International Law\, and the Net Zero Lawyers
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -552,24 +532,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-land-l
- aw\nDate/time: \n\n Friday 12 February 2027 \n\n 4:00pm to 5:00pm\n\n Loca
- tion: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr Rhiannon
-  Ogden-Jones (University of Cambridge)\n The Cambridge Seminar Series on L
- aw and the Climate Crisis explores the vital role of legal systems in tack
- ling one of the most pressing issues of our time.\n This series brings tog
- ether top experts in law and climate action to discuss how climate change 
- interacts with specific areas of law\, setting out both how legal fields a
- re being impacted by climate change and how the law can help drive climate
-  action.\n The Cambridge Seminar Series on Law and the Climate Crisis is c
- o-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambridge Z
- ero\, the Centre for Environment\, Energy and Natural Resource Governance 
- (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre for Inte
- rnational Law\, and the Net Zero Lawye
+ aw\nSign-up needed\nDate/time: \n\n Friday 12 February 2027 \n\n 4:00pm to
+  5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Spea
+ ker: Dr Rhiannon Ogden-Jones (University of Cambridge)\n The Cambridge Sem
+ inar Series on Law and the Climate Crisis explores the vital role of legal
+  systems in tackling one of the most pressing issues of our time.\n This s
+ eries brings together top experts in law and climate action to discuss how
+  climate change interacts with specific areas of law\, setting out both ho
+ w legal fields are being impacted by climate change and how the law can he
+ lp drive climate action.\n The Cambridge Seminar Series on Law and the Cli
+ mate Crisis is co-hosted by the Centre for Climate Engagement at Hughes Ha
+ ll\, Cambridge Zero\, the Centre for Environment\, Energy and Natural Reso
+ urce Governance (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht
+  Centre for International Law\, and the Net Zero Lawye
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -579,24 +559,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-ai-law
- \nDate/time: \n\n Friday 19 February 2027 \n\n 4:00pm to 5:00pm\n\n Locati
- on: \n\n David Attenborough Building\n\n About \n\n Speaker: Giulia Trojan
- o (Hausfeld)\n The Cambridge Seminar Series on Law and the Climate Crisis 
- explores the vital role of legal systems in tackling one of the most press
- ing issues of our time.\n This series brings together top experts in law a
- nd climate action to discuss how climate change interacts with specific ar
- eas of law\, setting out both how legal fields are being impacted by clima
- te change and how the law can help drive climate action.\n The Cambridge S
- eminar Series on Law and the Climate Crisis is co-hosted by the Centre for
-  Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Envir
- onment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge C
- limate Society\, the Lauterpacht Centre for International Law\, and the Ne
- t Zero Lawyers Alliance.\n For more i
+ \nSign-up needed\nDate/time: \n\n Friday 19 February 2027 \n\n 4:00pm to 5
+ :00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speake
+ r: Giulia Trojano (Hausfeld)\n The Cambridge Seminar Series on Law and the
+  Climate Crisis explores the vital role of legal systems in tackling one o
+ f the most pressing issues of our time.\n This series brings together top 
+ experts in law and climate action to discuss how climate change interacts 
+ with specific areas of law\, setting out both how legal fields are being i
+ mpacted by climate change and how the law can help drive climate action.\n
+  The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted b
+ y the Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the 
+ Centre for Environment\, Energy and Natural Resource Governance (CEENRG)\,
+  the Cambridge Climate Society\, the Lauterpacht Centre for International 
+ Law\, and the Net Zero Lawyers Alliance.\n For more i
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -607,24 +587,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-compar
- ative-law\nDate/time: \n\n Friday 26 February 2027 \n\n 4:00pm to 5:00pm\n
- \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr I
- vano Alogna (British Institute for International and Comparative Law)\n Th
- e Cambridge Seminar Series on Law and the Climate Crisis explores the vita
- l role of legal systems in tackling one of the most pressing issues of our
-  time.\n This series brings together top experts in law and climate action
-  to discuss how climate change interacts with specific areas of law\, sett
- ing out both how legal fields are being impacted by climate change and how
-  the law can help drive climate action.\n The Cambridge Seminar Series on 
- Law and the Climate Crisis is co-hosted by the Centre for Climate Engageme
- nt at Hughes Hall\, Cambridge Zero\, the Centre for Environment\, Energy a
- nd Natural Resource Governance (CEENRG)\, the Cambridge Climate Society\, 
- the Lauterpacht Centre for International Law
+ ative-law\nSign-up needed\nDate/time: \n\n Friday 26 February 2027 \n\n 4:
+ 00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n
+ \n Speaker: Dr Ivano Alogna (British Institute for International and Compa
+ rative Law)\n The Cambridge Seminar Series on Law and the Climate Crisis e
+ xplores the vital role of legal systems in tackling one of the most pressi
+ ng issues of our time.\n This series brings together top experts in law an
+ d climate action to discuss how climate change interacts with specific are
+ as of law\, setting out both how legal fields are being impacted by climat
+ e change and how the law can help drive climate action.\n The Cambridge Se
+ minar Series on Law and the Climate Crisis is co-hosted by the Centre for 
+ Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Enviro
+ nment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge Cl
+ imate Society\, the Lauterpacht Centre for International Law
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ
@@ -635,18 +615,19 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy,Rights & Justice
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\, Rights & Justice\nDetail
  s: https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
- e-change-and-human-rights-law\nDate/time: \n\n Friday 12 March 2027 \n\n 4
- :00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \
- n\n Speaker: Professor Annalisa Savaresi (University of Eastern Finland an
- d University of Stirling)\n The Cambridge Seminar Series on Law and the Cl
- imate Crisis explores the vital role of legal systems in tackling one of t
- he most pressing issues of our time.\n This series brings together top exp
- erts in law and climate action to discuss how climate change interacts wit
- h specific areas of law\, setting out both how legal fields are being impa
- cted by climate change and how the law can help drive climate action.\n Th
- e Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by t
- he Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the Cen
- tre for Environment\, Energy and Natural Resource Governance (CEENRG)\, th
- e Cambridge Climate Society\, the Lauterpacht Centre for Interna
+ e-change-and-human-rights-law\nSign-up needed\nDate/time: \n\n Friday 12 M
+ arch 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Buil
+ ding\n\n About \n\n Speaker: Professor Annalisa Savaresi (University of Ea
+ stern Finland and University of Stirling)\n The Cambridge Seminar Series o
+ n Law and the Climate Crisis explores the vital role of legal systems in t
+ ackling one of the most pressing issues of our time.\n This series brings 
+ together top experts in law and climate action to discuss how climate chan
+ ge interacts with specific areas of law\, setting out both how legal field
+ s are being impacted by climate change and how the law can help drive clim
+ ate action.\n The Cambridge Seminar Series on Law and the Climate Crisis i
+ s co-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambridg
+ e Zero\, the Centre for Environment\, Energy and Natural Resource Governan
+ ce (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre for I
+ nterna
 END:VEVENT
 END:VCALENDAR

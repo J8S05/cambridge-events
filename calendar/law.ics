@@ -25,65 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-cambridge-comparative-constitutional-law-
- discussio@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261118T130000
-DTEND;TZID=Europe/London:20261118T140000
-SUMMARY:Cambridge Comparative Constitutional Law Discussion Group (CCCLDG) 
- Work-in-Progress Session: 'Contested Pathways to Citizenship: A Comparison
-  of Taiwan’s Investor Residence Scheme and UK BNO Visa Scheme for Hong K
- ongers'
-LOCATION:Online webinar
-URL:https://www.law.cam.ac.uk/events/cambridge-comparative-constitutional-l
- aw-discussion-group-cccldg-work-progress-session-0
-CATEGORIES:Law,Politics,International,Entrepreneurship
-DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Entrep
- reneurship\nDetails: https://www.law.cam.ac.uk/events/cambridge-comparativ
- e-constitutional-law-discussion-group-cccldg-work-progress-session-0\nDate
- /time: \n\n Wednesday 18 November 2026 \n\n 1:00pm to 2:00pm\n\n Location:
-  \n\n Online webinar\n\n Sign up\n\n About \n\n Speaker: Yi-Chen Huang (Ac
- ademia Sinica)\n The Cambridge Comparative Constitutional Law Discussion G
- roup (CCCLDG)\, co-convened by Zheng Hong See and Even Y. Chao.\n CCCLDG i
- s a forum that brings together graduate students interested in comparative
-  constitutional law and public law in general to discuss recent works and 
- developments in comparative constitutional law.\n Please join the mailing 
- list to receive updates and details of CCCLDG events.\n Convenors of CCCLD
- G 2026-27: Zheng Hong See ( zhs23@cam.ac.uk ) and Even Y. Chao ( yyc41@cam
- .ac.uk ).
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-cambridge-international-law-discussion-gr
- oup-eleme@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261118T130000
-DTEND;TZID=Europe/London:20261118T140000
-SUMMARY:Cambridge International Law Discussion Group: 'The Element of Groun
- d in Space Governance'
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/events/cambridge-international-law-discussion
- -group-element-ground-space-governance
-CATEGORIES:Law,International,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
- https://www.law.cam.ac.uk/events/cambridge-international-law-discussion-gr
- oup-element-ground-space-governance\nDate/time: \n\n Wednesday 18 November
-  2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for Inte
- rnational Law\n\n About \n\n Speaker: Yirong Sun (PhD Candidate in Law at 
- Cambridge)\n Has it ever come into your mind that satellites in outer spac
- e are deeply tied to the ground? This session will discuss the plans of a 
- two-year empirical phase (of the PhD project) using archival research\, in
- terviews and participant observation to examine how the ground concentrate
- s and redistributes power in Earth observation/remote sensing satellite mi
- ssions. Where are ground stations located\, how do particular sites become
-  part of space infrastructure\, and how are land uses repurposed or intens
- ified over time? These questions bring into view actors who do not necessa
- rily own satellites themselves but whose land\, infrastructure or regulato
- ry authority helps make satellite operations possible. \n The broad
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-clas-event-prisons-pollution-and-justice-
  infrastru@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261118T170000
 DTEND;TZID=Europe/London:20261118T180000
 SUMMARY:CLAS Event: 'Prisons\, Pollution\, and Justice: Infrastructural Vio
@@ -111,30 +55,30 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\, Criminology\nD
  he City and Prison 
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-private-law-seminar-series-
- what-reme@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-private-law-seminar-series-what-remedial-
+ construct@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T130000
 DTEND;TZID=Europe/London:20261119T140000
 SUMMARY:Private Law Seminar Series: 'What is a Remedial Constructive Trust?
  '
-LOCATION:Faculty of Law\, G24
-URL:https://www.law.cam.ac.uk/press/events/2026/11/private-law-seminar-seri
- es-what-remedial-constructive-trust
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/private-law-seminar-series-what-remedi
+ al-constructive-trust
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/private-law-seminar-series-what-remedial-constructiv
- e-trust\nDate/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n
- \n Location: \n\n Faculty of Law\, G24\n\n About \n\n Speaker: Professor W
- illiam Swadling (University of Oxford)\n Note: Sandwiches served in G24 be
- tween 12.30pm and 1pm\; seminar to commence in the G24 at 1pm.\n This semi
- nar is open to all LLM\, MCL and PhD students\, Faculty members and Facult
- y visitors.
+ /events/private-law-seminar-series-what-remedial-constructive-trust\nNo si
+ gn-up needed\nDate/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:0
+ 0pm\n\n Location: \n\n Faculty of Law\, David Williams Building\n\n G24\n\
+ n About \n\n Speaker: Professor William Swadling (University of Oxford)\n 
+ Note: Sandwiches served in G24 between 12.30pm and 1pm\; seminar to commen
+ ce in the G24 at 1pm.\n This seminar is open to all LLM\, MCL and PhD stud
+ ents\, Faculty members and Faculty visitors.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-internation
  al-law-sc@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T150000
 DTEND;TZID=Europe/London:20261119T160000
 SUMMARY:CEENRG Seminars: 'How Safe is Safe? International Law at the Scienc
@@ -146,25 +90,26 @@ URL:https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-internat
 CATEGORIES:Law,International
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
  ww.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-sc
- ience-norm-interface-controversy-over\nDate/time: \n\n Thursday 19 Novembe
- r 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Buildin
- g\, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr Miharu Hirano (Associ
- ate Professor\, Graduate School of Law\, Kobe University)\n Assessing the 
- safety of water for human health and the environment is not a purely scie
- ntific inquiry\; rather\, determining an acceptable level of risk is inex
- tricably linked to normative value judgments. How effectively internation
- al law guides States through such complex issues is frequently tested in
-  novel contexts lacking clear precedent. Japan’s discharge of tritium-c
- ontaining ‘ALPS-treated water’ offers an interesting case study\, not
-  only for the global attention it has attracted\, but also for the import
- ant legal questions it has raised. \n The Cambridge Centre for Environment
- \, Energy\, and Natural Resource Governance (C-EENRG) is hosting a seminar
-  series througho
+ ience-norm-interface-controversy-over\nSign-up needed: https://forms.cloud
+ .microsoft/e/9tuK2dMhaP\nDate/time: \n\n Thursday 19 November 2026 \n\n 3:
+ 00pm to 4:00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\
+ n\n Sign up\n\n About \n\n Speaker: Dr Miharu Hirano (Associate Professor\
+ , Graduate School of Law\, Kobe University)\n Assessing the safety of wate
+ r for human health and the environment is not a purely scientific inquiry
+ \; rather\, determining an acceptable level of risk is inextricably linke
+ d to normative value judgments. How effectively international law guides
+  States through such complex issues is frequently tested in novel context
+ s lacking clear precedent. Japan’s discharge of tritium-containing ‘A
+ LPS-treated water’ offers an interesting case study\, not only for the 
+ global attention it has attracted\, but also for the important legal ques
+ tions it has raised. \n The Cambridge Centre for Environment\, Energy\, an
+ d Natural Resource Governance (C-EENRG) is hosting a seminar series throug
+ ho
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-ma
  king-succ@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T150000
 DTEND;TZID=Europe/London:20261119T160000
 SUMMARY:Qualifying as a barrister and making successful pupillage applicati
@@ -192,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -219,93 +164,91 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Policy
  ssays in the English language entitled “A Human
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-beyon
- d-sync-co@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-cipil-evening-seminar-beyond-sync-copyrig
+ ht-collec@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:CIPIL Evening Seminar: 'Beyond Sync: Copyright\, Collective Managem
  ent and the Licensing of Music in Interactive Games'
-LOCATION:Faculty of Law\, G24
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-be
- yond-sync-copyright-collective-management-and-licensing-music-interactive
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cipil-evening-seminar-beyond-sync-copy
+ right-collective-management-and-licensing-music
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/cipil-evening-seminar-beyond-sync-copyright-collecti
- ve-management-and-licensing-music-interactive\nDate/time: \n\n Thursday 19
-  November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law\, G
- 24\n\n About \n\n Speaker: Professor Sabine Jacques\, University of Liver
- pool\n Abstract: Music licensing for video games remains modelled on film
-  and television synchronisation\, a framework premised on a fixed recordin
- g matched to a fixed sequence of images. Contemporary games increasingly d
- epart from that premise: scores adapt to player state\, generative systems
-  produce a different rendition on each playthrough\, spatial audio makes t
- he player's movement part of the performance\, and persistent shared world
- s turn listening into a collective\, networked activity. This lecture exa
- mines the doctrinal and structural consequences of that shift. It consider
- s:how far adaptive and generative uses engage the rights of reproduction a
- nd adaptation\, and the author's moral right to object to derogatory treat
- ment\; whe
+ /events/cipil-evening-seminar-beyond-sync-copyright-collective-management-
+ and-licensing-music\nDate/time: \n\n Thursday 19 November 2026 \n\n 5:30pm
+  to 6:30pm\n\n Location: \n\n Faculty of Law\, David Williams Building\n\n
+  G24\n\n About \n\n Speaker: Professor Sabine Jacques\, University of Liv
+ erpool\n Abstract: Music licensing for video games remains modelled on fi
+ lm and television synchronisation\, a framework premised on a fixed record
+ ing matched to a fixed sequence of images. Contemporary games increasingly
+  depart from that premise: scores adapt to player state\, generative syste
+ ms produce a different rendition on each playthrough\, spatial audio makes
+  the player's movement part of the performance\, and persistent shared wor
+ lds turn listening into a collective\, networked activity. This lecture e
+ xamines the doctrinal and structural consequences of that shift. It consid
+ ers:how far adaptive and generative uses engage the rights of reproduction
+  and adaptation\, and the author's moral right to object to
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-legal-theory-disc
- ussion-gr@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
+ ltdg-can-@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T181500
 DTEND;TZID=Europe/London:20261119T191500
 SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Can Criminal Conv
  ersations Be Genuine?'
-LOCATION:Faculty of Law\, G28 (The Beckwith Moot Court Room)
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cambridge-legal-theory-d
- iscussion-group-cltdg-can-criminal-conversations-be-genuine
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-grou
+ p-cltdg-can-criminal-conversations-be-genuine
 CATEGORIES:Law,Criminology
 DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
- .law.cam.ac.uk/press/events/2026/11/cambridge-legal-theory-discussion-grou
- p-cltdg-can-criminal-conversations-be-genuine\nDate/time: \n\n Thursday 19
-  November 2026 \n\n 6:15pm to 7:15pm\n\n Location: \n\n Faculty of Law\, G
- 28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Joaquin Casalia 
- (LSE)\n Abstract: Most legal academics analysing populism focus exclusivel
- y on formal legal changes. Some even suggest that constitutional scholars 
- should keep in mind that it is more important to see what populists are do
- ing than what they are saying. However\, we act with words. As language ph
- ilosopher J.L. Austin demonstrated\, to say something is usually to do a n
- umber of things.\n Currently\, democratic guardrails of constitutions are 
- undermined not only by amendments to its provisions but also by political 
- actors making them ‘dead letter.’ Speech act theory in general\, and f
- eminist philosophy of language in particular\, provide valuable tools to e
- xplain (i) how populism can use speech to silence institutions and the opp
- osition\, 
+ .law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-can-cr
+ iminal-conversations-be-genuine\nDate/time: \n\n Thursday 19 November 2026
+  \n\n 6:15pm to 7:15pm\n\n Location: \n\n Faculty of Law\, David Williams 
+ Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Jo
+ aquin Casalia (LSE)\n Abstract: Most legal academics analysing populism fo
+ cus exclusively on formal legal changes. Some even suggest that constituti
+ onal scholars should keep in mind that it is more important to see what po
+ pulists are doing than what they are saying. However\, we act with words. 
+ As language philosopher J.L. Austin demonstrated\, to say something is usu
+ ally to do a number of things.\n Currently\, democratic guardrails of cons
+ titutions are undermined not only by amendments to its provisions but also
+  by political actors making them ‘dead letter.’ Speech act theory in g
+ eneral\, and feminist philosophy of language in particular\, provide valua
+ ble tools to explain (i) how populism can use speech to silence institu
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-age-ai-interdisciplinary-dialogue@cam
  bridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261119T190000
 DTEND;TZID=Europe/London:20261119T203000
 SUMMARY:Law in the Age of AI: An Interdisciplinary Dialogue
-LOCATION:David Williams Building\, Faculty of Law
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/law-age-ai-interdisciplinary-dialogue
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /events/law-age-ai-interdisciplinary-dialogue\nCambridge University AI in 
- Law Society (CUAILS)\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:
- 00pm to 8:30pm\n\n Location: \n\n David Williams Building\, Faculty of Law
- \n\n LG18\n\n Open map \n\n Sign up\n\n About \n\n This is the inaugural e
- vent of the Cambridge University AI in Law Society (CUAILS)\, a newly esta
- blished society recognised by the Faculty of Law!\n As artificial intellig
- ence continues to reshape the legal landscape\, what opportunities and cha
- llenges lie ahead for legal research\, regulation\, and practice? How migh
- t AI transform the legal profession\, and how should the law respond to th
- ese technological developments?\n Bringing together distinguished speakers
-  from academia\, public policy\, the technology industry\, and legal pract
- ice\, our inaugural panel will explore these questions from a range of int
- erdisciplinary perspectives.\n We are honoured to welcome:\n Dr Christoph 
- Winter – Assistant 
+ /events/law-age-ai-interdisciplinary-dialogue\nSign-up needed: https://for
+ ms.gle/my5VfW5iGLEgzFrS6\nCambridge University AI in Law Society (CUAILS)\
+ n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:00pm to 8:30pm\n\n Lo
+ cation: \n\n Faculty of Law\, David Williams Building\n\n LG18\n\n Open ma
+ p \n\n Sign up\n\n About \n\n This is the inaugural event of the Cambridge
+  University AI in Law Society (CUAILS)\, a newly established society recog
+ nised by the Faculty of Law!\n As artificial intelligence continues to res
+ hape the legal landscape\, what opportunities and challenges lie ahead for
+  legal research\, regulation\, and practice? How might AI transform the le
+ gal profession\, and how should the law respond to these technological dev
+ elopments?\n Bringing together distinguished speakers from academia\, publ
+ ic policy\, the technology industry\, and legal practice\, our inaugural p
+ anel will explore these questions from a range of interdisciplinary perspe
+ ctives.\n We are honoured to welcome:\n Dr Christoph Winter – Assistant 
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -317,24 +260,26 @@ URL:https://www.law.cam.ac.uk/events/eli-lauterpacht-lecture-2026-tensions-
 CATEGORIES:Law,Politics
 DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
  w.cam.ac.uk/events/eli-lauterpacht-lecture-2026-tensions-between-political
- -and-legal-dimensions-settlement\nDate/time: \n\n Friday 20 November 2026 
- \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for Internatio
- nal Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if 
- attending online   Gabrielle Kaufmann-Kohler is Professor Emerita at Gene
- va University Law School and founder\, former director\, and a current fac
- ulty member of the Geneva LL.M. in International Dispute Settlement (MIDS)
- . She is also a Visiting Professor at different universities\, including N
- ational University of Singapore\, Tsinghua University in Beijing\, Science
- s Po Paris\, and a frequent lecturer in all regions of the world.\n She is
-  a Founding Partner of LKK Arbitration (formerly Lévy Kaufmann-Kohler)\, 
- where she practices international investment and commercial arbitration\, 
- and in the past also sports arbitration. She has acted in over 280 interna
- tional arbitrations\, mainly as arbitrator and predominantly as chair. S
+ -and-legal-dimensions-settlement\nSign-up only to join online: https://cam
+ -ac-uk.zoom.us/webinar/register/WN_b3pBZkpHT5meSMH3HTB3qQ\nDate/time: \n\n
+  Friday 20 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpa
+ cht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Abo
+ ut \n\n Register here if attending online   Gabrielle Kaufmann-Kohler is 
+ Professor Emerita at Geneva University Law School and founder\, former dir
+ ector\, and a current faculty member of the Geneva LL.M. in International 
+ Dispute Settlement (MIDS). She is also a Visiting Professor at different u
+ niversities\, including National University of Singapore\, Tsinghua Univer
+ sity in Beijing\, Sciences Po Paris\, and a frequent lecturer in all regio
+ ns of the world.\n She is a Founding Partner of LKK Arbitration (formerly 
+ Lévy Kaufmann-Kohler)\, where she practices international investment and 
+ commercial arbitration\, and in the past also sports arbitration. She has 
+ acted in over 280 international arbitrations\, mainly as arbitrator and pr
+ edominantly as chair. S
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law
  -torts-an@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261120T160000
 DTEND;TZID=Europe/London:20261120T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Civil Law Torts and Climate C
@@ -345,24 +290,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-civil-
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-civil-law-torts-and-clima
- te-change\nDate/time: \n\n Friday 20 November 2026 \n\n 4:00pm to 5:00pm\n
- \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Elbe
- rt de Jong (Full Professor of Private Law at Utrecht University\, The Neth
- erlands)\n Climate change is rapidly entering the domain of tort law. This
-  development is driven by regulation and litigation\, advances in climate 
- science\, and the increasingly tangible impacts of climate change on inter
- ests protected by private law.\n With a focus on European jurisdictions\, 
- this seminar examines the doctrinal and institutional challenges involved 
- in developing and allocating climate change-related responsibility and lia
- bility among private actors.\n The Cambridge Seminar Series on Law and the
-  Climate Crisis explores the vital role of legal systems in tackling one o
- f the most pressing issues of our time.\n This series brings together top 
- experts in law and climate action to discus
+ te-change\nSign-up needed\nDate/time: \n\n Friday 20 November 2026 \n\n 4:
+ 00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n
+ \n Speaker: Elbert de Jong (Full Professor of Private Law at Utrecht Unive
+ rsity\, The Netherlands)\n Climate change is rapidly entering the domain o
+ f tort law. This development is driven by regulation and litigation\, adva
+ nces in climate science\, and the increasingly tangible impacts of climate
+  change on interests protected by private law.\n With a focus on European 
+ jurisdictions\, this seminar examines the doctrinal and institutional chal
+ lenges involved in developing and allocating climate change-related respon
+ sibility and liability among private actors.\n The Cambridge Seminar Serie
+ s on Law and the Climate Crisis explores the vital role of legal systems i
+ n tackling one of the most pressing issues of our time.\n This series brin
+ gs together top experts in law and climate action to discus
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -373,101 +318,103 @@ URL:https://www.law.cam.ac.uk/press/events/2026/11/dialogues-democratic-res
 CATEGORIES:Law,Politics
 DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
  w.cam.ac.uk/press/events/2026/11/dialogues-democratic-resilience-constitut
- ional-courts-times-crisis-mexican-experience\nDate/time: \n\n Monday 23 No
- vember 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Online webinar\n\n Ab
- out \n\n Speakers: Alfredo Gutiérrez Ortiz Mena (Former Justice of the Su
- preme Court of Mexico and former Henry J. Steiner Lecturer in Human Rights
-  at Harvard Law School)\n About the series: the Dialogues on Democratic Re
- silience series provides a platform for scholars\, students\, and members 
- of the general public to examine the causes and dynamics of democratic dec
- line and to explore strategies for strengthening democratic institutions. 
- Interdisciplinary in scope\, the series places particular emphasis on the 
- role of law and legal institutions\, investigating how they can both contr
- ibute to democratic erosion and function as vital safeguards against.\n Fo
- r questions\, please contact Dr Raffael Fasel ( rnf22@cam.ac.uk )\n Regist
- er now
+ ional-courts-times-crisis-mexican-experience\nSign-up needed: https://cam-
+ ac-uk.zoom.us/webinar/register/WN_C3zFlTtARXqRjWSJ8Cm5BQ#/registration\nDa
+ te/time: \n\n Monday 23 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: 
+ \n\n Online webinar\n\n About \n\n Speakers: Alfredo Gutiérrez Ortiz Mena
+  (Former Justice of the Supreme Court of Mexico and former Henry J. Steine
+ r Lecturer in Human Rights at Harvard Law School)\n About the series: the 
+ Dialogues on Democratic Resilience series provides a platform for scholars
+ \, students\, and members of the general public to examine the causes and 
+ dynamics of democratic decline and to explore strategies for strengthening
+  democratic institutions. Interdisciplinary in scope\, the series places p
+ articular emphasis on the role of law and legal institutions\, investigati
+ ng how they can both contribute to democratic erosion and function as vita
+ l safeguards against.\n For questions\, please contact Dr Raffael Fasel ( 
+ rnf22@cam.ac.uk )\n Register now
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-family-law-cfl-hy
- brid-semi@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-j
+ ustifying@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261124T120000
 DTEND;TZID=Europe/London:20261124T130000
 SUMMARY:Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational O
  bligations: Beyond the Autonomy-Protection Spectrum'
-LOCATION:Faculty of Law\, B16
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cambridge-family-law-cfl
- -hybrid-seminar-justifying-relational-obligations-beyond-autonomy-protecti
- on
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cambridge-family-law-cfl-hybrid-semina
+ r-justifying-relational-obligations-beyond-autonomy
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/cambridge-family-law-cfl-hybrid-seminar-justifying-r
- elational-obligations-beyond-autonomy-protection\nDate/time: \n\n Tuesday 
+ /events/cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obli
+ gations-beyond-autonomy\nSign-up only to join online: https://cam-ac-uk.zo
+ om.us/webinar/register/WN_5oagNLNCQJqnj8BVq_sCbw\nDate/time: \n\n Tuesday 
  24 November 2026 \n\n 12:00pm to 1:00pm\n\n Location: \n\n Faculty of Law\
- , B16\n\n About \n\n Speaker: Dr Matt Hasler (Teaching By-Fellow in Law an
- d Philosophy\, Churchill College)\n Family law systems characteristically 
- impose relational obligations: legal duties of financial provision that at
- tach to personal or familial relationships\, and thereby impose special fi
- nancial responsibilities on their bearers. Relational obligations pose a h
- ost of important normative questions. To which kinds of relationships shou
- ld they attach? What should their content be? And to what extent\, if at a
- ll\, should parties be entitled to alter or disapply such obligations by m
- eans of private contracts?\n It is often suggested that our answers to the
- se questions will be significantly determined by our attitudes to two appa
- rently competing principles. On the one hand\, respect for individual auto
- nomy is 
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cpl-seminar-review-conor-cr
- ummey-pri@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261124T130000
-DTEND;TZID=Europe/London:20261124T140000
-SUMMARY:CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''
-LOCATION:Faculty of Law\, G28 (The Beckwith Moot Court Room)
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cpl-seminar-review-conor
- -crummey-principle-legality
-CATEGORIES:Law
-DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/cpl-seminar-review-conor-crummey-principle-legality\
- nDate/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Locati
- on: \n\n Faculty of Law\, G28 (The Beckwith Moot Court Room)\n\n About \n\
- n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of L
- egality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams
-  meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPE
- pF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9
+ , David Williams Building\n\n B16\n\n About \n\n Speaker: Dr Matt Hasler (
+ Teaching By-Fellow in Law and Philosophy\, Churchill College)\n Family law
+  systems characteristically impose relational obligations: legal duties of
+  financial provision that attach to personal or familial relationships\, a
+ nd thereby impose special financial responsibilities on their bearers. Rel
+ ational obligations pose a host of important normative questions. To which
+  kinds of relationships should they attach? What should their content be? 
+ And to what extent\, if at all\, should parties be entitled to alter or di
+ sapply such obligations by means of private contracts?\n It is often sugge
+ sted that our answers to these questions will be significantly determined 
+ by our attitudes to two apparently competing principles. On the one hand\,
+  respect f
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-
  words-con@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261124T130000
 DTEND;TZID=Europe/London:20261124T140000
 SUMMARY:3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial 
  Progress'
-LOCATION:Faculty of Law\, B16
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/3cl-seminar-disclosureland-how-corpora
  te-words-constrain-racial-progress
 CATEGORIES:Law,Rights & Justice
 DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\nDetails: https:
  //www.law.cam.ac.uk/events/3cl-seminar-disclosureland-how-corporate-words-
  constrain-racial-progress\nDate/time: \n\n Tuesday 24 November 2026 \n\n 1
- :00pm to 2:00pm\n\n Location: \n\n Faculty of Law\, B16\n\n About \n\n Spe
- aker : Professor Atinuke Adediran (Associate Professor of Law\, Fordham Un
- iversity School of Law\, USA)\n Abstract :  Corporate law commonly treats
-  disclosure as a means of providing information to investors and sharehold
- ers. This seminar asks what disclosure does when corporations speak about 
- racial inequality. Drawing on Disclosureland's original empirical study of
-  statements\, pledges\, and regulatory filings from more than 2\,000 compa
- nies\, the book shows that corporate words operate as tools of governance\
- , shaping what firms recognize\, measure\, fund as philanthropic endeavors
- \, and ultimately choose to withdraw. Focusing on the proliferation of cor
- porate racial-equity commitments after 2020 and their subsequent softening
- \, narrowing\, or disappearance\, the seminar will identify three r
+ :00pm to 2:00pm\n\n Location: \n\n Faculty of Law\, David Williams Buildin
+ g\n\n B16\n\n About \n\n Speaker : Professor Atinuke Adediran (Associate P
+ rofessor of Law\, Fordham University School of Law\, USA)\n Abstract :  C
+ orporate law commonly treats disclosure as a means of providing informatio
+ n to investors and shareholders. This seminar asks what disclosure does wh
+ en corporations speak about racial inequality. Drawing on Disclosureland's
+  original empirical study of statements\, pledges\, and regulatory filings
+  from more than 2\,000 companies\, the book shows that corporate words ope
+ rate as tools of governance\, shaping what firms recognize\, measure\, fun
+ d as philanthropic endeavors\, and ultimately choose to withdraw. Focusing
+  on the proliferation of corporate racial-equity commitments after 2020 an
+ d their subsequent softening\, narrowing\, or disappearance\, the sem
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principl
+ e-legalit@cambridge-events
+DTSTAMP:20261118T144033Z
+DTSTART;TZID=Europe/London:20261124T130000
+DTEND;TZID=Europe/London:20261124T140000
+SUMMARY:CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-princ
+ iple-legality
+CATEGORIES:Law
+DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
+ /events/cpl-seminar-review-conor-crummey-principle-legality\nDate/time: \n
+ \n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Facul
+ ty of Law\, David Williams Building\n\n G28 (The Beckwith Moot Court Room)
+ \n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey 
+ Principle of Legality .\n This is a hybrid event. Attend in person or:\n M
+ icrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/33372733785
+ 88917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: 
+ sn9mk9k9
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274135@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261124T180000
 DTEND;TZID=Europe/London:20261124T190000
 SUMMARY:Can Courts Save the Environment Without Weakening Democracy? Rethin
@@ -493,63 +440,90 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
  Navigate Regulatory Complexity in the Digital Landscape'
-LOCATION:Faculty of Law\, B16
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-unde
  r-eu-ai-act-how-firms-navigate-regulatory-complexity
 CATEGORIES:Law,International,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails: 
  https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-e
- u-ai-act-how-firms-navigate-regulatory-complexity\nDate/time: \n\n Wednesd
- ay 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of La
- w\, B16\n\n About \n\n Speaker : Professor Pablo Baquero\, HEC Paris\n Bi
- ography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and 
- a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intellig
- ence for Science\, Business and Society. He is a member of the Smart Law H
- ub at HEC Paris\, is involved in different interdisciplinary academic comm
- unities focused on law and technology and collaborates closely with schola
- rs across different disciplines\, in projects at the intersection between 
- law and AI.  His scholarly interests are in the fields of law and technol
- ogy (particularly law and artificial intelligence and smart contracts)\, p
- rivate law and international business transactions. His perspective is com
- parative and interdisciplinary\, considering the intersection of law with 
- computer sci
+ u-ai-act-how-firms-navigate-regulatory-complexity\nSign-up only to join on
+ line: https://cam-ac-uk.zoom.us/webinar/register/WN_jROFaE58SGGjH7XBoHjIrA
+ \nDate/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Loc
+ ation: \n\n Faculty of Law\, David Williams Building\n\n B16\n\n About \n\
+ n Speaker : Professor Pablo Baquero\, HEC Paris\n Biography : Pablo Marc
+ ello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! P
+ aris Center on Data Analytics and Artificial Intelligence for Science\, Bu
+ siness and Society. He is a member of the Smart Law Hub at HEC Paris\, is 
+ involved in different interdisciplinary academic communities focused on la
+ w and technology and collaborates closely with scholars across different d
+ isciplines\, in projects at the intersection between law and AI.  His sch
+ olarly interests are in the fields of law and technology (particularly law
+  and artificial intelligence and smart contracts)\, private law and intern
+ ational business transactions. His perspective is comparative and interdis
+ ciplinary\, considering the intersectio
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-university-cambridge-barris
- ters-fair@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026
+ @cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T130000
 DTEND;TZID=Europe/London:20261126T140000
 SUMMARY:University of Cambridge Barristers Fair 2026
-LOCATION:Faculty of Law
-URL:https://www.law.cam.ac.uk/press/events/2026/11/university-cambridge-bar
- risters-fair-2026
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/university-cambridge-barristers-fair-2
+ 026
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/university-cambridge-barristers-fair-2026\nDate/time
- : \n\n Thursday 26 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n 
- Faculty of Law\n\n About \n\n Meet a niche group of organisations offering
-  pupillages at the official University of Cambridge Barristers Fair. This 
- event will help you find answers to all the questions you have about the B
- ar from those working at a cross-section of chambers as well as representa
- tives from Law Schools. Learn more about routes in to the profession\, qua
- lifications needed to become a barrister and funding options available. Pr
- acticing barristers will share their experience of the Bar as well as diff
- erent practice areas and application tips.\n Who is this event for? Studen
- ts and recent graduates wanting to engage directly with organisations look
- ing for barristers in an informal setting to:\n develop insights into diff
- erent company cultures\, working practices and career paths and compare wh
- at they have to off
+ /events/university-cambridge-barristers-fair-2026\nDate/time: \n\n Thursda
+ y 26 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law
+ \, David Williams Building\n\n About \n\n Meet a niche group of organisati
+ ons offering pupillages at the official University of Cambridge Barristers
+  Fair. This event will help you find answers to all the questions you have
+  about the Bar from those working at a cross-section of chambers as well a
+ s representatives from Law Schools. Learn more about routes in to the prof
+ ession\, qualifications needed to become a barrister and funding options a
+ vailable. Practicing barristers will share their experience of the Bar as 
+ well as different practice areas and application tips.\n Who is this event
+  for? Students and recent graduates wanting to engage directly with organi
+ sations looking for barristers in an informal setting to:\n develop insigh
+ ts into different company cultures\, working practices and career paths an
+ d comp
+END:VEVENT
+BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-cha
+ nge-natio@cambridge-events
+DTSTAMP:20261118T144033Z
+DTSTART;TZID=Europe/London:20261126T150000
+DTEND;TZID=Europe/London:20261126T160000
+SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
+ g Route?'
+LOCATION:David Attenborough Building\, Room 1.25
+URL:https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-
+ change-national-courts-promising-route
+CATEGORIES:Law,Policy
+DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
+ cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-cou
+ rts-promising-route\nSign-up needed: https://forms.office.com/e/K4QaYcz4mi
+ \nDate/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Loca
+ tion: \n\n David Attenborough Building\, Room 1.25\n\n About \n\n Speaker:
+  Professor Andreas Paulus (Professor\, Chair of Public and International L
+ aw\, University of Göttingen)\n The Cambridge Centre for Environment\, En
+ ergy\, and Natural Resource Governance (C-EENRG) is hosting a seminar seri
+ es throughout the 2026-27 academic year.\n Many seminars take place as hy
+ brid meetings (in person seminars in the DAB - David Attenborough Building
+   + online in Zoom) every Thursday (please check precise date and time as
+  may vary) during the term. Please refer to the Land Economy website for 
+ more details and online registration.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -572,33 +546,8 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, Political Thought\nDet
  an from a generic account such as gmail or hotmail.
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-cha
- nge-natio@cambridge-events
-DTSTAMP:20261118T132725Z
-DTSTART;TZID=Europe/London:20261126T150000
-DTEND;TZID=Europe/London:20261126T160000
-SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
- g Route?'
-LOCATION:David Attenborough Building\, Room 1.25
-URL:https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-
- change-national-courts-promising-route
-CATEGORIES:Law,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
- cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-cou
- rts-promising-route\nDate/time: \n\n Thursday 26 November 2026 \n\n 3:00pm
-  to 4:00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\n\n 
- About \n\n Speaker: Professor Andreas Paulus (Professor\, Chair of Public 
- and International Law\, University of Göttingen)\n The Cambridge Centre f
- or Environment\, Energy\, and Natural Resource Governance (C-EENRG) is hos
- ting a seminar series throughout the 2026-27 academic year.\n Many semina
- rs take place as hybrid meetings (in person seminars in the DAB - David At
- tenborough Building  + online in Zoom) every Thursday (please check preci
- se date and time as may vary) during the term. Please refer to the Land E
- conomy website for more details and online registration.
-END:VEVENT
-BEGIN:VEVENT
 UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T160000
 DTEND;TZID=Europe/London:20261126T173000
 SUMMARY:Pitch @ Judge #5 – Autumn 2026
@@ -612,7 +561,7 @@ DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273143@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 
@@ -623,49 +572,50 @@ URL:https://talks.cam.ac.uk/talk/index/273143/
 CATEGORIES:Law,Rights & Justice,Criminology
 DESCRIPTION:Speaker: Professor Angie Hobbs\, University of Sheffield\nInsti
  tute of Criminology\nTopics: Law\, Rights & Justice\, Criminology\nDetails
- : https://talks.cam.ac.uk/talk/index/273143/\nThis event is part of the In
- stitute of Criminology's Public Guest Seminar Series for Michaelmas Term 2
- 026. A drinks reception follows the talk. These events are free and everyo
- ne is welcome. Please register to attend either in-person or online by cli
- cking the link at the bottom of this page. \n About What might it mean to 
- live a flourishing life? And what is the relationship between flourishing 
- and the virtues\, especially justice? In this talk based on her recent boo
- k\, Professor Angie Hobbs explores how Plato can help us with these urgent
-  questions\, and how he addresses the key issue of character formation\, a
- nd why it never benefits us to return wrong for wrong. She shows how she h
- as used his methodology\, ideas and arguments in a variety of sectors to a
- ddress contemporary issues in education\, faith–secular debate\, health 
- care and the civil service\, and invites the audience to discuss with
+ : https://talks.cam.ac.uk/talk/index/273143/\nSign-up needed\nThis event i
+ s part of the Institute of Criminology's Public Guest Seminar Series for M
+ ichaelmas Term 2026. A drinks reception follows the talk. These events are
+  free and everyone is welcome. Please register to attend either in-person 
+ or online by clicking the link at the bottom of this page. \n About What m
+ ight it mean to live a flourishing life? And what is the relationship betw
+ een flourishing and the virtues\, especially justice? In this talk based o
+ n her recent book\, Professor Angie Hobbs explores how Plato can help us w
+ ith these urgent questions\, and how he addresses the key issue of charact
+ er formation\, and why it never benefits us to return wrong for wrong. She
+  shows how she has used his methodology\, ideas and arguments in a variety
+  of sectors to address contemporary issues in education\, faith–secular 
+ debate\, health care and the civil service\, and invites the audience to d
+ iscuss with
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event@cambridge-
- events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
+ vent@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
-SUMMARY:3VB University of Cambridge Event
-LOCATION:Downing College
-URL:https://www.law.cam.ac.uk/events/3vb-university-cambridge-event
+SUMMARY:3VB’s University of Cambridge Event
+LOCATION:Downing College\, West Lodge & Maitland Room
+URL:https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridg
+ e-event
 CATEGORIES:Law,International
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/events/3vb-university-cambridge-event\nDate/time: \n\n Th
- ursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing C
- ollege\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief int
- roduction by 3VB's Rajesh Pillai KC\, members of 3VB will offer first-hand
-  insights into two recent landmark cases\, exploring how legal decisions a
- re reached and the role of barristers in shaping them.\n Dominic Kennelly 
- will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9\, co
- ncerning state immunity and the enforcement of international arbitration a
- wards\, while William Day and Amelia-Rose Edwards will explore Gatwick Inv
- estment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14\, addressi
- ng contractual interpretation and causation in private law.\n The talks wi
- ll be followed by drinks\, refreshments and an opportunity to network with
-  members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: even
- ts@3vb.com
+ ww.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event\nSig
+ n-up needed\nDate/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00
+ pm\n\n Location: \n\n Downing College\, West Lodge & Maitland Room\n\n Abo
+ ut \n\n Following a brief introduction by 3VB's Rajesh Pillai KC\, members
+  of 3VB will offer first-hand insights into two recent landmark cases\, ex
+ ploring how legal decisions are reached and the role of barristers in shap
+ ing them.\n Dominic Kennelly will discuss Spain v Infrastructure Services 
+ Luxembourg [2026] UKSC 9\, concerning state immunity and the enforcement o
+ f international arbitration awards\, while William Day and Amelia-Rose Edw
+ ards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe
+  SE [2026] UKSC 14\, addressing contractual interpretation and causation i
+ n private law.\n The talks will be followed by drinks\, refreshments and a
+ n opportunity to network with members of Chambers.\n RSVP: events@3vb.com
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -676,46 +626,49 @@ URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
 CATEGORIES:Law,International,Policy,Entrepreneurship
 DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
  Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nDrawing on her experience as an e
- ntrepreneur\, legislator and board member\, Martha Lane Fox will explore w
- hat AI could mean for the next 50 years\, including its effects on work\, 
- business\, entrepreneurial opportunity\, existing institutions\, culture\,
-  security and defence. Chaired by Prof Diane Coyle\, Bennett Professor of 
- Public Policy\, University of Cambridge.
+ ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
+ brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
+ -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
+ islator and board member\, Martha Lane Fox will explore what AI could mean
+  for the next 50 years\, including its effects on work\, business\, entrep
+ reneurial opportunity\, existing institutions\, culture\, security and def
+ ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
+ niversity of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-impor
- tance-emo@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotiona
+ l-percept@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T183000
 SUMMARY:CIPIL Evening Seminar: 'The Importance of Emotional Perception: A D
  issection of its Impact on Patent Law'
-LOCATION:Faculty of Law\, G24
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-im
- portance-emotional-perception-dissection-its-impact-patent-law
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emoti
+ onal-perception-dissection-its-impact-patent-law
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/cipil-evening-seminar-importance-emotional-perceptio
- n-dissection-its-impact-patent-law\nDate/time: \n\n Thursday 26 November 2
- 026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law\, G24\n\n Abou
- t \n\n Speaker: Bruce Dearling\, Partner\, Hepworth Browne\n Abstract: T
- he decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception 
- AI vs. Comptroller General of Patents was reported in The Times as “seis
- mic” both because of the systemic changes it brought to multiple tenets 
- of UK patent law and its economic significance. The presentation will unpa
- ck the issues decided by the UKSC with reference to the subsequent treatme
- nt of EPAI’s patent application on its remittal to the UKIPO for conside
- ration of the “intermediate step” - especially having regard to the EP
- O’s Enlarged Board of Appeal decision G1/19 and the assessment of what c
- onstitutes a patentable “invention.”\n Biography: Bruce is a sharehol
- der at Hepworth Browne and has oversight responsibilities for inventions i
- n the fiel
+ /events/cipil-evening-seminar-importance-emotional-perception-dissection-i
+ ts-impact-patent-law\nSign-up only to join online: https://cam-ac-uk.zoom.
+ us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg\nDate/time: \n\n Thursday 26
+  November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law\, D
+ avid Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling\, P
+ artner\, Hepworth Browne\n Abstract: The decision of the UK Supreme Court
+  in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Paten
+ ts was reported in The Times as “seismic” both because of the systemic
+  changes it brought to multiple tenets of UK patent law and its economic s
+ ignificance. The presentation will unpack the issues decided by the UKSC w
+ ith reference to the subsequent treatment of EPAI’s patent application o
+ n its remittal to the UKIPO for consideration of the “intermediate step
+ ” - especially having regard to the EPO’s Enlarged Board of Appeal dec
+ ision G1/19 and the assessment of what constitutes a patentable “inventi
+ on.”\n Biography: Bruce is a shareholder at Hepworth Browne and has ove
+ rsight responsibilities 
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -726,24 +679,26 @@ URL:https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-
 CATEGORIES:Law,International
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
  ww.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-autho
- rity-international-law-prof-fuad-zarbiyev\nDate/time: \n\n Friday 27 Novem
- ber 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for I
- nternational Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register
-  here if attending online   Situations in which claims to authority clash
-  with each other abound in international law\, ranging from competition fo
- r authority among international adjudicative bodies to the disputed alloca
- tion of powers among international and domestic authorities across various
-  issue areas. What is common to all these situations is that each claim to
-  authority is typically supported by some formal or informal basis for eli
- citing deference. Yet the practice shows that not all claims to deference 
- entitlement are situated on the same plane\, with some exerting greater at
- traction than others. Exclusively mandate-based authority claims\, for ins
- tance\, rarely gain the upper hand over epistemically grounded claims to d
+ rity-international-law-prof-fuad-zarbiyev\nSign-up only to join online: ht
+ tps://cam-ac-uk.zoom.us/webinar/register/WN_nGUBoEFXRNGJVhVza-i-Hg\nDate/t
+ ime: \n\n Friday 27 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n
+  Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hal
+ l\n\n About \n\n Register here if attending online   Situations in which 
+ claims to authority clash with each other abound in international law\, ra
+ nging from competition for authority among international adjudicative bodi
+ es to the disputed allocation of powers among international and domestic a
+ uthorities across various issue areas. What is common to all these situati
+ ons is that each claim to authority is typically supported by some formal 
+ or informal basis for eliciting deference. Yet the practice shows that not
+  all claims to deference entitlement are situated on the same plane\, with
+  some exerting greater attraction than others. Exclusively mandate-based a
+ uthority claims\, for instance\, rarely gain the upper hand over epistemic
+ ally grounded claims to d
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -754,24 +709,25 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-attributio
- n-science-can-it-establish\nDate/time: \n\n Friday 27 November 2026 \n\n 4
- :00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \
- n\n Speaker: Dr Rupert Stuart-Smith (Deputy Director and Senior Research F
- ellow in Climate Science and the Law at the Oxford Sustainable Law Program
- me\, University of Oxford)\n Two decades of attribution research have shed
-  light on the impacts of climate change occurring worldwide. The first wav
- e of attribution research quantified climate change impacts on the intensi
- ty and probability of extreme weather events and slow-onset changes in gla
- ciers and sea levels. Over the past decade\, impact attribution studies ha
- ve extended these methods to assess the attributable impacts of extreme ev
- ents on agriculture\, health\, economic losses and biodiversity. Concurren
- tly\, source attribution research quantified individual emitters’ contri
- butions to climate change impacts.\n Steady progress towards 
+ n-science-can-it-establish\nSign-up needed\nDate/time: \n\n Friday 27 Nove
+ mber 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Buil
+ ding\n\n About \n\n Speaker: Dr Rupert Stuart-Smith (Deputy Director and S
+ enior Research Fellow in Climate Science and the Law at the Oxford Sustain
+ able Law Programme\, University of Oxford)\n Two decades of attribution re
+ search have shed light on the impacts of climate change occurring worldwid
+ e. The first wave of attribution research quantified climate change impact
+ s on the intensity and probability of extreme weather events and slow-onse
+ t changes in glaciers and sea levels. Over the past decade\, impact attrib
+ ution studies have extended these methods to assess the attributable impac
+ ts of extreme events on agriculture\, health\, economic losses and biodive
+ rsity. Concurrently\, source attribution research quantified individual em
+ itters’ contributions to climate change impacts.\n Steady progress towar
+ ds 
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-socie
  ty-medica@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261128T090000
 DTEND;TZID=Europe/London:20261128T100000
 SUMMARY:Cambridge Medical Law Society: Medical Negligence Moot 2nd round
@@ -781,20 +737,20 @@ URL:https://www.law.cam.ac.uk/press/events/2026/11/cambridge-medical-law-so
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  /press/events/2026/11/cambridge-medical-law-society-medical-negligence-moo
- t-2nd-round\nDate/time: \n\n Saturday 28 November 2026 \n\n 9:00am to 10:0
- 0am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st rou
- nd: 7th November\, 2nd round: 28th November\, 3rd round: 30th January\, ti
- mes and location TBC)\n Put your advocacy skills to the test in our medica
- l negligence moot. Participants will have the chance to grapple with a rea
- listic medical law problem\, develop oral advocacy skills and receive feed
- back across multiple rounds.\n Further details and the sign-up link will b
- e released on our Instagram in mid-to-late October.\n Cambridge Medical La
- w Society:
+ t-2nd-round\nSign-up needed\nDate/time: \n\n Saturday 28 November 2026 \n\
+ n 9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligen
+ ce Moot (1st round: 7th November\, 2nd round: 28th November\, 3rd round: 3
+ 0th January\, times and location TBC)\n Put your advocacy skills to the te
+ st in our medical negligence moot. Participants will have the chance to gr
+ apple with a realistic medical law problem\, develop oral advocacy skills 
+ and receive feedback across multiple rounds.\n Further details and the sig
+ n-up link will be released on our Instagram in mid-to-late October.\n Camb
+ ridge Medical Law Society:
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-medical-law-society-debate-thbt
  -patient-@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261128T180000
 DTEND;TZID=Europe/London:20261128T193000
 SUMMARY:Cambridge Medical Law Society debate: 'THBT patient autonomy should
@@ -805,24 +761,25 @@ URL:https://www.law.cam.ac.uk/events/cambridge-medical-law-society-debate-t
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  /events/cambridge-medical-law-society-debate-thbt-patient-autonomy-should-
- prevail-over-medical\nDate/time: \n\n Saturday 28 November 2026 \n\n 6:00p
- m to 7:30pm\n\n Location: \n\n Christ's College\, Yusuf Hamied Theatre\n\n
-  Sign up\n\n About \n\n Join us for an interactive debate on a topical iss
- ue at the intersection of medicine\, ethics and law. Expect competing pers
- pectives\, audience participation and plenty of room for discussion.\n Dep
- ending on numbers\, we will have 2-3 speakers on each side presenting 6 mi
- nute speeches each. POIs can be made between the 1st and 6th minute of the
-  speech by the opposing team or by audience members. There will be an oppo
- rtunity for both sides to give a 4 minute reply speech at the end\, if the
- y would like to do so. \n\nInterested in spectating? You are more than we
- lcome. As mentioned above\, there will be opportunities to contribute to t
- he debate by making POIs. At the end\, you will be able to deliver your ve
- rdict by voting on the motion. No sign-up for spectating re
+ prevail-over-medical\nNo sign-up needed\nDate/time: \n\n Saturday 28 Novem
+ ber 2026 \n\n 6:00pm to 7:30pm\n\n Location: \n\n Christ's College\, Yusuf
+  Hamied Theatre\n\n Sign up\n\n About \n\n Join us for an interactive deba
+ te on a topical issue at the intersection of medicine\, ethics and law. Ex
+ pect competing perspectives\, audience participation and plenty of room fo
+ r discussion.\n Depending on numbers\, we will have 2-3 speakers on each s
+ ide presenting 6 minute speeches each. POIs can be made between the 1st an
+ d 6th minute of the speech by the opposing team or by audience members. Th
+ ere will be an opportunity for both sides to give a 4 minute reply speech 
+ at the end\, if they would like to do so. \n\nInterested in spectating? Y
+ ou are more than welcome. As mentioned above\, there will be opportunities
+  to contribute to the debate by making POIs. At the end\, you will be able
+  to deliver your verdict by voting on the motion. No sign-up for spectatin
+ g re
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-phi
  losophy-e@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261201T170000
 DTEND;TZID=Europe/London:20261201T180000
 SUMMARY:Talking Animals\, Law and Philosophy event: 'Whale Legal Personhood
@@ -834,47 +791,47 @@ URL:https://www.law.cam.ac.uk/press/events/2026/12/talking-animals-law-and-
 CATEGORIES:Law,Political Thought
 DESCRIPTION:Faculty of Law\nTopics: Law\, Political Thought\nDetails: https
  ://www.law.cam.ac.uk/press/events/2026/12/talking-animals-law-and-philosop
- hy-event-whale-legal-personhood-insights-posthuman-theory-and\nDate/time: 
- \n\n Tuesday 1 December 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Onli
- ne webinar\n\n About \n\n Please join us for our next event in the Talking
-  Animals\, Law & Philosophy series.\n Speaker: Emily Jones (Newcastle Law 
- School)\n All events take place on Zoom from 5-6.30pm (UK time). They are 
- free and open to all. For more information about the Talking Animals serie
- s and to register for the events\, visit the Cambridge Centre for Animal R
- ights Law website .
+ hy-event-whale-legal-personhood-insights-posthuman-theory-and\nSign-up nee
+ ded\nDate/time: \n\n Tuesday 1 December 2026 \n\n 5:00pm to 6:00pm\n\n Loc
+ ation: \n\n Online webinar\n\n About \n\n Please join us for our next even
+ t in the Talking Animals\, Law & Philosophy series.\n Speaker: Emily Jones
+  (Newcastle Law School)\n All events take place on Zoom from 5-6.30pm (UK 
+ time). They are free and open to all. For more information about the Talki
+ ng Animals series and to register for the events\, visit the Cambridge Cen
+ tre for Animal Rights Law website .
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-12-cambridge-legal-theory-disc
- ussion-gr@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
+ ltdg-does@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261201T184500
 DTEND;TZID=Europe/London:20261201T194500
 SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Does Consent Matt
  er Only Indirectly in Sex Crimes?'
-LOCATION:Faculty of Law\, G24
-URL:https://www.law.cam.ac.uk/press/events/2026/12/cambridge-legal-theory-d
- iscussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-grou
+ p-cltdg-does-consent-matter-only-indirectly-sex-crimes
 CATEGORIES:Law,Criminology
 DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
- .law.cam.ac.uk/press/events/2026/12/cambridge-legal-theory-discussion-grou
- p-cltdg-does-consent-matter-only-indirectly-sex-crimes\nDate/time: \n\n Tu
- esday 1 December 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of 
- Law\, G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law School)\n Abst
- ract: Most legal academics analysing populism focus exclusively on formal 
- legal changes. Some even suggest that constitutional scholars should keep 
- in mind that it is more important to see what populists are doing than wha
- t they are saying. However\, we act with words. As language philosopher J.
- L. Austin demonstrated\, to say something is usually to do a number of thi
- ngs.\n Currently\, democratic guardrails of constitutions are undermined n
- ot only by amendments to its provisions but also by political actors makin
- g them ‘dead letter.’ Speech act theory in general\, and feminist phil
- osophy of language in particular\, provide valuable tools to explain (i) h
- ow populism can use speech to silence institutions and the opposition\, an
- d (ii) how populist
+ .law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-does-c
+ onsent-matter-only-indirectly-sex-crimes\nDate/time: \n\n Tuesday 1 Decemb
+ er 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of Law\, David Wi
+ lliams Building\n\n G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law 
+ School)\n Abstract: Most legal academics analysing populism focus exclusiv
+ ely on formal legal changes. Some even suggest that constitutional scholar
+ s should keep in mind that it is more important to see what populists are 
+ doing than what they are saying. However\, we act with words. As language 
+ philosopher J.L. Austin demonstrated\, to say something is usually to do a
+  number of things.\n Currently\, democratic guardrails of constitutions ar
+ e undermined not only by amendments to its provisions but also by politica
+ l actors making them ‘dead letter.’ Speech act theory in general\, and
+  feminist philosophy of language in particular\, provide valuable tools to
+  explain (i) how populism can use speech to silence institutions and the o
+ pposit
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273144@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:Institute of Criminology - Professor Andreas von Hirsch Memorial Ev
@@ -885,45 +842,46 @@ URL:https://talks.cam.ac.uk/talk/index/273144/
 CATEGORIES:Law,Criminology
 DESCRIPTION:Speaker: Institute of Criminology\nInstitute of Criminology\nTo
  pics: Law\, Criminology\nDetails: https://talks.cam.ac.uk/talk/index/27314
- 4/\nThis event is part of the Institute of Criminology's Public Guest Semi
- nar Series for Michaelmas Term 2026. A drinks reception follows the talk. 
- These events are free and everyone is welcome. Please register to attend e
- ither in-person or online by clicking the link at the bottom of this page.
-  \n About In Memoriam Andreas von Hirsch (1934-2026) \n The Institute of C
- riminology is indebted to Andreas von Hirsch in many and profound ways. We
-  will mention just three. First\, because he was a valued member of the In
- stitute for many years\; second because he was an extraordinarily generous
-  benefactor\; and third because he was a towering intellectual figure in h
- is own right. He was a pioneering force in taking seriously the connection
- s between criminology and related fields – and both criminology and thos
- e other fields are much enriched by the interdisciplinary relationships hi
- s work contributed so d
+ 4/\nSign-up needed\nThis event is part of the Institute of Criminology's P
+ ublic Guest Seminar Series for Michaelmas Term 2026. A drinks reception fo
+ llows the talk. These events are free and everyone is welcome. Please regi
+ ster to attend either in-person or online by clicking the link at the bott
+ om of this page. \n About In Memoriam Andreas von Hirsch (1934-2026) \n Th
+ e Institute of Criminology is indebted to Andreas von Hirsch in many and p
+ rofound ways. We will mention just three. First\, because he was a valued 
+ member of the Institute for many years\; second because he was an extraord
+ inarily generous benefactor\; and third because he was a towering intellec
+ tual figure in his own right. He was a pioneering force in taking seriousl
+ y the connections between criminology and related fields – and both crim
+ inology and those other fields are much enriched by the interdisciplinary 
+ relationships his work contributed so d
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-12-private-law-seminar-series-
- tindall-v@cambridge-events
-DTSTAMP:20261118T132725Z
+UID:dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-tham
+ es-valley@cambridge-events
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261203T130000
 DTEND;TZID=Europe/London:20261203T140000
 SUMMARY:Private Law Seminar Series: 'Tindall v Thames Valley Police: the en
  d of assumption of responsibility'
-LOCATION:Faculty of Law\, G24
-URL:https://www.law.cam.ac.uk/press/events/2026/12/private-law-seminar-seri
- es-tindall-v-thames-valley-police-end-assumption-responsibility
+LOCATION:Faculty of Law\, David Williams Building
+URL:https://www.law.cam.ac.uk/events/private-law-seminar-series-tindall-v-t
+ hames-valley-police-end-assumption-responsibility
 CATEGORIES:Law,Criminology
 DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
- .law.cam.ac.uk/press/events/2026/12/private-law-seminar-series-tindall-v-t
- hames-valley-police-end-assumption-responsibility\nDate/time: \n\n Thursda
- y 3 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law\
- , G24\n\n About \n\n Speaker: Professor Helen Scott (University of Cambrid
- ge)\n Note: Sandwiches served in G24 between 12.30pm and 1pm\; seminar to 
- commence in the G24 at 1pm.\n This seminar is open to all LLM\, MCL and Ph
- D students\, Faculty members and Faculty visitors.
+ .law.cam.ac.uk/events/private-law-seminar-series-tindall-v-thames-valley-p
+ olice-end-assumption-responsibility\nNo sign-up needed\nDate/time: \n\n Th
+ ursday 3 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of
+  Law\, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor H
+ elen Scott (University of Cambridge)\n Note: Sandwiches served in G24 betw
+ een 12.30pm and 1pm\; seminar to commence in the G24 at 1pm.\n This semina
+ r is open to all LLM\, MCL and PhD students\, Faculty members and Faculty 
+ visitors.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -934,22 +892,23 @@ URL:https://www.law.cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying-climate-ethics-pol
- icy-methodology\nDate/time: \n\n Thursday 3 December 2026 \n\n 3:00pm to 4
- :00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\n\n About
-  \n\n Speaker: Kevin Le Merle (FWO PhD Fellow\, Department of Political an
- d Social Sciences\, Ghent University\, and United Nations University Insti
- tute of Comparative Regional Integration Studies (UNU-CRIS))\n The Cambrid
- ge Centre for Environment\, Energy\, and Natural Resource Governance (C-EE
- NRG) is hosting a seminar series throughout the 2026-27 academic year.\n 
- Many seminars take place as hybrid meetings (in person seminars in the DAB
-  - David Attenborough Building  + online in Zoom) every Thursday (please 
- check precise date and time as may vary) during the term. Please refer to
-  the Land Economy website for more details and online registration.
+ icy-methodology\nSign-up needed: https://forms.office.com/e/K4QaYcz4mi\nDa
+ te/time: \n\n Thursday 3 December 2026 \n\n 3:00pm to 4:00pm\n\n Location:
+  \n\n David Attenborough Building\, Room 1.25\n\n About \n\n Speaker: Kevi
+ n Le Merle (FWO PhD Fellow\, Department of Political and Social Sciences\,
+  Ghent University\, and United Nations University Institute of Comparative
+  Regional Integration Studies (UNU-CRIS))\n The Cambridge Centre for Envir
+ onment\, Energy\, and Natural Resource Governance (C-EENRG) is hosting a s
+ eminar series throughout the 2026-27 academic year.\n Many seminars take 
+ place as hybrid meetings (in person seminars in the DAB - David Attenborou
+ gh Building  + online in Zoom) every Thursday (please check precise date 
+ and time as may vary) during the term. Please refer to the Land Economy w
+ ebsite for more details and online registration.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026@cambridge
  -events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261204T093000
 DTEND;TZID=Europe/London:20261204T143000
 SUMMARY:Humanities Exploration Day 2026
@@ -957,25 +916,26 @@ LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/humanities-exploration-day-2026
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /events/humanities-exploration-day-2026\nDate/time: \n\n Friday 4 December
-  2026 \n\n 9:30am to 2:30pm\n\n Location: \n\n Faculty of Law\, David Will
- iams Building\n\n Open map \n\n Sign up\n\n About \n\n The University of C
- ambridge is hosting a Humanities Exploration Day for Year 12 students on
-  the 4th December 2026 here in Cambridge. The aim is to give students the 
- opportunity to experience university-level teaching in a range of humaniti
- es subjects\, to enrich their current studies and to help them decide whic
- h subject might be the best choice for them going forward.\n Who is the da
- y for?  Year 12 students who may be interested in pursuing a subject li
- ke Law\, English\, History\, Classics\, Archaeology\, or Languages at a s
- elective university\, but would like more help deciding which is the rig
- ht subject for them.\n We also welcome applications from school groups of
-  higher attaining year 11 students who are planning to study Arts and Hum
- anities A-level
+ /events/humanities-exploration-day-2026\nSign-up needed: https://www.ticke
+ ttailor.com/events/facultyofclassicsuniversityofcambridge/2444714\nDate/ti
+ me: \n\n Friday 4 December 2026 \n\n 9:30am to 2:30pm\n\n Location: \n\n F
+ aculty of Law\, David Williams Building\n\n Open map \n\n Sign up\n\n Abou
+ t \n\n The University of Cambridge is hosting a Humanities Exploration Da
+ y for Year 12 students on the 4th December 2026 here in Cambridge. The ai
+ m is to give students the opportunity to experience university-level teach
+ ing in a range of humanities subjects\, to enrich their current studies an
+ d to help them decide which subject might be the best choice for them goin
+ g forward.\n Who is the day for?  Year 12 students who may be interested
+  in pursuing a subject like Law\, English\, History\, Classics\, Archaeol
+ ogy\, or Languages at a selective university\, but would like more help 
+ deciding which is the right subject for them.\n We also welcome applicati
+ ons from school groups of higher attaining year 11 students who are plann
+ ing to study Arts and Humanities A-level
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -986,25 +946,26 @@ URL:https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation-w
 CATEGORIES:Law,International,Criminology
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
  ils: https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation
- -what-special-about-special-tribunal-crime-aggression-against-ukraine\nDat
- e/time: \n\n Friday 4 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n
- \n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture H
- all\n\n About \n\n Register here if attending online   At a time when som
- e international courts and tribunals are under attack\, defunded or otherw
- ise obstructed\, a new one is being created: the Special Tribunal for the 
- Crime of Aggression against Ukraine. Ukrainian legal scholar Dr Gaiane Nur
- idzhanian \, in conversation with LCIL Fellow Professor Sarah Nouwen\, wil
- l explore what is special about the tribunal: why is it needed\, what is i
- ts legal nature\, what are its prospects and the role in the development o
- f international law? \n There is a sandwich lunch at 12.30 pm in the Old 
- Library at the Centre. All lecture attendees welcome.\n The Friday Lunchti
- me Lecture series is kindly supported by Cambridge University Press & Asse
- ssment .
+ -what-special-about-special-tribunal-crime-aggression-against-ukraine\nSig
+ n-up only to join online: https://cam-ac-uk.zoom.us/webinar/register/WN_63
+ c_m3-CQVuG0bm6uCOPfw\nDate/time: \n\n Friday 4 December 2026 \n\n 1:00pm t
+ o 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n B
+ erkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending onl
+ ine   At a time when some international courts and tribunals are under at
+ tack\, defunded or otherwise obstructed\, a new one is being created: the 
+ Special Tribunal for the Crime of Aggression against Ukraine. Ukrainian le
+ gal scholar Dr Gaiane Nuridzhanian \, in conversation with LCIL Fellow Pro
+ fessor Sarah Nouwen\, will explore what is special about the tribunal: why
+  is it needed\, what is its legal nature\, what are its prospects and the 
+ role in the development of international law? \n There is a sandwich lunc
+ h at 12.30 pm in the Old Library at the Centre. All lecture attendees welc
+ ome.\n The Friday Lunchtime Lecture series is kindly supported by Cambridg
+ e University Press & Assessment .
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-t
  here-be-f@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20261215T150000
 DTEND;TZID=Europe/London:20261215T160000
 SUMMARY:CFLPP Monthly Seminar: 'Can There be a Feminist General Jurispruden
@@ -1030,7 +991,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -1057,7 +1018,7 @@ DESCRIPTION:Speaker: Shakti Avasthy\, Indian Police Service\nComputer Labor
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -1084,26 +1045,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
   Authority in the Case Law of the Court of Justice of the European Union'
-LOCATION:Faculty of Law
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-res-inte
  rpretata-precedent-and-its-authority-case-law-court
 CATEGORIES:Law,International,Rights & Justice
 DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Rights & Justice\
  nDetails: https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-r
- es-interpretata-precedent-and-its-authority-case-law-court\nDate/time: \n\
- n Friday 22 January 2027 \n\n 5:30pm to 7:00pm\n\n Location: \n\n Faculty 
- of Law\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Le
- naerts\, Court of Justice of the European Union
+ es-interpretata-precedent-and-its-authority-case-law-court\nSign-up needed
+ : https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-200
+ 4774391171?aff=oddtdtcreator\nDate/time: \n\n Friday 22 January 2027 \n\n 
+ 5:30pm to 7:00pm\n\n Location: \n\n Faculty of Law\, David Williams Buildi
+ ng\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Lenaer
+ ts\, Court of Justice of the European Union
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -1112,52 +1075,55 @@ URL:https://www.law.cam.ac.uk/events/legal-and-political-theology-colloquiu
  m
 CATEGORIES:Law,Politics
 DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
- w.cam.ac.uk/events/legal-and-political-theology-colloquium\nDate/time: \n\
- n Saturday 23 January 2027 \n\n 10:00am to 5:00pm\n\n Location: \n\n Jesus
-  College\n\n Webb Library\n\n This colloquium explores key theological con
- cepts that continue to exert deep philosophical influence on legal thought
- : good and evil\, justice and mercy\, faith and reason.\n\n About \n\n Key
- note speaker Professor Paul Kahn\, Robert W. Winner Professor of Law and t
- he Humanities\, Yale University. Arthur Goodhart Visiting Professor in Leg
- al Science\, University of Cambridge.\n With presentations by Professor La
- rs Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cam
- bridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua Ne
- oh (ANU) Registration is free. To register\, please email: Francis H.J. Li
- m - hanjun.lim@anu.edu.au\n Any inquiries may be directed to the convenors
- : Raffael Fasel - rnf22@cam.ac.uk and Joshua Neoh - joshua.neoh@anu.edu.au
+ w.cam.ac.uk/events/legal-and-political-theology-colloquium\nSign-up needed
+ \nDate/time: \n\n Saturday 23 January 2027 \n\n 10:00am to 5:00pm\n\n Loca
+ tion: \n\n Jesus College\n\n Webb Library\n\n This colloquium explores key
+  theological concepts that continue to exert deep philosophical influence 
+ on legal thought: good and evil\, justice and mercy\, faith and reason.\n\
+ n About \n\n Keynote speaker Professor Paul Kahn\, Robert W. Winner Profes
+ sor of Law and the Humanities\, Yale University. Arthur Goodhart Visiting 
+ Professor in Legal Science\, University of Cambridge.\n With presentations
+  by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr N
+ ick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (L
+ SE) Dr Joshua Neoh (ANU) Registration is free. To register\, please email:
+  Francis H.J. Lim - hanjun.lim@anu.edu.au\n Any inquiries may be directed 
+ to the convenors: Raffael Fasel - rnf22@cam.ac.uk and Joshua Neoh - joshua
+ .neoh@anu.edu.au
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cflcambridge-socio-legal-group-seminar-ev
  olution-p@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270125T130000
 DTEND;TZID=Europe/London:20270125T140000
 SUMMARY:CFL/Cambridge Socio-Legal Group Seminar: 'The evolution of parentho
  od in Brazil: from the single-parent stigma to multiple parenthood'
-LOCATION:Faculty of Law\, G24
+LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/cflcambridge-socio-legal-group-seminar
  -evolution-parenthood-brazil-single-parent-stigma
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  /events/cflcambridge-socio-legal-group-seminar-evolution-parenthood-brazil
- -single-parent-stigma\nDate/time: \n\n Monday 25 January 2027 \n\n 1:00pm 
- to 2:00pm\n\n Location: \n\n Faculty of Law\, G24\n\n About \n\n Speaker: 
- Professor João Costa-Neto (University of Brasília)\n Abstract: Brazilian
-  family law has undergone a remarkable transformation: from a system built
-  around marriage\, biological descent and exclusive parenthood to one incr
- easingly willing to recognise families as they are actually lived. This ta
- lk will trace that evolution\, focusing on the rise of socioaffective pare
- nthood and the idea that being a parent may result not only from biology\,
-  but also from care\, responsibility and the social reality of family life
- . It then explores the most striking consequence of that shift: multiple p
- arenthood\, under which biological and socioaffective parents may coexist 
- with equal legal status. Drawing on constitutional change\, legal scholars
- hip and recent case law\, we will understand how Brazil mo
+ -single-parent-stigma\nSign-up only to join online: https://us02web.zoom.u
+ s/webinar/register/WN_DSc1d-YWQsWZRVUM8s5EKg\nDate/time: \n\n Monday 25 Ja
+ nuary 2027 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law\, David
+  Williams Building\n\n G24\n\n About \n\n Speaker: Professor João Costa-N
+ eto (University of Brasília)\n Abstract: Brazilian family law has undergo
+ ne a remarkable transformation: from a system built around marriage\, biol
+ ogical descent and exclusive parenthood to one increasingly willing to rec
+ ognise families as they are actually lived. This talk will trace that evol
+ ution\, focusing on the rise of socioaffective parenthood and the idea tha
+ t being a parent may result not only from biology\, but also from care\, r
+ esponsibility and the social reality of family life. It then explores the 
+ most striking consequence of that shift: multiple parenthood\, under which
+  biological and socioaffective parents may coexist with equal legal status
+ . Drawing on constitutional change\, legal scholarship and recent case law
+ \, we wil
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2027-01-cambridge-medical-law-socie
  ty-medica@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270130T090000
 DTEND;TZID=Europe/London:20270130T100000
 SUMMARY:Cambridge Medical Law Society: Medical Negligence Moot 3rd round
@@ -1167,20 +1133,20 @@ URL:https://www.law.cam.ac.uk/press/events/2027/01/cambridge-medical-law-so
 CATEGORIES:Law
 DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  /press/events/2027/01/cambridge-medical-law-society-medical-negligence-moo
- t-3rd-round\nDate/time: \n\n Saturday 30 January 2027 \n\n 9:00am to 10:00
- am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st roun
- d: 7th November\, 2nd round: 28th November\, 3rd round: 30th January\, tim
- es and location TBC)\n Put your advocacy skills to the test in our medical
-  negligence moot. Participants will have the chance to grapple with a real
- istic medical law problem\, develop oral advocacy skills and receive feedb
- ack across multiple rounds.\n Further details and the sign-up link will be
-  released on our Instagram in mid-to-late October.\n Cambridge Medical Law
-  Society:
+ t-3rd-round\nSign-up needed\nDate/time: \n\n Saturday 30 January 2027 \n\n
+  9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligenc
+ e Moot (1st round: 7th November\, 2nd round: 28th November\, 3rd round: 30
+ th January\, times and location TBC)\n Put your advocacy skills to the tes
+ t in our medical negligence moot. Participants will have the chance to gra
+ pple with a realistic medical law problem\, develop oral advocacy skills a
+ nd receive feedback across multiple rounds.\n Further details and the sign
+ -up link will be released on our Instagram in mid-to-late October.\n Cambr
+ idge Medical Law Society:
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -1189,25 +1155,25 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-change
  -and-tort-law
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
- cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law\nDate
- /time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\
- n David Attenborough Building\n\n About \n\n Speaker: Lord Philip Sales (U
- nited Kingdom Supreme Court)\n The Cambridge Seminar Series on Law and the
-  Climate Crisis explores the vital role of legal systems in tackling one o
- f the most pressing issues of our time.\n This series brings together top 
- experts in law and climate action to discuss how climate change interacts 
- with specific areas of law\, setting out both how legal fields are being i
- mpacted by climate change and how the law can help drive climate action.\n
-  The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted b
- y the Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the 
- Centre for Environment\, Energy and Natural Resource Governance (CEENRG)\,
-  the Cambridge Climate Society\, the Lauterpacht Centre for International 
- Law\, and the Net Zero Lawyers
+ cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law\nSign
+ -up needed\nDate/time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n
+ \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Lord
+  Philip Sales (United Kingdom Supreme Court)\n The Cambridge Seminar Serie
+ s on Law and the Climate Crisis explores the vital role of legal systems i
+ n tackling one of the most pressing issues of our time.\n This series brin
+ gs together top experts in law and climate action to discuss how climate c
+ hange interacts with specific areas of law\, setting out both how legal fi
+ elds are being impacted by climate change and how the law can help drive c
+ limate action.\n The Cambridge Seminar Series on Law and the Climate Crisi
+ s is co-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambr
+ idge Zero\, the Centre for Environment\, Energy and Natural Resource Gover
+ nance (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre fo
+ r International Law\, and the Net Zero Lawyers
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -1217,24 +1183,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-land-l
- aw\nDate/time: \n\n Friday 12 February 2027 \n\n 4:00pm to 5:00pm\n\n Loca
- tion: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr Rhiannon
-  Ogden-Jones (University of Cambridge)\n The Cambridge Seminar Series on L
- aw and the Climate Crisis explores the vital role of legal systems in tack
- ling one of the most pressing issues of our time.\n This series brings tog
- ether top experts in law and climate action to discuss how climate change 
- interacts with specific areas of law\, setting out both how legal fields a
- re being impacted by climate change and how the law can help drive climate
-  action.\n The Cambridge Seminar Series on Law and the Climate Crisis is c
- o-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambridge Z
- ero\, the Centre for Environment\, Energy and Natural Resource Governance 
- (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre for Inte
- rnational Law\, and the Net Zero Lawye
+ aw\nSign-up needed\nDate/time: \n\n Friday 12 February 2027 \n\n 4:00pm to
+  5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Spea
+ ker: Dr Rhiannon Ogden-Jones (University of Cambridge)\n The Cambridge Sem
+ inar Series on Law and the Climate Crisis explores the vital role of legal
+  systems in tackling one of the most pressing issues of our time.\n This s
+ eries brings together top experts in law and climate action to discuss how
+  climate change interacts with specific areas of law\, setting out both ho
+ w legal fields are being impacted by climate change and how the law can he
+ lp drive climate action.\n The Cambridge Seminar Series on Law and the Cli
+ mate Crisis is co-hosted by the Centre for Climate Engagement at Hughes Ha
+ ll\, Cambridge Zero\, the Centre for Environment\, Energy and Natural Reso
+ urce Governance (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht
+  Centre for International Law\, and the Net Zero Lawye
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -1244,24 +1210,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-ai-law
- \nDate/time: \n\n Friday 19 February 2027 \n\n 4:00pm to 5:00pm\n\n Locati
- on: \n\n David Attenborough Building\n\n About \n\n Speaker: Giulia Trojan
- o (Hausfeld)\n The Cambridge Seminar Series on Law and the Climate Crisis 
- explores the vital role of legal systems in tackling one of the most press
- ing issues of our time.\n This series brings together top experts in law a
- nd climate action to discuss how climate change interacts with specific ar
- eas of law\, setting out both how legal fields are being impacted by clima
- te change and how the law can help drive climate action.\n The Cambridge S
- eminar Series on Law and the Climate Crisis is co-hosted by the Centre for
-  Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Envir
- onment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge C
- limate Society\, the Lauterpacht Centre for International Law\, and the Ne
- t Zero Lawyers Alliance.\n For more i
+ \nSign-up needed\nDate/time: \n\n Friday 19 February 2027 \n\n 4:00pm to 5
+ :00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speake
+ r: Giulia Trojano (Hausfeld)\n The Cambridge Seminar Series on Law and the
+  Climate Crisis explores the vital role of legal systems in tackling one o
+ f the most pressing issues of our time.\n This series brings together top 
+ experts in law and climate action to discuss how climate change interacts 
+ with specific areas of law\, setting out both how legal fields are being i
+ mpacted by climate change and how the law can help drive climate action.\n
+  The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted b
+ y the Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the 
+ Centre for Environment\, Energy and Natural Resource Governance (CEENRG)\,
+  the Cambridge Climate Society\, the Lauterpacht Centre for International 
+ Law\, and the Net Zero Lawyers Alliance.\n For more i
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -1272,24 +1238,24 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-compar
- ative-law\nDate/time: \n\n Friday 26 February 2027 \n\n 4:00pm to 5:00pm\n
- \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr I
- vano Alogna (British Institute for International and Comparative Law)\n Th
- e Cambridge Seminar Series on Law and the Climate Crisis explores the vita
- l role of legal systems in tackling one of the most pressing issues of our
-  time.\n This series brings together top experts in law and climate action
-  to discuss how climate change interacts with specific areas of law\, sett
- ing out both how legal fields are being impacted by climate change and how
-  the law can help drive climate action.\n The Cambridge Seminar Series on 
- Law and the Climate Crisis is co-hosted by the Centre for Climate Engageme
- nt at Hughes Hall\, Cambridge Zero\, the Centre for Environment\, Energy a
- nd Natural Resource Governance (CEENRG)\, the Cambridge Climate Society\, 
- the Lauterpacht Centre for International Law
+ ative-law\nSign-up needed\nDate/time: \n\n Friday 26 February 2027 \n\n 4:
+ 00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n
+ \n Speaker: Dr Ivano Alogna (British Institute for International and Compa
+ rative Law)\n The Cambridge Seminar Series on Law and the Climate Crisis e
+ xplores the vital role of legal systems in tackling one of the most pressi
+ ng issues of our time.\n This series brings together top experts in law an
+ d climate action to discuss how climate change interacts with specific are
+ as of law\, setting out both how legal fields are being impacted by climat
+ e change and how the law can help drive climate action.\n The Cambridge Se
+ minar Series on Law and the Climate Crisis is co-hosted by the Centre for 
+ Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Enviro
+ nment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge Cl
+ imate Society\, the Lauterpacht Centre for International Law
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T132725Z
+DTSTAMP:20261118T144033Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ
@@ -1300,18 +1266,19 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
 CATEGORIES:Law,Policy,Rights & Justice
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\, Rights & Justice\nDetail
  s: https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climat
- e-change-and-human-rights-law\nDate/time: \n\n Friday 12 March 2027 \n\n 4
- :00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \
- n\n Speaker: Professor Annalisa Savaresi (University of Eastern Finland an
- d University of Stirling)\n The Cambridge Seminar Series on Law and the Cl
- imate Crisis explores the vital role of legal systems in tackling one of t
- he most pressing issues of our time.\n This series brings together top exp
- erts in law and climate action to discuss how climate change interacts wit
- h specific areas of law\, setting out both how legal fields are being impa
- cted by climate change and how the law can help drive climate action.\n Th
- e Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by t
- he Centre for Climate Engagement at Hughes Hall\, Cambridge Zero\, the Cen
- tre for Environment\, Energy and Natural Resource Governance (CEENRG)\, th
- e Cambridge Climate Society\, the Lauterpacht Centre for Interna
+ e-change-and-human-rights-law\nSign-up needed\nDate/time: \n\n Friday 12 M
+ arch 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Buil
+ ding\n\n About \n\n Speaker: Professor Annalisa Savaresi (University of Ea
+ stern Finland and University of Stirling)\n The Cambridge Seminar Series o
+ n Law and the Climate Crisis explores the vital role of legal systems in t
+ ackling one of the most pressing issues of our time.\n This series brings 
+ together top experts in law and climate action to discuss how climate chan
+ ge interacts with specific areas of law\, setting out both how legal field
+ s are being impacted by climate change and how the law can help drive clim
+ ate action.\n The Cambridge Seminar Series on Law and the Climate Crisis i
+ s co-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambridg
+ e Zero\, the Centre for Environment\, Energy and Natural Resource Governan
+ ce (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre for I
+ nterna
 END:VEVENT
 END:VCALENDAR
