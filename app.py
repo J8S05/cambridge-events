@@ -89,7 +89,9 @@ class Handler(SimpleHTTPRequestHandler):
             if not ev.get("title") or not ev.get("start"):
                 return self._json({"error": "title and start are required"}, 400)
             keep = {k: str(ev.get(k) or "").strip() for k in
-                    ("title", "start", "end", "venue", "speaker", "organiser", "url", "description")}
+                    ("title", "start", "end", "venue", "speaker", "organiser", "url", "description", "booking")}
+            if ev.get("access") in scraper.ACCESS_LABELS:
+                keep["access"] = ev["access"]
             if ev.get("topics"):
                 keep["topics"] = [t for t in ev["topics"] if t in scraper.TOPICS]
             keep["id"] = "manual-" + uuid.uuid4().hex[:10]

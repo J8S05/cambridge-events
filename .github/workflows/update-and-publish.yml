@@ -1,6 +1,8 @@
 # Fetches fresh events every 6 hours and publishes the calendar as a website
 # (GitHub Pages). It can also be started by hand from the repository's
 # "Actions" tab -> "Update events and publish website" -> "Run workflow".
+# It also runs when you submit an event with the website's "Add event" button
+# (that creates a GitHub issue, which this adds to termcards.json and closes).
 name: Update events and publish website
 
 on:
@@ -9,11 +11,14 @@ on:
   workflow_dispatch: {}        # "Run workflow" button
   push:
     branches: [main]           # republish whenever you change something
+  issues:
+    types: [opened]            # "Add event" submissions from the website
 
 permissions:
   contents: write              # to save the refreshed events.json back to the repository
   pages: write                 # to publish the website
   id-token: write
+  issues: write                # to reply to and close "Add event" issues
 
 concurrency:
   group: update-and-publish
@@ -21,27 +26,49 @@ concurrency:
 
 jobs:
   update:
+    # Only the repository owner's "Add event" issues are acted on; anyone else's are ignored.
+    if: >-
+      github.event_name != 'issues' ||
+      (github.event.issue.user.login == github.repository_owner &&
+       contains(github.event.issue.body, 'cambridge-events:add'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Fetch latest events
-        # Skip the slow fetch when this run was started by a normal edit/upload.
-        if: github.event_name != 'push'
+        # Skipped when the run was started by an "Add event" issue (that only needs termcards.json).
+        if: github.event_name != 'issues'
         run: python3 scraper.py
 
+      - name: Add events from the issue
+        if: github.event_name == 'issues'
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          SUMMARY_FILE: ${{ runner.temp }}/summary.md
+        run: python3 add_events.py
+
       - name: Save refreshed events to the repository
-        if: github.event_name != 'push'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add events.json events.js calendar/
+          git add events.json events.js calendar/ termcards.json
           git diff --cached --quiet || git commit -m "Update events"
+          git pull --rebase -X theirs origin main || true
           git push
+
+      - name: Reply to the issue and close it
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body-file "${{ runner.temp }}/summary.md"
+          gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
 
       - uses: actions/configure-pages@v5
 

@@ -49,9 +49,16 @@ Each update also writes calendar feeds to the `calendar/` folder: `all.ics`, plu
 
 When the same event appears in several places, the app merges it into one entry. The detail panel links to every place it's listed.
 
-## Adding termcard events
+## Adding events from termcards and emails
 
-In the sidebar, open **＋ Add termcard event**, fill in the form and save. The event appears in every view straight away and is kept through refreshes. To remove one, open it and click **Delete this termcard entry**. If you don't choose a topic, it's guessed from the title, or failing that from the society: the Union and party clubs map to Politics, CULS to Law, and Leaps to Entrepreneurship.
+Tap **＋ Add** (top right), paste the text of an email, an Instagram caption, or a termcard, and tap **Find events**. Each date becomes a separate event with the title, time, venue and link filled in. Check them, pick the society, and tap **Add**.
+
+- To get text out of a termcard image on iPhone, open it in Photos, press and hold on the text, then tap **Select All** and **Copy** (Live Text).
+- On the website, **Add** opens GitHub with the events ready; tap **Create**. A workflow (`add_events.py`) saves them to `termcards.json`, closes the issue, and republishes the site and calendar feeds within about 2 minutes. Only issues opened by the repository owner are used.
+- In the Mac app (`python3 app.py`), events save straight away.
+- To remove one, open it and tap **Delete this event**. That goes through the same GitHub step on the website.
+
+If you don't choose a topic, it's guessed from the title, or from the society: the Union and party clubs map to Politics, CULS to Law, and Leaps to Entrepreneurship.
 
 You can also edit `termcards.json` directly:
 

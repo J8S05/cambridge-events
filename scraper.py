@@ -794,10 +794,126 @@ def load_manual(log):
                     ev["topics"] = [topic]
                     break
         ev["manual"] = True
+        if it.get("access") in ACCESS_LABELS:
+            ev["access"] = it["access"]
+        else:
+            ev["access"], ev["accessNote"], link = classify_access(ev["description"], (), ev["venue"])
+        if it.get("booking"):
+            ev["booking"] = it["booking"]
+        elif ev["access"] in ("ticket", "register", "online-register") and ev["url"]:
+            ev["booking"] = ev["url"]
         evs.append(ev)
     evs = [e for e in evs if e["start"][:10] >= str(TODAY - dt.timedelta(days=60))]
     log(f"Termcards (manual): {len(evs)} events")
     return evs
+
+# --------------------------------------------------------------------------
+# Sign-up / tickets: does this event need booking in advance?
+#   access = "ticket" | "register" | "online-register" | "members" | "open" | ""  (unknown)
+# --------------------------------------------------------------------------
+ACCESS_LABELS = {"ticket": "Paid ticket", "register": "Sign-up needed", "online-register": "Sign-up only to join online",
+                 "members": "Members only", "open": "No sign-up needed"}
+SIGNUP_HOST_RX = re.compile(r"eventbrite\.|ticketsource|tickettailor|fixr\.|luma\.com|lu\.ma/|forms\.office|forms\.cloud\.microsoft|"
+                            r"forms\.gle|docs\.google\.com/forms|zoom\.us/(webinar|meeting)/register|eventbrite|"
+                            r"/register\b|/registration\b|/booking\b|/book\b|/tickets?\b|universitytickets|store\.cam\.ac\.uk", re.I)
+JOIN_ONLY_RX = re.compile(r"teams\.microsoft\.com/(l/meetup-join|meet)|zoom\.us/j/|meet\.google\.com", re.I)
+SIGNUP_TEXT_RX = re.compile(r"^\s*(sign[- ]?up|register|registration|book(ing)?( now| here| a place| your place| tickets?)?|"
+                            r"get tickets?|buy tickets?|tickets?|rsvp|reserve( a)?( place| seat)?|apply( now)?)\b", re.I)
+NO_SIGNUP_RX = re.compile(r"no (need to |advance )?(book|register|sign[- ]?up|registration|booking|tickets?)\w*[^.]{0,40}?(required|necessary|needed)?|"
+                          r"(registration|booking|tickets?|sign[- ]?up) (is |are )?not (required|necessary|needed)|just (turn|come|show) up|"
+                          r"drop[- ]in\b|no tickets? (are )?(required|needed)", re.I)
+TICKET_RX = re.compile(r"(tickets?|entry|admission|entrance|price|costs?|fee)\b[^.£]{0,30}£\s?\d|£\s?\d+(\.\d\d)?\s*(per (person|ticket)|entry|admission|tickets?|for (members|non-members|students))|buy (your )?tickets?|ticket price|paid tickets?", re.I)
+REGISTER_RX = re.compile(r"(registration|booking|pre-?registration|sign[- ]?up)( is| are)? (required|essential|necessary|compulsory|mandatory|recommended|advised)|"
+                         r"please (register|book|sign[- ]?up|rsvp|reserve)|(must|need to|should) (register|book|sign[- ]?up)|"
+                         r"register (now|here|to attend|via|at|for (this|the|a) |your|using|online|in advance|by)|\bto register\b|"
+                         r"book (now|here|your|a|via|online|in advance)\b|sign[- ]?up (here|now|link|via|at|form|below|using)|"
+                         r"\brsvp\b|\bticketed\b|tickets? (are )?(required|essential)|places are limited|limited (places|spaces|seats|capacity)|first[- ]come|registration (is )?(free|open|closes)|"
+                         r"free (but|,) (registration|booking|ticketed)|reserve (a|your) (place|seat|spot)", re.I)
+ONLINE_RX = re.compile(r"(online|remote|remotely|zoom|webinar|virtual|virtually|livestream|teams)", re.I)
+MEMBERS_RX = re.compile(r"members only|for members\b|membership (is )?required|open (only )?to members", re.I)
+OPEN_RX = re.compile(r"open to all|free and open|all (are )?(very )?welcome|everyone (is )?welcome|free entry|free to attend,? no|open to the public|no booking", re.I)
+
+
+def _sentence(text, m):
+    a = max(text.rfind(".", 0, m.start()), text.rfind("\n", 0, m.start())) + 1
+    b = min([i for i in (text.find(".", m.end()), text.find("\n", m.end())) if i >= 0] or [len(text)])
+    return re.sub(r"\s+", " ", text[a:b + 1]).strip()[:180]
+
+
+def classify_access(text, links=(), venue="", booking=""):
+    """Return (access, note, link) from page text and (link_text, href) pairs."""
+    text = text or ""
+    signup = next((h for t, h in links if SIGNUP_HOST_RX.search(h) and not JOIN_ONLY_RX.search(h)), "")
+    if not signup:
+        signup = next((h for t, h in links if SIGNUP_TEXT_RX.search(t) and not JOIN_ONLY_RX.search(h)
+                       and not h.startswith(("#", "javascript"))), "")
+    signup = signup or booking or ""
+    online_venue = bool(ONLINE_RX.search(venue or "")) and not re.search(r"room|hall|building|college|theatre|centre|faculty", venue or "", re.I)
+    if m := NO_SIGNUP_RX.search(text):
+        return "open", _sentence(text, m), ""
+    if m := TICKET_RX.search(text):
+        return "ticket", _sentence(text, m), signup
+    m = REGISTER_RX.search(text)
+    if m or signup:
+        note = _sentence(text, m) if m else ""
+        link_txt = next((t for t, h in links if h == signup), "")
+        # "Register here if attending online" for an in-person event
+        if not online_venue and (ONLINE_RX.search(note) or ONLINE_RX.search(link_txt) or re.search(r"zoom\.us/(webinar|meeting)/register", signup)):
+            if re.search(r"in[- ]person|in the faculty|hybrid|attend (either )?in person|room|hall|lecture theatre", text + " " + venue, re.I) \
+                    and not re.search(r"(register|book|sign[- ]?up)[^.]{0,30}(either |both )?in[- ]person|in[- ]person (attendees|attendance)[^.]{0,30}(register|book)", text, re.I):
+                return "online-register", note, signup
+        return "register", note, signup
+    if m := MEMBERS_RX.search(text):
+        return "members", _sentence(text, m), ""
+    if m := OPEN_RX.search(text):
+        return "open", _sentence(text, m), ""
+    return "", "", ""
+
+
+def _page_links(h):
+    m = re.search(r"<main.*?</main>", h, re.S) or re.search(r"<article.*?</article>", h, re.S)
+    body = m.group(0) if m else h
+    links = [(strip_tags(t), html.unescape(u)) for u, t in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', body, re.S)]
+    return strip_tags(body), links
+
+
+def enrich_access(events, log=print):
+    """Work out for each event whether a sign-up or ticket is needed (fetches event pages in parallel)."""
+    def one(e):
+        try:
+            if e.get("access"):                    # already known (manual entries)
+                return
+            if e["sourceGroup"] == "Eventbrite":
+                e["access"] = "ticket" if TICKET_RX.search(e.get("description", "")) else "register"
+                e["booking"] = e.get("booking") or e.get("url")
+                return
+            if e.get("booking") and re.search(r"luma\.com|lu\.ma", e["booking"]):
+                e["access"], e["accessNote"] = "register", "Sign up on Luma (free)."
+                return
+            text, links = e.get("description", ""), []
+            url = e.get("url") or ""
+            if url and e["sourceGroup"] in ("Department", "Research centre", "Entrepreneurship", "Societies"):
+                try:
+                    text, links = _page_links(fetch(url, timeout=20, tries=1))
+                    links = [(t, urllib.parse.urljoin(url, h)) for t, h in links]
+                    # ignore site navigation/footer links that are not about this event
+                    links = [(t, h) for t, h in links if h.split("#")[0].rstrip("/") != url.rstrip("/")]
+                except Exception:
+                    pass
+            for alt in e.get("alsoListed") or []:
+                if alt.get("url") and SIGNUP_HOST_RX.search(alt["url"]):
+                    links.append(("Book", alt["url"]))
+            acc, note, link = classify_access(text, links, e.get("venue", ""), e.get("booking") or "")
+            e["access"], e["accessNote"] = acc, note
+            if link and acc in ("ticket", "register", "online-register"):
+                e["booking"] = link
+        except Exception as ex:
+            log(f"  ! sign-up check failed for {e.get('url')}: {ex}")
+    with cf.ThreadPoolExecutor(10) as ex:
+        list(ex.map(one, events))
+    n = sum(1 for e in events if e.get("access") in ("ticket", "register", "online-register"))
+    log(f"Sign-up check: {n} of {len(events)} events need a sign-up or ticket")
+
 
 # --------------------------------------------------------------------------
 # Orchestration
@@ -939,7 +1055,8 @@ def build_ics(events, name, stamp):
             e.get("series") or e.get("organiser") or "",
             "Topics: " + ", ".join(e.get("topics") or []) if e.get("topics") else "",
             f"Details: {e['url']}" if e.get("url") else "",
-            f"Book: {e['booking']}" if e.get("booking") and e.get("booking") != e.get("url") else "",
+            (ACCESS_LABELS[e["access"]] + (f": {e['booking']}" if e.get("booking") else "")) if e.get("access") in ACCESS_LABELS
+            else (f"Book: {e['booking']}" if e.get("booking") and e.get("booking") != e.get("url") else ""),
             (e.get("description") or "")[:900],
         ]
         lines += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{stamp}", *when,
@@ -1013,6 +1130,7 @@ def run(log=print):
                 log(f"{name}: FAILED - {e}")
     events = dedupe([e for e in all_events if e["start"] and e["title"]])
     events.sort(key=lambda e: e["start"])
+    enrich_access(events, log)
     data = {
         "generated": dt.datetime.now(LONDON).strftime("%Y-%m-%dT%H:%M"),
         "topics": list(TOPICS),
