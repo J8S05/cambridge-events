@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T14:40",
+ "generated": "2026-11-18T15:04",
  "topics": [
   "Law",
   "Politics",
@@ -16,49 +16,50 @@
    "ok": true,
    "count": 0
   },
-  "EA Cambridge": {
-   "ok": true,
-   "count": 4
-  },
   "King's E-Lab": {
    "ok": true,
    "count": 8
   },
-  "Judge Business School": {
+  "EA Cambridge": {
    "ok": true,
-   "count": 10
-  },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
-  },
-  "Cambridge Enterprise": {
-   "ok": true,
-   "count": 1
+   "count": 4
   },
   "Institute of Criminology": {
    "ok": true,
    "count": 3
   },
-  "Centre for Geopolitics": {
+  "Cambridge Enterprise": {
    "ok": true,
-   "count": 8
+   "count": 1
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 10
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 3
   },
-  "Bennett": {
-   "ok": true,
-   "count": 2
-  },
   "Faculty of Law": {
    "ok": true,
    "count": 44
   },
+  "Bennett": {
+   "ok": true,
+   "count": 2
+  },
   "Eventbrite": {
    "ok": true,
-   "count": 0
+   "count": 0,
+   "note": "HTTP 405"
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 8
   },
   "talks.cam": {
    "ok": true,
@@ -87,7 +88,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platforms",
@@ -109,7 +112,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
@@ -133,7 +138,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-book-presentation-bucharest",
@@ -155,7 +162,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273542",
@@ -177,7 +186,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-what-remedial-constructive-trust",
@@ -199,7 +210,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273685",
@@ -221,7 +234,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-international-law-science-norm-interface-controversy-over",
@@ -244,7 +259,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-making-successful-pupillage-applications",
@@ -266,7 +283,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afa293178a4204d5c078138",
@@ -289,7 +308,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here !"
+   "accessNote": "TICKETS: Register here !",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
@@ -314,7 +335,11 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Ambassador)"
+   ]
   },
   {
    "id": "elab-6a54f3688bd7eb12c9e49fee",
@@ -339,7 +364,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here !"
+   "accessNote": "TICKETS: Register here !",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
@@ -361,7 +388,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
@@ -384,7 +413,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-mOY3n4xNVH93aueventsluma",
@@ -406,7 +437,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-BBum5X4ESJKq4Ieventsluma",
@@ -428,7 +461,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-age-ai-interdisciplinary-dialogue",
@@ -450,7 +485,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
@@ -473,7 +510,11 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G"
+   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G",
+   "highlight": true,
+   "highlightWhy": [
+    "Named public lecture"
+   ]
   },
   {
    "id": "jbs-from-sustainable-decisions-to-societal-transitions",
@@ -495,7 +536,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law-torts-and-climate-change",
@@ -518,7 +561,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge",
@@ -541,7 +586,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more details, and to register attendance, please view the event page:"
+   "accessNote": "For more details, and to register attendance, please view the event page:",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-general-matthew-jones-chief-of-defence-intelligence",
@@ -563,7 +610,11 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Lieutenant General)"
+   ]
   },
   {
    "id": "ea-TAzwkNqjOhF66Yeventsluma",
@@ -585,7 +636,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273132",
@@ -607,7 +660,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-book-presentation-the-inclusive-wealth-of-nations",
@@ -628,8 +683,10 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "open",
-   "accessNote": "No registration required."
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
@@ -652,7 +709,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Register now"
+   "accessNote": "Register now",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Justice of the Supreme Court)"
+   ]
   },
   {
    "id": "centre-national-cultural-autonomy-revisited-why-baltic-minority-politics-matters",
@@ -675,7 +736,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "bennett-uk-digital-economics-2026",
@@ -697,7 +760,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea."
+   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
@@ -719,7 +784,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online ."
+   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
@@ -742,7 +809,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
@@ -764,7 +833,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273869",
@@ -788,7 +859,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273765",
@@ -810,7 +883,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-274135",
@@ -838,7 +913,9 @@
     }
    ],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
@@ -862,7 +939,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-inside-a-frontier-tech-scale-up",
@@ -884,7 +963,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
@@ -907,7 +988,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afd91cb96afb60473ba56d9",
@@ -929,7 +1012,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-what-next-for-cuba",
@@ -951,7 +1036,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273072",
@@ -973,7 +1060,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026",
@@ -995,7 +1084,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
@@ -1018,7 +1109,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
@@ -1042,7 +1135,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-pitch-and-judge-5-autumn-2026",
@@ -1065,7 +1160,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afb054f81a2b23ad553feef",
@@ -1087,7 +1184,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6a54f54a92a5d806b925ed23",
@@ -1110,7 +1209,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Please register on Eventbrite."
+   "accessNote": "TICKETS: Please register on Eventbrite.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273143",
@@ -1143,20 +1244,22 @@
     }
    ],
    "access": "register",
-   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
-   "title": "3VB’s University of Cambridge Event",
+   "id": "dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event",
+   "title": "3VB University of Cambridge Event",
    "start": "2026-11-26T17:00",
    "end": "2026-11-26T18:00",
    "allDay": false,
-   "venue": "Downing College, West Lodge & Maitland Room",
+   "venue": "Downing College",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com",
+   "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -1167,11 +1270,39 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event"
+     "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event"
     }
    ],
    "access": "register",
-   "accessNote": "RSVP: events@3vb."
+   "accessNote": "RSVP: events@3vb.",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (KC)"
+   ]
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
+   "start": "2026-11-26T17:30",
+   "end": "2026-11-26T18:30",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
+   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg",
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "bennett-annual-public-policy-lecture-2026",
@@ -1196,29 +1327,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Book Your Place"
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T18:30",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
-   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
+   "accessNote": "Book Your Place",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-book-presentation-london",
@@ -1240,7 +1351,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Attendance is free, but registration is required."
+   "accessNote": "Attendance is free, but registration is required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
@@ -1263,7 +1376,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio"
+   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
@@ -1286,7 +1401,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970",
@@ -1308,7 +1425,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
@@ -1330,7 +1449,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-medical-law-society-debate-thbt-patient-autonomy-should-prevail-over-medical",
@@ -1352,7 +1473,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No sign-up for spectating required, but you may want to if you would like a reminder email prior."
+   "accessNote": "No sign-up for spectating required, but you may want to if you would like a reminder email prior.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6aa94fc5fe463936242563f7",
@@ -1374,7 +1497,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ce-commercialisation-101-online-essentials",
@@ -1396,7 +1521,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Fill out the form below to register!"
+   "accessNote": "Fill out the form below to register!",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-public-control-of-energy",
@@ -1417,8 +1544,10 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "open",
-   "accessNote": "No registration required."
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-shakman-hurd",
@@ -1441,7 +1570,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-retail-capital-in-venture-capital",
@@ -1463,7 +1594,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-philosophy-event-whale-legal-personhood-insights-posthuman-theory-and",
@@ -1486,7 +1619,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information about the Talking Animals series and to register for the events, visit the Cambridge Centre for Animal Rights Law website ."
+   "accessNote": "For more information about the Talking Animals series and to register for the events, visit the Cambridge Centre for Animal Rights Law website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
@@ -1509,7 +1644,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-the-value-of-codifying-organisational-knowledge",
@@ -1531,7 +1668,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273144",
@@ -1563,7 +1702,9 @@
     }
    ],
    "access": "register",
-   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
@@ -1586,7 +1727,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273722",
@@ -1609,7 +1752,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
@@ -1632,7 +1777,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-climate-ethics-policy-methodology",
@@ -1655,7 +1802,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273463",
@@ -1679,7 +1828,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6ac8d6d2677c0f2331acd7cb",
@@ -1701,7 +1852,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here"
+   "accessNote": "TICKETS: Register here",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026",
@@ -1723,7 +1876,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants."
+   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
@@ -1747,7 +1902,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special"
+   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-belarus-and-the-baltic-after-2022",
@@ -1769,7 +1926,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afb0228b1f9cf292ded16a4",
@@ -1791,7 +1950,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-YDtcUYfkrGcFoHeventsluma",
@@ -1813,7 +1974,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-research-showcase-climate-adaptation-in-small-island-states",
@@ -1835,7 +1998,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk",
@@ -1857,7 +2022,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-there-be-feminist-general-jurisprudence",
@@ -1880,7 +2047,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273975",
@@ -1903,7 +2072,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273723",
@@ -1927,7 +2098,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
@@ -1951,7 +2124,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (President Koen)"
+   ]
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium",
@@ -1974,7 +2151,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "With presentations by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua "
+   "accessNote": "With presentations by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua ",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cflcambridge-socio-legal-group-seminar-evolution-parenthood-brazil-single-parent-stigma",
@@ -1996,7 +2175,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "To attend online you must register via Zoom ."
+   "accessNote": "To attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-eei-the-behavioural-economics-of-social-media-bans",
@@ -2017,8 +2198,10 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "open",
-   "accessNote": "No registration required."
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2027-01-cambridge-medical-law-society-medical-negligence-moot-3rd-round",
@@ -2040,7 +2223,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-and-tort-law",
@@ -2063,7 +2248,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Lord)"
+   ]
   },
   {
    "id": "talks-273737",
@@ -2085,7 +2274,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-land-law",
@@ -2108,7 +2299,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273981",
@@ -2131,7 +2324,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-ai-law",
@@ -2154,7 +2349,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
@@ -2177,7 +2374,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-frontier-tech-female-founders-day",
@@ -2199,7 +2398,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Registration required"
+   "accessNote": "Registration required",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273872",
@@ -2222,7 +2423,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-human-rights-law",
@@ -2246,7 +2449,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   }
  ]
 }

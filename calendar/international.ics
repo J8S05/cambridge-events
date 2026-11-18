@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:centre-book-presentation-bucharest@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261118T190000
 DTEND;TZID=Europe/London:20261118T200000
 SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-internation
  al-law-sc@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T150000
 DTEND;TZID=Europe/London:20261119T160000
 SUMMARY:CEENRG Seminars: 'How Safe is Safe? International Law at the Scienc
@@ -69,7 +69,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afa293178a4204d5c078138@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:Science\, Brand and Business: A Conversation with Jessie Inchauspé
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -99,26 +99,27 @@ LOCATION:Lauterpacht Centre for International Law
 URL:https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-an
  d-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar
 CATEGORIES:Law,Politics,International,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Policy
- \nDetails: https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-b
- razil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-agui
- ar\nDate/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Lo
- cation: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley
-  Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an
-  in-person event only Antonio de Aguiar Patriota was appointed Ambassador 
- to the United Kingdom of Great Britain and Northern Ireland in 2023. \n P
- reviously\, he served as Minister of Foreign Affairs of Brazil (2011-2013)
- \, Ambassador to the United States (2007-2009) and as Permanent Representa
- tive of Brazil to the United Nations (2013-2016). He was Ambassador of Bra
- zil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \
- n Among his publications are “The UN Security Council after the Gulf War
- ” (1998) and two volumes of “Speeches\, articles and interviews” dur
- ing his period as Foreign Minister. He published in 2025 a collection of e
- ssays in the English language entitled “A Human
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
+ nTopics: Law\, Politics\, International\, Policy\nDetails: https://www.law
+ .cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-and-rule-law-democra
+ cy-and-foreign-policy-ambassador-antonio-de-aguiar\nDate/time: \n\n Thursd
+ ay 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht C
+ entre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map
+  \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Anto
+ nio de Aguiar Patriota was appointed Ambassador to the United Kingdom of G
+ reat Britain and Northern Ireland in 2023. \n Previously\, he served as M
+ inister of Foreign Affairs of Brazil (2011-2013)\, Ambassador to the Unite
+ d States (2007-2009) and as Permanent Representative of Brazil to the Unit
+ ed Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) a
+ nd to the Arab Republic of Egypt (2019-2023). \n Among his publications a
+ re “The UN Security Council after the Gulf War” (1998) and two volumes
+  of “Speeches\, articles and interviews” during his period as Foreign 
+ Minister. He published in 2025 a collection of essays in the English langu
+ age entitled “A Human
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
@@ -139,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
  ents
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261120T173000
 DTEND;TZID=Europe/London:20261120T183000
 SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
@@ -149,13 +150,13 @@ LOCATION:McCrum Lecture Theatre\, Corpus Christi College\, Trumpington St C
 URL:https://www.cfg.cam.ac.uk/events/general-matthew-jones-chief-of-defence
  -intelligence/
 CATEGORIES:International
-DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
- /www.cfg.cam.ac.uk/events/general-matthew-jones-chief-of-defence-intellige
- nce/
+DESCRIPTION:Centre for Geopolitics\nHighlight: Senior figure speaking (Lieu
+ tenant General)\nTopics: International\nDetails: https://www.cfg.cam.ac.uk
+ /events/general-matthew-jones-chief-of-defence-intelligence/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273132@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T140000
 SUMMARY:From boring to extraction: surveying\, labour and the underground i
@@ -170,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
  s-matters@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261123T173000
 DTEND;TZID=Europe/London:20261123T190000
 SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
@@ -184,7 +185,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: Politics\, International\nDetai
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -213,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -242,7 +243,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-what-next-for-cuba@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T183000
 SUMMARY:What next for Cuba?
@@ -253,7 +254,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -271,34 +272,34 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  ilm with Thérèse Ahlbec. There will also be a drinks reception.
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
- vent@cambridge-events
-DTSTAMP:20261118T144033Z
+UID:dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event@cambridge-
+ events
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
-SUMMARY:3VB’s University of Cambridge Event
-LOCATION:Downing College\, West Lodge & Maitland Room
-URL:https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridg
- e-event
+SUMMARY:3VB University of Cambridge Event
+LOCATION:Downing College
+URL:https://www.law.cam.ac.uk/events/3vb-university-cambridge-event
 CATEGORIES:Law,International
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event\nSig
- n-up needed\nDate/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00
- pm\n\n Location: \n\n Downing College\, West Lodge & Maitland Room\n\n Abo
- ut \n\n Following a brief introduction by 3VB's Rajesh Pillai KC\, members
-  of 3VB will offer first-hand insights into two recent landmark cases\, ex
- ploring how legal decisions are reached and the role of barristers in shap
- ing them.\n Dominic Kennelly will discuss Spain v Infrastructure Services 
- Luxembourg [2026] UKSC 9\, concerning state immunity and the enforcement o
- f international arbitration awards\, while William Day and Amelia-Rose Edw
- ards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe
-  SE [2026] UKSC 14\, addressing contractual interpretation and causation i
- n private law.\n The talks will be followed by drinks\, refreshments and a
- n opportunity to network with members of Chambers.\n RSVP: events@3vb.com
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (KC)\nTopics:
+  Law\, International\nDetails: https://www.law.cam.ac.uk/events/3vb-univer
+ sity-cambridge-event\nSign-up needed\nDate/time: \n\n Thursday 26 November
+  2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lo
+ dge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's
+  Rajesh Pillai KC\, members of 3VB will offer first-hand insights into two
+  recent landmark cases\, exploring how legal decisions are reached and the
+  role of barristers in shaping them.\n Dominic Kennelly will discuss Spain
+  v Infrastructure Services Luxembourg [2026] UKSC 9\, concerning state imm
+ unity and the enforcement of international arbitration awards\, while Will
+ iam Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Libe
+ rty Mutual Insurance Europe SE [2026] UKSC 14\, addressing contractual int
+ erpretation and causation in private law.\n The talks will be followed by 
+ drinks\, refreshments and an opportunity to network with members of Chambe
+ rs.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -320,7 +321,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\,
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-book-presentation-london@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T180000
 DTEND;TZID=Europe/London:20261126T203000
 SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
@@ -333,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -363,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
  nce-and-t@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261127T173000
 DTEND;TZID=Europe/London:20261127T183000
 SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
@@ -380,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -407,7 +408,7 @@ DESCRIPTION:POLIS (Politics & International Studies)\nTopics: Politics\, In
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -433,7 +434,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -458,7 +459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -487,7 +488,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261204T173000
 DTEND;TZID=Europe/London:20261204T190000
 SUMMARY:Belarus and the Baltic after 2022
@@ -499,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
  -talk@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261210T160000
 DTEND;TZID=Europe/London:20261210T173000
 SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
@@ -513,7 +514,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -541,7 +542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -550,18 +551,19 @@ LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-res-inte
  rpretata-precedent-and-its-authority-case-law-court
 CATEGORIES:Law,International,Rights & Justice
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Rights & Justice\
- nDetails: https://www.law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-r
- es-interpretata-precedent-and-its-authority-case-law-court\nSign-up needed
- : https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-200
- 4774391171?aff=oddtdtcreator\nDate/time: \n\n Friday 22 January 2027 \n\n 
- 5:30pm to 7:00pm\n\n Location: \n\n Faculty of Law\, David Williams Buildi
- ng\n\n Open map \n\n Sign up\n\n About \n\n Speaker: President Koen Lenaer
- ts\, Court of Justice of the European Union
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
+ en)\nTopics: Law\, International\, Rights & Justice\nDetails: https://www.
+ law.cam.ac.uk/events/2027-mackenzie-stuart-lecture-res-interpretata-preced
+ ent-and-its-authority-case-law-court\nSign-up needed: https://www.eventbri
+ te.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171?aff=oddtdtc
+ reator\nDate/time: \n\n Friday 22 January 2027 \n\n 5:30pm to 7:00pm\n\n L
+ ocation: \n\n Faculty of Law\, David Williams Building\n\n Open map \n\n S
+ ign up\n\n About \n\n Speaker: President Koen Lenaerts\, Court of Justice 
+ of the European Union
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -575,7 +577,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N

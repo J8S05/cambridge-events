@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273701@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261117T130000
 DTEND;TZID=Europe/London:20261117T140000
 SUMMARY:Gendered Land Use and Agency in the Brazilian Amazon and Beyond
@@ -51,7 +51,7 @@ DESCRIPTION:Speaker: Leonie Hodel\, University of Cambridge\nPolitical Ecol
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273542@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T113000
 DTEND;TZID=Europe/London:20261119T123000
 SUMMARY:Evidence informed policy and policy informed research for cleaner a
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -87,26 +87,27 @@ LOCATION:Lauterpacht Centre for International Law
 URL:https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-an
  d-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar
 CATEGORIES:Law,Politics,International,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, International\, Policy
- \nDetails: https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-b
- razil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-agui
- ar\nDate/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Lo
- cation: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley
-  Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an
-  in-person event only Antonio de Aguiar Patriota was appointed Ambassador 
- to the United Kingdom of Great Britain and Northern Ireland in 2023. \n P
- reviously\, he served as Minister of Foreign Affairs of Brazil (2011-2013)
- \, Ambassador to the United States (2007-2009) and as Permanent Representa
- tive of Brazil to the United Nations (2013-2016). He was Ambassador of Bra
- zil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \
- n Among his publications are “The UN Security Council after the Gulf War
- ” (1998) and two volumes of “Speeches\, articles and interviews” dur
- ing his period as Foreign Minister. He published in 2025 a collection of e
- ssays in the English language entitled “A Human
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
+ nTopics: Law\, Politics\, International\, Policy\nDetails: https://www.law
+ .cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-and-rule-law-democra
+ cy-and-foreign-policy-ambassador-antonio-de-aguiar\nDate/time: \n\n Thursd
+ ay 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht C
+ entre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map
+  \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Anto
+ nio de Aguiar Patriota was appointed Ambassador to the United Kingdom of G
+ reat Britain and Northern Ireland in 2023. \n Previously\, he served as M
+ inister of Foreign Affairs of Brazil (2011-2013)\, Ambassador to the Unite
+ d States (2007-2009) and as Permanent Representative of Brazil to the Unit
+ ed Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) a
+ nd to the Arab Republic of Egypt (2019-2023). \n Among his publications a
+ re “The UN Security Council after the Gulf War” (1998) and two volumes
+  of “Speeches\, articles and interviews” during his period as Foreign 
+ Minister. He published in 2025 a collection of essays in the English langu
+ age entitled “A Human
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
@@ -126,7 +127,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-from-sustainable-decisions-to-societal-transitions@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261120T140000
 DTEND;TZID=Europe/London:20261120T153000
 SUMMARY:From sustainable decisions to societal transitions: the psychology 
@@ -143,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law
  -torts-an@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261120T160000
 DTEND;TZID=Europe/London:20261120T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Civil Law Torts and Climate C
@@ -170,7 +171,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-book-presentation-the-inclusive-wealth-of-nations@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261123T163000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Book presentation: The Inclusive Wealth of Nations: Prosperity\, Su
@@ -181,13 +182,13 @@ URL:https://www.jbs.cam.ac.uk/events/book-presentation-the-inclusive-wealth
 CATEGORIES:Policy
 DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
  nars Research seminars\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk
- /events/book-presentation-the-inclusive-wealth-of-nations/\nNo sign-up nee
- ded\nJoin our Energy & Environment seminar with Eoin McLaughlin\, Professo
- r of Economics\, Heriot-Watt University.
+ /events/book-presentation-the-inclusive-wealth-of-nations/\nJoin our Energ
+ y & Environment seminar with Eoin McLaughlin\, Professor of Economics\, He
+ riot-Watt University.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-uk-digital-economics-2026@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Fifth workshop on UK digital economics
@@ -202,7 +203,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Policy\nDetails: https
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -231,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -260,7 +261,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-inside-a-frontier-tech-scale-up@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261125T150000
 DTEND;TZID=Europe/London:20261125T170000
 SUMMARY:A first conversation inside a frontier tech scale up: AI\, quantum 
@@ -277,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-cha
  nge-natio@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -302,7 +303,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -325,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -353,7 +354,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -363,12 +364,12 @@ URL:https://www.jbs.cam.ac.uk/events/public-control-of-energy/
 CATEGORIES:Policy
 DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
  p (EPRG) Energy and Environment seminars\nTopics: Policy\nDetails: https:/
- /www.jbs.cam.ac.uk/events/public-control-of-energy/\nNo sign-up needed\nJo
- in our Energy Policy Research Group seminar with Dr Stephen Hall.
+ /www.jbs.cam.ac.uk/events/public-control-of-energy/\nJoin our Energy Polic
+ y Research Group seminar with Dr Stephen Hall.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -385,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -411,7 +412,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -436,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -452,7 +453,7 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -478,7 +479,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -488,14 +489,14 @@ URL:https://www.jbs.cam.ac.uk/events/eei-the-behavioural-economics-of-socia
 CATEGORIES:Policy
 DESCRIPTION:El-Erian Institute of Behavioural Economics and Policy events O
  n-campus events\nTopics: Policy\nDetails: https://www.jbs.cam.ac.uk/events
- /eei-the-behavioural-economics-of-social-media-bans/\nNo sign-up needed\nW
- ish that social media didn't exist? Join us to discuss social media bans a
- nd preferences with Professor Cass R Sunstein\, Harvard University.
+ /eei-the-behavioural-economics-of-social-media-bans/\nWish that social med
+ ia didn't exist? Join us to discuss social media bans and preferences with
+  Professor Cass R Sunstein\, Harvard University.
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -503,26 +504,27 @@ LOCATION:David Attenborough Building
 URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-change
  -and-tort-law
 CATEGORIES:Law,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
- cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law\nSign
- -up needed\nDate/time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n
- \n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Lord
-  Philip Sales (United Kingdom Supreme Court)\n The Cambridge Seminar Serie
- s on Law and the Climate Crisis explores the vital role of legal systems i
- n tackling one of the most pressing issues of our time.\n This series brin
- gs together top experts in law and climate action to discuss how climate c
- hange interacts with specific areas of law\, setting out both how legal fi
- elds are being impacted by climate change and how the law can help drive c
- limate action.\n The Cambridge Seminar Series on Law and the Climate Crisi
- s is co-hosted by the Centre for Climate Engagement at Hughes Hall\, Cambr
- idge Zero\, the Centre for Environment\, Energy and Natural Resource Gover
- nance (CEENRG)\, the Cambridge Climate Society\, the Lauterpacht Centre fo
- r International Law\, and the Net Zero Lawyers
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Lord)\nTopic
+ s: Law\, Policy\nDetails: https://www.law.cam.ac.uk/events/law-and-climate
+ -crisis-seminars-change-and-tort-law\nSign-up needed\nDate/time: \n\n Frid
+ ay 5 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenbor
+ ough Building\n\n About \n\n Speaker: Lord Philip Sales (United Kingdom Su
+ preme Court)\n The Cambridge Seminar Series on Law and the Climate Crisis 
+ explores the vital role of legal systems in tackling one of the most press
+ ing issues of our time.\n This series brings together top experts in law a
+ nd climate action to discuss how climate change interacts with specific ar
+ eas of law\, setting out both how legal fields are being impacted by clima
+ te change and how the law can help drive climate action.\n The Cambridge S
+ eminar Series on Law and the Climate Crisis is co-hosted by the Centre for
+  Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Envir
+ onment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge C
+ limate Society\, the Lauterpacht Centre for International Law\, and the Ne
+ t Zero Lawyers
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -549,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -576,7 +578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -604,7 +606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261118T144033Z
+DTSTAMP:20261118T150452Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ
