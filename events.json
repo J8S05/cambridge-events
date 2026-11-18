@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T15:04",
+ "generated": "2026-11-18T19:09",
  "topics": [
   "Law",
   "Politics",
@@ -16,21 +16,29 @@
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
-   "count": 8
+   "count": 0
   },
   "EA Cambridge": {
    "ok": true,
    "count": 4
   },
-  "Institute of Criminology": {
+  "Bennett": {
    "ok": true,
-   "count": 3
+   "count": 0
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 1
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
+  },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
@@ -40,26 +48,18 @@
    "ok": true,
    "count": 10
   },
-  "Centre of Governance and Human Rights (CGHR)": {
+  "Centre for Geopolitics": {
    "ok": true,
-   "count": 3
+   "count": 8
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 44
-  },
-  "Bennett": {
-   "ok": true,
-   "count": 2
+   "count": 45
   },
   "Eventbrite": {
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 8
   },
   "talks.cam": {
    "ok": true,
@@ -88,30 +88,6 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platforms",
-   "title": "Bonnie Honig in Conversation: Public Things in the Age of Platforms.",
-   "start": "2026-11-18T17:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Seminar Room, Department of Sociology",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "This event reflects on Bonnie Honig’s influential work Public Things a decade after its publication.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://www.eventbrite.co.uk/e/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms-tickets-2002988131420?aff=oddtdtcreator&keep_tld=true",
-   "topics": [
-    "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -200,7 +176,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n The purpose of this talk is to interrogate the phrase ‘remedial constructive trust’. It is sometimes used to denote the fact that constructive trusts are not trusts properly-so-called, merely remedies, much as quasi-contracts are not contracts but remedies for various causes of action such as wrongs and unjust enrichment. In complete contrast, remedial constructive trusts are sometimes said not to exist, at least in this jurisdiction, because constructive trusts really are trusts. Finally, some divide constructive trusts into those which are ‘Institutional’ and those which are ‘Remedial’. Exactly what that division entails, however, is unstable. \n Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.\n If you have questions or are interested in speaking at a future CPLC event, please email Fleur Stolker fs599@cam.ac.uk or",
    "url": "https://www.law.cam.ac.uk/events/private-law-seminar-series-what-remedial-constructive-trust",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -210,7 +186,7 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -378,7 +354,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor Sabine Jacques, University of Liverpool\n Abstract: Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of platfor",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker : Professor Sabine Jacques, University of Liverpool\n Abstract :  Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of plat",
    "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -665,6 +641,31 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-women-law-society-cwls-inside-uncitral-shaping-international-law-behind-global",
+   "title": "Cambridge Women in Law Society (CWLS): 'Inside UNCITRAL: Shaping the International Law Behind Global Trade'",
+   "start": "2026-11-23T13:00",
+   "end": "2026-11-23T14:30",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Jae Sung Lee, Principal Legal Officer at the United Nations Commission on International Trade Law (UNCITRAL)\n\n Date/time: \n\n Monday 23 November 2026 \n\n 1:00pm to 2:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n LG19\n\n Open map \n\n Sign up\n\n About \n\n UNCITRAL plays a central role in developing the international legal frameworks governing cross-border commerce, including international arbitration, insolvency, secured transactions and digital trade.\n Join us for an interactive conversation exploring how international commercial law is developed, how governments negotiate legal instruments, and what it is like to work within the United Nations.\n Students will have the opportunity to ask Jae questions about UNCITRAL’s work, international legal reform and career and internship opportunities.\n Italian food available in LG atrium from 12.30pm.\n The event is open to all Cambridge students, and no prior knowledge of international commercial law is required.",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-women-law-society-cwls-inside-uncitral-shaping-international-law-behind-global",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://tinyurl.com/CWLS-UNCITRAL",
+   "topics": [
+    "Law",
+    "International"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "jbs-book-presentation-the-inclusive-wealth-of-nations",
    "title": "Book presentation: The Inclusive Wealth of Nations: Prosperity, Sustainability, and the Future of Economic Progress",
    "start": "2026-11-23T16:30",
@@ -683,8 +684,8 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "",
-   "accessNote": "",
+   "access": "open",
+   "accessNote": "No registration required.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -737,30 +738,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "bennett-uk-digital-economics-2026",
-   "title": "Fifth workshop on UK digital economics",
-   "start": "2026-11-24T00:00",
-   "end": "2026-11-24T23:59",
-   "allDay": true,
-   "venue": "McGrath Centre St Catharine's College Cambridge CB2 1DS The UK – Research",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "The UK – Researcher Practitioner Network for the Economics of Digitization is pleased to present the 5th Workshop on Digital Economics.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -906,12 +883,7 @@
     "Law",
     "Politics"
    ],
-   "alsoListed": [
-    {
-     "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/baxandall-lecture-can-courts-save-environment-without-weakening-democracy-rethinking"
-    }
-   ],
+   "alsoListed": [],
    "access": "",
    "accessNote": "",
    "highlight": false,
@@ -960,31 +932,6 @@
    "booking": null,
    "topics": [
     "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
-   "title": "Algorithmic Domination and Oligarchic Worldmaking",
-   "start": "2026-11-25T17:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Si, Alison Richard Building",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "This talk examines how algorithmic systems enable oligarchic power to shape society while appearing to operate through popular choice.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "Rights & Justice",
-    "Politics"
    ],
    "alsoListed": [],
    "access": "",
@@ -1301,33 +1248,6 @@
    "alsoListed": [],
    "access": "online-register",
    "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "bennett-annual-public-policy-lecture-2026",
-   "title": "Annual Public Policy Lecture: We’re all going to die! (Or are we?)",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T19:00",
-   "allDay": false,
-   "venue": "Lee Seng Tee Hall, Wolfson College, Bar",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "Drawing on her experience as an entrepreneur, legislator and board member, Martha Lane Fox will explore what AI could mean for the next 50 years, including its effects on work, business, entrepreneurial opportunity, existing institutions, culture, security and defence. Chaired by Prof Diane Coyle, Bennett Professor of Public Policy, University of Cambridge.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053",
-   "topics": [
-    "Law",
-    "International",
-    "Policy",
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Book Your Place",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1703,31 +1623,6 @@
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
-   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
-   "start": "2026-12-02T17:00",
-   "end": "2026-12-02T18:30",
-   "allDay": false,
-   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
@@ -2300,6 +2195,30 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cflpp-monthly-seminar-essence-recollection",
+   "title": "CFLPP Monthly Seminar: 'From Essence to Recollection'",
+   "start": "2027-02-13T15:00",
+   "end": "2027-02-13T17:00",
+   "allDay": false,
+   "venue": "Online (Zoom)",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Saturday 13 February 2027 \n\n 3:00pm to 5:00pm\n\n Location: \n\n Online (Zoom)\n\n The first Lent Term 2027 session of the CFLPP's monthly seminar will take place on Monday, January 18th, at 3:00pm through Zoom. The seminar will be chaired by Dr Claude Liu, who is a postdoctoral research fellow at Churchill College. The title of his talk is \"From Essence to Recollection.\"\n\n Contact \n\n Matthew Kramer\n\n Phone: mhk11@cam.ac.uk",
+   "url": "https://www.law.cam.ac.uk/events/cflpp-monthly-seminar-essence-recollection",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
