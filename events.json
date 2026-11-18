@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T07:30",
+ "generated": "2026-11-18T13:27",
  "topics": [
   "Law",
   "Politics",
@@ -16,41 +16,41 @@
    "ok": true,
    "count": 0
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 10
-  },
-  "Cambridge Enterprise": {
-   "ok": true,
-   "count": 1
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 4
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 1
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 10
+  },
   "King's E-Lab": {
    "ok": true,
-   "count": 7
+   "count": 8
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 3
   },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 46
-  },
   "Bennett": {
    "ok": true,
    "count": 2
+  },
+  "Faculty of Law": {
+   "ok": true,
+   "count": 46
   },
   "Eventbrite": {
    "ok": true,
@@ -58,7 +58,7 @@
   },
   "Centre for Geopolitics": {
    "ok": true,
-   "count": 7
+   "count": 8
   },
   "talks.cam": {
    "ok": true,
@@ -453,7 +453,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Cambridge University AI in Law Society (CUAILS)\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:00pm to 8:30pm\n\n Location: \n\n David Williams Building, Faculty of Law\n\n LG18\n\n About \n\n This is the inaugural event of the Cambridge University AI in Law Society (CUAILS) , a newly established society recognised by the Faculty of Law!\n As artificial intelligence continues to reshape the legal landscape, what opportunities and challenges lie ahead for legal research, regulation, and practice? How might AI transform the legal profession, and how should the law respond to these technological developments?\n Bringing together distinguished speakers from academia, public policy, the technology industry, and legal practice, our inaugural panel will explore these questions from a range of interdisciplinary perspectives.\n We are honoured to welcome:\n Dr Christoph Winter – Assistant Professor of Law and AI at Cambridge, Director of the Cambridge Programme on AI Science & Policy, and Director of the Institute for Law & AI. Professor Alison Young – Sir David Williams Professor of Public Law at Cambridge and Law Commissioner for Public Law and the Law in Wales. Tom Conti-Leslie – Principal Data En",
+   "description": "Cambridge University AI in Law Society (CUAILS)\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 7:00pm to 8:30pm\n\n Location: \n\n David Williams Building, Faculty of Law\n\n LG18\n\n Open map \n\n Sign up\n\n About \n\n This is the inaugural event of the Cambridge University AI in Law Society (CUAILS), a newly established society recognised by the Faculty of Law!\n As artificial intelligence continues to reshape the legal landscape, what opportunities and challenges lie ahead for legal research, regulation, and practice? How might AI transform the legal profession, and how should the law respond to these technological developments?\n Bringing together distinguished speakers from academia, public policy, the technology industry, and legal practice, our inaugural panel will explore these questions from a range of interdisciplinary perspectives.\n We are honoured to welcome:\n Dr Christoph Winter – Assistant Professor of Law and AI at Cambridge, Director of the Cambridge Programme on AI Science & Policy, and Director of the Institute for Law & AI. Professor Alison Young – Sir David Williams Professor of Public Law at Cambridge and Law Commissioner for Public Law and the Law in Wales. Tom Conti-Lesli",
    "url": "https://www.law.cam.ac.uk/events/law-age-ai-interdisciplinary-dialogue",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -881,6 +881,46 @@
    "alsoListed": []
   },
   {
+   "id": "elab-6afd91cb96afb60473ba56d9",
+   "title": "Pitch@King's",
+   "start": "2026-11-25T17:30",
+   "end": "2026-11-25T19:30",
+   "allDay": false,
+   "venue": "",
+   "speaker": "",
+   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
+   "series": "",
+   "description": "What? \nPitch@King’s gives you the chance to practise your pitching skills with support from across the E-Lab, and to compete for a share of a £9,000 prize pot .\n Across Michaelmas and Lent terms, participants will pitch their ventures to a live audience in knockout rounds, with the strongest teams going on to a final in Easter term. It’s a chance to refine your pitch, build confidence, and gain exposure within the entrepreneurial ecosystem at King’s.\n\n Each session offers constructive feedback from our E-Lab community, including Visiting Entrepreneurs, mentors and Research Associates, who bring industry insight and practical expertise. It’s a supportive but challenging environment, designed to mirror real venture development and investment scenarios, and ideal if you want to test an idea, attract collaborators or sharpen your presentation skills.\n\n For who? \nWe welcome entrepreneurs from all disciplines, whether you’re a team or a solo founder. \n When and where? \nWednesday 25th November, 5:30-7:30pm, in the Audit Room at King’s College.\n What is the structure? \nPitch@King’s runs in three rounds:\n Knockout 1: Wednesday 25th November\n Knockout 2: Friday 26th February\n Final: Wednesday 21st April\n After each knockout, four teams from each stream will go through. The eight finalists will pitch to members of our Senior Advisory Board and a panel of esteemed judges in the final.\n Prizes \nA top prize and a runner-up will be awarded. Part of the prize pot is generously supported by E",
+   "url": "https://www.kingselab.org/all-events/pitchkings",
+   "source": "King's E-Lab",
+   "sourceGroup": "Entrepreneurship",
+   "booking": null,
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": []
+  },
+  {
+   "id": "centre-what-next-for-cuba",
+   "title": "What next for Cuba?",
+   "start": "2026-11-25T17:30",
+   "end": "2026-11-25T18:30",
+   "allDay": false,
+   "venue": "",
+   "speaker": "",
+   "organiser": "Centre for Geopolitics",
+   "series": "",
+   "description": "",
+   "url": "https://www.cfg.cam.ac.uk/events/what-next-for-cuba/",
+   "source": "Centre for Geopolitics",
+   "sourceGroup": "Research centre",
+   "booking": null,
+   "topics": [
+    "International"
+   ],
+   "alsoListed": []
+  },
+  {
    "id": "talks-273072",
    "title": "Peter Clark on \"Potential mechanisms for assembly of pre-cellular replicating molecular assemblies (chiral selection and steps to the proton motive force)\"",
    "start": "2026-11-26T11:00",
@@ -921,27 +961,6 @@
    "alsoListed": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -960,6 +979,27 @@
     "Law",
     "Politics",
     "Political Thought"
+   ],
+   "alsoListed": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law",
+    "Policy"
    ],
    "alsoListed": []
   },
@@ -1014,7 +1054,7 @@
    "speaker": "",
    "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
    "series": "",
-   "description": "Join us for a screening of Marcus Olsson’s new movie, ‘The Swedish Connection’, a historical drama about a Swedish bureaucrat who attempts to save Jewish refugees during the Second World War. The screening will be followed by a Q&A with Marcus, and a drinks reception.",
+   "description": "Join us for a screening of a new Netflix original film, The Swedish Connection , a historical drama about a Swedish bureaucrat who attempts to save Jewish refugees during the Second World War. The screening will be followed by a Q&A with Marcus Olsson, who wrote and directed the film with Thérèse Ahlbec. There will also be a drinks reception.",
    "url": "https://www.kingselab.org/all-events/marcus-olsson",
    "source": "King's E-Lab",
    "sourceGroup": "Entrepreneurship",
@@ -1083,26 +1123,6 @@
    ]
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T18:30",
-   "allDay": false,
-   "venue": "Faculty of Law, G24",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s judgment [2026] UKSC 3-Emo",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": []
-  },
-  {
    "id": "bennett-annual-public-policy-lecture-2026",
    "title": "Annual Public Policy Lecture: We’re all going to die! (Or are we?)",
    "start": "2026-11-26T17:30",
@@ -1122,6 +1142,26 @@
     "International",
     "Policy",
     "Entrepreneurship"
+   ],
+   "alsoListed": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
+   "start": "2026-11-26T17:30",
+   "end": "2026-11-26T18:30",
+   "allDay": false,
+   "venue": "Faculty of Law, G24",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s judgment [2026] UKSC 3-Emo",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
    ],
    "alsoListed": []
   },
