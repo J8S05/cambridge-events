@@ -250,6 +250,13 @@ main{min-width:0;padding:0 28px 80px}
 .submitbar{position:sticky;bottom:0;background:var(--panel);padding:12px 0 calc(12px + env(safe-area-inset-bottom));border-top:1px solid var(--line2);margin-top:10px}
 .toast{position:fixed;bottom:calc(18px + env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:13.5px;z-index:70;display:none;max-width:90vw}
 .only-mobile{display:none !important}
+@media (min-width:901px){
+  body.side-closed .app{grid-template-columns:minmax(0,1fr)}
+  body.side-closed aside{display:none}
+  body.side-closed #menuBtn.only-mobile{display:inline-flex !important}
+  /* the list gets the freed space; the day timeline keeps the width it had with the sidebar open */
+  body.side-closed .cols{grid-template-columns:minmax(0,1fr) minmax(0,calc((100vw - 370px) / 2.25))}
+}
 
 /* ---- phones and small tablets ---- */
 @media (max-width:900px){
@@ -279,23 +286,12 @@ main{min-width:0;padding:0 28px 80px}
     <div class="side-h">
       <b>Filters &amp; settings</b>
       <button class="btn small primary only-mobile" data-close>Done</button>
+      <button class="btn small only-desktop" id="sideHide" title="Hide the sidebar">‹ Hide</button>
     </div>
     <div class="side-b">
       <div class="sect">
         <h3>Search</h3>
         <input class="input" id="q" type="search" placeholder="Speaker, topic, venue…" autocomplete="off">
-      </div>
-
-      <div class="sect">
-        <h3>Sources</h3>
-        <div class="chips" id="sourceChips"></div>
-        <label class="toggle"><input type="checkbox" id="untagged"> Include events without a topic</label>
-      </div>
-
-      <div class="sect">
-        <h3>Sign-up / tickets</h3>
-        <div class="seg" id="accSeg"><button data-acc="any">Any</button><button data-acc="need">Sign-up needed</button><button data-acc="none">Just turn up</button></div>
-        <div class="sub" style="margin-top:6px">Many events don't say either way; those only show under “Any”.</div>
       </div>
 
       <div class="sect">
@@ -305,6 +301,24 @@ main{min-width:0;padding:0 28px 80px}
         <div class="chips" id="intList" style="margin-top:8px"></div>
         <label class="toggle"><input type="checkbox" id="onlyInt"> Only show matches</label>
         <label class="toggle"><input type="checkbox" id="showHidden"> Show hidden events</label>
+      </div>
+
+      <div class="sect">
+        <h3>Sign-up / tickets</h3>
+        <div class="seg" id="accSeg"><button data-acc="any">Any</button><button data-acc="need">Sign-up needed</button><button data-acc="none">Just turn up</button></div>
+        <div class="sub" style="margin-top:6px">Many events don't say either way; those only show under “Any”.</div>
+      </div>
+
+      <div class="sect">
+        <h3>Subscribe in your calendar</h3>
+        <div class="sub" style="margin-bottom:8px">Adds events to Apple, Google or Outlook Calendar, updated automatically. On iPhone: tap a feed, then <b>Subscribe</b>.</div>
+        <ul class="srcs" id="feedList"></ul>
+      </div>
+
+      <div class="sect">
+        <h3>Sources</h3>
+        <div class="chips" id="sourceChips"></div>
+        <label class="toggle"><input type="checkbox" id="untagged"> Include events without a topic</label>
       </div>
 
       <div class="sect owner-only">
@@ -320,12 +334,6 @@ main{min-width:0;padding:0 28px 80px}
           <li>King's Politics Society and other college politics societies (mostly Instagram)</li>
           <li><a href="https://www.enterprise.cam.ac.uk/" target="_blank" rel="noopener">Leaps by Cambridge Enterprise</a></li>
         </ul>
-      </div>
-
-      <div class="sect">
-        <h3>Subscribe in your calendar</h3>
-        <div class="sub" style="margin-bottom:8px">Adds events to Apple, Google or Outlook Calendar, updated automatically. On iPhone: tap a feed, then <b>Subscribe</b>.</div>
-        <ul class="srcs" id="feedList"></ul>
       </div>
 
       <div class="sect">
@@ -1191,7 +1199,14 @@ document.addEventListener("keydown", ev => {
   if (ev.key === "Enter" && ev.target.matches?.(".item,.hero")) openDrawer(ev.target.dataset.id);
 });
 $("#scrim").onclick = hideOverlay;
-$("#menuBtn").onclick = () => showOverlay("side");
+$("#menuBtn").onclick = () => mobileMQ.matches ? showOverlay("side") : setSide(true);
+// Laptop: the sidebar can be hidden (remembered); "Filters" in the title bar brings it back.
+function setSide(open){
+  document.body.classList.toggle("side-closed", !open);
+  store.set("sideClosed", !open);
+}
+$("#sideHide").onclick = () => setSide(false);
+if (store.get("sideClosed", false)) document.body.classList.add("side-closed");
 mobileMQ.addEventListener("change", () => { if (overlay === "side" && !mobileMQ.matches) hideOverlay(); render(); });
 document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => setView(b.dataset.view));
 $("#intForm").onsubmit = ev => { ev.preventDefault(); const v = $("#intInput").value.trim(); if (v && !S.interests.includes(v)) { S.interests.push(v); store.set("interests", S.interests); } $("#intInput").value = ""; renderSidebar(); render(); };
