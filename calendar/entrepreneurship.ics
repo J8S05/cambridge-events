@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273685@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261119T140000
 DTEND;TZID=Europe/London:20261119T150000
 SUMMARY:Building a generational company (Entrepreneurs First)
@@ -38,7 +38,7 @@ DESCRIPTION:Data Intensive Science Seminar Series\nTopics: Entrepreneurship
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afa293178a4204d5c078138@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:Science\, Brand and Business: A Conversation with Jessie Inchauspé
@@ -58,7 +58,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Internation
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
@@ -78,7 +78,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afd91cb96afb60473ba56d9@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T193000
 SUMMARY:Pitch@King's
@@ -93,7 +93,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261126T160000
 DTEND;TZID=Europe/London:20261126T173000
 SUMMARY:Pitch @ Judge #5 – Autumn 2026
@@ -107,7 +107,7 @@ DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb054f81a2b23ad553feef@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T210000
 SUMMARY:Laidlaw Scholars 2025 Cohort Graduation
@@ -122,7 +122,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -141,7 +141,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -163,7 +163,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\,
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6aa94fc5fe463936242563f7@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261129T090000
 DTEND;TZID=Europe/London:20261129T170000
 SUMMARY:Laidlaw Programme Leadership and Research Day
@@ -176,7 +176,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:ce-commercialisation-101-online-essentials@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261130T093000
 DTEND;TZID=Europe/London:20261130T103000
 SUMMARY:Commercialisation 101: Online Essentials
@@ -189,7 +189,7 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-retail-capital-in-venture-capital@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261201T111500
 DTEND;TZID=Europe/London:20261201T123000
 SUMMARY:Retail capital as a stepping stone in venture capital: theory and e
@@ -204,7 +204,7 @@ DESCRIPTION:Finance Seminar Series On-campus events Research seminars\nTopi
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6ac8d6d2677c0f2331acd7cb@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261203T173000
 DTEND;TZID=Europe/London:20261203T183000
 SUMMARY:Rebuild Identity First: Failing Well with Rachel Higham
@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ce-from-research-to-resonance-turning-ideas-into-ventures@cambridge-eve
  nts
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261204T093000
 DTEND;TZID=Europe/London:20261204T103000
 SUMMARY:From Research to Resonance: Turning Ideas into Ventures
@@ -233,7 +233,7 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb0228b1f9cf292ded16a4@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20261205T123000
 DTEND;TZID=Europe/London:20261205T143000
 SUMMARY:Essay Competition Prizegiving Ceremony
@@ -247,7 +247,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-frontier-tech-female-founders-day@cambridge-events
-DTSTAMP:20261119T133033Z
+DTSTAMP:20261119T161552Z
 DTSTART;TZID=Europe/London:20270308T084500
 DTEND;TZID=Europe/London:20270308T173000
 SUMMARY:Frontier Tech Female Founders Day
