@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T19:09",
+ "generated": "2026-11-19T01:26",
  "topics": [
   "Law",
   "Politics",
@@ -16,21 +16,17 @@
    "ok": true,
    "count": 0
   },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 0
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 4
   },
-  "Bennett": {
-   "ok": true,
-   "count": 0
-  },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 1
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 10
   },
   "Institute of Criminology": {
    "ok": true,
@@ -44,13 +40,13 @@
    "ok": true,
    "count": 1
   },
-  "Judge Business School": {
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
-   "count": 10
+   "count": 3
   },
-  "Centre for Geopolitics": {
+  "Bennett": {
    "ok": true,
-   "count": 8
+   "count": 2
   },
   "Faculty of Law": {
    "ok": true,
@@ -61,83 +57,36 @@
    "count": 0,
    "note": "HTTP 405"
   },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
+  },
   "talks.cam": {
    "ok": true,
-   "count": 17
+   "count": 16
   }
  },
  "events": [
   {
-   "id": "talks-273701",
-   "title": "Gendered Land Use and Agency in the Brazilian Amazon and Beyond",
-   "start": "2026-11-17T13:00",
-   "end": "2026-11-17T14:00",
-   "allDay": false,
-   "venue": "Small Lecture Theatre, Department of Geography",
-   "speaker": "Leonie Hodel, University of Cambridge",
-   "organiser": "Natalie Carter",
-   "series": "Political Ecology Group Seminar Series",
-   "description": "Land system science has improved our understanding of how deforestation traces to markets, commodity chains, and policy spillovers. Yet the socio-cultural relations through which these drivers become decisions on the ground, including values, worldviews and gender, are routinely reduced to a residual “other” category. This talk asks what changes when gender is treated not as context but as constitutive of land-use change. \n\n Drawing on fieldwork in Acre, a deforestation frontier shaped by state-led colonisation, rubber-tapper and Indigenous struggles, and the rise of cattle ranching, I show how pasture expansion rests on a gendered order. Ranching is coded as masculine, productive work, and the ideal of the “clean” pasture over “messy” forest is bound up with ideas of the successful man and household. Women’s labour is largely absent from accounts of this expansion. Even where women are landowners, gendered divisions of decision-making often overwrite their de jure tenure. Yet, female-led land-use trajectories can look markedly different and more diversified. Similar patterns occur across other food and resource sectors: as global commodity chains integrate local producers, they tend to reproduce a common division between productive and reproductive work, even where local gender arrangements differ. Bringing feminist political ecology into conversation with land system science, I argue that gender is best understood as a relation structuring who decides, who labours, and whos",
-   "url": "https://talks.cam.ac.uk/talk/index/273701/",
-   "source": "talks.cam: Political Ecology Group Seminar Series",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Politics",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
-   "title": "CLAS Event: 'Prisons, Pollution, and Justice: Infrastructural Violence and the SocioEnvironmental Dimensions of Incarceration in Contemporary Brazil'",
+   "id": "centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platforms",
+   "title": "Bonnie Honig in Conversation: Public Things in the Age of Platforms.",
    "start": "2026-11-18T17:00",
-   "end": "2026-11-18T18:00",
+   "end": null,
    "allDay": false,
-   "venue": "Alison Richard Building",
+   "venue": "Seminar Room, Department of Sociology",
    "speaker": "",
-   "organiser": "Faculty of Law",
+   "organiser": "Centre of Governance and Human Rights (CGHR)",
    "series": "",
-   "description": "Date/time: \n\n Wednesday 18 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Alison Richard Building\n\n Room S1\n\n The talk will explore the effects of prison infrastructure on surrounding communities and ecosystems. Drawing on legal disputes involving prison complexes in Maranhão and Rio de Janeiro, I will discuss how these cases bring questions of punishment and environmental justice together.\n\n About \n\n Speaker: Dr Rafael Godoi (Universidade Estadual do Maranhão (UEMA))\n Rafael Godoi is Professor and Coordinator of the Graduate Program in Criminological Studies (PPGEC) at the State University of Maranhão (UEMA), Brazil. At the same university, he is also a faculty member of the Graduate Program in SocioSpatial and Regional Development (PPDSR) and the Department of Social Sciences (DCS), where he teaches undergraduate courses in Law and Social Sciences. He coordinates the City and Prison research group and the Outra Visão outreach project, which aims to foster discussions on human rights and expand educational opportunities in prison settings.\n Chair: Dr Bruna Angotti (University of Cambridge)\n\n Contact \n\n Paola A. Lopez\n\n Email: pl567@cam.ac.uk",
-   "url": "https://www.law.cam.ac.uk/events/clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Rights & Justice",
-    "Criminology"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-book-presentation-bucharest",
-   "title": "Book presentation, ‘Frontlines of Transformation: Ukraine and the European Security’, Bucharest",
-   "start": "2026-11-18T19:00",
-   "end": "2026-11-18T20:00",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/book-presentation-bucharest/",
-   "source": "Centre for Geopolitics",
+   "description": "This event reflects on Bonnie Honig’s influential work Public Things a decade after its publication.",
+   "url": "https://www.cghr.polis.cam.ac.uk/events/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms/",
+   "source": "Centre of Governance and Human Rights (CGHR)",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/bonnie-honig-in-conversation-public-things-in-the-age-of-platforms-tickets-2002988131420?aff=oddtdtcreator&keep_tld=true",
    "topics": [
-    "International"
+    "Rights & Justice"
    ],
    "alsoListed": [],
-   "access": "",
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -742,6 +691,30 @@
    "highlightWhy": []
   },
   {
+   "id": "bennett-uk-digital-economics-2026",
+   "title": "Fifth workshop on UK digital economics",
+   "start": "2026-11-24T00:00",
+   "end": "2026-11-24T23:59",
+   "allDay": true,
+   "venue": "McGrath Centre St Catharine's College Cambridge CB2 1DS The UK – Research",
+   "speaker": "",
+   "organiser": "Bennett School of Public Policy",
+   "series": "",
+   "description": "The UK – Researcher Practitioner Network for the Economics of Digitization is pleased to present the 5th Workshop on Digital Economics.",
+   "url": "https://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/",
+   "source": "Bennett School of Public Policy",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
    "title": "Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational Obligations: Beyond the Autonomy-Protection Spectrum'",
    "start": "2026-11-24T12:00",
@@ -883,7 +856,12 @@
     "Law",
     "Politics"
    ],
-   "alsoListed": [],
+   "alsoListed": [
+    {
+     "source": "Faculty of Law",
+     "url": "https://www.law.cam.ac.uk/events/baxandall-lecture-can-courts-save-environment-without-weakening-democracy-rethinking"
+    }
+   ],
    "access": "",
    "accessNote": "",
    "highlight": false,
@@ -932,6 +910,31 @@
    "booking": null,
    "topics": [
     "Policy"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
+   "title": "Algorithmic Domination and Oligarchic Worldmaking",
+   "start": "2026-11-25T17:00",
+   "end": null,
+   "allDay": false,
+   "venue": "Si, Alison Richard Building",
+   "speaker": "",
+   "organiser": "Centre of Governance and Human Rights (CGHR)",
+   "series": "",
+   "description": "This talk examines how algorithmic systems enable oligarchic power to shape society while appearing to operate through popular choice.",
+   "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
+   "source": "Centre of Governance and Human Rights (CGHR)",
+   "sourceGroup": "Research centre",
+   "booking": null,
+   "topics": [
+    "Rights & Justice",
+    "Politics"
    ],
    "alsoListed": [],
    "access": "",
@@ -1196,17 +1199,17 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event",
-   "title": "3VB University of Cambridge Event",
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
+   "title": "3VB’s University of Cambridge Event",
    "start": "2026-11-26T17:00",
    "end": "2026-11-26T18:00",
    "allDay": false,
-   "venue": "Downing College",
+   "venue": "Downing College, West Lodge & Maitland Room",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com",
-   "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -1217,7 +1220,7 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event"
+     "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event"
     }
    ],
    "access": "register",
@@ -1226,6 +1229,33 @@
    "highlightWhy": [
     "Senior figure speaking (KC)"
    ]
+  },
+  {
+   "id": "bennett-annual-public-policy-lecture-2026",
+   "title": "Annual Public Policy Lecture: We’re all going to die! (Or are we?)",
+   "start": "2026-11-26T17:30",
+   "end": "2026-11-26T19:00",
+   "allDay": false,
+   "venue": "Lee Seng Tee Hall, Wolfson College, Bar",
+   "speaker": "",
+   "organiser": "Bennett School of Public Policy",
+   "series": "",
+   "description": "Drawing on her experience as an entrepreneur, legislator and board member, Martha Lane Fox will explore what AI could mean for the next 50 years, including its effects on work, business, entrepreneurial opportunity, existing institutions, culture, security and defence. Chaired by Prof Diane Coyle, Bennett Professor of Public Policy, University of Cambridge.",
+   "url": "https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture-2026/",
+   "source": "Bennett School of Public Policy",
+   "sourceGroup": "Department",
+   "booking": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053",
+   "topics": [
+    "Law",
+    "International",
+    "Policy",
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Book Your Place",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
@@ -1464,8 +1494,8 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "",
-   "accessNote": "",
+   "access": "open",
+   "accessNote": "No registration required.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1623,6 +1653,31 @@
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
+   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
+   "start": "2026-12-02T17:00",
+   "end": "2026-12-02T18:30",
+   "allDay": false,
+   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
+   "speaker": "",
+   "organiser": "Centre of Governance and Human Rights (CGHR)",
+   "series": "",
+   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
+   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
+   "source": "Centre of Governance and Human Rights (CGHR)",
+   "sourceGroup": "Research centre",
+   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
+   "topics": [
+    "Rights & Justice",
+    "Politics"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
@@ -2093,8 +2148,8 @@
     "Policy"
    ],
    "alsoListed": [],
-   "access": "",
-   "accessNote": "",
+   "access": "open",
+   "accessNote": "No registration required.",
    "highlight": false,
    "highlightWhy": []
   },
