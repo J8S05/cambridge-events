@@ -25,57 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
- ule-law-d@cambridge-events
-DTSTAMP:20261119T172102Z
-DTSTART;TZID=Europe/London:20261119T160000
-DTEND;TZID=Europe/London:20261119T170000
-SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
- eign Policy'
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-an
- d-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar
-CATEGORIES:Law,Politics,International,Policy
-DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
- nTopics: Law\, Politics\, International\, Policy\nDetails: https://www.law
- .cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-and-rule-law-democra
- cy-and-foreign-policy-ambassador-antonio-de-aguiar\nAmbassador Antonio de 
- Aguiar Patriota\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 4:00pm 
- to 5:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n 
- Berkowitz/Finley Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.
- 30 pm This is an in-person event only Antonio de Aguiar Patriota was appoi
- nted Ambassador to the United Kingdom of Great Britain and Northern Irelan
- d in 2023. \n Previously\, he served as Minister of Foreign Affairs of Br
- azil (2011-2013)\, Ambassador to the United States (2007-2009) and as Perm
- anent Representative of Brazil to the United Nations (2013-2016). He was A
- mbassador of Brazil to Italy (2016-2019) and to the Arab Republic of Egypt
-  (2019-2023). \n Among his publications are “The UN Security Council af
- ter the Gulf War” (1998) and two volumes of “Speeches\, articles and i
- nterviews” during his period as Foreign Minister. He published in 2025 a
-  collection of essays i
-END:VEVENT
-BEGIN:VEVENT
-UID:eb-2002064661296@cambridge-events
-DTSTAMP:20261119T172102Z
-DTSTART;TZID=Europe/London:20261119T170000
-DTEND;TZID=Europe/London:20261119T190000
-SUMMARY:POLIS Lecture 2026 - What is Political Progress?
-LOCATION:Alison Richard Building\, 7 West Road\, Cambridge\, CB3 9DP
-URL:https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-political-pro
- gress-tickets-2002064661296
-CATEGORIES:Politics,International
-DESCRIPTION:Department of Politics and International Studies\, Cambridge Un
- iversity\nHighlight: Named public lecture\nTopics: Politics\, Internationa
- l\nDetails: https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-poli
- tical-progress-tickets-2002064661296\nSign-up needed: https://www.eventbri
- te.co.uk/e/polis-lecture-2026-what-is-political-progress-tickets-200206466
- 1296\nThe Department of Politics and International Studies at the Universi
- ty of Cambridge welcomes Professor Lea Ypi for the 2026 POLIS Lecture.
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -106,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
  ents
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20261120T173000
 DTEND;TZID=Europe/London:20261120T183000
 SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
@@ -123,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -153,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
  vent@cambridge-events
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
 SUMMARY:3VB’s University of Cambridge Event
@@ -180,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -200,27 +152,9 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
  of the European Union
 END:VEVENT
 BEGIN:VEVENT
-UID:eb-2004774391171@cambridge-events
-DTSTAMP:20261119T172102Z
-DTSTART;TZID=Europe/London:20270122T173000
-DTEND;TZID=Europe/London:20270122T183000
-SUMMARY:Mackenzie Stuart Lecture 2027
-LOCATION:Faculty of Law\, 10 W Rd\, South Cambridgeshire\, CB3 9DZ
-URL:https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-20
- 04774391171
-CATEGORIES:Law,Rights & Justice
-DESCRIPTION:Centre for European Legal Studies\nHighlight: Named public lect
- ure\; Senior figure speaking (Lord)\nTopics: Law\, Rights & Justice\nDetai
- ls: https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2
- 004774391171\nSign-up needed: https://www.eventbrite.co.uk/e/mackenzie-stu
- art-lecture-2027-tickets-2004774391171\nCELS hosts an annual public lectur
- e in honour of Lord Mackenzie-Stuart\, the first British Judge to be Presi
- dent of the Court of Justice.
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261119T172102Z
+DTSTAMP:20261119T191214Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
