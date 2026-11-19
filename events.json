@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T14:40",
+ "generated": "2026-11-19T13:30",
  "topics": [
   "Law",
   "Politics",
@@ -18,11 +18,11 @@
   },
   "EA Cambridge": {
    "ok": true,
-   "count": 4
+   "count": 5
   },
-  "King's E-Lab": {
+  "Cambridge Enterprise": {
    "ok": true,
-   "count": 8
+   "count": 2
   },
   "Judge Business School": {
    "ok": true,
@@ -32,63 +32,41 @@
    "ok": true,
    "count": 1
   },
-  "Cambridge Enterprise": {
+  "King's E-Lab": {
    "ok": true,
-   "count": 1
+   "count": 8
   },
   "Institute of Criminology": {
    "ok": true,
    "count": 3
   },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 8
-  },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 3
+  },
+  "Faculty of Law": {
+   "ok": true,
+   "count": 45
   },
   "Bennett": {
    "ok": true,
    "count": 2
   },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 44
-  },
   "Eventbrite": {
    "ok": true,
-   "count": 0
+   "count": 0,
+   "note": "HTTP 405"
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 6
   },
   "talks.cam": {
    "ok": true,
-   "count": 17
+   "count": 15
   }
  },
  "events": [
-  {
-   "id": "talks-273701",
-   "title": "Gendered Land Use and Agency in the Brazilian Amazon and Beyond",
-   "start": "2026-11-17T13:00",
-   "end": "2026-11-17T14:00",
-   "allDay": false,
-   "venue": "Small Lecture Theatre, Department of Geography",
-   "speaker": "Leonie Hodel, University of Cambridge",
-   "organiser": "Natalie Carter",
-   "series": "Political Ecology Group Seminar Series",
-   "description": "Land system science has improved our understanding of how deforestation traces to markets, commodity chains, and policy spillovers. Yet the socio-cultural relations through which these drivers become decisions on the ground, including values, worldviews and gender, are routinely reduced to a residual “other” category. This talk asks what changes when gender is treated not as context but as constitutive of land-use change. \n\n Drawing on fieldwork in Acre, a deforestation frontier shaped by state-led colonisation, rubber-tapper and Indigenous struggles, and the rise of cattle ranching, I show how pasture expansion rests on a gendered order. Ranching is coded as masculine, productive work, and the ideal of the “clean” pasture over “messy” forest is bound up with ideas of the successful man and household. Women’s labour is largely absent from accounts of this expansion. Even where women are landowners, gendered divisions of decision-making often overwrite their de jure tenure. Yet, female-led land-use trajectories can look markedly different and more diversified. Similar patterns occur across other food and resource sectors: as global commodity chains integrate local producers, they tend to reproduce a common division between productive and reproductive work, even where local gender arrangements differ. Bringing feminist political ecology into conversation with land system science, I argue that gender is best understood as a relation structuring who decides, who labours, and whos",
-   "url": "https://talks.cam.ac.uk/talk/index/273701/",
-   "source": "talks.cam: Political Ecology Group Seminar Series",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Politics",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
-  },
   {
    "id": "centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platforms",
    "title": "Bonnie Honig in Conversation: Public Things in the Age of Platforms.",
@@ -109,75 +87,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
-   "title": "CLAS Event: 'Prisons, Pollution, and Justice: Infrastructural Violence and the SocioEnvironmental Dimensions of Incarceration in Contemporary Brazil'",
-   "start": "2026-11-18T17:00",
-   "end": "2026-11-18T18:00",
-   "allDay": false,
-   "venue": "Alison Richard Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Wednesday 18 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Alison Richard Building\n\n Room S1\n\n The talk will explore the effects of prison infrastructure on surrounding communities and ecosystems. Drawing on legal disputes involving prison complexes in Maranhão and Rio de Janeiro, I will discuss how these cases bring questions of punishment and environmental justice together.\n\n About \n\n Speaker: Dr Rafael Godoi (Universidade Estadual do Maranhão (UEMA))\n Rafael Godoi is Professor and Coordinator of the Graduate Program in Criminological Studies (PPGEC) at the State University of Maranhão (UEMA), Brazil. At the same university, he is also a faculty member of the Graduate Program in SocioSpatial and Regional Development (PPDSR) and the Department of Social Sciences (DCS), where he teaches undergraduate courses in Law and Social Sciences. He coordinates the City and Prison research group and the Outra Visão outreach project, which aims to foster discussions on human rights and expand educational opportunities in prison settings.\n Chair: Dr Bruna Angotti (University of Cambridge)\n\n Contact \n\n Paola A. Lopez\n\n Email: pl567@cam.ac.uk",
-   "url": "https://www.law.cam.ac.uk/events/clas-event-prisons-pollution-and-justice-infrastructural-violence-and-socioenvironmental",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Rights & Justice",
-    "Criminology"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
-  },
-  {
-   "id": "centre-book-presentation-bucharest",
-   "title": "Book presentation, ‘Frontlines of Transformation: Ukraine and the European Security’, Bucharest",
-   "start": "2026-11-18T19:00",
-   "end": "2026-11-18T20:00",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/book-presentation-bucharest/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
-  },
-  {
-   "id": "talks-273542",
-   "title": "Evidence informed policy and policy informed research for cleaner air",
-   "start": "2026-11-19T11:30",
-   "end": "2026-11-19T12:30",
-   "allDay": false,
-   "venue": "Chemistry Dept, Unilever Lecture Theatre and Teams",
-   "speaker": "Dr Sarah Moller",
-   "organiser": "Charlotte Phillips",
-   "series": "Centre for Atmospheric Science seminars, Chemistry Dept.",
-   "description": "Air pollution is the greatest environmental risk to human health, affecting almost every system in the body and at every stage of life. It also damages ecosystems and leads to biodiversity loss. Science has played a central role in demonstrating the need for action and in developing air quality standards and policies to deliver progress. In the UK there are well-established mechanisms for providing science advice for policy, including Chief Scientific Advisers in each government department, and a network of science advisory councils and expert groups. \n\n I have worked at the science policy interface for the past 14 years. Through the insights provided from bridging the academic and policy communities I have facilitated a transformation in how the Defra air pollution team approaches interactions with both the research community and research funders, resulting in better access to and uptake of science evidence and expertise. I also worked with the AQEG to transition its mode of operation from providing large authoritative reviews of science to providing more accessible, responsive, and agile policy advice. In this seminar I will provide insights from my experience, including what enabled my work to have impact, how transformations came about, and some examples of the opportunities for policy impact that arose. I will also present some examples of the policy-informed research carried out by my group which has arisen from my interactions with policy makers.",
-   "url": "https://talks.cam.ac.uk/talk/index/273542/",
-   "source": "talks.cam: Centre for Atmospheric Science seminars, Chemistry Dept.",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-what-remedial-constructive-trust",
@@ -189,7 +101,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n Note: Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n The purpose of this talk is to interrogate the phrase ‘remedial constructive trust’. It is sometimes used to denote the fact that constructive trusts are not trusts properly-so-called, merely remedies, much as quasi-contracts are not contracts but remedies for various causes of action such as wrongs and unjust enrichment. In complete contrast, remedial constructive trusts are sometimes said not to exist, at least in this jurisdiction, because constructive trusts really are trusts. Finally, some divide constructive trusts into those which are ‘Institutional’ and those which are ‘Remedial’. Exactly what that division entails, however, is unstable. \n Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.\n If you have questions or are interested in speaking at a future CPLC event, please email Fleur Stolker fs599@cam.ac.uk or",
    "url": "https://www.law.cam.ac.uk/events/private-law-seminar-series-what-remedial-constructive-trust",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -199,7 +111,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273685",
@@ -221,7 +135,33 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-making-successful-pupillage-applications",
+   "title": "Qualifying as a barrister and making successful pupillage applications",
+   "start": "2026-11-19T15:00",
+   "end": "2026-11-19T16:00",
+   "allDay": false,
+   "venue": "Student Services Centre (SSC), New Wing Seminar Room",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Student Services Centre (SSC), New Wing Seminar Room\n\n About \n\n This is an in-person session, open to students and graduates, of all subjects.\n This session will be hosted by Christopher Kessling, Vice-Dean of the Inns of Court College of Advocacy (ICCA). Christopher is himself not only a barrister but vastly experienced in training students to become barristers.\n The route to qualifying as a barrister in England and Wales can be lengthy, complicated, costly, and risky. Yet many Cambridge students and alumni navigate it successfully. This briefing will provide the framework through which you take your next steps and highlight what you can do to make a successful difference at each. \n By the end of the session, you should be comfortable in understanding the steps to qualifying, the timelines typically encountered and have some tips on how to progress successfully. As you then develop your readiness, the session will remain an essential touchstone.\n Booking for Careers Service events should be completed through the Handshake platform .",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/qualifying-barrister-and-making-successful-pupillage-applications",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-international-law-science-norm-interface-controversy-over",
@@ -244,29 +184,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-making-successful-pupillage-applications",
-   "title": "Qualifying as a barrister and making successful pupillage applications",
-   "start": "2026-11-19T15:00",
-   "end": "2026-11-19T16:00",
-   "allDay": false,
-   "venue": "Student Services Centre (SSC), New Wing Seminar Room",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Student Services Centre (SSC), New Wing Seminar Room\n\n About \n\n This is an in-person session, open to students and graduates, of all subjects.\n This session will be hosted by Christopher Kessling, Vice-Dean of the Inns of Court College of Advocacy (ICCA). Christopher is himself not only a barrister but vastly experienced in training students to become barristers.\n The route to qualifying as a barrister in England and Wales can be lengthy, complicated, costly, and risky. Yet many Cambridge students and alumni navigate it successfully. This briefing will provide the framework through which you take your next steps and highlight what you can do to make a successful difference at each. \n By the end of the session, you should be comfortable in understanding the steps to qualifying, the timelines typically encountered and have some tips on how to progress successfully. As you then develop your readiness, the session will remain an essential touchstone.\n Booking for Careers Service events should be completed through the Handshake platform .",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/qualifying-barrister-and-making-successful-pupillage-applications",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afa293178a4204d5c078138",
@@ -289,11 +209,13 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here !"
+   "accessNote": "TICKETS: Register here !",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
-   "title": "LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and Foreign Policy' by Ambassador Antonio de Aguiar Patriota",
+   "title": "LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and Foreign Policy'",
    "start": "2026-11-19T16:00",
    "end": "2026-11-19T17:00",
    "allDay": false,
@@ -301,7 +223,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Antonio de Aguiar Patriota was appointed Ambassador to the United Kingdom of Great Britain and Northern Ireland in 2023. \n Previously, he served as Minister of Foreign Affairs of Brazil (2011-2013), Ambassador to the United States (2007-2009) and as Permanent Representative of Brazil to the United Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \n Among his publications are “The UN Security Council after the Gulf War” (1998) and two volumes of “Speeches, articles and interviews” during his period as Foreign Minister. He published in 2025 a collection of essays in the English language entitled “A Humanist Foreign Policy for a Multipolar World”. \n Ambassador Patriota is a member of the “Leaders for Peace” initiative under the chairmanship of former French Prime Minister Raffarin. \n Chair: Dr Fernando Lusa Bordin, Centre Fellow",
+   "description": "Ambassador Antonio de Aguiar Patriota\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Antonio de Aguiar Patriota was appointed Ambassador to the United Kingdom of Great Britain and Northern Ireland in 2023. \n Previously, he served as Minister of Foreign Affairs of Brazil (2011-2013), Ambassador to the United States (2007-2009) and as Permanent Representative of Brazil to the United Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \n Among his publications are “The UN Security Council after the Gulf War” (1998) and two volumes of “Speeches, articles and interviews” during his period as Foreign Minister. He published in 2025 a collection of essays in the English language entitled “A Humanist Foreign Policy for a Multipolar World”. \n Ambassador Patriota is a member of the “Leaders for Peace” initiative under the chairmanship of former French Prime Minister Raffarin. \n Chair: Dr Fernando Lusa Bordin, Centre Fellow",
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -314,7 +236,11 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Ambassador)"
+   ]
   },
   {
    "id": "elab-6a54f3688bd7eb12c9e49fee",
@@ -339,7 +265,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here !"
+   "accessNote": "TICKETS: Register here !",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
@@ -351,7 +279,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor Sabine Jacques, University of Liverpool\n Abstract: Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of platfor",
+   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker : Professor Sabine Jacques, University of Liverpool\n Abstract :  Music licensing for video games remains modelled on film and television synchronisation, a framework premised on a fixed recording matched to a fixed sequence of images. Contemporary games increasingly depart from that premise: scores adapt to player state, generative systems produce a different rendition on each playthrough, spatial audio makes the player's movement part of the performance, and persistent shared worlds turn listening into a collective, networked activity. This lecture examines the doctrinal and structural consequences of that shift. It considers:how far adaptive and generative uses engage the rights of reproduction and adaptation, and the author's moral right to object to derogatory treatment; whether, and by whom, music in online and personalised play is communicated to the public; how the exclusive assignment of performing rights to UK and European collecting societies interacts with US-style work-for-hire and buyout practices; the emerging question of plat",
    "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-beyond-sync-copyright-collective-management-and-licensing-music",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -361,7 +289,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-can-criminal-conversations-be-genuine",
@@ -384,7 +314,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-mOY3n4xNVH93aueventsluma",
@@ -406,7 +338,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-BBum5X4ESJKq4Ieventsluma",
@@ -428,7 +362,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-age-ai-interdisciplinary-dialogue",
@@ -450,7 +386,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
@@ -473,7 +411,11 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G"
+   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G",
+   "highlight": true,
+   "highlightWhy": [
+    "Named public lecture"
+   ]
   },
   {
    "id": "jbs-from-sustainable-decisions-to-societal-transitions",
@@ -495,7 +437,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law-torts-and-climate-change",
@@ -518,7 +462,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge",
@@ -541,7 +487,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more details, and to register attendance, please view the event page:"
+   "accessNote": "For more details, and to register attendance, please view the event page:",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-general-matthew-jones-chief-of-defence-intelligence",
@@ -563,7 +511,11 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Lieutenant General)"
+   ]
   },
   {
    "id": "ea-TAzwkNqjOhF66Yeventsluma",
@@ -585,7 +537,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273132",
@@ -607,7 +561,34 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-women-law-society-cwls-inside-uncitral-shaping-international-law-behind-global",
+   "title": "Cambridge Women in Law Society (CWLS): 'Inside UNCITRAL: Shaping the International Law Behind Global Trade'",
+   "start": "2026-11-23T13:00",
+   "end": "2026-11-23T14:30",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Jae Sung Lee, Principal Legal Officer at the United Nations Commission on International Trade Law (UNCITRAL)\n\n Date/time: \n\n Monday 23 November 2026 \n\n 1:00pm to 2:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n LG19\n\n Open map \n\n Sign up\n\n About \n\n UNCITRAL plays a central role in developing the international legal frameworks governing cross-border commerce, including international arbitration, insolvency, secured transactions and digital trade.\n Join us for an interactive conversation exploring how international commercial law is developed, how governments negotiate legal instruments, and what it is like to work within the United Nations.\n Students will have the opportunity to ask Jae questions about UNCITRAL’s work, international legal reform and career and internship opportunities.\n Italian food available in LG atrium from 12.30pm.\n The event is open to all Cambridge students, and no prior knowledge of international commercial law is required.",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-women-law-society-cwls-inside-uncitral-shaping-international-law-behind-global",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://tinyurl.com/CWLS-UNCITRAL",
+   "topics": [
+    "Law",
+    "International"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-book-presentation-the-inclusive-wealth-of-nations",
@@ -629,7 +610,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
@@ -652,7 +635,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Register now"
+   "accessNote": "Register now",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Justice of the Supreme Court)"
+   ]
   },
   {
    "id": "centre-national-cultural-autonomy-revisited-why-baltic-minority-politics-matters",
@@ -675,7 +662,34 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "ea-eryKIMsOgKhygHeventsluma",
+   "title": "How Can We Use Evidence To Do Good? CUSAP x EA Cambridge",
+   "start": "2026-11-23T19:00",
+   "end": "2026-11-23T21:00",
+   "allDay": false,
+   "venue": "Queens' College, Silver St, Cambridge CB3 9ET, UK",
+   "speaker": "",
+   "organiser": "Effective Altruism Cambridge",
+   "series": "",
+   "description": "Get up-to-date information at: https://luma.com/0x0oyww5\n\nAddress:\nQueens' College\nRoom is CC43, which is on thr 4th floor of Cripps Court. We will meet at the porters lodge at 7pm and direct you to the room! If you’re running late please message 07913820532.\nCambridge, United Kingdom\n\nHosted by EA Cambridge & Isha Harris",
+   "url": "https://luma.com/0x0oyww5",
+   "source": "EA Cambridge",
+   "sourceGroup": "Societies",
+   "booking": "https://luma.com/0x0oyww5",
+   "topics": [
+    "Law",
+    "Effective Altruism"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "bennett-uk-digital-economics-2026",
@@ -697,7 +711,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea."
+   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
@@ -719,7 +735,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online ."
+   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
@@ -742,7 +760,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
@@ -764,7 +784,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273869",
@@ -788,7 +810,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273765",
@@ -810,7 +834,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-274135",
@@ -838,7 +864,9 @@
     }
    ],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
@@ -862,7 +890,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-inside-a-frontier-tech-scale-up",
@@ -884,7 +914,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
@@ -907,7 +939,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afd91cb96afb60473ba56d9",
@@ -929,29 +963,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
-  },
-  {
-   "id": "centre-what-next-for-cuba",
-   "title": "What next for Cuba?",
-   "start": "2026-11-25T17:30",
-   "end": "2026-11-25T18:30",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/what-next-for-cuba/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273072",
@@ -973,7 +987,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026",
@@ -995,7 +1011,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
@@ -1018,7 +1036,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
@@ -1042,7 +1062,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-pitch-and-judge-5-autumn-2026",
@@ -1054,7 +1076,7 @@
    "speaker": "",
    "organiser": "Cambridge Judge Business School",
    "series": "Accelerate Cambridge On-campus events",
-   "description": "Ventures pitching: ResearchIQ, Avanc, Vet Validate, Recurvia, LuminidsAI",
+   "description": "Ventures pitching: Aenergy, Synthility, Vet Validaite, ReasearchIQ, LuminidsAI",
    "url": "https://www.jbs.cam.ac.uk/events/pitch-and-judge-5-autumn-2026/",
    "source": "Cambridge Judge Business School",
    "sourceGroup": "Entrepreneurship",
@@ -1065,7 +1087,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afb054f81a2b23ad553feef",
@@ -1087,7 +1111,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6a54f54a92a5d806b925ed23",
@@ -1110,7 +1136,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Please register on Eventbrite."
+   "accessNote": "TICKETS: Please register on Eventbrite.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273143",
@@ -1143,7 +1171,9 @@
     }
    ],
    "access": "register",
-   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
@@ -1171,7 +1201,35 @@
     }
    ],
    "access": "register",
-   "accessNote": "RSVP: events@3vb."
+   "accessNote": "RSVP: events@3vb.",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (KC)"
+   ]
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
+   "start": "2026-11-26T17:30",
+   "end": "2026-11-26T18:30",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
+   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg",
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "online-register",
+   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "bennett-annual-public-policy-lecture-2026",
@@ -1196,29 +1254,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Book Your Place"
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T18:30",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
-   "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_LmG_Xk5QSFa2yiK5eFkSXg",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom ."
+   "accessNote": "Book Your Place",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-book-presentation-london",
@@ -1240,7 +1278,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Attendance is free, but registration is required."
+   "accessNote": "Attendance is free, but registration is required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
@@ -1263,7 +1303,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio"
+   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
@@ -1286,7 +1328,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970",
@@ -1308,7 +1352,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
@@ -1330,7 +1376,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-medical-law-society-debate-thbt-patient-autonomy-should-prevail-over-medical",
@@ -1352,7 +1400,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No sign-up for spectating required, but you may want to if you would like a reminder email prior."
+   "accessNote": "No sign-up for spectating required, but you may want to if you would like a reminder email prior.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6aa94fc5fe463936242563f7",
@@ -1374,7 +1424,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ce-commercialisation-101-online-essentials",
@@ -1396,7 +1448,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Fill out the form below to register!"
+   "accessNote": "Fill out the form below to register!",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-public-control-of-energy",
@@ -1418,7 +1472,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-shakman-hurd",
@@ -1441,7 +1497,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-retail-capital-in-venture-capital",
@@ -1463,7 +1521,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-philosophy-event-whale-legal-personhood-insights-posthuman-theory-and",
@@ -1486,7 +1546,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information about the Talking Animals series and to register for the events, visit the Cambridge Centre for Animal Rights Law website ."
+   "accessNote": "For more information about the Talking Animals series and to register for the events, visit the Cambridge Centre for Animal Rights Law website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
@@ -1509,7 +1571,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-the-value-of-codifying-organisational-knowledge",
@@ -1531,7 +1595,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273144",
@@ -1563,7 +1629,9 @@
     }
    ],
    "access": "register",
-   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page."
+   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
@@ -1586,7 +1654,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273722",
@@ -1609,7 +1679,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-thames-valley-police-end-assumption-responsibility",
@@ -1632,7 +1704,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors."
+   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-climate-ethics-policy-methodology",
@@ -1655,7 +1729,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273463",
@@ -1679,7 +1755,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6ac8d6d2677c0f2331acd7cb",
@@ -1701,7 +1779,33 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "TICKETS: Register here"
+   "accessNote": "TICKETS: Register here",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "ce-from-research-to-resonance-turning-ideas-into-ventures",
+   "title": "From Research to Resonance: Turning Ideas into Ventures",
+   "start": "2026-12-04T09:30",
+   "end": null,
+   "allDay": false,
+   "venue": "",
+   "speaker": "",
+   "organiser": "Cambridge Enterprise",
+   "series": "",
+   "description": "",
+   "url": "https://www.enterprise.cam.ac.uk/events/from-research-to-resonance-turning-ideas-into-ventures/",
+   "source": "Cambridge Enterprise",
+   "sourceGroup": "Entrepreneurship",
+   "booking": null,
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "To register please email – ba-ecrnadmin@crassh.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026",
@@ -1723,7 +1827,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants."
+   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
@@ -1747,7 +1853,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special"
+   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-belarus-and-the-baltic-after-2022",
@@ -1769,7 +1877,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "elab-6afb0228b1f9cf292ded16a4",
@@ -1791,7 +1901,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "ea-YDtcUYfkrGcFoHeventsluma",
@@ -1813,7 +1925,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Sign up on Luma (free)."
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-research-showcase-climate-adaptation-in-small-island-states",
@@ -1835,7 +1949,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk",
@@ -1857,7 +1973,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-there-be-feminist-general-jurisprudence",
@@ -1880,7 +1998,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273975",
@@ -1903,7 +2023,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273723",
@@ -1927,7 +2049,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
@@ -1951,7 +2075,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (President Koen)"
+   ]
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium",
@@ -1974,7 +2102,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "With presentations by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua "
+   "accessNote": "With presentations by Professor Lars Vinx (Cambridge) Professor Valentin Jeutner (Lund) Dr Nick McBride (Cambridge) Dr Giordana Campagna (Cambridge) Dr Anna Lukina (LSE) Dr Joshua ",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cflcambridge-socio-legal-group-seminar-evolution-parenthood-brazil-single-parent-stigma",
@@ -1996,7 +2126,9 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "To attend online you must register via Zoom ."
+   "accessNote": "To attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-eei-the-behavioural-economics-of-social-media-bans",
@@ -2018,7 +2150,9 @@
    ],
    "alsoListed": [],
    "access": "open",
-   "accessNote": "No registration required."
+   "accessNote": "No registration required.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2027-01-cambridge-medical-law-society-medical-negligence-moot-3rd-round",
@@ -2040,7 +2174,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October."
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-and-tort-law",
@@ -2063,7 +2199,11 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (Lord)"
+   ]
   },
   {
    "id": "talks-273737",
@@ -2085,7 +2225,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-land-law",
@@ -2108,7 +2250,33 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cflpp-monthly-seminar-essence-recollection",
+   "title": "CFLPP Monthly Seminar: 'From Essence to Recollection'",
+   "start": "2027-02-13T15:00",
+   "end": "2027-02-13T17:00",
+   "allDay": false,
+   "venue": "Online (Zoom)",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Saturday 13 February 2027 \n\n 3:00pm to 5:00pm\n\n Location: \n\n Online (Zoom)\n\n The first Lent Term 2027 session of the CFLPP's monthly seminar will take place on Monday, January 18th, at 3:00pm through Zoom. The seminar will be chaired by Dr Claude Liu, who is a postdoctoral research fellow at Churchill College. The title of his talk is \"From Essence to Recollection.\"\n\n Contact \n\n Matthew Kramer\n\n Phone: mhk11@cam.ac.uk",
+   "url": "https://www.law.cam.ac.uk/events/cflpp-monthly-seminar-essence-recollection",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273981",
@@ -2131,7 +2299,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-ai-law",
@@ -2154,7 +2324,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
@@ -2177,7 +2349,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "jbs-frontier-tech-female-founders-day",
@@ -2199,7 +2373,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Registration required"
+   "accessNote": "Registration required",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-273872",
@@ -2222,7 +2398,9 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": ""
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-human-rights-law",
@@ -2246,7 +2424,9 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website ."
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   }
  ]
 }
