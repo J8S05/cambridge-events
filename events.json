@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T13:30",
+ "generated": "2026-11-19T16:15",
  "topics": [
   "Law",
   "Politics",
@@ -20,25 +20,25 @@
    "ok": true,
    "count": 5
   },
-  "Cambridge Enterprise": {
+  "King's E-Lab": {
    "ok": true,
-   "count": 2
+   "count": 8
   },
   "Judge Business School": {
    "ok": true,
    "count": 10
   },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
-  },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 8
-  },
   "Institute of Criminology": {
    "ok": true,
    "count": 3
+  },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -46,7 +46,11 @@
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 45
+   "count": 42
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
   },
   "Bennett": {
    "ok": true,
@@ -56,10 +60,6 @@
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 6
   },
   "talks.cam": {
    "ok": true,
@@ -88,30 +88,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-private-law-seminar-series-what-remedial-constructive-trust",
-   "title": "Private Law Seminar Series: 'What is a Remedial Constructive Trust?'",
-   "start": "2026-11-19T13:00",
-   "end": "2026-11-19T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Professor William Swadling (University of Oxford)\n The purpose of this talk is to interrogate the phrase ‘remedial constructive trust’. It is sometimes used to denote the fact that constructive trusts are not trusts properly-so-called, merely remedies, much as quasi-contracts are not contracts but remedies for various causes of action such as wrongs and unjust enrichment. In complete contrast, remedial constructive trusts are sometimes said not to exist, at least in this jurisdiction, because constructive trusts really are trusts. Finally, some divide constructive trusts into those which are ‘Institutional’ and those which are ‘Remedial’. Exactly what that division entails, however, is unstable. \n Sandwiches served in G24 between 12.30pm and 1pm; seminar to commence in the G24 at 1pm.\n This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.\n If you have questions or are interested in speaking at a future CPLC event, please email Fleur Stolker fs599@cam.ac.uk or",
-   "url": "https://www.law.cam.ac.uk/events/private-law-seminar-series-what-remedial-constructive-trust",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "open",
-   "accessNote": "This seminar is open to all LLM, MCL and PhD students, Faculty members and Faculty visitors but is not open to undergraduate students.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -149,7 +125,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Student Services Centre (SSC), New Wing Seminar Room\n\n About \n\n This is an in-person session, open to students and graduates, of all subjects.\n This session will be hosted by Christopher Kessling, Vice-Dean of the Inns of Court College of Advocacy (ICCA). Christopher is himself not only a barrister but vastly experienced in training students to become barristers.\n The route to qualifying as a barrister in England and Wales can be lengthy, complicated, costly, and risky. Yet many Cambridge students and alumni navigate it successfully. This briefing will provide the framework through which you take your next steps and highlight what you can do to make a successful difference at each. \n By the end of the session, you should be comfortable in understanding the steps to qualifying, the timelines typically encountered and have some tips on how to progress successfully. As you then develop your readiness, the session will remain an essential touchstone.\n Booking for Careers Service events should be completed through the Handshake platform .",
+   "description": "This event has already happened\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Student Services Centre (SSC), New Wing Seminar Room\n\n About \n\n This is an in-person session, open to students and graduates, of all subjects.\n This session will be hosted by Christopher Kessling, Vice-Dean of the Inns of Court College of Advocacy (ICCA). Christopher is himself not only a barrister but vastly experienced in training students to become barristers.\n The route to qualifying as a barrister in England and Wales can be lengthy, complicated, costly, and risky. Yet many Cambridge students and alumni navigate it successfully. This briefing will provide the framework through which you take your next steps and highlight what you can do to make a successful difference at each. \n By the end of the session, you should be comfortable in understanding the steps to qualifying, the timelines typically encountered and have some tips on how to progress successfully. As you then develop your readiness, the session will remain an essential touchstone.\n Booking for Careers Service events should be completed through the Handshake platform .",
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/qualifying-barrister-and-making-successful-pupillage-applications",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -173,7 +149,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr Miharu Hirano (Associate Professor, Graduate School of Law, Kobe University)\n Assessing the safety of water for human health and the environment is not a purely scientific inquiry; rather, determining an acceptable level of risk is inextricably linked to normative value judgments. How effectively international law guides States through such complex issues is frequently tested in novel contexts lacking clear precedent. Japan’s discharge of tritium-containing ‘ALPS-treated water’ offers an interesting case study, not only for the global attention it has attracted, but also for the important legal questions it has raised. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27  academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details a",
+   "description": "This event has already happened\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr Miharu Hirano (Associate Professor, Graduate School of Law, Kobe University)\n Assessing the safety of water for human health and the environment is not a purely scientific inquiry; rather, determining an acceptable level of risk is inextricably linked to normative value judgments. How effectively international law guides States through such complex issues is frequently tested in novel contexts lacking clear precedent. Japan’s discharge of tritium-containing ‘ALPS-treated water’ offers an interesting case study, not only for the global attention it has attracted, but also for the important legal questions it has raised. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27  academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land",
    "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-science-norm-interface-controversy-over",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -740,6 +716,30 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -757,30 +757,6 @@
    "topics": [
     "Law",
     "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -960,6 +936,30 @@
    "booking": null,
    "topics": [
     "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "centre-what-next-for-cuba",
+   "title": "What next for Cuba?",
+   "start": "2026-11-25T17:30",
+   "end": "2026-11-25T18:30",
+   "allDay": false,
+   "venue": "",
+   "speaker": "",
+   "organiser": "Centre for Geopolitics",
+   "series": "",
+   "description": "",
+   "url": "https://www.cfg.cam.ac.uk/events/what-next-for-cuba/",
+   "source": "Centre for Geopolitics",
+   "sourceGroup": "Research centre",
+   "booking": null,
+   "topics": [
+    "International"
    ],
    "alsoListed": [],
    "access": "",
@@ -1709,31 +1709,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-climate-ethics-policy-methodology",
-   "title": "CEENRG Seminars: 'Applying Climate Ethics to Policy, a Methodology'",
-   "start": "2026-12-03T15:00",
-   "end": "2026-12-03T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 3 December 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Kevin Le Merle (FWO PhD Fellow, Department of Political and Social Sciences, Ghent University, and United Nations University Institute of Comparative Regional Integration Studies (UNU-CRIS))\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/12/ceenrg-seminars-applying-climate-ethics-policy-methodology",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "talks-273463",
    "title": "Financing Foreign Policy: UK Government–Bank Relations During the Development of the 1981–2 Sovereign Debt Crisis in Poland, Romania and Hungary",
    "start": "2026-12-03T17:15",
@@ -1804,30 +1779,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "To register please email – ba-ecrnadmin@crassh.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026",
-   "title": "Humanities Exploration Day 2026",
-   "start": "2026-12-04T09:30",
-   "end": "2026-12-04T14:30",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 4 December 2026 \n\n 9:30am to 2:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n Open map \n\n Sign up\n\n About \n\n The University of Cambridge is hosting a Humanities Exploration Day for Year 12 students on the 4th December 2026 here in Cambridge. The aim is to give students the opportunity to experience university-level teaching in a range of humanities subjects, to enrich their current studies and to help them decide which subject might be the best choice for them going forward.\n Who is the day for?  Year 12 students who may be interested in pursuing a subject like Law, English, History, Classics, Archaeology, or Languages at a selective university, but would like more help deciding which is the right subject for them.\n We also welcome applications from school groups of higher attaining year 11 students who are planning to study Arts and Humanities A-levels. \n There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants. Each student will need to be registered separately. Please contact us at  humanitiesdays@csah.cam.ac.uk  \n Priority will be given to UK",
-   "url": "https://www.law.cam.ac.uk/events/humanities-exploration-day-2026",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://www.tickettailor.com/events/facultyofclassicsuniversityofcambridge/2444714",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants.",
    "highlight": false,
    "highlightWhy": []
   },
