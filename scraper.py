@@ -1139,6 +1139,7 @@ def write_calendars(data):
     cutoff = str(TODAY - dt.timedelta(days=14))
     events = [e for e in data["events"] if (e.get("end") or e["start"])[:10] >= cutoff]
     feeds = {"all": ("Cambridge Events (all)", events)}
+    feeds["highlights"] = ("Cambridge Events: 🌟 Highlights", [e for e in events if e.get("highlight")])
     for t in data.get("topics") or list(TOPICS):
         feeds[slug(t)] = (f"Cambridge Events: {t}", [e for e in events if t in (e.get("topics") or [])])
     for key, (name, evs) in feeds.items():

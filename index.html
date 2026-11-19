@@ -5,9 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
+<meta name="robots" content="noindex, nofollow">
 <meta name="apple-mobile-web-app-title" content="Cam Events">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>Cambridge Politics & Law Events</title>
+<title>Cambridge Politics, Law &amp; Entrepreneurship Events</title>
+<meta name="description" content="Too many events to keep track of? Every politics, law and entrepreneurship talk in one place. Filter by interest, add to your Apple or Google calendar.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://j8s05.github.io/cambridge-events/">
+<meta property="og:title" content="Cambridge Politics, Law &amp; Entrepreneurship Events">
+<meta property="og:description" content="Too many events to keep track of? Every politics, law and entrepreneurship talk in one place. Filter by interest, add to your Apple or Google calendar.">
+<meta property="og:image" content="https://j8s05.github.io/cambridge-events/preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Too many events to keep track of? Cambridge politics, law and entrepreneurship talks in one place.">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
 <style>
@@ -42,6 +53,17 @@
 html{-webkit-text-size-adjust:100%}
 html,body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 Inter,system-ui,-apple-system,sans-serif}
 body.locked{overflow:hidden}
+body:not(.owner) .owner-only{display:none !important}
+.site-foot{margin:56px 0 4px;text-align:center;color:var(--faint);font-size:11.5px;line-height:1.8}
+.site-foot a{color:inherit;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:2px;cursor:pointer}
+.site-foot a:hover{color:var(--muted)}
+.site-foot .heart{font-size:9px;vertical-align:1px}
+.about h3{font:600 16px "Source Serif 4",Georgia,serif;margin:22px 0 4px}
+.about p,.about li{line-height:1.55}
+.about .lead{font-size:15px}
+.about ol{padding-left:20px;margin:6px 0}
+.about .feedlist{margin:10px 0 4px}
+.about .fine{margin-top:26px;padding-top:14px;border-top:1px solid var(--line)}
 button,input,select,textarea{font:inherit;color:inherit}
 a{color:var(--accent)}
 .serif{font-family:"Source Serif 4",Georgia,serif}
@@ -285,7 +307,7 @@ main{min-width:0;padding:0 28px 80px}
         <label class="toggle"><input type="checkbox" id="showHidden"> Show hidden events</label>
       </div>
 
-      <div class="sect">
+      <div class="sect owner-only">
         <h3>Add events</h3>
         <div class="sub" style="margin-bottom:8px">For events from emails, Instagram or termcards.</div>
         <button class="btn primary small" data-add>＋ Add event</button>
@@ -311,7 +333,7 @@ main{min-width:0;padding:0 28px 80px}
         <div class="sub" id="updated" style="margin-bottom:6px">Loading events…</div>
         <ul class="srcs" id="srcStatus"></ul>
         <div class="row" style="margin-top:12px">
-          <button class="btn small" id="refreshBtn" title="Re-scrape all sources">↻ Refresh data</button>
+          <button class="btn small owner-only" id="refreshBtn" title="Re-scrape all sources">↻ Refresh data</button>
           <button class="btn small" id="themeBtn" title="Toggle light/dark">◐ Theme</button>
         </div>
       </div>
@@ -325,7 +347,8 @@ main{min-width:0;padding:0 28px 80px}
         <div class="sub" id="subtitle"></div>
       </div>
       <div class="row">
-        <button class="btn small" data-add aria-label="Add event">＋ <span class="only-desktop">Add event</span><span class="only-mobile">Add</span></button>
+        <button class="btn small owner-only" data-add aria-label="Add event">＋ <span class="only-desktop">Add event</span><span class="only-mobile">Add</span></button>
+        <button class="btn small" data-about aria-label="About and how to use">ⓘ<span class="only-desktop">&nbsp;About</span></button>
         <button class="btn small only-mobile" id="menuBtn" aria-label="Filters and settings">Filters <span id="filterBadge"></span></button>
       </div>
     </header>
@@ -338,6 +361,10 @@ main{min-width:0;padding:0 28px 80px}
     </nav>
     <div class="pills" id="pills"></div>
     <div id="view"></div>
+    <footer class="site-foot">
+      <div>Built in Magdalene, with love · <span class="heart" aria-label="heart">♥</span></div>
+      <div>Unofficial &amp; Unaffiliated · <a data-about>About</a> · <a href="mailto:assistantgustav@gmail.com?subject=Cambridge%20events%20site%20%E2%80%93%20feedback">Feedback</a></div>
+    </footer>
   </main>
 </div>
 
@@ -421,6 +448,16 @@ const colorOf = e => `var(${TOPIC_COLORS[e.topics?.[0]] || "--accent"})`;
 const timeRange = e => e.allDay ? "All day" : `${fmtTime(parse(e.start))}${e.end ? " – " + fmtTime(parse(e.end)) : ""}`;
 const byStart = (a,b) => a.start.localeCompare(b.start);
 const HOSTED = !/^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname) && location.protocol !== "file:";
+// Owner mode: the Add/Delete/Refresh controls are only for you. Open the site once with ?owner
+// to switch them on in that browser (?owner=off switches them off again). On your Mac they are always on.
+(() => {
+  const q = new URLSearchParams(location.search);
+  try {
+    if (q.has("owner")) localStorage.setItem("cpl.owner", q.get("owner") === "off" ? "0" : "1");
+    if (!HOSTED || localStorage.getItem("cpl.owner") === "1") document.body.classList.add("owner");
+  } catch { if (!HOSTED) document.body.classList.add("owner"); }
+  if (q.has("owner")) { q.delete("owner"); history.replaceState(history.state, "", location.pathname + (q.size ? "?" + q : "") + location.hash); }
+})();
 const allTopics = () => S.data.topics?.length ? S.data.topics : Object.keys(TOPIC_COLORS);
 function toast(msg, ms=2600){ const t=$("#toast"); t.textContent=msg; t.style.display="block"; clearTimeout(t._h); t._h=setTimeout(()=>t.style.display="none", ms); }
 function relTime(ms){
@@ -669,7 +706,7 @@ function renderPlan(){
       <div><b style="color:${nClash ? "var(--warn)" : "inherit"}">${nClash}</b>with clashes</div>
       <div><b style="color:${toSign.length ? "#b07400" : "inherit"}">${toSign.length}</b>to sign up for</div>
       <div class="spacer"></div>
-      <div class="row"><button class="btn primary small" id="exportAll" ${upcoming.length ? "" : "disabled"}>⤓ Export (.ics)</button>
+      <div class="row"><button class="btn primary small" id="exportAll" ${upcoming.length ? "" : "disabled"} title="Downloads one calendar file with all your planned events">⤓ Add all to my calendar</button>
       <button class="btn small" id="clearPast" ${past.length ? "" : "disabled"}>Clear past</button></div>
     </div>
     ${toSign.length || signedList.length ? `<h2 class="sec-h">✍️ Sign-ups <span class="sub">${toSign.length} to do</span></h2>
@@ -678,7 +715,7 @@ function renderPlan(){
         <div class="t" data-id="${esc(e.id)}" style="cursor:pointer"><b>${esc(e.title)}</b><span class="sub">${esc(dayLabel(parse(e.start)))} · ${esc(timeRange(e))} · ${esc(ACCESS[e.access].label)}</span></div>
         ${e.booking ? `<a class="btn small ${S.signed.has(e.id) ? "" : "primary"}" href="${esc(e.booking)}" target="_blank" rel="noopener">Sign up ↗</a>` : `<span class="sub">see listing</span>`}
       </div>`).join("")}</div><h2 class="sec-h">All planned events</h2>` : ""}
-    ${upcoming.length ? groupedByDay(upcoming) : `<div class="empty" style="margin-top:14px">Tap ☆ on any event to add it to your plan. Clashes are flagged, and you can export everything to your calendar.</div>`}
+    ${upcoming.length ? groupedByDay(upcoming) : `<div class="empty" style="margin-top:14px">Tap ☆ on any event to add it to your plan. Clashes are flagged, and you can add them all to your calendar in one go.</div>`}
     ${past.length ? `<details style="margin-top:20px"><summary class="sub" style="cursor:pointer">Past (${past.length})</summary><div style="margin-top:10px">${listHtml(past,{showDate:true})}</div></details>` : ""}`;
   $("#exportAll")?.addEventListener("click", () => downloadIcs(upcoming, "my-cambridge-events.ics"));
   $("#clearPast")?.addEventListener("click", () => { past.forEach(e => S.plan.delete(e.id)); savePlan(); render(); });
@@ -751,7 +788,7 @@ function openDrawer(id){
       <button class="btn" id="drIcs">⤓ .ics</button>
       <button class="btn" id="drHl">${isHl(e) ? "Not a highlight" : "🌟 Mark as highlight"}</button>
       <button class="btn" id="drHide">${S.hidden.has(e.id) ? "Unhide" : "Not interested (hide)"}</button>
-      ${e.manual ? `<button class="btn" id="drDel" style="color:var(--warn)">Delete this event</button>` : ""}
+      ${e.manual ? `<button class="btn owner-only" id="drDel" style="color:var(--warn)">Delete this event</button>` : ""}
     </div>
     ${e.description ? `<div class="desc">${esc(e.description)}${e.description.length >= 1490 ? "…" : ""}</div>` : `<div class="sub">No description – see the original listing.</div>`}
     </div>`;
@@ -787,7 +824,7 @@ function toggleStar(id){
   else { S.plan.add(id); const c = clashes(e);
     toast(c.length ? `Added – ⚠ clashes with “${c[0].title.slice(0,50)}”` : needsSignup(e) ? "Added – this one needs a sign-up (see My plan)" : "Added to your plan", c.length || needsSignup(e) ? 4000 : 2000); }
   savePlan(); render();
-  if (overlay === "drawer" && $("#drawer [data-close]") && !$("#addSheet")) openDrawer(id);
+  if (overlay === "drawer" && $("#drawer [data-close]") && !$("#addSheet") && !$("#aboutSheet")) openDrawer(id);
 }
 
 // ---------- calendar export ----------
@@ -1038,6 +1075,44 @@ function openGithubIssue(payload, title, lines){
   const w = window.open(url, "_blank", "noopener");
   if (!w) location.href = url;
 }
+function openAbout(){
+  $("#drawer").innerHTML = `<div class="sheet-h"><button class="btn small" data-close>‹ Back</button><b>About</b><span></span></div>
+  <div class="sheet-b about" id="aboutSheet">
+    <h2 class="sec-h" style="margin-top:0">How to get the most out of it</h2>
+
+    <h3>1 · Subscribe once, never copy an event again</h3>
+    <p>Pick a calendar feed below and the events land in your own calendar – and keep arriving. New talks are added every 6 hours, and changed or cancelled ones update by themselves.</p>
+    <ol>
+      <li><b>iPhone / iPad / Mac:</b> tap a feed, then <b>Subscribe</b>. It appears in the Calendar app as its own calendar, which you can switch on and off.</li>
+      <li><b>Google Calendar:</b> tap <i>copy</i> next to a feed, then on a computer open Google Calendar → <i>Other calendars</i> ＋ → <i>From URL</i> and paste it.</li>
+    </ol>
+    <ul class="srcs feedlist">${$("#feedList").innerHTML}</ul>
+    <p class="sub">Tip: subscribe to just the topics you care about, e.g. only Politics, or only the 🌟 Highlights.</p>
+
+    <h3>2 · Or add just the events you want</h3>
+    <p>Open any event and tap <b>Google Calendar</b>, or <b>⤓ .ics</b> for Apple Calendar and Outlook. To add several at once, tap ☆ on each, then go to <b>My plan</b> → <b>Add all to my calendar</b>.</p>
+
+    <h3>3 · Don't miss the sign-up</h3>
+    <p>The big talks fill up days in advance. Events marked <b>✍️ Sign-up needed</b> need a registration or ticket. Everything you ☆ that needs one appears as a checklist at the top of <b>My plan</b>, with the sign-up link, until you tick “I've signed up”.</p>
+
+    <h3>4 · Let it pick the best ones</h3>
+    <p><b>🌟 Highlights</b> are the talks most worth an evening: senior figures, named lectures, big debates. The <b>Now</b> tab always shows the next one. Disagree? Open an event and mark or unmark it for yourself.</p>
+
+    <h3>5 · Tell it what you're into</h3>
+    <p>Under <b>Filters → My interests</b>, add words like <i>China</i>, <i>constitutional</i> or <i>AI</i>. Matching events get flagged wherever they come from, so niche talks don't get lost.</p>
+
+    <h3>6 · Keep it on your home screen</h3>
+    <p>In Safari tap <b>Share → Add to Home Screen</b>. It then opens full-screen, like an app.</p>
+    <p class="sub">Your plan, ticks and interests are saved only on this device. Nobody else can see them.</p>
+
+    <h2 class="sec-h" style="margin-top:30px">About</h2>
+    <p>Cambridge has more brilliant talks than anyone can keep track of, scattered across department websites, society termcards, mailing lists and Eventbrite. This page gathers the politics, law and entrepreneurship ones in one place and checks for new ones every 6 hours. Highlights and sign-up labels are picked automatically, so always check the organiser's page before you go.</p>
+
+    <div class="fine sub">Unofficial &amp; Unaffiliated. Something missing or wrong? <a href="mailto:assistantgustav@gmail.com?subject=Cambridge%20events%20site%20%E2%80%93%20feedback">Send feedback</a>.</div>
+  </div>`;
+  showOverlay("drawer");
+}
+
 async function deleteManual(e){
   if (!confirm(`Delete “${e.title}”?`)) return;
   if (!HOSTED){
@@ -1075,6 +1150,7 @@ function goNow(){ const n = new Date(); S.date = ymd(n); S.time = hm(n); S.live 
 document.addEventListener("click", ev => {
   const t = ev.target;
   if (t.closest("[data-close]")) { hideOverlay(); return; }
+  if (t.closest("[data-about]")) { if (overlay === "side") { overlay = null; applyOverlay(); } openAbout(); return; }
   if (t.closest("[data-add]")) { if (overlay === "side") { overlay = null; applyOverlay(); } openAdd(); return; }
   const star = t.closest("[data-star]");
   if (star){ ev.stopPropagation(); toggleStar(star.dataset.star); return; }
@@ -1130,6 +1206,15 @@ $("#themeBtn").onclick = () => {
 };
 if (store.get("theme")) document.documentElement.dataset.theme = store.get("theme");
 
+// Hidden switch for the home-screen app (it can't open ?owner): tap the title 5 times quickly.
+{ let taps = 0, tm; document.querySelector(".titlebar h1").addEventListener("click", () => {
+  clearTimeout(tm); tm = setTimeout(() => taps = 0, 1500);
+  if (++taps < 5) return; taps = 0;
+  const on = !document.body.classList.contains("owner");
+  document.body.classList.toggle("owner", on);
+  try { localStorage.setItem("cpl.owner", on ? "1" : "0"); } catch {}
+  toast(on ? "Owner tools on (Add / Delete)" : "Owner tools off");
+}); }
 $("#refreshBtn").onclick = async () => {
   const btn = $("#refreshBtn");
   try { const r = await fetch("api/refresh", {method:"POST"}); if (!r.ok) throw 0; }
