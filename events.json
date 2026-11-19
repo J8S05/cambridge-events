@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T07:30",
+ "generated": "2026-11-19T13:30",
  "topics": [
   "Law",
   "Politics",
@@ -18,27 +18,27 @@
   },
   "EA Cambridge": {
    "ok": true,
-   "count": 4
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
+   "count": 5
   },
   "Cambridge Enterprise": {
    "ok": true,
-   "count": 1
-  },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
+   "count": 2
   },
   "Judge Business School": {
    "ok": true,
    "count": 10
   },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
   "King's E-Lab": {
    "ok": true,
    "count": 8
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -59,11 +59,11 @@
   },
   "Centre for Geopolitics": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "talks.cam": {
    "ok": true,
-   "count": 16
+   "count": 15
   }
  },
  "events": [
@@ -87,30 +87,6 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "talks-273542",
-   "title": "Evidence informed policy and policy informed research for cleaner air",
-   "start": "2026-11-19T11:30",
-   "end": "2026-11-19T12:30",
-   "allDay": false,
-   "venue": "Chemistry Dept, Unilever Lecture Theatre and Teams",
-   "speaker": "Dr Sarah Moller",
-   "organiser": "Charlotte Phillips",
-   "series": "Centre for Atmospheric Science seminars, Chemistry Dept.",
-   "description": "Air pollution is the greatest environmental risk to human health, affecting almost every system in the body and at every stage of life. It also damages ecosystems and leads to biodiversity loss. Science has played a central role in demonstrating the need for action and in developing air quality standards and policies to deliver progress. In the UK there are well-established mechanisms for providing science advice for policy, including Chief Scientific Advisers in each government department, and a network of science advisory councils and expert groups. \n\n I have worked at the science policy interface for the past 14 years. Through the insights provided from bridging the academic and policy communities I have facilitated a transformation in how the Defra air pollution team approaches interactions with both the research community and research funders, resulting in better access to and uptake of science evidence and expertise. I also worked with the AQEG to transition its mode of operation from providing large authoritative reviews of science to providing more accessible, responsive, and agile policy advice. In this seminar I will provide insights from my experience, including what enabled my work to have impact, how transformations came about, and some examples of the opportunities for policy impact that arose. I will also present some examples of the policy-informed research carried out by my group which has arisen from my interactions with policy makers.",
-   "url": "https://talks.cam.ac.uk/talk/index/273542/",
-   "source": "talks.cam: Centre for Atmospheric Science seminars, Chemistry Dept.",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -239,7 +215,7 @@
   },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
-   "title": "LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and Foreign Policy' by Ambassador Antonio de Aguiar Patriota",
+   "title": "LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and Foreign Policy'",
    "start": "2026-11-19T16:00",
    "end": "2026-11-19T17:00",
    "allDay": false,
@@ -247,7 +223,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Antonio de Aguiar Patriota was appointed Ambassador to the United Kingdom of Great Britain and Northern Ireland in 2023. \n Previously, he served as Minister of Foreign Affairs of Brazil (2011-2013), Ambassador to the United States (2007-2009) and as Permanent Representative of Brazil to the United Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \n Among his publications are “The UN Security Council after the Gulf War” (1998) and two volumes of “Speeches, articles and interviews” during his period as Foreign Minister. He published in 2025 a collection of essays in the English language entitled “A Humanist Foreign Policy for a Multipolar World”. \n Ambassador Patriota is a member of the “Leaders for Peace” initiative under the chairmanship of former French Prime Minister Raffarin. \n Chair: Dr Fernando Lusa Bordin, Centre Fellow",
+   "description": "Ambassador Antonio de Aguiar Patriota\n\n Date/time: \n\n Thursday 19 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n Open map \n\n About \n\n Time: 4 pm - 5.30 pm This is an in-person event only Antonio de Aguiar Patriota was appointed Ambassador to the United Kingdom of Great Britain and Northern Ireland in 2023. \n Previously, he served as Minister of Foreign Affairs of Brazil (2011-2013), Ambassador to the United States (2007-2009) and as Permanent Representative of Brazil to the United Nations (2013-2016). He was Ambassador of Brazil to Italy (2016-2019) and to the Arab Republic of Egypt (2019-2023). \n Among his publications are “The UN Security Council after the Gulf War” (1998) and two volumes of “Speeches, articles and interviews” during his period as Foreign Minister. He published in 2025 a collection of essays in the English language entitled “A Humanist Foreign Policy for a Multipolar World”. \n Ambassador Patriota is a member of the “Leaders for Peace” initiative under the chairmanship of former French Prime Minister Raffarin. \n Chair: Dr Fernando Lusa Bordin, Centre Fellow",
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/afternoon-talk-brazil-and-rule-law-democracy-and-foreign-policy-ambassador-antonio-de-aguiar",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -691,6 +667,31 @@
    "highlightWhy": []
   },
   {
+   "id": "ea-eryKIMsOgKhygHeventsluma",
+   "title": "How Can We Use Evidence To Do Good? CUSAP x EA Cambridge",
+   "start": "2026-11-23T19:00",
+   "end": "2026-11-23T21:00",
+   "allDay": false,
+   "venue": "Queens' College, Silver St, Cambridge CB3 9ET, UK",
+   "speaker": "",
+   "organiser": "Effective Altruism Cambridge",
+   "series": "",
+   "description": "Get up-to-date information at: https://luma.com/0x0oyww5\n\nAddress:\nQueens' College\nRoom is CC43, which is on thr 4th floor of Cripps Court. We will meet at the porters lodge at 7pm and direct you to the room! If you’re running late please message 07913820532.\nCambridge, United Kingdom\n\nHosted by EA Cambridge & Isha Harris",
+   "url": "https://luma.com/0x0oyww5",
+   "source": "EA Cambridge",
+   "sourceGroup": "Societies",
+   "booking": "https://luma.com/0x0oyww5",
+   "topics": [
+    "Law",
+    "Effective Altruism"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Sign up on Luma (free).",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "bennett-uk-digital-economics-2026",
    "title": "Fifth workshop on UK digital economics",
    "start": "2026-11-24T00:00",
@@ -967,30 +968,6 @@
    "highlightWhy": []
   },
   {
-   "id": "centre-what-next-for-cuba",
-   "title": "What next for Cuba?",
-   "start": "2026-11-25T17:30",
-   "end": "2026-11-25T18:30",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/what-next-for-cuba/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "talks-273072",
    "title": "Peter Clark on \"Potential mechanisms for assembly of pre-cellular replicating molecular assemblies (chiral selection and steps to the proton motive force)\"",
    "start": "2026-11-26T11:00",
@@ -1039,6 +1016,31 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -1065,31 +1067,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "jbs-pitch-and-judge-5-autumn-2026",
    "title": "Pitch @ Judge #5 – Autumn 2026",
    "start": "2026-11-26T16:00",
@@ -1099,7 +1076,7 @@
    "speaker": "",
    "organiser": "Cambridge Judge Business School",
    "series": "Accelerate Cambridge On-campus events",
-   "description": "Ventures pitching: ResearchIQ, Avanc, Vet Validate, Recurvia, LuminidsAI",
+   "description": "Ventures pitching: Aenergy, Synthility, Vet Validaite, ReasearchIQ, LuminidsAI",
    "url": "https://www.jbs.cam.ac.uk/events/pitch-and-judge-5-autumn-2026/",
    "source": "Cambridge Judge Business School",
    "sourceGroup": "Entrepreneurship",
@@ -1803,6 +1780,30 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "TICKETS: Register here",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "ce-from-research-to-resonance-turning-ideas-into-ventures",
+   "title": "From Research to Resonance: Turning Ideas into Ventures",
+   "start": "2026-12-04T09:30",
+   "end": null,
+   "allDay": false,
+   "venue": "",
+   "speaker": "",
+   "organiser": "Cambridge Enterprise",
+   "series": "",
+   "description": "",
+   "url": "https://www.enterprise.cam.ac.uk/events/from-research-to-resonance-turning-ideas-into-ventures/",
+   "source": "Cambridge Enterprise",
+   "sourceGroup": "Entrepreneurship",
+   "booking": null,
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "To register please email – ba-ecrnadmin@crassh.",
    "highlight": false,
    "highlightWhy": []
   },
