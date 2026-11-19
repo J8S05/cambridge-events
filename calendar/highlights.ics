@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -55,9 +55,27 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
   collection of essays i
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2002064661296@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261119T170000
+DTEND;TZID=Europe/London:20261119T190000
+SUMMARY:POLIS Lecture 2026 - What is Political Progress?
+LOCATION:Alison Richard Building\, 7 West Road\, Cambridge\, CB3 9DP
+URL:https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-political-pro
+ gress-tickets-2002064661296
+CATEGORIES:Politics,International
+DESCRIPTION:Department of Politics and International Studies\, Cambridge Un
+ iversity\nHighlight: Named public lecture\nTopics: Politics\, Internationa
+ l\nDetails: https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-poli
+ tical-progress-tickets-2002064661296\nSign-up needed: https://www.eventbri
+ te.co.uk/e/polis-lecture-2026-what-is-political-progress-tickets-200206466
+ 1296\nThe Department of Politics and International Studies at the Universi
+ ty of Cambridge welcomes Professor Lea Ypi for the 2026 POLIS Lecture.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -88,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
  ents
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T173000
 DTEND;TZID=Europe/London:20261120T183000
 SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
@@ -105,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -135,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
  vent@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
 SUMMARY:3VB’s University of Cambridge Event
@@ -162,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -182,9 +200,27 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
  of the European Union
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004774391171@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20270122T173000
+DTEND;TZID=Europe/London:20270122T183000
+SUMMARY:Mackenzie Stuart Lecture 2027
+LOCATION:Faculty of Law\, 10 W Rd\, South Cambridgeshire\, CB3 9DZ
+URL:https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-20
+ 04774391171
+CATEGORIES:Law,Rights & Justice
+DESCRIPTION:Centre for European Legal Studies\nHighlight: Named public lect
+ ure\; Senior figure speaking (Lord)\nTopics: Law\, Rights & Justice\nDetai
+ ls: https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2
+ 004774391171\nSign-up needed: https://www.eventbrite.co.uk/e/mackenzie-stu
+ art-lecture-2027-tickets-2004774391171\nCELS hosts an annual public lectur
+ e in honour of Lord Mackenzie-Stuart\, the first British Judge to be Presi
+ dent of the Court of Justice.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'

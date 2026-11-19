@@ -25,68 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-qualifying-barrister-and-ma
- king-succ@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261119T150000
-DTEND;TZID=Europe/London:20261119T160000
-SUMMARY:Qualifying as a barrister and making successful pupillage applicati
- ons
-LOCATION:Student Services Centre (SSC)\, New Wing Seminar Room
-URL:https://www.law.cam.ac.uk/press/events/2026/11/qualifying-barrister-and
- -making-successful-pupillage-applications
-CATEGORIES:Law
-DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
- /press/events/2026/11/qualifying-barrister-and-making-successful-pupillage
- -applications\nThis event has already happened\n\n Date/time: \n\n Thursda
- y 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Student Servic
- es Centre (SSC)\, New Wing Seminar Room\n\n About \n\n This is an in-perso
- n session\, open to students and graduates\, of all subjects.\n This sessi
- on will be hosted by Christopher Kessling\, Vice-Dean of the Inns of Court
-  College of Advocacy (ICCA). Christopher is himself not only a barrister b
- ut vastly experienced in training students to become barristers.\n The rou
- te to qualifying as a barrister in England and Wales can be lengthy\, comp
- licated\, costly\, and risky. Yet many Cambridge students and alumni navig
- ate it successfully. This briefing will provide the framework through whic
- h you take your next steps and highlight what you can do to make a success
- ful difference at each. \n By the end of the session\, you should be comfo
- rtable in understanding the steps to qualifying\, the
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-internation
- al-law-sc@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261119T150000
-DTEND;TZID=Europe/London:20261119T160000
-SUMMARY:CEENRG Seminars: 'How Safe is Safe? International Law at the Scienc
- e-Norm Interface in the Controversy over the ‘Water’ Discharge from th
- e Fukushima Nuclear Accident Site'
-LOCATION:David Attenborough Building\, Room 1.25
-URL:https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-internat
- ional-law-science-norm-interface-controversy-over
-CATEGORIES:Law,International
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-sc
- ience-norm-interface-controversy-over\nSign-up needed: https://forms.cloud
- .microsoft/e/9tuK2dMhaP\nThis event has already happened\n\n Date/time: \n
- \n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Davi
- d Attenborough Building\, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr
-  Miharu Hirano (Associate Professor\, Graduate School of Law\, Kobe Univer
- sity)\n Assessing the safety of water for human health and the environmen
- t is not a purely scientific inquiry\; rather\, determining an acceptable
-  level of risk is inextricably linked to normative value judgments. How e
- ffectively international law guides States through such complex issues is
-  frequently tested in novel contexts lacking clear precedent. Japan’s d
- ischarge of tritium-containing ‘ALPS-treated water’ offers an interes
- ting case study\, not only for the global attention it has attracted\, bu
- t also for the important legal questions it has raised. \n The Cambridge 
- Centre for Environment\, Energy\, and Natural Resource Governance (C-EENRG
- ) is
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -116,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cipil-evening-seminar-beyond-sync-copyrig
  ht-collec@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:CIPIL Evening Seminar: 'Beyond Sync: Copyright\, Collective Managem
@@ -144,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
  ltdg-can-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T181500
 DTEND;TZID=Europe/London:20261119T191500
 SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Can Criminal Conv
@@ -172,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-age-ai-interdisciplinary-dialogue@cam
  bridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T190000
 DTEND;TZID=Europe/London:20261119T203000
 SUMMARY:Law in the Age of AI: An Interdisciplinary Dialogue
@@ -198,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -229,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law
  -torts-an@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T160000
 DTEND;TZID=Europe/London:20261120T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Civil Law Torts and Climate C
@@ -240,24 +181,26 @@ URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-civil-
 CATEGORIES:Law,Policy
 DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  cam.ac.uk/events/law-and-climate-crisis-seminars-civil-law-torts-and-clima
- te-change\nSign-up needed\nDate/time: \n\n Friday 20 November 2026 \n\n 4:
- 00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n
- \n Speaker: Elbert de Jong (Full Professor of Private Law at Utrecht Unive
- rsity\, The Netherlands)\n Climate change is rapidly entering the domain o
- f tort law. This development is driven by regulation and litigation\, adva
- nces in climate science\, and the increasingly tangible impacts of climate
-  change on interests protected by private law.\n With a focus on European 
- jurisdictions\, this seminar examines the doctrinal and institutional chal
- lenges involved in developing and allocating climate change-related respon
- sibility and liability among private actors.\n The Cambridge Seminar Serie
- s on Law and the Climate Crisis explores the vital role of legal systems i
- n tackling one of the most pressing issues of our time.\n This series brin
- gs together top experts in law and climate action to discus
+ te-change\nSign-up needed: https://www.eventbrite.co.uk/e/civil-law-torts-
+ and-climate-change-seminar-series-on-law-climate-crisis-tickets-2002503164
+ 872\nDate/time: \n\n Friday 20 November 2026 \n\n 4:00pm to 5:00pm\n\n Loc
+ ation: \n\n David Attenborough Building\n\n About \n\n Speaker: Elbert de 
+ Jong (Full Professor of Private Law at Utrecht University\, The Netherland
+ s)\n Climate change is rapidly entering the domain of tort law. This devel
+ opment is driven by regulation and litigation\, advances in climate scienc
+ e\, and the increasingly tangible impacts of climate change on interests p
+ rotected by private law.\n With a focus on European jurisdictions\, this s
+ eminar examines the doctrinal and institutional challenges involved in dev
+ eloping and allocating climate change-related responsibility and liability
+  among private actors.\n The Cambridge Seminar Series on Law and the Clima
+ te Crisis explores the vital role of legal systems in tackling one of the 
+ most pressing issues of our time.\n This series brings together top expert
+ s in law and climate action to discus
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-women-law-society-cwls-inside-u
  ncitral-s@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T143000
 SUMMARY:Cambridge Women in Law Society (CWLS): 'Inside UNCITRAL: Shaping th
@@ -286,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -315,7 +258,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Justice of t
 END:VEVENT
 BEGIN:VEVENT
 UID:ea-eryKIMsOgKhygHeventsluma@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T190000
 DTEND;TZID=Europe/London:20261123T210000
 SUMMARY:How Can We Use Evidence To Do Good? CUSAP x EA Cambridge
@@ -331,9 +274,27 @@ DESCRIPTION:Effective Altruism Cambridge\nTopics: Law\, Effective Altruism\
  gdom\n\nHosted by EA Cambridge & Isha Harris
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-1994575468920@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261124T090000
+DTEND;TZID=Europe/London:20261124T130000
+SUMMARY:Birketts' Employment and Immigration Update 2026 - Cambridge
+LOCATION:Birketts LLP - Solicitors Cambridge\, 22 Station Road\, Cambridge\
+ , CB1 2JD
+URL:https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-upda
+ te-2026-cambridge-tickets-1994575468920
+CATEGORIES:Law,International
+DESCRIPTION:Birketts LLP\nTopics: Law\, International\nDetails: https://www
+ .eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-cambri
+ dge-tickets-1994575468920\nSign-up needed: https://www.eventbrite.co.uk/e/
+ birketts-employment-and-immigration-update-2026-cambridge-tickets-19945754
+ 68920\nFrom legislative reform to workplace reality - Join our annual empl
+ oyment & immigration law update\, for HR professionals & business leaders.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-j
  ustifying@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T120000
 DTEND;TZID=Europe/London:20261124T130000
 SUMMARY:Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational O
@@ -363,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principl
  e-legalit@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T130000
 DTEND;TZID=Europe/London:20261124T140000
 SUMMARY:CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''
@@ -384,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-
  words-con@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T130000
 DTEND;TZID=Europe/London:20261124T140000
 SUMMARY:3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial 
@@ -411,7 +372,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274135@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T180000
 DTEND;TZID=Europe/London:20261124T190000
 SUMMARY:Can Courts Save the Environment Without Weakening Democracy? Rethin
@@ -437,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -467,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026
  @cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T130000
 DTEND;TZID=Europe/London:20261126T140000
 SUMMARY:University of Cambridge Barristers Fair 2026
@@ -492,9 +453,34 @@ DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  d comp
 END:VEVENT
 BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
+ y-normati@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261126T150000
+DTEND;TZID=Europe/London:20261126T160000
+SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
+LOCATION:Online webinar
+URL:https://www.law.cam.ac.uk/press/events/2026/11/cflpp-monthly-seminar-re
+ aity-normatively-structures
+CATEGORIES:Law,Politics,Political Thought
+DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, Political Thought\nDet
+ ails: https://www.law.cam.ac.uk/press/events/2026/11/cflpp-monthly-seminar
+ -reaity-normatively-structures\nDate/time: \n\n Thursday 26 November 2026 
+ \n\n 3:00pm to 4:00pm\n\n Location: \n\n Online webinar\n\n About \n\n The
+  Cambridge Forum for Legal & Political Philosophy will host its second 202
+ 6 Michaelmas Term monthly seminar on Thursday\, November 26th\, at 3:00pm\
+ , through Zoom. The seminar will be chaired by Thomas Bullemore\, who is a
+  DPhil candidate at Oxford University. The title of his talk is "Is Realit
+ y Normatively Structured?"\n Anyone interested in legal or political philo
+ sophy is welcome to attend the seminar. If you would like to receive the Z
+ oom invitation\, you should please write to Professor Matthew Kramer ( mhk
+ 11@cam.ac.uk ). Please write from an institutional email account rather th
+ an from a generic account such as gmail or hotmail.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-cha
  nge-natio@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -518,33 +504,8 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  more details and online registration.
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
- y-normati@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261126T150000
-DTEND;TZID=Europe/London:20261126T160000
-SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
-LOCATION:Online webinar
-URL:https://www.law.cam.ac.uk/press/events/2026/11/cflpp-monthly-seminar-re
- aity-normatively-structures
-CATEGORIES:Law,Politics,Political Thought
-DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\, Political Thought\nDet
- ails: https://www.law.cam.ac.uk/press/events/2026/11/cflpp-monthly-seminar
- -reaity-normatively-structures\nDate/time: \n\n Thursday 26 November 2026 
- \n\n 3:00pm to 4:00pm\n\n Location: \n\n Online webinar\n\n About \n\n The
-  Cambridge Forum for Legal & Political Philosophy will host its second 202
- 6 Michaelmas Term monthly seminar on Thursday\, November 26th\, at 3:00pm\
- , through Zoom. The seminar will be chaired by Thomas Bullemore\, who is a
-  DPhil candidate at Oxford University. The title of his talk is "Is Realit
- y Normatively Structured?"\n Anyone interested in legal or political philo
- sophy is welcome to attend the seminar. If you would like to receive the Z
- oom invitation\, you should please write to Professor Matthew Kramer ( mhk
- 11@cam.ac.uk ). Please write from an institutional email account rather th
- an from a generic account such as gmail or hotmail.
-END:VEVENT
-BEGIN:VEVENT
 UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T160000
 DTEND;TZID=Europe/London:20261126T173000
 SUMMARY:Pitch @ Judge #5 – Autumn 2026
@@ -558,7 +519,7 @@ DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273143@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 
@@ -587,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
  vent@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
 SUMMARY:3VB’s University of Cambridge Event
@@ -614,7 +575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotiona
  l-percept@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T183000
 SUMMARY:CIPIL Evening Seminar: 'The Importance of Emotional Perception: A D
@@ -642,31 +603,9 @@ DESCRIPTION:Faculty of Law\nTopics: Law\nDetails: https://www.law.cam.ac.uk
  rsight responsibilities 
 END:VEVENT
 BEGIN:VEVENT
-UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261126T173000
-DTEND;TZID=Europe/London:20261126T190000
-SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
- )
-LOCATION:Lee Seng Tee Hall\, Wolfson College\, Bar
-URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
- -2026/
-CATEGORIES:Law,International,Policy,Entrepreneurship
-DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
- Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
- brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
- -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
- islator and board member\, Martha Lane Fox will explore what AI could mean
-  for the next 50 years\, including its effects on work\, business\, entrep
- reneurial opportunity\, existing institutions\, culture\, security and def
- ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
- niversity of Cambridge.
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -696,7 +635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -723,9 +662,29 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  ds 
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2002505360439@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261127T160000
+DTEND;TZID=Europe/London:20261127T180000
+SUMMARY:Law and Climate Science - Cambridge Seminar Series on Law & Climate
+  Crisis
+LOCATION:David Attenborough Building\, Pembroke Street\, Cambridge\, CB2 3Q
+ Z
+URL:https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-semina
+ r-series-on-law-climate-crisis-tickets-2002505360439
+CATEGORIES:Law,Policy
+DESCRIPTION:The Centre for Climate Engagement at Hughes Hall\nTopics: Law\,
+  Policy\nDetails: https://www.eventbrite.co.uk/e/law-and-climate-science-c
+ ambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439\nSign-
+ up needed: https://www.eventbrite.co.uk/e/law-and-climate-science-cambridg
+ e-seminar-series-on-law-climate-crisis-tickets-2002505360439\nIn this semi
+ nar\, Dr Rupert Stuart-Smith will explore the critical role of climate sci
+ ence in addressing the climate crisis
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-socie
  ty-medica@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261128T090000
 DTEND;TZID=Europe/London:20261128T100000
 SUMMARY:Cambridge Medical Law Society: Medical Negligence Moot 2nd round
@@ -748,7 +707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-medical-law-society-debate-thbt
  -patient-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261128T180000
 DTEND;TZID=Europe/London:20261128T193000
 SUMMARY:Cambridge Medical Law Society debate: 'THBT patient autonomy should
@@ -777,7 +736,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-phi
  losophy-e@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261201T170000
 DTEND;TZID=Europe/London:20261201T180000
 SUMMARY:Talking Animals\, Law and Philosophy event: 'Whale Legal Personhood
@@ -801,7 +760,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
  ltdg-does@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261201T184500
 DTEND;TZID=Europe/London:20261201T194500
 SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Does Consent Matt
@@ -829,7 +788,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273144@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:Institute of Criminology - Professor Andreas von Hirsch Memorial Ev
@@ -857,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-tham
  es-valley@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261203T130000
 DTEND;TZID=Europe/London:20261203T140000
 SUMMARY:Private Law Seminar Series: 'Tindall v Thames Valley Police: the en
@@ -879,7 +838,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -909,7 +868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-t
  here-be-f@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261215T150000
 DTEND;TZID=Europe/London:20261215T160000
 SUMMARY:CFLPP Monthly Seminar: 'Can There be a Feminist General Jurispruden
@@ -935,7 +894,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -962,7 +921,7 @@ DESCRIPTION:Speaker: Shakti Avasthy\, Indian Police Service\nComputer Labor
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -989,7 +948,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -1009,9 +968,27 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
  of the European Union
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004774391171@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20270122T173000
+DTEND;TZID=Europe/London:20270122T183000
+SUMMARY:Mackenzie Stuart Lecture 2027
+LOCATION:Faculty of Law\, 10 W Rd\, South Cambridgeshire\, CB3 9DZ
+URL:https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-20
+ 04774391171
+CATEGORIES:Law,Rights & Justice
+DESCRIPTION:Centre for European Legal Studies\nHighlight: Named public lect
+ ure\; Senior figure speaking (Lord)\nTopics: Law\, Rights & Justice\nDetai
+ ls: https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2
+ 004774391171\nSign-up needed: https://www.eventbrite.co.uk/e/mackenzie-stu
+ art-lecture-2027-tickets-2004774391171\nCELS hosts an annual public lectur
+ e in honour of Lord Mackenzie-Stuart\, the first British Judge to be Presi
+ dent of the Court of Justice.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -1038,7 +1015,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cflcambridge-socio-legal-group-seminar-ev
  olution-p@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270125T130000
 DTEND;TZID=Europe/London:20270125T140000
 SUMMARY:CFL/Cambridge Socio-Legal Group Seminar: 'The evolution of parentho
@@ -1068,7 +1045,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2027-01-cambridge-medical-law-socie
  ty-medica@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270130T090000
 DTEND;TZID=Europe/London:20270130T100000
 SUMMARY:Cambridge Medical Law Society: Medical Negligence Moot 3rd round
@@ -1091,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -1119,7 +1096,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -1146,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cflpp-monthly-seminar-essence-recollectio
  n@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270213T150000
 DTEND;TZID=Europe/London:20270213T170000
 SUMMARY:CFLPP Monthly Seminar: 'From Essence to Recollection'
@@ -1166,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -1193,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -1221,7 +1198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -55,17 +55,35 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
   collection of essays i
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2002064661296@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261119T170000
+DTEND;TZID=Europe/London:20261119T190000
+SUMMARY:POLIS Lecture 2026 - What is Political Progress?
+LOCATION:Alison Richard Building\, 7 West Road\, Cambridge\, CB3 9DP
+URL:https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-political-pro
+ gress-tickets-2002064661296
+CATEGORIES:Politics,International
+DESCRIPTION:Department of Politics and International Studies\, Cambridge Un
+ iversity\nHighlight: Named public lecture\nTopics: Politics\, Internationa
+ l\nDetails: https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-poli
+ tical-progress-tickets-2002064661296\nSign-up needed: https://www.eventbri
+ te.co.uk/e/polis-lecture-2026-what-is-political-progress-tickets-200206466
+ 1296\nThe Department of Politics and International Studies at the Universi
+ ty of Cambridge welcomes Professor Lea Ypi for the 2026 POLIS Lecture.
+END:VEVENT
+BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
  ya Keynes
 LOCATION:King's College\, King's Parade
 URL:https://www.kingselab.org/all-events/soumaya-keynes
-CATEGORIES:Entrepreneurship,Politics,International,Policy
-DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\, Politics\, International\, Policy\nDetails: https://www.kingselab.
+CATEGORIES:Politics,International,Policy,Entrepreneurship
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Politics\, 
+ International\, Policy\, Entrepreneurship\nDetails: https://www.kingselab.
  org/all-events/soumaya-keynes\nSign-up needed: https://www.eventbrite.co.u
  k/e/economics-policy-and-the-world-ahead-a-conversation-with-soumaya-keyne
  s-tickets-1993921385539\nJoin economist and journalist Soumaya Keynes for 
@@ -75,9 +93,26 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  societies in an era of rapid change.
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004317885751@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261120T120000
+DTEND;TZID=Europe/London:20261120T130000
+SUMMARY:Taiwan\, Chips\, and Compute: Semiconductor Strategy in the Strait
+LOCATION:Keynes Hall\, King's College\, Cambridge\, CB2 1ST
+URL:https://www.eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor-s
+ trategy-in-the-strait-tickets-2004317885751
+CATEGORIES:Politics,International,Policy
+DESCRIPTION:Kings Politics\nTopics: Politics\, International\, Policy\nDeta
+ ils: https://www.eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor
+ -strategy-in-the-strait-tickets-2004317885751\nSign-up needed: https://www
+ .eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor-strategy-in-the
+ -strait-tickets-2004317885751\nExploring the geopolitical dynamics of Taiw
+ an's role in global technology
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -108,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -138,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
  s-matters@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T173000
 DTEND;TZID=Europe/London:20261123T190000
 SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
@@ -148,11 +183,15 @@ URL:https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-w
 CATEGORIES:Politics,International
 DESCRIPTION:Centre for Geopolitics\nTopics: Politics\, International\nDetai
  ls: https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-
- why-baltic-minority-politics-matters/
+ why-baltic-minority-politics-matters/\nSign-up needed: https://www.eventbr
+ ite.co.uk/e/national-cultural-autonomy-revisited-why-baltic-minority-polit
+ ics-matters-tickets-2004075913004\nThis event will discuss the historical 
+ and contemporary relevance of the concept of non-territorial cultural auto
+ nomy in the Baltics
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -180,7 +219,7 @@ DESCRIPTION:Speaker: Utsa Mukherjee (Education\, Brunel University of Londo
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273765@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T170000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:Kropotkin’s Anarchist Animals
@@ -205,7 +244,7 @@ DESCRIPTION:Speaker: David Nally\, University of Cambridge\nPolitical Ecolo
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274135@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T180000
 DTEND;TZID=Europe/London:20261124T190000
 SUMMARY:Can Courts Save the Environment Without Weakening Democracy? Rethin
@@ -229,25 +268,25 @@ DESCRIPTION:What's On at Robinson College\nTopics: Law\, Politics\nDetails:
  ing South Asian jurisprudence into conversation with deliberative de
 END:VEVENT
 BEGIN:VEVENT
-UID:centre-algorithmic-domination-and-oligarchic-worldmaking@cambridge-even
- ts
-DTSTAMP:20261119T162728Z
+UID:eb-2002325116324@cambridge-events
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261125T170000
-DTEND;TZID=Europe/London:20261125T180000
+DTEND;TZID=Europe/London:20261125T183000
 SUMMARY:Algorithmic Domination and Oligarchic Worldmaking
-LOCATION:Si\, Alison Richard Building
-URL:https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-olig
- archic-worldmaking/
-CATEGORIES:Rights & Justice,Politics
-DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights & 
- Justice\, Politics\nDetails: https://www.cghr.polis.cam.ac.uk/events/algor
- ithmic-domination-and-oligarchic-worldmaking/\nThis talk examines how algo
- rithmic systems enable oligarchic power to shape society while appearing t
- o operate through popular choice.
+LOCATION:S1 Alison Richard Building\, 7 West Road\, Cambridge\, CB3 9DP
+URL:https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligarchic-wo
+ rldmaking-tickets-2002325116324
+CATEGORIES:Politics
+DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Politics\
+ nDetails: https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligar
+ chic-worldmaking-tickets-2002325116324\nSign-up needed: https://www.eventb
+ rite.co.uk/e/algorithmic-domination-and-oligarchic-worldmaking-tickets-200
+ 2325116324\nThis talk examines how algorithmic systems enable oligarchic p
+ ower to shape society while appearing to operate through popular choice.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273072@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T110000
 DTEND;TZID=Europe/London:20261126T120000
 SUMMARY:Peter Clark on "Potential mechanisms for assembly of pre-cellular r
@@ -263,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -288,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -314,29 +353,26 @@ DESCRIPTION:POLIS (Politics & International Studies)\nTopics: Politics\, In
  resent and
 END:VEVENT
 BEGIN:VEVENT
-UID:centre-understanding-refusing-finding-inspiration-towards-a-living-crit
- ique-of-d@cambridge-events
-DTSTAMP:20261119T162728Z
+UID:eb-1999763914701@cambridge-events
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T183000
-SUMMARY:Understanding\, Refusing\, Finding Inspiration: Towards a Living Cr
- itique of Domination
-LOCATION:Room SG2\, Alison Richard Building\, 7 West Road\, Cambridge\, CB3
-  9DP
-URL:https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-
- inspiration-towards-a-living-critique-of-domination/
-CATEGORIES:Rights & Justice,Politics
-DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights & 
- Justice\, Politics\nDetails: https://www.cghr.polis.cam.ac.uk/events/under
- standing-refusing-finding-inspiration-towards-a-living-critique-of-dominat
- ion/\nSign-up needed: https://ctrp-cghr-martin-breaugh.eventbrite.co.uk\nI
- n this talk\, Martin Breaugh proposes a “living critique of domination
- ” grounded in three gestures for radically rethinking politics and redis
- covering emancipatory horizons.
+SUMMARY:Towards a Living Critique of Domination
+LOCATION:Room SG2\, Alison Richard Building\, Sidgwick Site\, 7 West Road\,
+  Cambridge\, CB3 9DT
+URL:https://www.eventbrite.co.uk/e/towards-a-living-critique-of-domination-
+ tickets-1999763914701
+CATEGORIES:Politics
+DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Politics\
+ nDetails: https://www.eventbrite.co.uk/e/towards-a-living-critique-of-domi
+ nation-tickets-1999763914701\nSign-up needed: https://www.eventbrite.co.uk
+ /e/towards-a-living-critique-of-domination-tickets-1999763914701\nIn this 
+ talk\, Martin Breaugh proposes a “living critique of domination” groun
+ ded in three gestures for radically rethinking politics.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -362,7 +398,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -386,7 +422,7 @@ DESCRIPTION:Speaker: Catherine Lefevre\, Glasgow\nCore Seminar in Economic
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -411,9 +447,26 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
  I) on inequalities in the era of global megatrends.
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2003211686078@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20270120T183000
+DTEND;TZID=Europe/London:20270120T203000
+SUMMARY:It's not drought\, it's pillage
+LOCATION:German Lutheran Church\, 4 Shaftesbury Road\, Cambridge\, CB2 8BW
+URL:https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003
+ 211686078
+CATEGORIES:Politics
+DESCRIPTION:Friends of the Cam\nTopics: Politics\nDetails: https://www.even
+ tbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003211686078\nSign-up 
+ needed: https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets
+ -2003211686078\nWhat we can learn from exploring the links between environ
+ mental damage caused by Big Tech and water protest movements in Latin Amer
+ ica.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -439,7 +492,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273737@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270209T180000
 DTEND;TZID=Europe/London:20270209T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Andrés Rodrí
@@ -467,7 +520,7 @@ DESCRIPTION:Speaker: Professor Andrés Rodríguez-Pose\, London School of E
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -481,7 +534,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N

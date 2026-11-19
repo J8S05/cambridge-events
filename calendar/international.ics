@@ -25,39 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-how-safe-safe-internation
- al-law-sc@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261119T150000
-DTEND;TZID=Europe/London:20261119T160000
-SUMMARY:CEENRG Seminars: 'How Safe is Safe? International Law at the Scienc
- e-Norm Interface in the Controversy over the ‘Water’ Discharge from th
- e Fukushima Nuclear Accident Site'
-LOCATION:David Attenborough Building\, Room 1.25
-URL:https://www.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-internat
- ional-law-science-norm-interface-controversy-over
-CATEGORIES:Law,International
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/events/ceenrg-seminars-how-safe-safe-international-law-sc
- ience-norm-interface-controversy-over\nSign-up needed: https://forms.cloud
- .microsoft/e/9tuK2dMhaP\nThis event has already happened\n\n Date/time: \n
- \n Thursday 19 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Davi
- d Attenborough Building\, Room 1.25\n\n Sign up\n\n About \n\n Speaker: Dr
-  Miharu Hirano (Associate Professor\, Graduate School of Law\, Kobe Univer
- sity)\n Assessing the safety of water for human health and the environmen
- t is not a purely scientific inquiry\; rather\, determining an acceptable
-  level of risk is inextricably linked to normative value judgments. How e
- ffectively international law guides States through such complex issues is
-  frequently tested in novel contexts lacking clear precedent. Japan’s d
- ischarge of tritium-containing ‘ALPS-treated water’ offers an interes
- ting case study\, not only for the global attention it has attracted\, bu
- t also for the important legal questions it has raised. \n The Cambridge 
- Centre for Environment\, Energy\, and Natural Resource Governance (C-EENRG
- ) is
-END:VEVENT
-BEGIN:VEVENT
 UID:elab-6afa293178a4204d5c078138@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:Science\, Brand and Business: A Conversation with Jessie Inchauspé
@@ -78,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-afternoon-talk-brazil-and-r
  ule-law-d@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T160000
 DTEND;TZID=Europe/London:20261119T170000
 SUMMARY:LCIL Afternoon Talk: 'Brazil and the Rule of Law: Democracy and For
@@ -106,17 +75,35 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Ambassador)\
   collection of essays i
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2002064661296@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261119T170000
+DTEND;TZID=Europe/London:20261119T190000
+SUMMARY:POLIS Lecture 2026 - What is Political Progress?
+LOCATION:Alison Richard Building\, 7 West Road\, Cambridge\, CB3 9DP
+URL:https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-political-pro
+ gress-tickets-2002064661296
+CATEGORIES:Politics,International
+DESCRIPTION:Department of Politics and International Studies\, Cambridge Un
+ iversity\nHighlight: Named public lecture\nTopics: Politics\, Internationa
+ l\nDetails: https://www.eventbrite.co.uk/e/polis-lecture-2026-what-is-poli
+ tical-progress-tickets-2002064661296\nSign-up needed: https://www.eventbri
+ te.co.uk/e/polis-lecture-2026-what-is-political-progress-tickets-200206466
+ 1296\nThe Department of Politics and International Studies at the Universi
+ ty of Cambridge welcomes Professor Lea Ypi for the 2026 POLIS Lecture.
+END:VEVENT
+BEGIN:VEVENT
 UID:elab-6a54f3688bd7eb12c9e49fee@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261119T173000
 DTEND;TZID=Europe/London:20261119T183000
 SUMMARY:Economics\, Policy\, and the World Ahead: A Conversation with Souma
  ya Keynes
 LOCATION:King's College\, King's Parade
 URL:https://www.kingselab.org/all-events/soumaya-keynes
-CATEGORIES:Entrepreneurship,Politics,International,Policy
-DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\, Politics\, International\, Policy\nDetails: https://www.kingselab.
+CATEGORIES:Politics,International,Policy,Entrepreneurship
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Politics\, 
+ International\, Policy\, Entrepreneurship\nDetails: https://www.kingselab.
  org/all-events/soumaya-keynes\nSign-up needed: https://www.eventbrite.co.u
  k/e/economics-policy-and-the-world-ahead-a-conversation-with-soumaya-keyne
  s-tickets-1993921385539\nJoin economist and journalist Soumaya Keynes for 
@@ -126,9 +113,26 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  societies in an era of rapid change.
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004317885751@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261120T120000
+DTEND;TZID=Europe/London:20261120T130000
+SUMMARY:Taiwan\, Chips\, and Compute: Semiconductor Strategy in the Strait
+LOCATION:Keynes Hall\, King's College\, Cambridge\, CB2 1ST
+URL:https://www.eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor-s
+ trategy-in-the-strait-tickets-2004317885751
+CATEGORIES:Politics,International,Policy
+DESCRIPTION:Kings Politics\nTopics: Politics\, International\, Policy\nDeta
+ ils: https://www.eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor
+ -strategy-in-the-strait-tickets-2004317885751\nSign-up needed: https://www
+ .eventbrite.co.uk/e/taiwan-chips-and-compute-semiconductor-strategy-in-the
+ -strait-tickets-2004317885751\nExploring the geopolitical dynamics of Taiw
+ an's role in global technology
+END:VEVENT
+BEGIN:VEVENT
 UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
  ents
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261120T173000
 DTEND;TZID=Europe/London:20261120T183000
 SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
@@ -144,7 +148,7 @@ DESCRIPTION:Centre for Geopolitics\nHighlight: Senior figure speaking (Lieu
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273132@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T140000
 SUMMARY:From boring to extraction: surveying\, labour and the underground i
@@ -159,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-women-law-society-cwls-inside-u
  ncitral-s@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T143000
 SUMMARY:Cambridge Women in Law Society (CWLS): 'Inside UNCITRAL: Shaping th
@@ -186,9 +190,28 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
  LG atrium from 12.30pm.\n The event is open to all Cambridge st
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2002130426000@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261123T170000
+DTEND;TZID=Europe/London:20261123T180000
+SUMMARY:Listening Session: Muslim and Jewish Recordings from the Ottoman Em
+ pire
+LOCATION:Peterhouse\, Trumpington Street\, Cambridge\, CB2 1RD
+URL:https://www.eventbrite.com/e/listening-session-muslim-and-jewish-record
+ ings-from-the-ottoman-empire-tickets-2002130426000
+CATEGORIES:International
+DESCRIPTION:The Cambridge Festival of Islamic Arts\nTopics: International\n
+ Details: https://www.eventbrite.com/e/listening-session-muslim-and-jewish-
+ recordings-from-the-ottoman-empire-tickets-2002130426000\nSign-up needed: 
+ https://www.eventbrite.com/e/listening-session-muslim-and-jewish-recording
+ s-from-the-ottoman-empire-tickets-2002130426000\nStep into the sound world
+  of the late Ottoman Empire through a curated listening session of rare hi
+ storical recordings.
+END:VEVENT
+BEGIN:VEVENT
 UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
  s-matters@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261123T173000
 DTEND;TZID=Europe/London:20261123T190000
 SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
@@ -198,11 +221,33 @@ URL:https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-w
 CATEGORIES:Politics,International
 DESCRIPTION:Centre for Geopolitics\nTopics: Politics\, International\nDetai
  ls: https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-
- why-baltic-minority-politics-matters/
+ why-baltic-minority-politics-matters/\nSign-up needed: https://www.eventbr
+ ite.co.uk/e/national-cultural-autonomy-revisited-why-baltic-minority-polit
+ ics-matters-tickets-2004075913004\nThis event will discuss the historical 
+ and contemporary relevance of the concept of non-territorial cultural auto
+ nomy in the Baltics
+END:VEVENT
+BEGIN:VEVENT
+UID:eb-1994575468920@cambridge-events
+DTSTAMP:20261119T172102Z
+DTSTART;TZID=Europe/London:20261124T090000
+DTEND;TZID=Europe/London:20261124T130000
+SUMMARY:Birketts' Employment and Immigration Update 2026 - Cambridge
+LOCATION:Birketts LLP - Solicitors Cambridge\, 22 Station Road\, Cambridge\
+ , CB1 2JD
+URL:https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-upda
+ te-2026-cambridge-tickets-1994575468920
+CATEGORIES:Law,International
+DESCRIPTION:Birketts LLP\nTopics: Law\, International\nDetails: https://www
+ .eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-cambri
+ dge-tickets-1994575468920\nSign-up needed: https://www.eventbrite.co.uk/e/
+ birketts-employment-and-immigration-update-2026-cambridge-tickets-19945754
+ 68920\nFrom legislative reform to workplace reality - Join our annual empl
+ oyment & immigration law update\, for HR professionals & business leaders.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -231,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -260,7 +305,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-what-next-for-cuba@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T183000
 SUMMARY:What next for Cuba?
@@ -271,7 +316,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -291,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
  vent@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
 SUMMARY:3VB’s University of Cambridge Event
@@ -316,30 +361,8 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (KC)\nTopics:
  ers of Chambers.\n RSVP: events@3vb.com
 END:VEVENT
 BEGIN:VEVENT
-UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261119T162728Z
-DTSTART;TZID=Europe/London:20261126T173000
-DTEND;TZID=Europe/London:20261126T190000
-SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
- )
-LOCATION:Lee Seng Tee Hall\, Wolfson College\, Bar
-URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
- -2026/
-CATEGORIES:Law,International,Policy,Entrepreneurship
-DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
- Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
- brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
- -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
- islator and board member\, Martha Lane Fox will explore what AI could mean
-  for the next 50 years\, including its effects on work\, business\, entrep
- reneurial opportunity\, existing institutions\, culture\, security and def
- ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
- niversity of Cambridge.
-END:VEVENT
-BEGIN:VEVENT
 UID:centre-book-presentation-london@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261126T180000
 DTEND;TZID=Europe/London:20261126T203000
 SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
@@ -352,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -382,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
  nce-and-t@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261127T173000
 DTEND;TZID=Europe/London:20261127T183000
 SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
@@ -399,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -426,7 +449,7 @@ DESCRIPTION:POLIS (Politics & International Studies)\nTopics: Politics\, In
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -452,7 +475,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -477,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -506,19 +529,23 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261204T173000
 DTEND;TZID=Europe/London:20261204T190000
 SUMMARY:Belarus and the Baltic after 2022
 URL:https://www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/
 CATEGORIES:International
 DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
- /www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/
+ /www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/\nSign-up need
+ ed: https://www.eventbrite.co.uk/e/belarus-and-the-baltic-after-2022-ticke
+ ts-2004279471854\nThis event will discuss the challenges for the Baltics a
+ nd the relationship with Belarus after the start of the full scale war in 
+ Ukraine.
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
  -talk@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20261210T160000
 DTEND;TZID=Europe/London:20261210T173000
 SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
@@ -528,11 +555,15 @@ URL:https://www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford
 CATEGORIES:International
 DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
  /www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford-and-danie
- l-j-sargent-book-talk/
+ l-j-sargent-book-talk/\nSign-up needed: https://www.eventbrite.co.uk/e/his
+ torys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk-tickets
+ -2004581569436\nBook talk: Ledford and Sargent on History’s Dead-Hand Gr
+ ip and how policymakers use – and misuse – the ‘lessons’ of the pa
+ st.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -560,7 +591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -581,7 +612,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -595,7 +626,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261119T162728Z
+DTSTAMP:20261119T172102Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N
