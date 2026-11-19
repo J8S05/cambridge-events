@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T16:15",
+ "generated": "2026-11-19T16:27",
  "topics": [
   "Law",
   "Politics",
@@ -16,37 +16,37 @@
    "ok": true,
    "count": 0
   },
-  "EA Cambridge": {
-   "ok": true,
-   "count": 5
-  },
   "King's E-Lab": {
    "ok": true,
    "count": 8
-  },
-  "Judge Business School": {
-   "ok": true,
-   "count": 10
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
+  "Judge Business School": {
+   "ok": true,
+   "count": 11
+  },
+  "EA Cambridge": {
+   "ok": true,
+   "count": 5
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
+  },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 3
-  },
   "Faculty of Law": {
    "ok": true,
    "count": 42
+  },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 3
   },
   "Centre for Geopolitics": {
    "ok": true,
@@ -1593,7 +1593,12 @@
    "topics": [
     "Policy"
    ],
-   "alsoListed": [],
+   "alsoListed": [
+    {
+     "source": "Cambridge Judge Business School",
+     "url": "https://www.jbs.cam.ac.uk/events/the-value-of-codifying-organisational-knowledge/"
+    }
+   ],
    "access": "open",
    "accessNote": "No registration required.",
    "highlight": false,
