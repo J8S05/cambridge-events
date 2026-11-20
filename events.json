@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T01:20",
+ "generated": "2026-11-20T07:30",
  "topics": [
   "Law",
   "Politics",
@@ -16,21 +16,25 @@
    "ok": true,
    "count": 0
   },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 0
+  },
   "EA Cambridge": {
    "ok": true,
    "count": 5
   },
-  "Cambridge Enterprise": {
+  "Bennett": {
    "ok": true,
-   "count": 2
-  },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
+   "count": 0
   },
   "Judge Business School": {
    "ok": true,
    "count": 10
+  },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
   },
   "Institute of Criminology": {
    "ok": true,
@@ -40,26 +44,22 @@
    "ok": true,
    "count": 6
   },
-  "Centre of Governance and Human Rights (CGHR)": {
+  "POLIS (Politics & International Studies)": {
    "ok": true,
-   "count": 2
+   "count": 1
   },
   "Faculty of Law": {
    "ok": true,
    "count": 38
   },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 7
-  },
-  "Bennett": {
-   "ok": true,
-   "count": 2
-  },
   "Eventbrite": {
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
   },
   "talks.cam": {
    "ok": true,
@@ -441,30 +441,6 @@
    "highlightWhy": []
   },
   {
-   "id": "bennett-uk-digital-economics-2026",
-   "title": "Fifth workshop on UK digital economics",
-   "start": "2026-11-24T00:00",
-   "end": "2026-11-24T23:59",
-   "allDay": true,
-   "venue": "McGrath Centre St Catharine's College Cambridge CB2 1DS The UK – Research",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "The UK – Researcher Practitioner Network for the Economics of Digitization is pleased to present the 5th Workshop on Digital Economics.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
    "title": "Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational Obligations: Beyond the Autonomy-Protection Spectrum'",
    "start": "2026-11-24T12:00",
@@ -660,31 +636,6 @@
    "booking": null,
    "topics": [
     "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
-   "title": "Algorithmic Domination and Oligarchic Worldmaking",
-   "start": "2026-11-25T17:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Si, Alison Richard Building",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "This talk examines how algorithmic systems enable oligarchic power to shape society while appearing to operate through popular choice.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "Rights & Justice",
-    "Politics"
    ],
    "alsoListed": [],
    "access": "",
@@ -1001,33 +952,6 @@
    "alsoListed": [],
    "access": "online-register",
    "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "bennett-annual-public-policy-lecture-2026",
-   "title": "Annual Public Policy Lecture: We’re all going to die! (Or are we?)",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T19:00",
-   "allDay": false,
-   "venue": "Lee Seng Tee Hall, Wolfson College, Bar",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "Drawing on her experience as an entrepreneur, legislator and board member, Martha Lane Fox will explore what AI could mean for the next 50 years, including its effects on work, business, entrepreneurial opportunity, existing institutions, culture, security and defence. Chaired by Prof Diane Coyle, Bennett Professor of Public Policy, University of Cambridge.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053",
-   "topics": [
-    "Law",
-    "International",
-    "Policy",
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Book Your Place",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1403,31 +1327,6 @@
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
-   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
-   "start": "2026-12-02T17:00",
-   "end": "2026-12-02T18:30",
-   "allDay": false,
-   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
