@@ -25,70 +25,38 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
- ween-poli@cambridge-events
-DTSTAMP:20261120T132645Z
-DTSTART;TZID=Europe/London:20261120T130000
-DTEND;TZID=Europe/London:20261120T140000
-SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
-  dimensions in the settlement of investment disputes' - Gabrielle Kaufmann
- -Kohler\, Professor Emerita at Geneva Law School
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/events/eli-lauterpacht-lecture-2026-tensions-
- between-political-and-legal-dimensions-settlement
-CATEGORIES:Law,Politics
-DESCRIPTION:Faculty of Law\nHighlight: Named public lecture\nTopics: Law\, 
- Politics\nDetails: https://www.law.cam.ac.uk/events/eli-lauterpacht-lectur
- e-2026-tensions-between-political-and-legal-dimensions-settlement\nSign-up
-  only to join online: https://cam-ac-uk.zoom.us/webinar/register/WN_b3pBZk
- pHT5meSMH3HTB3qQ\nDate/time: \n\n Friday 20 November 2026 \n\n 1:00pm to 2
- :00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berk
- owitz/Finley Lecture Hall\n\n About \n\n Register here if attending online
-    Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University La
- w School and founder\, former director\, and a current faculty member of t
- he Geneva LL.M. in International Dispute Settlement (MIDS). She is also a 
- Visiting Professor at different universities\, including National Universi
- ty of Singapore\, Tsinghua University in Beijing\, Sciences Po Paris\, and
-  a frequent lecturer in all regions of the world.\n She is a Founding Part
- ner of LKK Arbitration (formerly Lévy Kaufmann-Kohler)\, where she practi
- ces international investment and commercial arbitration\, and in the past 
- also sports arbitration. She has acted in over 280 international arbitrati
- ons\, mainly as arbitrator and predominantly as chair. S
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
- ence-cons@cambridge-events
-DTSTAMP:20261120T132645Z
+UID:dept-www-law-cam-ac-uk-events-dialogues-democratic-resilience-constitut
+ ional-cou@cambridge-events
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
   of Crisis: The Mexican Experience'
 LOCATION:Online webinar
-URL:https://www.law.cam.ac.uk/press/events/2026/11/dialogues-democratic-res
- ilience-constitutional-courts-times-crisis-mexican-experience
+URL:https://www.law.cam.ac.uk/events/dialogues-democratic-resilience-consti
+ tutional-courts-times-crisis-mexican-experience
 CATEGORIES:Law,Politics
 DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Justice of t
  he Supreme Court)\nTopics: Law\, Politics\nDetails: https://www.law.cam.ac
- .uk/press/events/2026/11/dialogues-democratic-resilience-constitutional-co
- urts-times-crisis-mexican-experience\nSign-up needed: https://cam-ac-uk.zo
- om.us/webinar/register/WN_C3zFlTtARXqRjWSJ8Cm5BQ#/registration\nDate/time:
-  \n\n Monday 23 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Onl
- ine webinar\n\n About \n\n Speakers: Alfredo Gutiérrez Ortiz Mena (Former
-  Justice of the Supreme Court of Mexico and former Henry J. Steiner Lectur
- er in Human Rights at Harvard Law School)\n About the series: the Dialogue
- s on Democratic Resilience series provides a platform for scholars\, stude
- nts\, and members of the general public to examine the causes and dynamics
-  of democratic decline and to explore strategies for strengthening democra
- tic institutions. Interdisciplinary in scope\, the series places particula
- r emphasis on the role of law and legal institutions\, investigating how t
- hey can both contribute to democratic erosion and function as vital safegu
- ards against.\n For questions\, please contact Dr Raffael Fasel ( rnf22@ca
- m.ac.uk )\n Register now
+ .uk/events/dialogues-democratic-resilience-constitutional-courts-times-cri
+ sis-mexican-experience\nSign-up needed: https://cam-ac-uk.zoom.us/webinar/
+ register/WN_C3zFlTtARXqRjWSJ8Cm5BQ#/registration\nAlfredo Gutiérrez Ortiz
+  Mena (Former Justice of the Supreme Court of Mexico and former Henry J. S
+ teiner Lecturer in Human Rights at Harvard Law School)\n\n Date/time: \n\n
+  Monday 23 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Online w
+ ebinar\n\n Sign up\n\n About \n\n About the series: the Dialogues on Democ
+ ratic Resilience series provides a platform for scholars\, students\, and 
+ members of the general public to examine the causes and dynamics of democr
+ atic decline and to explore strategies for strengthening democratic instit
+ utions. Interdisciplinary in scope\, the series places particular emphasis
+  on the role of law and legal institutions\, investigating how they can bo
+ th contribute to democratic erosion and function as vital safeguards again
+ st.\n For questions\, please contact Dr Raffael Fasel ( rnf22@cam.ac.uk )
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
  s-matters@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261123T173000
 DTEND;TZID=Europe/London:20261123T190000
 SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
@@ -102,7 +70,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: Politics\, International\nDetai
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -130,7 +98,7 @@ DESCRIPTION:Speaker: Utsa Mukherjee (Education\, Brunel University of Londo
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273765@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261124T170000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:Kropotkin’s Anarchist Animals
@@ -155,7 +123,7 @@ DESCRIPTION:Speaker: David Nally\, University of Cambridge\nPolitical Ecolo
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274135@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261124T180000
 DTEND;TZID=Europe/London:20261124T190000
 SUMMARY:Can Courts Save the Environment Without Weakening Democracy? Rethin
@@ -181,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-algorithmic-domination-and-oligarchic-worldmaking@cambridge-even
  ts
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261125T170000
 DTEND;TZID=Europe/London:20261125T180000
 SUMMARY:Algorithmic Domination and Oligarchic Worldmaking
@@ -197,7 +165,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273072@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261126T110000
 DTEND;TZID=Europe/London:20261126T120000
 SUMMARY:Peter Clark on "Potential mechanisms for assembly of pre-cellular r
@@ -213,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -238,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -266,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-understanding-refusing-finding-inspiration-towards-a-living-crit
  ique-of-d@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T183000
 SUMMARY:Understanding\, Refusing\, Finding Inspiration: Towards a Living Cr
@@ -286,7 +254,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -312,7 +280,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -336,7 +304,7 @@ DESCRIPTION:Speaker: Catherine Lefevre\, Glasgow\nCore Seminar in Economic
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -363,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -389,7 +357,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273737@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20270209T180000
 DTEND;TZID=Europe/London:20270209T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Andrés Rodrí
@@ -417,7 +385,7 @@ DESCRIPTION:Speaker: Professor Andrés Rodríguez-Pose\, London School of E
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -431,7 +399,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261120T132645Z
+DTSTAMP:20261120T191340Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N

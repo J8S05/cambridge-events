@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:26",
+ "generated": "2026-11-20T19:13",
  "topics": [
   "Law",
   "Politics",
@@ -16,29 +16,33 @@
    "ok": true,
    "count": 0
   },
-  "EA Cambridge": {
-   "ok": true,
-   "count": 5
-  },
   "King's E-Lab": {
    "ok": true,
    "count": 6
+  },
+  "EA Cambridge": {
+   "ok": true,
+   "count": 5
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
-  },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
+  },
   "Judge Business School": {
    "ok": true,
-   "count": 10
+   "count": 9
+  },
+  "Faculty of Law": {
+   "ok": true,
+   "count": 37
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -47,10 +51,6 @@
   "Centre for Geopolitics": {
    "ok": true,
    "count": 8
-  },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 39
   },
   "Bennett": {
    "ok": true,
@@ -136,82 +136,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "Sign up on Luma (free).",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
-   "title": "Eli Lauterpacht Lecture 2026: 'Tensions between political and legal dimensions in the settlement of investment disputes' - Gabrielle Kaufmann-Kohler, Professor Emerita at Geneva Law School",
-   "start": "2026-11-20T13:00",
-   "end": "2026-11-20T14:00",
-   "allDay": false,
-   "venue": "Lauterpacht Centre for International Law",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 20 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending online   Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the Geneva LL.M. in International Dispute Settlement (MIDS). She is also a Visiting Professor at different universities, including National University of Singapore, Tsinghua University in Beijing, Sciences Po Paris, and a frequent lecturer in all regions of the world.\n She is a Founding Partner of LKK Arbitration (formerly Lévy Kaufmann-Kohler), where she practices international investment and commercial arbitration, and in the past also sports arbitration. She has acted in over 280 international arbitrations, mainly as arbitrator and predominantly as chair. She is regularly ranked among the top arbitrators worldwide.\n Among other leadership roles, she was a past President (2018-2020) and is Honorary President of the International Council for Commercial Arbitration (ICCA). She is also Honorary President of the Swiss Arbitration Association (ASA), ove",
-   "url": "https://www.law.cam.ac.uk/events/eli-lauterpacht-lecture-2026-tensions-between-political-and-legal-dimensions-settlement",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_b3pBZkpHT5meSMH3HTB3qQ",
-   "topics": [
-    "Law",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "Register here if attending online Gabrielle Kaufmann-Kohler is Professor Emerita at Geneva University Law School and founder, former director, and a current faculty member of the G",
-   "highlight": true,
-   "highlightWhy": [
-    "Named public lecture"
-   ]
-  },
-  {
-   "id": "jbs-from-sustainable-decisions-to-societal-transitions",
-   "title": "From sustainable decisions to societal transitions: the psychology of climate policy (The Behavioural Roundtable)",
-   "start": "2026-11-20T14:00",
-   "end": "2026-11-20T15:30",
-   "allDay": false,
-   "venue": "Cambridge Judge Business School",
-   "speaker": "",
-   "organiser": "Cambridge Judge Business School",
-   "series": "El-Erian Institute of Behavioural Economics and Policy events",
-   "description": "Join to explore behavioural approaches to climate policy with Geneva University Professor Tobias Brosch",
-   "url": "https://www.jbs.cam.ac.uk/events/from-sustainable-decisions-to-societal-transitions/",
-   "source": "Cambridge Judge Business School",
-   "sourceGroup": "Entrepreneurship",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-civil-law-torts-and-climate-change",
-   "title": "Law and the Climate Crisis Seminars: 'Civil Law Torts and Climate Change'",
-   "start": "2026-11-20T16:00",
-   "end": "2026-11-20T17:00",
-   "allDay": false,
-   "venue": "David Attenborough Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 20 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Elbert de Jong (Full Professor of Private Law at Utrecht University, The Netherlands)\n Climate change is rapidly entering the domain of tort law. This development is driven by regulation and litigation, advances in climate science, and the increasingly tangible impacts of climate change on interests protected by private law.\n With a focus on European jurisdictions, this seminar examines the doctrinal and institutional challenges involved in developing and allocating climate change-related responsibility and liability among private actors.\n The Cambridge Seminar Series on Law and the Climate Crisis explores the vital role of legal systems in tackling one of the most pressing issues of our time.\n This series brings together top experts in law and climate action to discuss how climate change interacts with specific areas of law, setting out both how legal fields are being impacted by climate change and how the law can help drive climate action.\n The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by the Centre for Climate Engagement at Hughes",
-   "url": "https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-civil-law-torts-and-climate-change",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
    "highlight": false,
    "highlightWhy": []
   },
@@ -364,7 +288,7 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
+   "id": "dept-www-law-cam-ac-uk-events-dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
    "title": "Dialogues on Democratic Resilience: 'Constitutional Courts in Times of Crisis: The Mexican Experience'",
    "start": "2026-11-23T17:00",
    "end": "2026-11-23T18:00",
@@ -373,8 +297,8 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Monday 23 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Online webinar\n\n About \n\n Speakers: Alfredo Gutiérrez Ortiz Mena (Former Justice of the Supreme Court of Mexico and former Henry J. Steiner Lecturer in Human Rights at Harvard Law School)\n About the series: the Dialogues on Democratic Resilience series provides a platform for scholars, students, and members of the general public to examine the causes and dynamics of democratic decline and to explore strategies for strengthening democratic institutions. Interdisciplinary in scope, the series places particular emphasis on the role of law and legal institutions, investigating how they can both contribute to democratic erosion and function as vital safeguards against.\n For questions, please contact Dr Raffael Fasel ( rnf22@cam.ac.uk )\n Register now",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
+   "description": "Alfredo Gutiérrez Ortiz Mena (Former Justice of the Supreme Court of Mexico and former Henry J. Steiner Lecturer in Human Rights at Harvard Law School)\n\n Date/time: \n\n Monday 23 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Online webinar\n\n Sign up\n\n About \n\n About the series: the Dialogues on Democratic Resilience series provides a platform for scholars, students, and members of the general public to examine the causes and dynamics of democratic decline and to explore strategies for strengthening democratic institutions. Interdisciplinary in scope, the series places particular emphasis on the role of law and legal institutions, investigating how they can both contribute to democratic erosion and function as vital safeguards against.\n For questions, please contact Dr Raffael Fasel ( rnf22@cam.ac.uk )",
+   "url": "https://www.law.cam.ac.uk/events/dialogues-democratic-resilience-constitutional-courts-times-crisis-mexican-experience",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_C3zFlTtARXqRjWSJ8Cm5BQ#/registration",
@@ -384,7 +308,7 @@
    ],
    "alsoListed": [],
    "access": "register",
-   "accessNote": "Register now",
+   "accessNote": "",
    "highlight": true,
    "highlightWhy": [
     "Senior figure speaking (Justice of the Supreme Court)"
@@ -513,6 +437,30 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -530,30 +478,6 @@
    "topics": [
     "Law",
     "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -813,31 +737,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -859,6 +758,31 @@
    ],
    "alsoListed": [],
    "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
