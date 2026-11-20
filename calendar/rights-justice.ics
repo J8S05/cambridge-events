@@ -25,29 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:centre-bonnie-honig-in-conversation-public-things-in-the-age-of-platfor
- ms@cambridge-events
-DTSTAMP:20261119T191214Z
-DTSTART;TZID=Europe/London:20261118T170000
-DTEND;TZID=Europe/London:20261118T180000
-SUMMARY:Bonnie Honig in Conversation: Public Things in the Age of Platforms
- .
-LOCATION:Seminar Room\, Department of Sociology
-URL:https://www.cghr.polis.cam.ac.uk/events/bonnie-honig-in-conversation-pu
- blic-things-in-the-age-of-platforms/
-CATEGORIES:Rights & Justice
-DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights & 
- Justice\nDetails: https://www.cghr.polis.cam.ac.uk/events/bonnie-honig-in-
- conversation-public-things-in-the-age-of-platforms/\nSign-up needed: https
- ://www.eventbrite.co.uk/e/bonnie-honig-in-conversation-public-things-in-th
- e-age-of-platforms-tickets-2002988131420?aff=oddtdtcreator&keep_tld=true\n
- This event reflects on Bonnie Honig’s influential work Public Things a d
- ecade after its publication.
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge@c
  ambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261120T164500
 DTEND;TZID=Europe/London:20261120T184500
 SUMMARY:Film screening with the Director: The Hardest Bridge
@@ -76,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-
  words-con@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261124T130000
 DTEND;TZID=Europe/London:20261124T140000
 SUMMARY:3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial 
@@ -104,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-algorithmic-domination-and-oligarchic-worldmaking@cambridge-even
  ts
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261125T170000
 DTEND;TZID=Europe/London:20261125T180000
 SUMMARY:Algorithmic Domination and Oligarchic Worldmaking
@@ -120,7 +100,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273143@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 
@@ -149,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-understanding-refusing-finding-inspiration-towards-a-living-crit
  ique-of-d@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T183000
 SUMMARY:Understanding\, Refusing\, Finding Inspiration: Towards a Living Cr
@@ -168,9 +148,36 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
  covering emancipatory horizons.
 END:VEVENT
 BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-t
+ here-be-f@cambridge-events
+DTSTAMP:20261120T012053Z
+DTSTART;TZID=Europe/London:20261215T150000
+DTEND;TZID=Europe/London:20261215T160000
+SUMMARY:CFLPP Monthly Seminar: 'Can There be a Feminist General Jurispruden
+ ce?'
+LOCATION:Online webinar
+URL:https://www.law.cam.ac.uk/press/events/2026/12/cflpp-monthly-seminar-ca
+ n-there-be-feminist-general-jurisprudence
+CATEGORIES:Law,Rights & Justice
+DESCRIPTION:Faculty of Law\nTopics: Law\, Rights & Justice\nDetails: https:
+ //www.law.cam.ac.uk/press/events/2026/12/cflpp-monthly-seminar-can-there-b
+ e-feminist-general-jurisprudence\nDate/time: \n\n Tuesday 15 December 2026
+  \n\n 3:00pm to 4:00pm\n\n Location: \n\n Online webinar\n\n About \n\n Th
+ e Cambridge Forum for Legal & Political Philosophy will host its third 202
+ 6 Michaelmas Term monthly seminar on Tuesday\, December 15th\, at 3:00pm\,
+  through Zoom. The seminar will be chaired by Ira Chadha-Sridhar\, who is 
+ currently an Assistant Professor in the Warwick University Law School. The
+  title of her talk is "Can There be a Feminist General Legal Jurisprudence
+ ?"\n Anyone interested in legal or political philosophy is welcome to atte
+ nd the seminar. If you would like to receive the Zoom invitation\, you sho
+ uld please write to Professor Matthew Kramer ( mhk11@cam.ac.uk ). Please w
+ rite from an institutional email account rather than from a generic accoun
+ t such as gmail or hotmail.
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -192,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ

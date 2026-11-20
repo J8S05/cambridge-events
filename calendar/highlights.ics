@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-eli-lauterpacht-lecture-2026-tensions-bet
  ween-poli@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261120T130000
 DTEND;TZID=Europe/London:20261120T140000
 SUMMARY:Eli Lauterpacht Lecture 2026: 'Tensions between political and legal
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-general-matthew-jones-chief-of-defence-intelligence@cambridge-ev
  ents
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261120T173000
 DTEND;TZID=Europe/London:20261120T183000
 SUMMARY:Lieutenant General Matthew Jones\, ‘Defence intelligence in an er
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-dialogues-democratic-resili
  ence-cons@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261123T170000
 DTEND;TZID=Europe/London:20261123T180000
 SUMMARY:Dialogues on Democratic Resilience: 'Constitutional Courts in Times
@@ -103,36 +103,35 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Justice of t
  m.ac.uk )\n Register now
 END:VEVENT
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-e
- vent@cambridge-events
-DTSTAMP:20261119T191214Z
+UID:dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event@cambridge-
+ events
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
-SUMMARY:3VB’s University of Cambridge Event
-LOCATION:Downing College\, West Lodge & Maitland Room
-URL:https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridg
- e-event
+SUMMARY:3VB University of Cambridge Event
+LOCATION:Downing College
+URL:https://www.law.cam.ac.uk/events/3vb-university-cambridge-event
 CATEGORIES:Law,International
 DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (KC)\nTopics:
-  Law\, International\nDetails: https://www.law.cam.ac.uk/press/events/2026
- /11/3vbs-university-cambridge-event\nSign-up needed\nDate/time: \n\n Thurs
- day 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing Coll
- ege\, West Lodge & Maitland Room\n\n About \n\n Following a brief introduc
- tion by 3VB's Rajesh Pillai KC\, members of 3VB will offer first-hand insi
- ghts into two recent landmark cases\, exploring how legal decisions are re
- ached and the role of barristers in shaping them.\n Dominic Kennelly will 
- discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9\, concern
- ing state immunity and the enforcement of international arbitration awards
- \, while William Day and Amelia-Rose Edwards will explore Gatwick Investme
- nt Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14\, addressing co
- ntractual interpretation and causation in private law.\n The talks will be
-  followed by drinks\, refreshments and an opportunity to network with memb
- ers of Chambers.\n RSVP: events@3vb.com
+  Law\, International\nDetails: https://www.law.cam.ac.uk/events/3vb-univer
+ sity-cambridge-event\nSign-up needed\nDate/time: \n\n Thursday 26 November
+  2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lo
+ dge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's
+  Rajesh Pillai KC\, members of 3VB will offer first-hand insights into two
+  recent landmark cases\, exploring how legal decisions are reached and the
+  role of barristers in shaping them.\n Dominic Kennelly will discuss Spain
+  v Infrastructure Services Luxembourg [2026] UKSC 9\, concerning state imm
+ unity and the enforcement of international arbitration awards\, while Will
+ iam Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Libe
+ rty Mutual Insurance Europe SE [2026] UKSC 14\, addressing contractual int
+ erpretation and causation in private law.\n The talks will be followed by 
+ drinks\, refreshments and an opportunity to network with members of Chambe
+ rs.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -154,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261119T191214Z
+DTSTAMP:20261120T012053Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
