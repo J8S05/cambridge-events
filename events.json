@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T19:13",
+ "generated": "2026-11-21T01:24",
  "topics": [
   "Law",
   "Politics",
@@ -16,41 +16,41 @@
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 6
-  },
   "EA Cambridge": {
    "ok": true,
-   "count": 5
-  },
-  "Cambridge Enterprise": {
-   "ok": true,
-   "count": 2
+   "count": 3
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
+  },
   "Institute of Criminology": {
    "ok": true,
    "count": 3
+  },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 6
   },
   "Judge Business School": {
    "ok": true,
    "count": 9
   },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 37
-  },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
   },
+  "Faculty of Law": {
+   "ok": true,
+   "count": 37
+  },
   "Centre for Geopolitics": {
    "ok": true,
-   "count": 8
+   "count": 7
   },
   "Bennett": {
    "ok": true,
@@ -63,82 +63,10 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 15
+   "count": 14
   }
  },
  "events": [
-  {
-   "id": "talks-273685",
-   "title": "Building a generational company (Entrepreneurs First)",
-   "start": "2026-11-19T14:00",
-   "end": "2026-11-19T15:00",
-   "allDay": false,
-   "venue": "Room A, The West Hub, Cambridge",
-   "speaker": "",
-   "organiser": "Sri Aitken",
-   "series": "Data Intensive Science Seminar Series",
-   "description": "",
-   "url": "https://talks.cam.ac.uk/talk/index/273685/",
-   "source": "talks.cam: Data Intensive Science Seminar Series",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "ea-mOY3n4xNVH93aueventsluma",
-   "title": "Why Should We Care About Shrimp? + free food",
-   "start": "2026-11-19T19:00",
-   "end": "2026-11-19T21:00",
-   "allDay": false,
-   "venue": "Meridian Cambridge, 53, 54 Sidney St, Cambridge CB2 3HX, UK",
-   "speaker": "",
-   "organiser": "Effective Altruism Cambridge",
-   "series": "",
-   "description": "Get up-to-date information at: https://luma.com/8gb79p4z\n\nAddress:\nMeridian Cambridge\nCambridge, United Kingdom\n\nHosted by Samah",
-   "url": "https://luma.com/8gb79p4z",
-   "source": "EA Cambridge",
-   "sourceGroup": "Societies",
-   "booking": "https://luma.com/8gb79p4z",
-   "topics": [
-    "Effective Altruism"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Sign up on Luma (free).",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "ea-BBum5X4ESJKq4Ieventsluma",
-   "title": "Plant Based Thursday's",
-   "start": "2026-11-19T19:00",
-   "end": "2026-11-19T21:00",
-   "allDay": false,
-   "venue": "Meridian Cambridge, 53, 54 Sidney St, Cambridge CB2 3HX, UK",
-   "speaker": "",
-   "organiser": "Effective Altruism Cambridge",
-   "series": "",
-   "description": "Get up-to-date information at: https://luma.com/pub2nwjf\n\nAddress:\nMeridian Cambridge\nCambridge, United Kingdom\n\nHosted by Mike Wilson & EA Cambridge",
-   "url": "https://luma.com/pub2nwjf",
-   "source": "EA Cambridge",
-   "sourceGroup": "Societies",
-   "booking": "https://luma.com/pub2nwjf",
-   "topics": [
-    "Effective Altruism"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Sign up on Luma (free).",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge",
    "title": "Film screening with the Director: The Hardest Bridge",
@@ -163,32 +91,6 @@
    "accessNote": "For more details, and to register attendance, please view the event page:",
    "highlight": false,
    "highlightWhy": []
-  },
-  {
-   "id": "centre-general-matthew-jones-chief-of-defence-intelligence",
-   "title": "Lieutenant General Matthew Jones, ‘Defence intelligence in an era of rising threats’",
-   "start": "2026-11-20T17:30",
-   "end": null,
-   "allDay": false,
-   "venue": "McCrum Lecture Theatre, Corpus Christi College, Trumpington St CB2 1RH",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/general-matthew-jones-chief-of-defence-intelligence/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": true,
-   "highlightWhy": [
-    "Senior figure speaking (Lieutenant General)"
-   ]
   },
   {
    "id": "ea-TAzwkNqjOhF66Yeventsluma",
