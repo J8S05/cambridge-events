@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273132@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T140000
 SUMMARY:From boring to extraction: surveying\, labour and the underground i
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-women-law-society-cwls-inside-u
  ncitral-s@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261123T130000
 DTEND;TZID=Europe/London:20261123T143000
 SUMMARY:Cambridge Women in Law Society (CWLS): 'Inside UNCITRAL: Shaping th
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-national-cultural-autonomy-revisited-why-baltic-minority-politic
  s-matters@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261123T173000
 DTEND;TZID=Europe/London:20261123T190000
 SUMMARY:National cultural autonomy revisited: Why Baltic minority politics 
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-the-baltic-moment-why-europes-edge-is-becoming-its-center@cambri
  dge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261124T013000
 DTEND;TZID=Europe/London:20261124T023000
 SUMMARY:The Baltic Moment: Why Europe’s Edge Is Becoming Its Center?
@@ -98,7 +98,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -127,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -156,7 +156,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-what-next-for-cuba@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T183000
 SUMMARY:What next for Cuba?
@@ -167,7 +167,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event@cambridge-
  events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T180000
 SUMMARY:3VB University of Cambridge Event
@@ -212,7 +212,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (KC)\nTopics:
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -234,7 +234,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\,
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-book-presentation-london@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261126T180000
 DTEND;TZID=Europe/London:20261126T203000
 SUMMARY:Book presentation\, ‘Frontlines of Transformation: Ukraine and th
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -277,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-seminar-uk-eu-reset-and-future-uk-eu
  ropean-re@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261127T150000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:CELS Seminar: 'UK-EU Reset and the future of UK-European Relations'
@@ -305,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
  nce-and-t@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261127T173000
 DTEND;TZID=Europe/London:20261127T183000
 SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
@@ -322,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -349,7 +349,7 @@ DESCRIPTION:POLIS (Politics & International Studies)\nTopics: Politics\, In
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -375,7 +375,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -400,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -429,7 +429,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261204T173000
 DTEND;TZID=Europe/London:20261204T190000
 SUMMARY:Belarus and the Baltic after 2022
@@ -441,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
  -talk@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20261210T160000
 DTEND;TZID=Europe/London:20261210T173000
 SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
@@ -455,7 +455,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -483,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -504,7 +504,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -518,7 +518,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261121T072327Z
+DTSTAMP:20261121T130932Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N

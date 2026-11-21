@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T07:23",
+ "generated": "2026-11-21T13:09",
  "topics": [
   "Law",
   "Politics",
@@ -18,27 +18,27 @@
   },
   "EA Cambridge": {
    "ok": true,
-   "count": 3
-  },
-  "Cambridge Enterprise": {
-   "ok": true,
    "count": 2
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
-  },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
   },
   "King's E-Lab": {
    "ok": true,
    "count": 6
   },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
+  },
   "Judge Business School": {
    "ok": true,
    "count": 9
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 3
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -48,6 +48,10 @@
    "ok": true,
    "count": 37
   },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
+  },
   "Bennett": {
    "ok": true,
    "count": 2
@@ -56,10 +60,6 @@
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 7
   },
   "talks.cam": {
    "ok": true,
@@ -89,30 +89,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "For more details, and to register attendance, please view the event page:",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "ea-TAzwkNqjOhF66Yeventsluma",
-   "title": "Trip to Botanical Gardens",
-   "start": "2026-11-21T13:00",
-   "end": "2026-11-21T15:00",
-   "allDay": false,
-   "venue": "Cambridge University Botanic Garden, 1 Brookside, Cambridge CB2 1JE, UK",
-   "speaker": "",
-   "organiser": "Effective Altruism Cambridge",
-   "series": "",
-   "description": "Get up-to-date information at: https://luma.com/w870u0a9\n\nAddress:\nCambridge University Botanic Garden\nCambridge, United Kingdom\n\nHosted by Samah",
-   "url": "https://luma.com/w870u0a9",
-   "source": "EA Cambridge",
-   "sourceGroup": "Societies",
-   "booking": "https://luma.com/w870u0a9",
-   "topics": [
-    "Effective Altruism"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Sign up on Luma (free).",
    "highlight": false,
    "highlightWhy": []
   },
@@ -639,6 +615,31 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -660,31 +661,6 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
