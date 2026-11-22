@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T18:59",
+ "generated": "2026-11-22T01:21",
  "topics": [
   "Law",
   "Politics",
@@ -24,25 +24,29 @@
    "ok": true,
    "count": 2
   },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 3
-  },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
-  "King's E-Lab": {
+  "Institute of Criminology": {
    "ok": true,
-   "count": 6
+   "count": 2
   },
   "Judge Business School": {
    "ok": true,
    "count": 9
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 6
+  },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
   },
   "Faculty of Law": {
    "ok": true,
@@ -52,13 +56,9 @@
    "ok": true,
    "count": 2
   },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 7
-  },
   "Eventbrite": {
    "ok": true,
-   "count": 16
+   "count": 15
   },
   "talks.cam": {
    "ok": true,
@@ -66,31 +66,6 @@
   }
  },
  "events": [
-  {
-   "id": "dept-www-crim-cam-ac-uk-events-film-screening-director-hardest-bridge",
-   "title": "Film screening with the Director: The Hardest Bridge",
-   "start": "2026-11-20T16:45",
-   "end": "2026-11-20T18:45",
-   "allDay": false,
-   "venue": "Institute of Criminology",
-   "speaker": "",
-   "organiser": "Institute of Criminology",
-   "series": "",
-   "description": "Date/time: \n\n Friday 20 November 2026 \n\n 4:45pm to 6:45pm\n\n Location: \n\n Institute of Criminology \n\n Lower Ground Floor Seminar Rooms\n\n Institute of Criminology, Sidgwick Avenue, Cambridge CB3 9DA\n\n The Justice and Society Research Centre at the Institute of Criminology, University of Cambridge is delighted to invite University members to a screening of The Hardest Bridge, in celebration of Restorative Justice Week 2026. \n\n About \n\n The screening will be followed by a discussion with the film's director, Dr Imad Karam. The documentary tells the story of Jo Berry, whose father was killed in the 1984 Brighton bombing, and Pat Magee, the IRA volunteer responsible for planting the bomb. Years later, after a loss that could never be undone, the two chose to meet. What followed was not a search for closure, nor a straightforward story of forgiveness, but a relationship shaped by difficult conversations, persistent disagreement, curiosity, and a willingness to confront the human consequences of political violence. Following the screening, Dr Imad Karam, an award-winning British-Palestinian filmmaker, will discuss the making of the film and the questions that continue to shape it. \n Ev",
-   "url": "https://www.crim.cam.ac.uk/events/film-screening-director-hardest-bridge",
-   "source": "Institute of Criminology",
-   "sourceGroup": "Department",
-   "booking": "https://www.ticketsource.com/restorative-justice/the-hardest-bridge-screening-and-discussion-restorative-justice-week/e-vjdvkya",
-   "topics": [
-    "Rights & Justice",
-    "Criminology"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "For more details, and to register attendance, please view the event page:",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "talks-273132",
    "title": "From boring to extraction: surveying, labour and the underground in colonial Assam and Burma, mid to late 19th century",
@@ -371,6 +346,30 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -388,30 +387,6 @@
    "topics": [
     "Law",
     "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -1797,29 +1772,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "eb-2004057497924",
-   "title": "Christmas Luminaria 2026",
-   "start": "2026-12-15T17:30",
-   "end": "2026-12-15T18:30",
-   "allDay": false,
-   "venue": "St Catharine's College, Trumpington Street, Cambridge, CB2 1RL",
-   "speaker": "",
-   "organiser": "St Catharine's College Girls' Choir",
-   "series": "",
-   "description": "Experience the wonder and mystery of Christmas at this unique event, in the splendid surroundings of St Catharine's College Main Court.",
-   "url": "https://www.eventbrite.co.uk/e/christmas-luminaria-2026-tickets-2004057497924",
-   "source": "Eventbrite: St Catharine's College Girls' Choir",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/christmas-luminaria-2026-tickets-2004057497924",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
