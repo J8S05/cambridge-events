@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261122T012124Z
+DTSTAMP:20261122T072411Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-phi
  losophy-e@cambridge-events
-DTSTAMP:20261122T012124Z
+DTSTAMP:20261122T072411Z
 DTSTART;TZID=Europe/London:20261201T170000
 DTEND;TZID=Europe/London:20261201T180000
 SUMMARY:Talking Animals\, Law and Philosophy event: 'Whale Legal Personhood
