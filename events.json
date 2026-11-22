@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:07",
+ "generated": "2026-11-22T19:00",
  "topics": [
   "Law",
   "Politics",
@@ -16,13 +16,17 @@
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 6
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 2
+  },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 9
   },
   "Cambridge Enterprise": {
    "ok": true,
@@ -36,10 +40,6 @@
    "ok": true,
    "count": 2
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 9
-  },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
@@ -47,6 +47,10 @@
   "Faculty of Law": {
    "ok": true,
    "count": 37
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
   },
   "Bennett": {
    "ok": true,
@@ -56,10 +60,6 @@
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 7
   },
   "talks.cam": {
    "ok": true,
@@ -290,6 +290,30 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -307,30 +331,6 @@
    "topics": [
     "Law",
     "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -780,6 +780,30 @@
    "highlightWhy": [
     "Senior figure speaking (KC)"
    ]
+  },
+  {
+   "id": "elab-6b02f6f82cbf981f30fdd812",
+   "title": "POSTPONED: Building the Future: Technology and Innovation with Kathleen Fisher",
+   "start": "2026-11-26T17:30",
+   "end": "2026-11-26T18:30",
+   "allDay": false,
+   "venue": "King's College, King's Parade",
+   "speaker": "",
+   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
+   "series": "",
+   "description": "Please note that this even has been postponed.",
+   "url": "https://www.kingselab.org/all-events/kathleen-fisher-postponed",
+   "source": "King's E-Lab",
+   "sourceGroup": "Entrepreneurship",
+   "booking": null,
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Attendance at E-Lab events is strictly ticketed.",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
@@ -1926,6 +1950,33 @@
    "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
    "highlight": false,
    "highlightWhy": []
+  },
+  {
+   "id": "elab-6b02f9c9af04e33bd3f411ce",
+   "title": "Building the Future: Technology and Innovation with Kathleen Fisher",
+   "start": "2027-02-25T17:30",
+   "end": "2027-02-25T18:30",
+   "allDay": false,
+   "venue": "King's College, King's Parade",
+   "speaker": "",
+   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
+   "series": "",
+   "description": "Join Kathleen Fisher, CEO of ARIA, for a discussion on the pursuit of transformative technologies and the research ecosystems that enable them. Fisher will share insights from her career spanning computer science, artificial intelligence, cybersecurity, and national-scale innovation, exploring how ambitious ideas become impactful solutions.",
+   "url": "https://www.kingselab.org/all-events/kathleen-fisher",
+   "source": "King's E-Lab",
+   "sourceGroup": "Entrepreneurship",
+   "booking": null,
+   "topics": [
+    "Entrepreneurship",
+    "International"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Attendance at E-Lab events is strictly ticketed.",
+   "highlight": true,
+   "highlightWhy": [
+    "Senior figure speaking (CEO)"
+   ]
   },
   {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
