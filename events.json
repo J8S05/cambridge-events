@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T07:48",
+ "generated": "2026-11-23T13:33",
  "topics": [
   "Law",
   "Politics",
@@ -16,10 +16,6 @@
    "ok": true,
    "count": 0
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 9
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 2
@@ -28,25 +24,29 @@
    "ok": true,
    "count": 2
   },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
   "Institute of Criminology": {
    "ok": true,
    "count": 2
   },
-  "POLIS (Politics & International Studies)": {
+  "Judge Business School": {
    "ok": true,
-   "count": 1
+   "count": 9
   },
   "King's E-Lab": {
    "ok": true,
    "count": 8
   },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 2
-  },
   "Faculty of Law": {
    "ok": true,
    "count": 37
+  },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 2
   },
   "Bennett": {
    "ok": true,
@@ -243,7 +243,7 @@
   },
   {
    "id": "centre-the-baltic-moment-why-europes-edge-is-becoming-its-center",
-   "title": "The Baltic Moment: Why Europe’s Edge Is Becoming Its Center?",
+   "title": "The Baltic moment: Why Europe’s edge is becoming its center?",
    "start": "2026-11-24T01:30",
    "end": null,
    "allDay": false,
@@ -616,7 +616,7 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
    "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
    "start": "2026-11-26T15:00",
    "end": "2026-11-26T16:00",
@@ -625,8 +625,8 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n About \n\n Speaker: Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n The Cambridge Centre for Environment, Energy, and Natural Resource Governance (C-EENRG) is hosting a seminar series throughout the 2026-27 academic year.\n Many seminars take place as hybrid meetings (in person seminars in the DAB - David Attenborough Building  + online in Zoom) every Thursday (please check precise date and time as may vary) during the term. Please refer to the Land Economy website for more details and online registration.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
+   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": "https://forms.office.com/e/K4QaYcz4mi",
