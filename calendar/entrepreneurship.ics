@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:elab-6afd91cb96afb60473ba56d9@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261125T173000
 DTEND;TZID=Europe/London:20261125T193000
 SUMMARY:Pitch@King's
@@ -40,8 +40,25 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  f November.
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2003675706977@cambridge-events
+DTSTAMP:20261123T191458Z
+DTSTART;TZID=Europe/London:20261125T180000
+DTEND;TZID=Europe/London:20261125T200000
+SUMMARY:Cambridge AI Academy: Build your own AI Agents
+LOCATION:Hills Road Sixth Form College\, Hills Road\, Cambridge\, CB2 8PE
+URL:https://www.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-a
+ gents-tickets-2003675706977
+CATEGORIES:Entrepreneurship
+DESCRIPTION:Marianna & Rifat\nTopics: Entrepreneurship\nDetails: https://ww
+ w.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-agents-tickets
+ -2003675706977\nSign-up needed: https://www.eventbrite.co.uk/e/cambridge-a
+ i-academy-build-your-own-ai-agents-tickets-2003675706977\nBuild your own A
+ I agents over a coffee. Bring your laptop\, work on projects and share ide
+ as with consultants and entrepreneurs in Cambridge.
+END:VEVENT
+BEGIN:VEVENT
 UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261126T160000
 DTEND;TZID=Europe/London:20261126T173000
 SUMMARY:Pitch @ Judge #5 – Autumn 2026
@@ -55,7 +72,7 @@ DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb054f81a2b23ad553feef@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T210000
 SUMMARY:Laidlaw Scholars 2025 Cohort Graduation
@@ -70,7 +87,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
@@ -89,7 +106,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b02f6f82cbf981f30fdd812@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T183000
 SUMMARY:POSTPONED: Building the Future: Technology and Innovation with Kath
@@ -103,7 +120,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -124,8 +141,26 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\,
  niversity of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004590553307@cambridge-events
+DTSTAMP:20261123T191458Z
+DTSTART;TZID=Europe/London:20261127T150000
+DTEND;TZID=Europe/London:20261127T180000
+SUMMARY:Women in Entrepreneurship: Connect\, Explore & Build in Cambridge
+LOCATION:Cynthia Beerbower Room\, Newnham College\, University of Cambridge
+ \, Sidgwick Avenue\, Cambridge\, CB3 9DF
+URL:https://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-
+ build-in-cambridge-tickets-2004590553307
+CATEGORIES:Entrepreneurship
+DESCRIPTION:AWDPI Cambridge Society\nTopics: Entrepreneurship\nDetails: htt
+ ps://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-build-
+ in-cambridge-tickets-2004590553307\nSign-up needed: https://www.eventbrite
+ .com/e/women-in-entrepreneurship-connect-explore-build-in-cambridge-ticket
+ s-2004590553307\nJoin us in Cambridge to connect\, explore new ideas\, and
+  build your biz with inspiring women entrepreneurs!
+END:VEVENT
+BEGIN:VEVENT
 UID:elab-6aa94fc5fe463936242563f7@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261129T090000
 DTEND;TZID=Europe/London:20261129T170000
 SUMMARY:Laidlaw Programme Leadership and Research Day
@@ -138,7 +173,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:ce-commercialisation-101-online-essentials@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261130T093000
 DTEND;TZID=Europe/London:20261130T103000
 SUMMARY:Commercialisation 101: Online Essentials
@@ -150,8 +185,25 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
  \nSign-up needed
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-2004360833208@cambridge-events
+DTSTAMP:20261123T191458Z
+DTSTART;TZID=Europe/London:20261130T170000
+DTEND;TZID=Europe/London:20261130T190000
+SUMMARY:The Scaleup Challenge: Twelve Years On
+LOCATION:Lee Hall\, Wolfson College\, Barton Road\, Cambridge\, CB3 9BB
+URL:https://www.eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-ti
+ ckets-2004360833208
+CATEGORIES:Entrepreneurship
+DESCRIPTION:Wolfson Events\nTopics: Entrepreneurship\nDetails: https://www.
+ eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-tickets-200436083
+ 3208\nSign-up needed: https://www.eventbrite.co.uk/e/the-scaleup-challenge
+ -twelve-years-on-tickets-2004360833208\nMore than a decade after Sherry Co
+ utu's landmark report\, how much progress has Britain made in helping ambi
+ tious businesses grow?
+END:VEVENT
+BEGIN:VEVENT
 UID:jbs-retail-capital-in-venture-capital@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261201T111500
 DTEND;TZID=Europe/London:20261201T123000
 SUMMARY:Retail capital as a stepping stone in venture capital: theory and e
@@ -166,7 +218,7 @@ DESCRIPTION:Finance Seminar Series On-campus events Research seminars\nTopi
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6ac8d6d2677c0f2331acd7cb@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261203T173000
 DTEND;TZID=Europe/London:20261203T183000
 SUMMARY:Rebuild Identity First: Failing Well with Rachel Higham
@@ -182,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ce-from-research-to-resonance-turning-ideas-into-ventures@cambridge-eve
  nts
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261204T093000
 DTEND;TZID=Europe/London:20261204T103000
 SUMMARY:From Research to Resonance: Turning Ideas into Ventures
@@ -195,7 +247,7 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb0228b1f9cf292ded16a4@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20261205T123000
 DTEND;TZID=Europe/London:20261205T143000
 SUMMARY:Essay Competition Prizegiving Ceremony
@@ -209,7 +261,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b02f9c9af04e33bd3f411ce@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20270225T173000
 DTEND;TZID=Europe/London:20270225T183000
 SUMMARY:Building the Future: Technology and Innovation with Kathleen Fisher
@@ -227,7 +279,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nHighlight: Senior f
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-frontier-tech-female-founders-day@cambridge-events
-DTSTAMP:20261123T133328Z
+DTSTAMP:20261123T191458Z
 DTSTART;TZID=Europe/London:20270308T084500
 DTEND;TZID=Europe/London:20270308T173000
 SUMMARY:Frontier Tech Female Founders Day
