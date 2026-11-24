@@ -2,22 +2,22 @@
  {
   "file": "calendar/all.ics",
   "name": "Cambridge Events (all)",
-  "count": 78
+  "count": 84
  },
  {
   "file": "calendar/highlights.ics",
   "name": "Cambridge Events: \ud83c\udf1f Highlights",
-  "count": 4
+  "count": 5
  },
  {
   "file": "calendar/law.ics",
   "name": "Cambridge Events: Law",
-  "count": 38
+  "count": 37
  },
  {
   "file": "calendar/politics.ics",
   "name": "Cambridge Events: Politics",
-  "count": 17
+  "count": 20
  },
  {
   "file": "calendar/international.ics",
@@ -47,7 +47,7 @@
  {
   "file": "calendar/entrepreneurship.ics",
   "name": "Cambridge Events: Entrepreneurship",
-  "count": 14
+  "count": 18
  },
  {
   "file": "calendar/effective-altruism.ics",

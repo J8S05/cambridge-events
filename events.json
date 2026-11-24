@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:29",
+ "generated": "2026-11-24T19:12",
  "topics": [
   "Law",
   "Politics",
@@ -16,33 +16,33 @@
    "ok": true,
    "count": 0
   },
-  "EA Cambridge": {
-   "ok": true,
-   "count": 2
-  },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "Institute of Criminology": {
+  "EA Cambridge": {
    "ok": true,
    "count": 2
-  },
-  "Judge Business School": {
-   "ok": true,
-   "count": 8
-  },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 8
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
+  "Judge Business School": {
+   "ok": true,
+   "count": 8
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 2
+  },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
+  },
   "Faculty of Law": {
    "ok": true,
-   "count": 34
+   "count": 31
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -52,14 +52,13 @@
    "ok": true,
    "count": 2
   },
-  "Eventbrite": {
-   "ok": true,
-   "count": 0,
-   "note": "HTTP 405"
-  },
   "Centre for Geopolitics": {
    "ok": true,
    "count": 7
+  },
+  "Eventbrite": {
+   "ok": true,
+   "count": 15
   },
   "talks.cam": {
    "ok": true,
@@ -137,79 +136,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
-   "title": "Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational Obligations: Beyond the Autonomy-Protection Spectrum'",
-   "start": "2026-11-24T12:00",
-   "end": "2026-11-24T13:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 12:00pm to 1:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker: Dr Matt Hasler (Teaching By-Fellow in Law and Philosophy, Churchill College)\n Family law systems characteristically impose relational obligations: legal duties of financial provision that attach to personal or familial relationships, and thereby impose special financial responsibilities on their bearers. Relational obligations pose a host of important normative questions. To which kinds of relationships should they attach? What should their content be? And to what extent, if at all, should parties be entitled to alter or disapply such obligations by means of private contracts?\n It is often suggested that our answers to these questions will be significantly determined by our attitudes to two apparently competing principles. On the one hand, respect for individual autonomy is said to favour less demanding relational obligations that attach to a narrower range of relationships, and are more amenable to contractual amendment. On the other, concerns to protect vulnerable parties are said to favour more demanding relational obligations that atta",
-   "url": "https://www.law.cam.ac.uk/events/cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_5oagNLNCQJqnj8BVq_sCbw",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "Please join us in-person, but if you cannot, you can register to attend online .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
-   "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker : Professor Atinuke Adediran (Associate Professor of Law, Fordham University School of Law, USA)\n Abstract :  Corporate law commonly treats disclosure as a means of providing information to investors and shareholders. This seminar asks what disclosure does when corporations speak about racial inequality. Drawing on Disclosureland's original empirical study of statements, pledges, and regulatory filings from more than 2,000 companies, the book shows that corporate words operate as tools of governance, shaping what firms recognize, measure, fund as philanthropic endeavors, and ultimately choose to withdraw. Focusing on the proliferation of corporate racial-equity commitments after 2020 and their subsequent softening, narrowing, or disappearance, the seminar will identify three recurring practices: opportunistic commitment, disclosure as deflection, and strategic retraction as legal and political conditions change. The seminar will argue that voluntary disclosure can create an appearance of accountability while allowing corporations to define t",
-   "url": "https://www.law.cam.ac.uk/events/3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
@@ -381,13 +307,18 @@
    "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
    "source": "Centre of Governance and Human Rights (CGHR)",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligarchic-worldmaking-tickets-2002325116324",
    "topics": [
-    "Rights & Justice",
-    "Politics"
+    "Politics",
+    "Rights & Justice"
    ],
-   "alsoListed": [],
-   "access": "",
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Centre of Governance and Human Rights (CGHR)",
+     "url": "https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligarchic-worldmaking-tickets-2002325116324"
+    }
+   ],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -441,6 +372,52 @@
    "highlightWhy": []
   },
   {
+   "id": "eb-2003675706977",
+   "title": "Cambridge AI Academy: Build your own AI Agents",
+   "start": "2026-11-25T18:00",
+   "end": "2026-11-25T20:00",
+   "allDay": false,
+   "venue": "Hills Road Sixth Form College, Hills Road, Cambridge, CB2 8PE",
+   "speaker": "",
+   "organiser": "Marianna & Rifat",
+   "series": "",
+   "description": "Build your own AI agents over a coffee. Bring your laptop, work on projects and share ideas with consultants and entrepreneurs in Cambridge.",
+   "url": "https://www.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-agents-tickets-2003675706977",
+   "source": "Eventbrite: Marianna & Rifat",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-agents-tickets-2003675706977",
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "eb-2005300876904",
+   "title": "Thanksgiving Breakfast with the Provost: The Future of American Politics",
+   "start": "2026-11-26T08:00",
+   "end": "2026-11-26T09:30",
+   "allDay": false,
+   "venue": "King's College, Cambridge, Keynes Lecture Theatre, King's Parade, Cambridge, CB2 1ST",
+   "speaker": "",
+   "organiser": "Kings Politics",
+   "series": "",
+   "description": "Join Provost Dr Gillian Tett and Rye Barcott for a Thanksgiving breakfast exploring US politics, bipartisanship and transatlantic relations.",
+   "url": "https://www.eventbrite.co.uk/e/thanksgiving-breakfast-with-the-provost-the-future-of-american-politics-tickets-2005300876904",
+   "source": "Eventbrite: Kings Politics",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/thanksgiving-breakfast-with-the-provost-the-future-of-american-politics-tickets-2005300876904",
+   "topics": [
+    "Politics"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "talks-273072",
    "title": "Peter Clark on \"Potential mechanisms for assembly of pre-cellular replicating molecular assemblies (chiral selection and steps to the proton motive force)\"",
    "start": "2026-11-26T11:00",
@@ -489,31 +466,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
-   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -535,6 +487,31 @@
    ],
    "alsoListed": [],
    "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
+   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -749,7 +726,12 @@
     "Policy",
     "Entrepreneurship"
    ],
-   "alsoListed": [],
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Bennett School of Public Policy",
+     "url": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053"
+    }
+   ],
    "access": "register",
    "accessNote": "Book Your Place",
    "highlight": false,
@@ -830,6 +812,29 @@
    "highlightWhy": []
   },
   {
+   "id": "eb-2004590553307",
+   "title": "Women in Entrepreneurship: Connect, Explore & Build in Cambridge",
+   "start": "2026-11-27T15:00",
+   "end": "2026-11-27T18:00",
+   "allDay": false,
+   "venue": "Cynthia Beerbower Room, Newnham College, University of Cambridge, Sidgwick Avenue, Cambridge, CB3 9DF",
+   "speaker": "",
+   "organiser": "AWDPI Cambridge Society",
+   "series": "",
+   "description": "Join us in Cambridge to connect, explore new ideas, and build your biz with inspiring women entrepreneurs!",
+   "url": "https://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-build-in-cambridge-tickets-2004590553307",
+   "source": "Eventbrite: AWDPI Cambridge Society",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-build-in-cambridge-tickets-2004590553307",
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
    "title": "Law and the Climate Crisis Seminars: 'Climate Change Attribution science: Can It Establish Causation in Court?'",
    "start": "2026-11-27T16:00",
@@ -855,6 +860,30 @@
    "highlightWhy": []
   },
   {
+   "id": "eb-2002505360439",
+   "title": "Law and Climate Science - Cambridge Seminar Series on Law & Climate Crisis",
+   "start": "2026-11-27T16:00",
+   "end": "2026-11-27T18:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Pembroke Street, Cambridge, CB2 3QZ",
+   "speaker": "",
+   "organiser": "The Centre for Climate Engagement at Hughes Hall",
+   "series": "",
+   "description": "In this seminar, Dr Rupert Stuart-Smith will explore the critical role of climate science in addressing the climate crisis",
+   "url": "https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439",
+   "source": "Eventbrite: The Centre for Climate Engagement at Hughes Hall",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970",
    "title": "Prof Richard Noakes, ‘A secret radar war? Psychic powers, technoscience, and the military in Britain, 1930–1970’",
    "start": "2026-11-27T17:30",
@@ -875,6 +904,30 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
+   "title": "Cambridge Medical Law Society: Medical Negligence Moot 2nd round",
+   "start": "2026-11-28T09:00",
+   "end": "2026-11-28T10:00",
+   "allDay": false,
+   "venue": "TBC",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Saturday 28 November 2026 \n\n 9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st round: 7th November, 2nd round: 28th November, 3rd round: 30th January, times and location TBC)\n Put your advocacy skills to the test in our medical negligence moot. Participants will have the chance to grapple with a realistic medical law problem, develop oral advocacy skills and receive feedback across multiple rounds.\n Further details and the sign-up link will be released on our Instagram in mid-to-late October.\n Cambridge Medical Law Society:",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cambridge-medical-law-society-medical-negligence-moot-2nd-round",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -923,6 +976,29 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "eb-2005223550619",
+   "title": "Count Binface: The Man Behind the Bin",
+   "start": "2026-11-29T14:30",
+   "end": "2026-11-29T15:30",
+   "allDay": false,
+   "venue": "King's College, Cambridge, Keynes Lecture Theatre, King's Parade, Cambridge, CB2 1ST",
+   "speaker": "",
+   "organiser": "Kings Politics",
+   "series": "",
+   "description": "Meet Count Binface and the man behind the bin, Jon Harvey, for a hilarious fireside chat on British politics and life behind the mask.",
+   "url": "https://www.eventbrite.co.uk/e/count-binface-the-man-behind-the-bin-tickets-2005223550619",
+   "source": "Eventbrite: Kings Politics",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/count-binface-the-man-behind-the-bin-tickets-2005223550619",
+   "topics": [
+    "Politics"
+   ],
+   "alsoListed": [],
+   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -996,6 +1072,29 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "eb-2004360833208",
+   "title": "The Scaleup Challenge: Twelve Years On",
+   "start": "2026-11-30T17:00",
+   "end": "2026-11-30T19:00",
+   "allDay": false,
+   "venue": "Lee Hall, Wolfson College, Barton Road, Cambridge, CB3 9BB",
+   "speaker": "",
+   "organiser": "Wolfson Events",
+   "series": "",
+   "description": "More than a decade after Sherry Coutu's landmark report, how much progress has Britain made in helping ambitious businesses grow?",
+   "url": "https://www.eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-tickets-2004360833208",
+   "source": "Eventbrite: Wolfson Events",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-tickets-2004360833208",
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1147,10 +1246,15 @@
    "sourceGroup": "Research centre",
    "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
    "topics": [
-    "Rights & Justice",
-    "Politics"
+    "Politics",
+    "Rights & Justice"
    ],
-   "alsoListed": [],
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Centre of Governance and Human Rights (CGHR)",
+     "url": "https://www.eventbrite.co.uk/e/towards-a-living-critique-of-domination-tickets-1999763914701"
+    }
+   ],
    "access": "register",
    "accessNote": "",
    "highlight": false,
@@ -1158,7 +1262,7 @@
   },
   {
    "id": "centre-gender-populism-and-the-far-right-a-case-study-of-germanys-afd",
-   "title": "Gender, populism and the Far-Right: A case study of Germany’s AfD",
+   "title": "The AfD, gender and the normalisation of right-wing extremism",
    "start": "2026-12-02T17:30",
    "end": "2026-12-02T19:00",
    "allDay": false,
@@ -1166,17 +1270,22 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "",
+   "description": "This event will explore and investigate the link between questions of gender and populist right-wing extremism.",
    "url": "https://www.cfg.cam.ac.uk/events/gender-populism-and-the-far-right-a-case-study-of-germanys-afd/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/the-afd-gender-and-the-normalisation-of-right-wing-extremism-tickets-2005285109744",
    "topics": [
-    "International",
-    "Politics"
+    "Politics",
+    "International"
    ],
-   "alsoListed": [],
-   "access": "",
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Centre for Geopolitics",
+     "url": "https://www.eventbrite.co.uk/e/the-afd-gender-and-the-normalisation-of-right-wing-extremism-tickets-2005285109744"
+    }
+   ],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1390,16 +1499,21 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "",
+   "description": "This event will discuss the challenges for the Baltics and the relationship with Belarus after the start of the full scale war in Ukraine.",
    "url": "https://www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/belarus-and-the-baltic-after-2022-tickets-2004279471854",
    "topics": [
     "International"
    ],
-   "alsoListed": [],
-   "access": "",
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Centre for Geopolitics",
+     "url": "https://www.eventbrite.co.uk/e/belarus-and-the-baltic-after-2022-tickets-2004279471854"
+    }
+   ],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1486,16 +1600,21 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "",
+   "description": "Book talk: Ledford and Sargent on History’s Dead-Hand Grip and how policymakers use – and misuse – the ‘lessons’ of the past.",
    "url": "https://www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": null,
+   "booking": "https://www.eventbrite.co.uk/e/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk-tickets-2004581569436",
    "topics": [
     "International"
    ],
-   "alsoListed": [],
-   "access": "",
+   "alsoListed": [
+    {
+     "source": "Eventbrite: Centre for Geopolitics",
+     "url": "https://www.eventbrite.co.uk/e/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk-tickets-2004581569436"
+    }
+   ],
+   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1602,6 +1721,29 @@
    "highlightWhy": []
   },
   {
+   "id": "eb-2003211686078",
+   "title": "It's not drought, it's pillage",
+   "start": "2027-01-20T18:30",
+   "end": "2027-01-20T20:30",
+   "allDay": false,
+   "venue": "German Lutheran Church, 4 Shaftesbury Road, Cambridge, CB2 8BW",
+   "speaker": "",
+   "organiser": "Friends of the Cam",
+   "series": "",
+   "description": "What we can learn from exploring the links between environmental damage caused by Big Tech and water protest movements in Latin America.",
+   "url": "https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003211686078",
+   "source": "Eventbrite: Friends of the Cam",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003211686078",
+   "topics": [
+    "Politics"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
    "title": "2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its Authority in the Case Law of the Court of Justice of the European Union'",
    "start": "2027-01-22T17:30",
@@ -1627,6 +1769,33 @@
    "highlight": true,
    "highlightWhy": [
     "Senior figure speaking (President Koen)"
+   ]
+  },
+  {
+   "id": "eb-2004774391171",
+   "title": "Mackenzie Stuart Lecture 2027",
+   "start": "2027-01-22T17:30",
+   "end": "2027-01-22T18:30",
+   "allDay": false,
+   "venue": "Faculty of Law, 10 W Rd, South Cambridgeshire, CB3 9DZ",
+   "speaker": "",
+   "organiser": "Centre for European Legal Studies",
+   "series": "",
+   "description": "CELS hosts an annual public lecture in honour of Lord Mackenzie-Stuart, the first British Judge to be President of the Court of Justice.",
+   "url": "https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171",
+   "source": "Eventbrite: Centre for European Legal Studies",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171",
+   "topics": [
+    "Law",
+    "Rights & Justice"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "highlight": true,
+   "highlightWhy": [
+    "Named public lecture",
+    "Senior figure speaking (Lord)"
    ]
   },
   {
@@ -1675,6 +1844,29 @@
    "alsoListed": [],
    "access": "online-register",
    "accessNote": "To attend online you must register via Zoom .",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "eb-2005295974240",
+   "title": "Invent Your Entrepreneurial Self, at Innovate Cambridge",
+   "start": "2027-01-25T17:00",
+   "end": "2027-01-25T19:00",
+   "allDay": false,
+   "venue": "The Glasshouse, Innovate Cambridge, 100 Hills Road, Cambridge, CB2 1LQ",
+   "speaker": "",
+   "organiser": "Katy Tuncer",
+   "series": "",
+   "description": "Tips and stories from Katy Tuncer and Cambridge entrepreneurs as she introduces HUMANUP – the real founder's journey, told as a story.",
+   "url": "https://www.eventbrite.co.uk/e/invent-your-entrepreneurial-self-at-innovate-cambridge-tickets-2005295974240",
+   "source": "Eventbrite: Katy Tuncer",
+   "sourceGroup": "Eventbrite",
+   "booking": "https://www.eventbrite.co.uk/e/invent-your-entrepreneurial-self-at-innovate-cambridge-tickets-2005295974240",
+   "topics": [
+    "Entrepreneurship"
+   ],
+   "alsoListed": [],
+   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1902,31 +2094,6 @@
    "highlightWhy": [
     "Senior figure speaking (CEO)"
    ]
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
-   "title": "Law and the Climate Crisis Seminars: 'Climate Change and Comparative Law'",
-   "start": "2027-02-26T16:00",
-   "end": "2027-02-26T17:00",
-   "allDay": false,
-   "venue": "David Attenborough Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 26 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr Ivano Alogna (British Institute for International and Comparative Law)\n The Cambridge Seminar Series on Law and the Climate Crisis explores the vital role of legal systems in tackling one of the most pressing issues of our time.\n This series brings together top experts in law and climate action to discuss how climate change interacts with specific areas of law, setting out both how legal fields are being impacted by climate change and how the law can help drive climate action.\n The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by the Centre for Climate Engagement at Hughes Hall, Cambridge Zero, the Centre for Environment, Energy and Natural Resource Governance (CEENRG), the Cambridge Climate Society, the Lauterpacht Centre for International Law, and the Net Zero Lawyers Alliance.\n For more information and to register see the Centre for Climate Engagement website .",
-   "url": "https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-comparative-law",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
-   "highlight": false,
-   "highlightWhy": []
   },
   {
    "id": "talks-274399",
