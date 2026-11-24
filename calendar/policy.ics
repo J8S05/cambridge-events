@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bennett-uk-digital-economics-2026@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Fifth workshop on UK digital economics
@@ -41,7 +41,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Policy\nDetails: https
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -99,7 +99,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-inside-a-frontier-tech-scale-up@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261125T150000
 DTEND;TZID=Europe/London:20261125T170000
 SUMMARY:A first conversation inside a frontier tech scale up: AI\, quantum 
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-c
  ourts-pro@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -144,7 +144,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -167,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -194,28 +194,8 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  ds 
 END:VEVENT
 BEGIN:VEVENT
-UID:eb-2002505360439@cambridge-events
-DTSTAMP:20261123T191458Z
-DTSTART;TZID=Europe/London:20261127T160000
-DTEND;TZID=Europe/London:20261127T180000
-SUMMARY:Law and Climate Science - Cambridge Seminar Series on Law & Climate
-  Crisis
-LOCATION:David Attenborough Building\, Pembroke Street\, Cambridge\, CB2 3Q
- Z
-URL:https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-semina
- r-series-on-law-climate-crisis-tickets-2002505360439
-CATEGORIES:Law,Policy
-DESCRIPTION:The Centre for Climate Engagement at Hughes Hall\nTopics: Law\,
-  Policy\nDetails: https://www.eventbrite.co.uk/e/law-and-climate-science-c
- ambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439\nSign-
- up needed: https://www.eventbrite.co.uk/e/law-and-climate-science-cambridg
- e-seminar-series-on-law-climate-crisis-tickets-2002505360439\nIn this semi
- nar\, Dr Rupert Stuart-Smith will explore the critical role of climate sci
- ence in addressing the climate crisis
-END:VEVENT
-BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -230,7 +210,7 @@ DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -247,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -273,7 +253,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -298,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -314,7 +294,7 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -340,7 +320,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -357,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -385,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -412,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -439,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -467,7 +447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261123T191458Z
+DTSTAMP:20261124T012602Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ

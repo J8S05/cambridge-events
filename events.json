@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T19:14",
+ "generated": "2026-11-24T01:26",
  "topics": [
   "Law",
   "Politics",
@@ -20,33 +20,29 @@
    "ok": true,
    "count": 2
   },
-  "Institute of Criminology": {
+  "King's E-Lab": {
    "ok": true,
-   "count": 2
+   "count": 8
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "POLIS (Politics & International Studies)": {
-   "ok": true,
-   "count": 1
-  },
   "Judge Business School": {
    "ok": true,
    "count": 8
   },
-  "King's E-Lab": {
+  "POLIS (Politics & International Studies)": {
    "ok": true,
-   "count": 8
+   "count": 1
+  },
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 2
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 8
   },
   "Faculty of Law": {
    "ok": true,
@@ -58,7 +54,12 @@
   },
   "Eventbrite": {
    "ok": true,
-   "count": 15
+   "count": 0,
+   "note": "HTTP 405"
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 7
   },
   "talks.cam": {
    "ok": true,
@@ -82,31 +83,6 @@
    "sourceGroup": "talks.cam",
    "booking": null,
    "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-national-cultural-autonomy-revisited-why-baltic-minority-politics-matters",
-   "title": "National cultural autonomy revisited: Why Baltic minority politics matters",
-   "start": "2026-11-23T17:30",
-   "end": "2026-11-23T19:00",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/national-cultural-autonomy-revisited-why-baltic-minority-politics-matters/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "Politics",
     "International"
    ],
    "alsoListed": [],
@@ -165,30 +141,6 @@
    "highlightWhy": []
   },
   {
-   "id": "eb-1994575468920",
-   "title": "Birketts' Employment and Immigration Update 2026 - Cambridge",
-   "start": "2026-11-24T09:00",
-   "end": "2026-11-24T13:00",
-   "allDay": false,
-   "venue": "Birketts LLP - Solicitors Cambridge, 22 Station Road, Cambridge, CB1 2JD",
-   "speaker": "",
-   "organiser": "Birketts LLP",
-   "series": "",
-   "description": "From legislative reform to workplace reality - Join our annual employment & immigration law update, for HR professionals & business leaders.",
-   "url": "https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-cambridge-tickets-1994575468920",
-   "source": "Eventbrite: Birketts LLP",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/birketts-employment-and-immigration-update-2026-cambridge-tickets-1994575468920",
-   "topics": [
-    "Law",
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-cambridge-family-law-cfl-hybrid-seminar-justifying-relational-obligations-beyond-autonomy",
    "title": "Cambridge Family Law (CFL) hybrid seminar: 'Justifying Relational Obligations: Beyond the Autonomy-Protection Spectrum'",
    "start": "2026-11-24T12:00",
@@ -213,30 +165,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -254,6 +182,30 @@
    "topics": [
     "Law",
     "Rights & Justice"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -429,18 +381,13 @@
    "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
    "source": "Centre of Governance and Human Rights (CGHR)",
    "sourceGroup": "Research centre",
-   "booking": "https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligarchic-worldmaking-tickets-2002325116324",
+   "booking": null,
    "topics": [
-    "Politics",
-    "Rights & Justice"
+    "Rights & Justice",
+    "Politics"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Centre of Governance and Human Rights (CGHR)",
-     "url": "https://www.eventbrite.co.uk/e/algorithmic-domination-and-oligarchic-worldmaking-tickets-2002325116324"
-    }
-   ],
-   "access": "register",
+   "alsoListed": [],
+   "access": "",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -490,52 +437,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "eb-2003675706977",
-   "title": "Cambridge AI Academy: Build your own AI Agents",
-   "start": "2026-11-25T18:00",
-   "end": "2026-11-25T20:00",
-   "allDay": false,
-   "venue": "Hills Road Sixth Form College, Hills Road, Cambridge, CB2 8PE",
-   "speaker": "",
-   "organiser": "Marianna & Rifat",
-   "series": "",
-   "description": "Build your own AI agents over a coffee. Bring your laptop, work on projects and share ideas with consultants and entrepreneurs in Cambridge.",
-   "url": "https://www.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-agents-tickets-2003675706977",
-   "source": "Eventbrite: Marianna & Rifat",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/cambridge-ai-academy-build-your-own-ai-agents-tickets-2003675706977",
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "eb-2005300876904",
-   "title": "Thanksgiving Breakfast with the Provost: The Future of American Politics",
-   "start": "2026-11-26T08:00",
-   "end": "2026-11-26T09:30",
-   "allDay": false,
-   "venue": "King's College, Cambridge, Keynes Lecture Theatre, King's Parade, Cambridge, CB2 1ST",
-   "speaker": "",
-   "organiser": "Kings Politics",
-   "series": "",
-   "description": "Join Provost Dr Gillian Tett and Rye Barcott for a Thanksgiving breakfast exploring US politics, bipartisanship and transatlantic relations.",
-   "url": "https://www.eventbrite.co.uk/e/thanksgiving-breakfast-with-the-provost-the-future-of-american-politics-tickets-2005300876904",
-   "source": "Eventbrite: Kings Politics",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/thanksgiving-breakfast-with-the-provost-the-future-of-american-politics-tickets-2005300876904",
-   "topics": [
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -748,17 +649,17 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event",
-   "title": "3VB University of Cambridge Event",
+   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
+   "title": "3VB’s University of Cambridge Event",
    "start": "2026-11-26T17:00",
    "end": "2026-11-26T18:00",
    "allDay": false,
-   "venue": "Downing College",
+   "venue": "Downing College, West Lodge & Maitland Room",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com",
-   "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
+   "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -769,7 +670,7 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event"
+     "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event"
     }
    ],
    "access": "register",
@@ -848,12 +749,7 @@
     "Policy",
     "Entrepreneurship"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Bennett School of Public Policy",
-     "url": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053"
-    }
-   ],
+   "alsoListed": [],
    "access": "register",
    "accessNote": "Book Your Place",
    "highlight": false,
@@ -934,29 +830,6 @@
    "highlightWhy": []
   },
   {
-   "id": "eb-2004590553307",
-   "title": "Women in Entrepreneurship: Connect, Explore & Build in Cambridge",
-   "start": "2026-11-27T15:00",
-   "end": "2026-11-27T18:00",
-   "allDay": false,
-   "venue": "Cynthia Beerbower Room, Newnham College, University of Cambridge, Sidgwick Avenue, Cambridge, CB3 9DF",
-   "speaker": "",
-   "organiser": "AWDPI Cambridge Society",
-   "series": "",
-   "description": "Join us in Cambridge to connect, explore new ideas, and build your biz with inspiring women entrepreneurs!",
-   "url": "https://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-build-in-cambridge-tickets-2004590553307",
-   "source": "Eventbrite: AWDPI Cambridge Society",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.com/e/women-in-entrepreneurship-connect-explore-build-in-cambridge-tickets-2004590553307",
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
    "title": "Law and the Climate Crisis Seminars: 'Climate Change Attribution science: Can It Establish Causation in Court?'",
    "start": "2026-11-27T16:00",
@@ -978,30 +851,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "eb-2002505360439",
-   "title": "Law and Climate Science - Cambridge Seminar Series on Law & Climate Crisis",
-   "start": "2026-11-27T16:00",
-   "end": "2026-11-27T18:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Pembroke Street, Cambridge, CB2 3QZ",
-   "speaker": "",
-   "organiser": "The Centre for Climate Engagement at Hughes Hall",
-   "series": "",
-   "description": "In this seminar, Dr Rupert Stuart-Smith will explore the critical role of climate science in addressing the climate crisis",
-   "url": "https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439",
-   "source": "Eventbrite: The Centre for Climate Engagement at Hughes Hall",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/law-and-climate-science-cambridge-seminar-series-on-law-climate-crisis-tickets-2002505360439",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1102,29 +951,6 @@
    "highlightWhy": []
   },
   {
-   "id": "eb-2005223550619",
-   "title": "Count Binface: The Man Behind the Bin",
-   "start": "2026-11-29T14:30",
-   "end": "2026-11-29T15:30",
-   "allDay": false,
-   "venue": "King's College, Cambridge, Keynes Lecture Theatre, King's Parade, Cambridge, CB2 1ST",
-   "speaker": "",
-   "organiser": "Kings Politics",
-   "series": "",
-   "description": "Meet Count Binface and the man behind the bin, Jon Harvey, for a hilarious fireside chat on British politics and life behind the mask.",
-   "url": "https://www.eventbrite.co.uk/e/count-binface-the-man-behind-the-bin-tickets-2005223550619",
-   "source": "Eventbrite: Kings Politics",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/count-binface-the-man-behind-the-bin-tickets-2005223550619",
-   "topics": [
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "ce-commercialisation-101-online-essentials",
    "title": "Commercialisation 101: Online Essentials",
    "start": "2026-11-30T09:30",
@@ -1194,29 +1020,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "eb-2004360833208",
-   "title": "The Scaleup Challenge: Twelve Years On",
-   "start": "2026-11-30T17:00",
-   "end": "2026-11-30T19:00",
-   "allDay": false,
-   "venue": "Lee Hall, Wolfson College, Barton Road, Cambridge, CB3 9BB",
-   "speaker": "",
-   "organiser": "Wolfson Events",
-   "series": "",
-   "description": "More than a decade after Sherry Coutu's landmark report, how much progress has Britain made in helping ambitious businesses grow?",
-   "url": "https://www.eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-tickets-2004360833208",
-   "source": "Eventbrite: Wolfson Events",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/the-scaleup-challenge-twelve-years-on-tickets-2004360833208",
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1368,15 +1171,10 @@
    "sourceGroup": "Research centre",
    "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
    "topics": [
-    "Politics",
-    "Rights & Justice"
+    "Rights & Justice",
+    "Politics"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Centre of Governance and Human Rights (CGHR)",
-     "url": "https://www.eventbrite.co.uk/e/towards-a-living-critique-of-domination-tickets-1999763914701"
-    }
-   ],
+   "alsoListed": [],
    "access": "register",
    "accessNote": "",
    "highlight": false,
@@ -1392,22 +1190,17 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "This event will explore and investigate the link between questions of gender and populist right-wing extremism.",
+   "description": "",
    "url": "https://www.cfg.cam.ac.uk/events/gender-populism-and-the-far-right-a-case-study-of-germanys-afd/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": "https://www.eventbrite.co.uk/e/gender-populism-and-the-far-right-a-case-study-of-germanys-afd-tickets-2005285109744",
+   "booking": null,
    "topics": [
-    "Politics",
-    "International"
+    "International",
+    "Politics"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Centre for Geopolitics",
-     "url": "https://www.eventbrite.co.uk/e/gender-populism-and-the-far-right-a-case-study-of-germanys-afd-tickets-2005285109744"
-    }
-   ],
-   "access": "register",
+   "alsoListed": [],
+   "access": "",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1621,21 +1414,16 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "This event will discuss the challenges for the Baltics and the relationship with Belarus after the start of the full scale war in Ukraine.",
+   "description": "",
    "url": "https://www.cfg.cam.ac.uk/events/belarus-and-the-baltic-after-2022/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": "https://www.eventbrite.co.uk/e/belarus-and-the-baltic-after-2022-tickets-2004279471854",
+   "booking": null,
    "topics": [
     "International"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Centre for Geopolitics",
-     "url": "https://www.eventbrite.co.uk/e/belarus-and-the-baltic-after-2022-tickets-2004279471854"
-    }
-   ],
-   "access": "register",
+   "alsoListed": [],
+   "access": "",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1722,21 +1510,16 @@
    "speaker": "",
    "organiser": "Centre for Geopolitics",
    "series": "",
-   "description": "Book talk: Ledford and Sargent on History’s Dead-Hand Grip and how policymakers use – and misuse – the ‘lessons’ of the past.",
+   "description": "",
    "url": "https://www.cfg.cam.ac.uk/events/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk/",
    "source": "Centre for Geopolitics",
    "sourceGroup": "Research centre",
-   "booking": "https://www.eventbrite.co.uk/e/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk-tickets-2004581569436",
+   "booking": null,
    "topics": [
     "International"
    ],
-   "alsoListed": [
-    {
-     "source": "Eventbrite: Centre for Geopolitics",
-     "url": "https://www.eventbrite.co.uk/e/historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book-talk-tickets-2004581569436"
-    }
-   ],
-   "access": "register",
+   "alsoListed": [],
+   "access": "",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -1818,29 +1601,6 @@
    "highlightWhy": []
   },
   {
-   "id": "eb-2003211686078",
-   "title": "It's not drought, it's pillage",
-   "start": "2027-01-20T18:30",
-   "end": "2027-01-20T20:30",
-   "allDay": false,
-   "venue": "German Lutheran Church, 4 Shaftesbury Road, Cambridge, CB2 8BW",
-   "speaker": "",
-   "organiser": "Friends of the Cam",
-   "series": "",
-   "description": "What we can learn from exploring the links between environmental damage caused by Big Tech and water protest movements in Latin America.",
-   "url": "https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003211686078",
-   "source": "Eventbrite: Friends of the Cam",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/its-not-drought-its-pillage-tickets-2003211686078",
-   "topics": [
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpretata-precedent-and-its-authority-case-law-court",
    "title": "2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its Authority in the Case Law of the Court of Justice of the European Union'",
    "start": "2027-01-22T17:30",
@@ -1866,33 +1626,6 @@
    "highlight": true,
    "highlightWhy": [
     "Senior figure speaking (President Koen)"
-   ]
-  },
-  {
-   "id": "eb-2004774391171",
-   "title": "Mackenzie Stuart Lecture 2027",
-   "start": "2027-01-22T17:30",
-   "end": "2027-01-22T18:30",
-   "allDay": false,
-   "venue": "Faculty of Law, 10 W Rd, South Cambridgeshire, CB3 9DZ",
-   "speaker": "",
-   "organiser": "Centre for European Legal Studies",
-   "series": "",
-   "description": "CELS hosts an annual public lecture in honour of Lord Mackenzie-Stuart, the first British Judge to be President of the Court of Justice.",
-   "url": "https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171",
-   "source": "Eventbrite: Centre for European Legal Studies",
-   "sourceGroup": "Eventbrite",
-   "booking": "https://www.eventbrite.co.uk/e/mackenzie-stuart-lecture-2027-tickets-2004774391171",
-   "topics": [
-    "Law",
-    "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "highlight": true,
-   "highlightWhy": [
-    "Named public lecture",
-    "Senior figure speaking (Lord)"
    ]
   },
   {
