@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bennett-uk-digital-economics-2026@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Fifth workshop on UK digital economics
@@ -41,7 +41,7 @@ DESCRIPTION:Bennett School of Public Policy\nTopics: Policy\nDetails: https
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273869@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261124T163000
 DTEND;TZID=Europe/London:20261124T180000
 SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-e
  u-ai-act-@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261125T130000
 DTEND;TZID=Europe/London:20261125T140000
 SUMMARY:CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms 
@@ -83,23 +83,23 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Policy\nDetails:
  https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-e
  u-ai-act-how-firms-navigate-regulatory-complexity\nSign-up only to join on
  line: https://cam-ac-uk.zoom.us/webinar/register/WN_jROFaE58SGGjH7XBoHjIrA
- \nDate/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Loc
- ation: \n\n Faculty of Law\, David Williams Building\n\n B16\n\n About \n\
- n Speaker : Professor Pablo Baquero\, HEC Paris\n Biography : Pablo Marc
- ello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! P
- aris Center on Data Analytics and Artificial Intelligence for Science\, Bu
- siness and Society. He is a member of the Smart Law Hub at HEC Paris\, is 
- involved in different interdisciplinary academic communities focused on la
- w and technology and collaborates closely with scholars across different d
- isciplines\, in projects at the intersection between law and AI.  His sch
- olarly interests are in the fields of law and technology (particularly law
-  and artificial intelligence and smart contracts)\, private law and intern
- ational business transactions. His perspective is comparative and interdis
- ciplinary\, considering the intersectio
+ \nProfessor Pablo Baquero\, HEC Paris\n\n Date/time: \n\n Wednesday 25 Nov
+ ember 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law\, David
+  Williams Building\n\n B16\n\n About \n\n Biography : Pablo Marcello Baqu
+ ero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Cent
+ er on Data Analytics and Artificial Intelligence for Science\, Business an
+ d Society. He is a member of the Smart Law Hub at HEC Paris\, is involved 
+ in different interdisciplinary academic communities focused on law and tec
+ hnology and collaborates closely with scholars across different discipline
+ s\, in projects at the intersection between law and AI.  His scholarly in
+ terests are in the fields of law and technology (particularly law and arti
+ ficial intelligence and smart contracts)\, private law and international b
+ usiness transactions. His perspective is comparative and interdisciplinary
+ \, considering the intersection of law 
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-inside-a-frontier-tech-scale-up@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261125T150000
 DTEND;TZID=Europe/London:20261125T170000
 SUMMARY:A first conversation inside a frontier tech scale up: AI\, quantum 
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-c
  ourts-pro@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -144,7 +144,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -167,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -195,7 +195,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -210,7 +210,7 @@ DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -227,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -253,7 +253,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -278,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -293,8 +293,21 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
  banoğlu and Teddy Carmichael of the University of Cambridge.
 END:VEVENT
 BEGIN:VEVENT
+UID:talks-274394@cambridge-events
+DTSTAMP:20261124T132933Z
+DTSTART;TZID=Europe/London:20270114T141500
+DTEND;TZID=Europe/London:20270114T150000
+SUMMARY:Working with Government and Policy Makers
+LOCATION:Seminar Room 1\, Newton Institute
+URL:https://talks.cam.ac.uk/talk/index/274394/
+CATEGORIES:Politics,Policy
+DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
+ itute Seminar Series\nTopics: Politics\, Policy\nDetails: https://talks.ca
+ m.ac.uk/talk/index/274394/
+END:VEVENT
+BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -320,7 +333,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -337,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -365,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -392,7 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -419,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -445,9 +458,34 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
  imate Society\, the Lauterpacht Centre for International Law
 END:VEVENT
 BEGIN:VEVENT
+UID:talks-274399@cambridge-events
+DTSTAMP:20261124T132933Z
+DTSTART;TZID=Europe/London:20270304T090000
+DTEND;TZID=Europe/London:20270304T123000
+SUMMARY:Writing Policy Impact into Funding Applications
+LOCATION:West Hub\, JJ Thomson Ave\, Cambridge CB3 0US
+URL:https://talks.cam.ac.uk/talk/index/274399/
+CATEGORIES:Policy,Rights & Justice
+DESCRIPTION:Speaker: CSaP\nCambridge Reproduction\nTopics: Policy\, Rights 
+ & Justice\nDetails: https://talks.cam.ac.uk/talk/index/274399/\nA workshop
+  from CSaP and Cambridge Reproduction\n Join the Centre for Science and Po
+ licy (CSaP) and Cambridge Reproduction's Policy and Reproductive Justice T
+ heme for an interactive workshop exploring how researchers can identify\, 
+ develop and communicate the policy relevance of their work.\n Funders incr
+ easingly expect researchers to demonstrate how their research may inform p
+ olicy\, influence practice\, or contribute to societal outcomes. This work
+ shop will help participants understand what policy impact looks like in pr
+ actice and how to effectively articulate policy pathways and outcomes with
+ in funding applications.\n Through practical examples\, case studies and i
+ nteractive discussion\, participants will explore approaches to policy eng
+ agement\, learn how research can contribute to policy development\, and ga
+ in tools for incorporating policy impact into project design from the outs
+ et.\n The wor
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261124T073335Z
+DTSTAMP:20261124T132933Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:33",
+ "generated": "2026-11-24T13:29",
  "topics": [
   "Law",
   "Politics",
@@ -20,29 +20,29 @@
    "ok": true,
    "count": 2
   },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 2
-  },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "POLIS (Politics & International Studies)": {
+  "Institute of Criminology": {
    "ok": true,
-   "count": 1
-  },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 8
+   "count": 2
   },
   "Judge Business School": {
    "ok": true,
    "count": 8
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
   "Faculty of Law": {
    "ok": true,
-   "count": 35
+   "count": 34
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
@@ -63,7 +63,7 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 14
+   "count": 16
   }
  },
  "events": [
@@ -165,30 +165,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
-   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
-   "start": "2026-11-24T13:00",
-   "end": "2026-11-24T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
-   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-3cl-seminar-disclosureland-how-corporate-words-constrain-racial-progress",
    "title": "3CL Seminar: 'Disclosureland: How Corporate Words Constrain Racial Progress'",
    "start": "2026-11-24T13:00",
@@ -206,6 +182,30 @@
    "topics": [
     "Law",
     "Rights & Justice"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-cpl-seminar-review-conor-crummey-principle-legality",
+   "title": "CPL Seminar: 'Review of Conor Crummey 'Principle of Legality''",
+   "start": "2026-11-24T13:00",
+   "end": "2026-11-24T14:00",
+   "allDay": false,
+   "venue": "Faculty of Law, David Williams Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Tuesday 24 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G28 (The Beckwith Moot Court Room)\n\n About \n\n Speaker: Professor Trevor Allan\n Review of Conor Crummey Principle of Legality .\n This is a hybrid event. Attend in person or:\n Microsoft Teams meeting\nJoin: https://teams.microsoft.com/meet/3337273378588917?p=Wu3jPEpF9iK7kYlse9 \nMeeting ID: 333 727 337 858 891 7\nPasscode: sn9mk9k9",
+   "url": "https://www.law.cam.ac.uk/events/cpl-seminar-review-conor-crummey-principle-legality",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law"
    ],
    "alsoListed": [],
    "access": "",
@@ -327,7 +327,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Speaker : Professor Pablo Baquero, HEC Paris\n Biography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intelligence for Science, Business and Society. He is a member of the Smart Law Hub at HEC Paris, is involved in different interdisciplinary academic communities focused on law and technology and collaborates closely with scholars across different disciplines, in projects at the intersection between law and AI.  His scholarly interests are in the fields of law and technology (particularly law and artificial intelligence and smart contracts), private law and international business transactions. His perspective is comparative and interdisciplinary, considering the intersection of law with computer science, economics, business and sociology. His research examines how legal institutions and technologies can support practices of innovation in a socially and economically inclusive way, contributing to disseminate to most firms the opportunities to produce in the frontie",
+   "description": "Professor Pablo Baquero, HEC Paris\n\n Date/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Biography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intelligence for Science, Business and Society. He is a member of the Smart Law Hub at HEC Paris, is involved in different interdisciplinary academic communities focused on law and technology and collaborates closely with scholars across different disciplines, in projects at the intersection between law and AI.  His scholarly interests are in the fields of law and technology (particularly law and artificial intelligence and smart contracts), private law and international business transactions. His perspective is comparative and interdisciplinary, considering the intersection of law with computer science, economics, business and sociology. His research examines how legal institutions and technologies can support practices of innovation in a socially and economically inclusive way, contributing to disseminate to most firms the opportunities to produce in the frontiers of inn",
    "url": "https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -489,6 +489,31 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
+   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -510,31 +535,6 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
-   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -649,17 +649,17 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-3vbs-university-cambridge-event",
-   "title": "3VB’s University of Cambridge Event",
+   "id": "dept-www-law-cam-ac-uk-events-3vb-university-cambridge-event",
+   "title": "3VB University of Cambridge Event",
    "start": "2026-11-26T17:00",
    "end": "2026-11-26T18:00",
    "allDay": false,
-   "venue": "Downing College, West Lodge & Maitland Room",
+   "venue": "Downing College",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
+   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College\n\n West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com \n\n Contact \n\n Email: events@3vb.com",
+   "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -670,7 +670,7 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/3vb-university-cambridge-event"
+     "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event"
     }
    ],
    "access": "register",
@@ -789,7 +789,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending online   Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among international adjudicative bodies to the disputed allocation of powers among international and domestic authorities across various issue areas. What is common to all these situations is that each claim to authority is typically supported by some formal or informal basis for eliciting deference. Yet the practice shows that not all claims to deference entitlement are situated on the same plane, with some exerting greater attraction than others. Exclusively mandate-based authority claims, for instance, rarely gain the upper hand over epistemically grounded claims to deference. Moving away from the actor-focused conception of authority that prevails in the literature, this talk will argue that competing claims to authority in the international legal order are generally adjudicated on the basis of the deference pull of the authority attributes of the different",
+   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending online  \n Please note: this lecture will not be recorded.\n Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among international adjudicative bodies to the disputed allocation of powers among international and domestic authorities across various issue areas. What is common to all these situations is that each claim to authority is typically supported by some formal or informal basis for eliciting deference. Yet the practice shows that not all claims to deference entitlement are situated on the same plane, with some exerting greater attraction than others. Exclusively mandate-based authority claims, for instance, rarely gain the upper hand over epistemically grounded claims to deference. Moving away from the actor-focused conception of authority that prevails in the literature, this talk will argue that competing claims to authority in the international legal order are generally adjudicated on the basis of the deference",
    "url": "https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -800,7 +800,7 @@
    ],
    "alsoListed": [],
    "access": "online-register",
-   "accessNote": "Register here if attending online Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among internatio",
+   "accessNote": "Register here if attending online",
    "highlight": false,
    "highlightWhy": []
   },
@@ -875,30 +875,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
-   "title": "Cambridge Medical Law Society: Medical Negligence Moot 2nd round",
-   "start": "2026-11-28T09:00",
-   "end": "2026-11-28T10:00",
-   "allDay": false,
-   "venue": "TBC",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Saturday 28 November 2026 \n\n 9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st round: 7th November, 2nd round: 28th November, 3rd round: 30th January, times and location TBC)\n Put your advocacy skills to the test in our medical negligence moot. Participants will have the chance to grapple with a realistic medical law problem, develop oral advocacy skills and receive feedback across multiple rounds.\n Further details and the sign-up link will be released on our Instagram in mid-to-late October.\n Cambridge Medical Law Society:",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cambridge-medical-law-society-medical-negligence-moot-2nd-round",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -1550,6 +1526,31 @@
    "highlightWhy": []
   },
   {
+   "id": "talks-274394",
+   "title": "Working with Government and Policy Makers",
+   "start": "2027-01-14T14:15",
+   "end": "2027-01-14T15:00",
+   "allDay": false,
+   "venue": "Seminar Room 1, Newton Institute",
+   "speaker": "Julia Gog (University of Cambridge)",
+   "organiser": "Robert Barczyk",
+   "series": "Isaac Newton Institute Seminar Series",
+   "description": "",
+   "url": "https://talks.cam.ac.uk/talk/index/274394/",
+   "source": "talks.cam: Isaac Newton Institute Seminar Series",
+   "sourceGroup": "talks.cam",
+   "booking": null,
+   "topics": [
+    "Politics",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "talks-273975",
    "title": "Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the State",
    "start": "2027-01-19T14:00",
@@ -1924,6 +1925,31 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "talks-274399",
+   "title": "Writing Policy Impact into Funding Applications",
+   "start": "2027-03-04T09:00",
+   "end": "2027-03-04T12:30",
+   "allDay": false,
+   "venue": "West Hub, JJ Thomson Ave, Cambridge CB3 0US",
+   "speaker": "CSaP",
+   "organiser": "Tamsin Smyth",
+   "series": "Cambridge Reproduction",
+   "description": "A workshop from CSaP and Cambridge Reproduction\n Join the Centre for Science and Policy (CSaP) and Cambridge Reproduction's Policy and Reproductive Justice Theme for an interactive workshop exploring how researchers can identify, develop and communicate the policy relevance of their work.\n Funders increasingly expect researchers to demonstrate how their research may inform policy, influence practice, or contribute to societal outcomes. This workshop will help participants understand what policy impact looks like in practice and how to effectively articulate policy pathways and outcomes within funding applications.\n Through practical examples, case studies and interactive discussion, participants will explore approaches to policy engagement, learn how research can contribute to policy development, and gain tools for incorporating policy impact into project design from the outset.\n The workshop will cover: \n Understanding policy impact and why it matters to funders\n Identifying relevant policy audiences, stakeholders and opportunities for engagement\n Developing realistic and credible pathways to policy outcomes\n Articulating policy relevance and impact effectively in grant applications\n Learning from examples of successful policy engagement in reproductive research and beyond\n The session is open to researchers at all career stages and from all disciplines, from those new to policy engagement to those looking to strengthen the policy dimensions of their funding applications and",
+   "url": "https://talks.cam.ac.uk/talk/index/274399/",
+   "source": "talks.cam: Cambridge Reproduction",
+   "sourceGroup": "talks.cam",
+   "booking": null,
+   "topics": [
+    "Policy",
+    "Rights & Justice"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
