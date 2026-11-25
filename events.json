@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:36",
+ "generated": "2026-11-25T19:06",
  "topics": [
   "Law",
   "Politics",
@@ -20,6 +20,10 @@
    "ok": true,
    "count": 1
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 8
+  },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
@@ -34,19 +38,19 @@
   },
   "Judge Business School": {
    "ok": true,
-   "count": 8
+   "count": 7
   },
-  "King's E-Lab": {
+  "Faculty of Law": {
    "ok": true,
-   "count": 8
+   "count": 30
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
   },
-  "Faculty of Law": {
+  "Centre for Geopolitics": {
    "ok": true,
-   "count": 31
+   "count": 6
   },
   "Bennett": {
    "ok": true,
@@ -56,10 +60,6 @@
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 6
   },
   "talks.cam": {
    "ok": true,
@@ -135,56 +135,6 @@
    "topics": [
     "Law",
     "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
-   "title": "CELS Lunchtime Seminar: 'Compliance under the EU AI Act: How Firms Navigate Regulatory Complexity in the Digital Landscape'",
-   "start": "2026-11-25T13:00",
-   "end": "2026-11-25T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Professor Pablo Baquero, HEC Paris\n\n Date/time: \n\n Wednesday 25 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n B16\n\n About \n\n Biography : Pablo Marcello Baquero is Assistant Professor at HEC Paris and a Fellow at the Hi! Paris Center on Data Analytics and Artificial Intelligence for Science, Business and Society. He is a member of the Smart Law Hub at HEC Paris, is involved in different interdisciplinary academic communities focused on law and technology and collaborates closely with scholars across different disciplines, in projects at the intersection between law and AI.  His scholarly interests are in the fields of law and technology (particularly law and artificial intelligence and smart contracts), private law and international business transactions. His perspective is comparative and interdisciplinary, considering the intersection of law with computer science, economics, business and sociology. His research examines how legal institutions and technologies can support practices of innovation in a socially and economically inclusive way, contributing to disseminate to most firms the opportunities to produce in the frontiers of inn",
-   "url": "https://www.law.cam.ac.uk/events/cels-lunchtime-seminar-compliance-under-eu-ai-act-how-firms-navigate-regulatory-complexity",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_jROFaE58SGGjH7XBoHjIrA",
-   "topics": [
-    "Law",
-    "International",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "jbs-inside-a-frontier-tech-scale-up",
-   "title": "A first conversation inside a frontier tech scale up: AI, quantum and the human side of hyper growth",
-   "start": "2026-11-25T15:00",
-   "end": "2026-11-25T17:00",
-   "allDay": false,
-   "venue": "Cambridge Judge Business School",
-   "speaker": "",
-   "organiser": "Cambridge Judge Business School",
-   "series": "Alumni events Artificial Intelligence (AI) seminars Cambridge Digital Innovation",
-   "description": "Come hear quantum computing pioneer Ilyas Khan of Quantinuum speak with Virginia Leavell, Assistant Professor in Organisational Theory and Information Systems.",
-   "url": "https://www.jbs.cam.ac.uk/events/inside-a-frontier-tech-scale-up/",
-   "source": "Cambridge Judge Business School",
-   "sourceGroup": "Entrepreneurship",
-   "booking": null,
-   "topics": [
-    "Policy"
    ],
    "alsoListed": [],
    "access": "",
