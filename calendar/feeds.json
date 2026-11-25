@@ -2,7 +2,7 @@
  {
   "file": "calendar/all.ics",
   "name": "Cambridge Events (all)",
-  "count": 84
+  "count": 81
  },
  {
   "file": "calendar/highlights.ics",
@@ -22,7 +22,7 @@
  {
   "file": "calendar/international.ics",
   "name": "Cambridge Events: International",
-  "count": 24
+  "count": 22
  },
  {
   "file": "calendar/policy.ics",
@@ -52,6 +52,6 @@
  {
   "file": "calendar/effective-altruism.ics",
   "name": "Cambridge Events: Effective Altruism",
-  "count": 2
+  "count": 1
  }
 ]

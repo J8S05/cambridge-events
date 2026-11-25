@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T19:12",
+ "generated": "2026-11-25T01:30",
  "topics": [
   "Law",
   "Politics",
@@ -16,25 +16,25 @@
    "ok": true,
    "count": 0
   },
+  "Judge Business School": {
+   "ok": true,
+   "count": 8
+  },
+  "EA Cambridge": {
+   "ok": true,
+   "count": 1
+  },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "EA Cambridge": {
+  "Institute of Criminology": {
    "ok": true,
    "count": 2
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
-  },
-  "Judge Business School": {
-   "ok": true,
-   "count": 8
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 2
   },
   "King's E-Lab": {
    "ok": true,
@@ -44,17 +44,17 @@
    "ok": true,
    "count": 31
   },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 2
-  },
   "Bennett": {
+   "ok": true,
+   "count": 1
+  },
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
   },
   "Centre for Geopolitics": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Eventbrite": {
    "ok": true,
@@ -62,83 +62,10 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 16
+   "count": 15
   }
  },
  "events": [
-  {
-   "id": "talks-273132",
-   "title": "From boring to extraction: surveying, labour and the underground in colonial Assam and Burma, mid to late 19th century",
-   "start": "2026-11-23T13:00",
-   "end": "2026-11-23T14:00",
-   "allDay": false,
-   "venue": "Seminar Room 1, Department of History and Philosophy of Science",
-   "speaker": "Shreya Khaund (History, University of Warwick)",
-   "organiser": "Emma Kühnelt",
-   "series": "Cabinet of Natural History",
-   "description": "",
-   "url": "https://talks.cam.ac.uk/talk/index/273132/",
-   "source": "talks.cam: Cabinet of Natural History",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "ea-eryKIMsOgKhygHeventsluma",
-   "title": "How Can We Use Evidence To Do Good? CUSAP x EA Cambridge",
-   "start": "2026-11-23T19:00",
-   "end": "2026-11-23T21:00",
-   "allDay": false,
-   "venue": "Queens' College, Silver St, Cambridge CB3 9ET, UK",
-   "speaker": "",
-   "organiser": "Effective Altruism Cambridge",
-   "series": "",
-   "description": "Get up-to-date information at: https://luma.com/0x0oyww5\n\nAddress:\nQueens' College\nRoom is CC43, which is on thr 4th floor of Cripps Court. We will meet at the porters lodge at 7pm and direct you to the room! If you’re running late please message 07913820532.\nCambridge, United Kingdom\n\nHosted by EA Cambridge & Isha Harris",
-   "url": "https://luma.com/0x0oyww5",
-   "source": "EA Cambridge",
-   "sourceGroup": "Societies",
-   "booking": "https://luma.com/0x0oyww5",
-   "topics": [
-    "Law",
-    "Effective Altruism"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Sign up on Luma (free).",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "bennett-uk-digital-economics-2026",
-   "title": "Fifth workshop on UK digital economics",
-   "start": "2026-11-24T00:00",
-   "end": "2026-11-24T23:59",
-   "allDay": true,
-   "venue": "McGrath Centre St Catharine's College Cambridge CB2 1DS The UK – Research",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "The UK – Researcher Practitioner Network for the Economics of Digitization is pleased to present the 5th Workshop on Digital Economics.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/uk-digital-economics-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "To attend without submitting a paper, please register by emailing: ccp@uea.",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "talks-273869",
    "title": "“It’s lucky that we live in Iceland”: Nordic exceptionalism and narratives of climate in/vulnerability in contemporary Iceland",
@@ -207,35 +134,6 @@
    "topics": [
     "Law",
     "Politics"
-   ],
-   "alsoListed": [
-    {
-     "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/baxandall-lecture-can-courts-save-environment-without-weakening-democracy-rethinking"
-    }
-   ],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-the-baltic-moment-why-europes-edge-is-becoming-its-center",
-   "title": "The Baltic moment: Why Europe’s edge is becoming its center",
-   "start": "2026-11-24T18:30",
-   "end": null,
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/the-baltic-moment-why-europes-edge-is-becoming-its-center/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
    ],
    "alsoListed": [],
    "access": "",
@@ -466,6 +364,31 @@
    "highlightWhy": []
   },
   {
+   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
+   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:00",
+   "allDay": false,
+   "venue": "David Attenborough Building, Room 1.25",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
+   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": "https://forms.office.com/e/K4QaYcz4mi",
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
    "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
    "start": "2026-11-26T15:00",
@@ -487,31 +410,6 @@
    ],
    "alsoListed": [],
    "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
-   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
    "accessNote": "",
    "highlight": false,
    "highlightWhy": []
@@ -2094,6 +1992,31 @@
    "highlightWhy": [
     "Senior figure speaking (CEO)"
    ]
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-and-comparative-law",
+   "title": "Law and the Climate Crisis Seminars: 'Climate Change and Comparative Law'",
+   "start": "2027-02-26T16:00",
+   "end": "2027-02-26T17:00",
+   "allDay": false,
+   "venue": "David Attenborough Building",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Date/time: \n\n Friday 26 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr Ivano Alogna (British Institute for International and Comparative Law)\n The Cambridge Seminar Series on Law and the Climate Crisis explores the vital role of legal systems in tackling one of the most pressing issues of our time.\n This series brings together top experts in law and climate action to discuss how climate change interacts with specific areas of law, setting out both how legal fields are being impacted by climate change and how the law can help drive climate action.\n The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by the Centre for Climate Engagement at Hughes Hall, Cambridge Zero, the Centre for Environment, Energy and Natural Resource Governance (CEENRG), the Cambridge Climate Society, the Lauterpacht Centre for International Law, and the Net Zero Lawyers Alliance.\n For more information and to register see the Centre for Climate Engagement website .",
+   "url": "https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-and-comparative-law",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law",
+    "Policy"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
+   "highlight": false,
+   "highlightWhy": []
   },
   {
    "id": "talks-274399",
