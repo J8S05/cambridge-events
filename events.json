@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:37",
+ "generated": "2026-11-25T13:36",
  "topics": [
   "Law",
   "Politics",
@@ -24,29 +24,29 @@
    "ok": true,
    "count": 2
   },
-  "Judge Business School": {
+  "Institute of Criminology": {
    "ok": true,
-   "count": 8
+   "count": 2
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
-  "Institute of Criminology": {
+  "Judge Business School": {
    "ok": true,
-   "count": 2
+   "count": 8
   },
   "King's E-Lab": {
    "ok": true,
    "count": 8
   },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 31
-  },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
+  },
+  "Faculty of Law": {
+   "ok": true,
+   "count": 31
   },
   "Bennett": {
    "ok": true,
