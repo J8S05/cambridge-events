@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:30",
+ "generated": "2026-11-26T07:35",
  "topics": [
   "Law",
   "Politics",
@@ -20,41 +20,41 @@
    "ok": true,
    "count": 1
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 7
-  },
-  "Cambridge Enterprise": {
-   "ok": true,
-   "count": 2
-  },
   "Institute of Criminology": {
    "ok": true,
    "count": 2
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 7
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 1
   },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
+  },
   "King's E-Lab": {
    "ok": true,
    "count": 7
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 5
-  },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 2
   },
   "Faculty of Law": {
    "ok": true,
    "count": 30
   },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 2
+  },
   "Bennett": {
    "ok": true,
    "count": 1
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 5
   },
   "Eventbrite": {
    "ok": true,
