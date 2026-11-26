@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273143@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
  ltdg-cons@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261201T181500
 DTEND;TZID=Europe/London:20261201T194500
 SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Is Consent Fundam
@@ -83,7 +83,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273144@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:Institute of Criminology - Professor Andreas von Hirsch Memorial Ev
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-tham
  es-valley@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261203T130000
 DTEND;TZID=Europe/London:20261203T140000
 SUMMARY:Private Law Seminar Series: 'Tindall v Thames Valley Police: the en
@@ -129,35 +129,5 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
  een 12.30pm and 1pm\; seminar to commence in the G24 at 1pm.\n This semina
  r is open to all LLM\, MCL and PhD students\, Faculty members and Faculty 
  visitors.
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
- -special-@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261204T130000
-DTEND;TZID=Europe/London:20261204T140000
-SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
- bunal for the Crime of Aggression against Ukraine?'
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation-w
- hat-special-about-special-tribunal-crime-aggression-against-ukraine
-CATEGORIES:Law,International,Criminology
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
- ils: https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation
- -what-special-about-special-tribunal-crime-aggression-against-ukraine\nSig
- n-up only to join online: https://cam-ac-uk.zoom.us/webinar/register/WN_63
- c_m3-CQVuG0bm6uCOPfw\nDate/time: \n\n Friday 4 December 2026 \n\n 1:00pm t
- o 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n B
- erkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending onl
- ine   At a time when some international courts and tribunals are under at
- tack\, defunded or otherwise obstructed\, a new one is being created: the 
- Special Tribunal for the Crime of Aggression against Ukraine. Ukrainian le
- gal scholar Dr Gaiane Nuridzhanian \, in conversation with LCIL Fellow Pro
- fessor Sarah Nouwen\, will explore what is special about the tribunal: why
-  is it needed\, what is its legal nature\, what are its prospects and the 
- role in the development of international law? \n There is a sandwich lunc
- h at 12.30 pm in the Old Library at the Centre. All lecture attendees welc
- ome.\n The Friday Lunchtime Lecture series is kindly supported by Cambridg
- e University Press & Assessment .
 END:VEVENT
 END:VCALENDAR

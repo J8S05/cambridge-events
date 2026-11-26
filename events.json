@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:34",
+ "generated": "2026-11-26T19:13",
  "topics": [
   "Law",
   "Politics",
@@ -16,13 +16,17 @@
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 7
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 1
+  },
+  "Bennett": {
+   "ok": true,
+   "count": 0
+  },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 0
   },
   "Cambridge Enterprise": {
    "ok": true,
@@ -36,30 +40,26 @@
    "ok": true,
    "count": 1
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 6
+  },
   "Judge Business School": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 30
-  },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 2
-  },
-  "Centre for Geopolitics": {
-   "ok": true,
-   "count": 5
-  },
-  "Bennett": {
-   "ok": true,
-   "count": 1
+   "count": 25
   },
   "Eventbrite": {
    "ok": true,
    "count": 0,
    "note": "HTTP 405"
+  },
+  "Centre for Geopolitics": {
+   "ok": true,
+   "count": 5
   },
   "talks.cam": {
    "ok": true,
@@ -67,31 +67,6 @@
   }
  },
  "events": [
-  {
-   "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
-   "title": "Algorithmic Domination and Oligarchic Worldmaking",
-   "start": "2026-11-25T17:00",
-   "end": null,
-   "allDay": false,
-   "venue": "Si, Alison Richard Building",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "This talk examines how algorithmic systems enable oligarchic power to shape society while appearing to operate through popular choice.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/algorithmic-domination-and-oligarchic-worldmaking/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "talks-273072",
    "title": "Peter Clark on \"Potential mechanisms for assembly of pre-cellular replicating molecular assemblies (chiral selection and steps to the proton motive force)\"",
@@ -109,106 +84,6 @@
    "booking": null,
    "topics": [
     "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-university-cambridge-barristers-fair-2026",
-   "title": "University of Cambridge Barristers Fair 2026",
-   "start": "2026-11-26T13:00",
-   "end": "2026-11-26T14:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n About \n\n Meet a niche group of organisations offering pupillages at the official University of Cambridge Barristers Fair. This event will help you find answers to all the questions you have about the Bar from those working at a cross-section of chambers as well as representatives from Law Schools. Learn more about routes in to the profession, qualifications needed to become a barrister and funding options available. Practicing barristers will share their experience of the Bar as well as different practice areas and application tips.\n Who is this event for? Students and recent graduates wanting to engage directly with organisations looking for barristers in an informal setting to:\n develop insights into different company cultures, working practices and career paths and compare what they have to offer discuss career paths and job roles and where you might fit gain inside information on hiring and selection processes build your network To get the most out of the event, we advise you to read our careers resources for aspiring Barristers\n Entry is restricted to curren",
-   "url": "https://www.law.cam.ac.uk/events/university-cambridge-barristers-fair-2026",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reaity-normatively-structures",
-   "title": "CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "Online webinar",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Online webinar\n\n About \n\n The Cambridge Forum for Legal & Political Philosophy will host its second 2026 Michaelmas Term monthly seminar on Thursday, November 26th, at 3:00pm, through Zoom. The seminar will be chaired by Thomas Bullemore, who is a DPhil candidate at Oxford University. The title of his talk is \"Is Reality Normatively Structured?\"\n Anyone interested in legal or political philosophy is welcome to attend the seminar. If you would like to receive the Zoom invitation, you should please write to Professor Matthew Kramer ( mhk11@cam.ac.uk ). Please write from an institutional email account rather than from a generic account such as gmail or hotmail.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/11/cflpp-monthly-seminar-reaity-normatively-structures",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Politics",
-    "Political Thought"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-courts-promising-route",
-   "title": "CEENRG Seminars: 'Climate Change before National Courts: a Promising Route?'",
-   "start": "2026-11-26T15:00",
-   "end": "2026-11-26T16:00",
-   "allDay": false,
-   "venue": "David Attenborough Building, Room 1.25",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Professor Andreas Paulus (Professor, Chair of Public and International Law, University of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n David Attenborough Building, Room 1.25\n\n Open map \n\n About \n\n Climate change litigation has made its way from domestic courts to international courts. Of the former, some have refused to reign in parliaments, others have established long-term constitutional duties towards the younger and future generations, inter alia the need to cooperate rather than freeride, the budget approach to figure out a fair burden-sharing. International Courts have followed suit, demanding a judicial control of climate legislation for future generations, espousing the concept of rights of nature, clarifying the climate goal, the differentiated State responsibility, and the customary nature of reduction duties. The speaker, who served as a judge in the Neuberger case before the German Federal Constitutional Court, reflects on the effect of these decisions and what role courts can play at a time of rising disinterest for the dangers of global warming. \n The Cambridge Centre for Environment, Energy, and Natural Resource Governan",
-   "url": "https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-route",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://forms.office.com/e/K4QaYcz4mi",
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "jbs-pitch-and-judge-5-autumn-2026",
-   "title": "Pitch @ Judge #5 – Autumn 2026",
-   "start": "2026-11-26T16:00",
-   "end": "2026-11-26T17:30",
-   "allDay": false,
-   "venue": "Cambridge Judge Business School",
-   "speaker": "",
-   "organiser": "Cambridge Judge Business School",
-   "series": "Accelerate Cambridge On-campus events",
-   "description": "Ventures pitching: Aenergy, Synthility, Vet Validaite, ReasearchIQ, LuminidsAI",
-   "url": "https://www.jbs.cam.ac.uk/events/pitch-and-judge-5-autumn-2026/",
-   "source": "Cambridge Judge Business School",
-   "sourceGroup": "Entrepreneurship",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Entrepreneurship"
    ],
    "alsoListed": [],
    "access": "",
@@ -237,31 +112,6 @@
    "alsoListed": [],
    "access": "",
    "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "elab-6a54f54a92a5d806b925ed23",
-   "title": "The Swedish Connection: Film Screening and Q&A with Marcus Olsson",
-   "start": "2026-11-26T16:30",
-   "end": "2026-11-26T19:00",
-   "allDay": false,
-   "venue": "King's College, King's Parade",
-   "speaker": "",
-   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
-   "series": "",
-   "description": "Join us for a screening of a new Netflix original film, The Swedish Connection , a historical drama about a Swedish bureaucrat who attempts to save Jewish refugees during the Second World War. The screening will be followed by a Q&A with Marcus Olsson, who wrote and directed the film with Thérèse Ahlbec. There will also be a drinks reception.",
-   "url": "https://www.kingselab.org/all-events/marcus-olsson",
-   "source": "King's E-Lab",
-   "sourceGroup": "Entrepreneurship",
-   "booking": "https://www.eventbrite.com/e/the-swedish-connection-film-screening-and-qa-with-marcus-olsson-tickets-2004897897582?aff=oddtdtcreator",
-   "topics": [
-    "Entrepreneurship",
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "TICKETS: Please register on Eventbrite.",
    "highlight": false,
    "highlightWhy": []
   },
@@ -306,7 +156,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
+   "description": "This event has already happened\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 5:00pm to 6:00pm\n\n Location: \n\n Downing College, West Lodge & Maitland Room\n\n About \n\n Following a brief introduction by 3VB's Rajesh Pillai KC, members of 3VB will offer first-hand insights into two recent landmark cases, exploring how legal decisions are reached and the role of barristers in shaping them.\n Dominic Kennelly will discuss Spain v Infrastructure Services Luxembourg [2026] UKSC 9, concerning state immunity and the enforcement of international arbitration awards, while William Day and Amelia-Rose Edwards will explore Gatwick Investment Ltd v Liberty Mutual Insurance Europe SE [2026] UKSC 14, addressing contractual interpretation and causation in private law.\n The talks will be followed by drinks, refreshments and an opportunity to network with members of Chambers.\n RSVP: events@3vb.com",
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/3vbs-university-cambridge-event",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -329,30 +179,6 @@
    ]
   },
   {
-   "id": "elab-6b02f6f82cbf981f30fdd812",
-   "title": "POSTPONED: Building the Future: Technology and Innovation with Kathleen Fisher",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T18:30",
-   "allDay": false,
-   "venue": "King's College, King's Parade",
-   "speaker": "",
-   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
-   "series": "",
-   "description": "Please note that this even has been postponed.",
-   "url": "https://www.kingselab.org/all-events/kathleen-fisher-postponed",
-   "source": "King's E-Lab",
-   "sourceGroup": "Entrepreneurship",
-   "booking": null,
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Attendance at E-Lab events is strictly ticketed.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "dept-www-law-cam-ac-uk-events-cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
    "title": "CIPIL Evening Seminar: 'The Importance of Emotional Perception: A Dissection of its Impact on Patent Law'",
    "start": "2026-11-26T17:30",
@@ -362,7 +188,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney responsible for the UK Supreme Court’s",
+   "description": "This event has already happened\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 5:30pm to 6:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Bruce Dearling, Partner, Hepworth Browne\n Abstract: The decision of the UK Supreme Court in [2026] UKSC 3-Emotional Perception AI vs. Comptroller General of Patents was reported in The Times as “seismic” both because of the systemic changes it brought to multiple tenets of UK patent law and its economic significance. The presentation will unpack the issues decided by the UKSC with reference to the subsequent treatment of EPAI’s patent application on its remittal to the UKIPO for consideration of the “intermediate step” - especially having regard to the EPO’s Enlarged Board of Appeal decision G1/19 and the assessment of what constitutes a patentable “invention.”\n Biography: Bruce is a shareholder at Hepworth Browne and has oversight responsibilities for inventions in the fields of AI, computer-implemented inventions (CIIs), and business technologies. Bruce has over 35 years of private practice and industrial directorship/VP-level experience in the UK and internationally. He is the instructing attorney respo",
    "url": "https://www.law.cam.ac.uk/events/cipil-evening-seminar-importance-emotional-perception-dissection-its-impact-patent-law",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -373,33 +199,6 @@
    "alsoListed": [],
    "access": "online-register",
    "accessNote": "This event is a hybrid event - to attend online you must register via Zoom .",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "bennett-annual-public-policy-lecture-2026",
-   "title": "Annual Public Policy Lecture: We’re all going to die! (Or are we?)",
-   "start": "2026-11-26T17:30",
-   "end": "2026-11-26T19:00",
-   "allDay": false,
-   "venue": "Lee Seng Tee Hall, Wolfson College, Bar",
-   "speaker": "",
-   "organiser": "Bennett School of Public Policy",
-   "series": "",
-   "description": "Drawing on her experience as an entrepreneur, legislator and board member, Martha Lane Fox will explore what AI could mean for the next 50 years, including its effects on work, business, entrepreneurial opportunity, existing institutions, culture, security and defence. Chaired by Prof Diane Coyle, Bennett Professor of Public Policy, University of Cambridge.",
-   "url": "https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture-2026/",
-   "source": "Bennett School of Public Policy",
-   "sourceGroup": "Department",
-   "booking": "https://www.eventbrite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we-tickets-2003663362053",
-   "topics": [
-    "Law",
-    "International",
-    "Policy",
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Book Your Place",
    "highlight": false,
    "highlightWhy": []
   },
@@ -519,6 +318,31 @@
    "booking": null,
    "topics": [
     "International"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "dept-www-law-cam-ac-uk-events-law-sport-and-social-justice-lessons-cricket-india-south-africa-and-uk",
+   "title": "Law, Sport and Social Justice: Lessons in Cricket from India, South Africa, and the UK",
+   "start": "2026-11-27T17:45",
+   "end": "2026-11-27T18:45",
+   "allDay": false,
+   "venue": "Lucy Cavendish College",
+   "speaker": "",
+   "organiser": "Faculty of Law",
+   "series": "",
+   "description": "Dr Shubham Jain (Lecturer, Manchester Law School; Research Fellow, Centre for Sport and Human Rights)\n\n Date/time: \n\n Friday 27 November 2026 \n\n 5:45pm to 6:45pm\n\n Location: \n\n Lucy Cavendish College\n\n Wolfson Room\n\n About \n\n Cambridge Lucy India Futures Forum Drawing on fieldwork in India and expert consultations in South Africa and the UK, this talk explores who really gets to play – how socio-economic and identity-based barriers, deepened by corruption and climate change, shape access to cricket from the grassroots to the professional game, and what legal reform can and cannot change.\n 5:30pm for a 5:45pm start",
+   "url": "https://www.law.cam.ac.uk/events/law-sport-and-social-justice-lessons-cricket-india-south-africa-and-uk",
+   "source": "Faculty of Law",
+   "sourceGroup": "Department",
+   "booking": null,
+   "topics": [
+    "Law",
+    "Rights & Justice"
    ],
    "alsoListed": [],
    "access": "",
@@ -800,31 +624,6 @@
    "highlightWhy": []
   },
   {
-   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
-   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
-   "start": "2026-12-02T17:00",
-   "end": "2026-12-02T18:30",
-   "allDay": false,
-   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "centre-gender-populism-and-the-far-right-a-case-study-of-germanys-afd",
    "title": "The AfD, gender and the normalisation of right-wing extremism",
    "start": "2026-12-02T17:30",
@@ -998,56 +797,6 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-humanities-exploration-day-2026",
-   "title": "Humanities Exploration Day 2026",
-   "start": "2026-12-04T09:30",
-   "end": "2026-12-04T14:30",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 4 December 2026 \n\n 9:30am to 2:30pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n Open map \n\n Sign up\n\n About \n\n The University of Cambridge is hosting a Humanities Exploration Day for Year 12 students on the 4th December 2026 here in Cambridge. The aim is to give students the opportunity to experience university-level teaching in a range of humanities subjects, to enrich their current studies and to help them decide which subject might be the best choice for them going forward.\n Who is the day for?  Year 12 students who may be interested in pursuing a subject like Law, English, History, Classics, Archaeology, or Languages at a selective university, but would like more help deciding which is the right subject for them.\n We also welcome applications from school groups of higher attaining year 11 students who are planning to study Arts and Humanities A-levels. \n There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants. Each student will need to be registered separately. Please contact us at  humanitiesdays@csah.cam.ac.uk  \n Priority will be given to UK",
-   "url": "https://www.law.cam.ac.uk/events/humanities-exploration-day-2026",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://www.tickettailor.com/events/facultyofclassicsuniversityofcambridge/2444714",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "There is no minimum or maximum group size for school groups, but places are limited and we cannot guarantee we will be able to accommodate all applicants.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
-   "title": "LCIL lunchtime conversation: 'What is Special about the Special Tribunal for the Crime of Aggression against Ukraine?'",
-   "start": "2026-12-04T13:00",
-   "end": "2026-12-04T14:00",
-   "allDay": false,
-   "venue": "Lauterpacht Centre for International Law",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 4 December 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending online   At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special Tribunal for the Crime of Aggression against Ukraine. Ukrainian legal scholar Dr Gaiane Nuridzhanian , in conversation with LCIL Fellow Professor Sarah Nouwen, will explore what is special about the tribunal: why is it needed, what is its legal nature, what are its prospects and the role in the development of international law? \n There is a sandwich lunch at 12.30 pm in the Old Library at the Centre. All lecture attendees welcome.\n The Friday Lunchtime Lecture series is kindly supported by Cambridge University Press & Assessment .",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/12/lunchtime-conversation-what-special-about-special-tribunal-crime-aggression-against-ukraine",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_63c_m3-CQVuG0bm6uCOPfw",
-   "topics": [
-    "Law",
-    "International",
-    "Criminology"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "Register here if attending online At a time when some international courts and tribunals are under attack, defunded or otherwise obstructed, a new one is being created: the Special",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
    "id": "centre-belarus-and-the-baltic-after-2022",
    "title": "Belarus and the Baltic after 2022",
    "start": "2026-12-04T17:30",
@@ -1168,27 +917,28 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-press-events-2026-12-cflpp-monthly-seminar-can-there-be-feminist-general-jurisprudence",
-   "title": "CFLPP Monthly Seminar: 'Can There be a Feminist General Jurisprudence?'",
-   "start": "2026-12-15T15:00",
-   "end": "2026-12-15T16:00",
+   "id": "elab-6b087f41842ab15edaff34f1",
+   "title": "Food Security and Innovation with Henry Dimbleby (Co-Founder of LEON)",
+   "start": "2026-12-10T17:30",
+   "end": "2026-12-10T18:30",
    "allDay": false,
-   "venue": "Online webinar",
+   "venue": "King's College, King's Parade",
    "speaker": "",
-   "organiser": "Faculty of Law",
+   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
    "series": "",
-   "description": "Date/time: \n\n Tuesday 15 December 2026 \n\n 3:00pm to 4:00pm\n\n Location: \n\n Online webinar\n\n About \n\n The Cambridge Forum for Legal & Political Philosophy will host its third 2026 Michaelmas Term monthly seminar on Tuesday, December 15th, at 3:00pm, through Zoom. The seminar will be chaired by Ira Chadha-Sridhar, who is currently an Assistant Professor in the Warwick University Law School. The title of her talk is \"Can There be a Feminist General Legal Jurisprudence?\"\n Anyone interested in legal or political philosophy is welcome to attend the seminar. If you would like to receive the Zoom invitation, you should please write to Professor Matthew Kramer ( mhk11@cam.ac.uk ). Please write from an institutional email account rather than from a generic account such as gmail or hotmail.",
-   "url": "https://www.law.cam.ac.uk/press/events/2026/12/cflpp-monthly-seminar-can-there-be-feminist-general-jurisprudence",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
+   "description": "Join us for our final fireside of the year with Henry Dimbleby, who set out to prove that fast food could be good food when he co-founded LEON, and he has spent the years since trying to change how Britain eats, first as a government adviser and author of the National Food Strategy, and now as an investor.",
+   "url": "https://www.kingselab.org/all-events/henry-dimbleby",
+   "source": "King's E-Lab",
+   "sourceGroup": "Entrepreneurship",
    "booking": null,
    "topics": [
-    "Law",
-    "Rights & Justice"
+    "Politics",
+    "International",
+    "Entrepreneurship"
    ],
    "alsoListed": [],
-   "access": "",
-   "accessNote": "",
+   "access": "register",
+   "accessNote": "Attendance at E-Lab events is strictly ticketed.",
    "highlight": false,
    "highlightWhy": []
   },

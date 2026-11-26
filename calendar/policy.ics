@@ -25,60 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-c
- ourts-pro@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T150000
-DTEND;TZID=Europe/London:20261126T160000
-SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
- g Route?'
-LOCATION:David Attenborough Building\, Room 1.25
-URL:https://www.law.cam.ac.uk/events/ceenrg-seminars-climate-change-nationa
- l-courts-promising-route
-CATEGORIES:Law,Policy
-DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
- cam.ac.uk/events/ceenrg-seminars-climate-change-national-courts-promising-
- route\nSign-up needed: https://forms.office.com/e/K4QaYcz4mi\nProfessor An
- dreas Paulus (Professor\, Chair of Public and International Law\, Universi
- ty of Göttingen)\n\n Date/time: \n\n Thursday 26 November 2026 \n\n 3:00p
- m to 4:00pm\n\n Location: \n\n David Attenborough Building\, Room 1.25\n\n
-  Open map \n\n About \n\n Climate change litigation has made its way from 
- domestic courts to international courts. Of the former\, some have refused
-  to reign in parliaments\, others have established long-term constitutiona
- l duties towards the younger and future generations\, inter alia the need 
- to cooperate rather than freeride\, the budget approach to figure out a fa
- ir burden-sharing. International Courts have followed suit\, demanding a j
- udicial control of climate legislation for future generations\, espousing 
- the concept of rights of nature\, clarifying the climate goal\, the differ
- entiated State responsibility\, and the customary nature of reduction duti
- es. The speaker\, who served a
-END:VEVENT
-BEGIN:VEVENT
-UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T173000
-DTEND;TZID=Europe/London:20261126T190000
-SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
- )
-LOCATION:Lee Seng Tee Hall\, Wolfson College\, Bar
-URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
- -2026/
-CATEGORIES:Law,International,Policy,Entrepreneurship
-DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
- Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
- brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
- -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
- islator and board member\, Martha Lane Fox will explore what AI could mean
-  for the next 50 years\, including its effects on work\, business\, entrep
- reneurial opportunity\, existing institutions\, culture\, security and def
- ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
- niversity of Cambridge.
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -106,7 +55,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -121,7 +70,7 @@ DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -138,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -164,7 +113,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -189,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -205,7 +154,7 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274394@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270114T141500
 DTEND;TZID=Europe/London:20270114T150000
 SUMMARY:Working with Government and Policy Makers
@@ -218,7 +167,7 @@ DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -244,7 +193,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -261,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -289,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -316,7 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -343,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -370,7 +319,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274399@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270304T090000
 DTEND;TZID=Europe/London:20270304T123000
 SUMMARY:Writing Policy Impact into Funding Applications
@@ -396,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ

@@ -25,22 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:jbs-pitch-and-judge-5-autumn-2026@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T160000
-DTEND;TZID=Europe/London:20261126T173000
-SUMMARY:Pitch @ Judge #5 – Autumn 2026
-LOCATION:Cambridge Judge Business School
-URL:https://www.jbs.cam.ac.uk/events/pitch-and-judge-5-autumn-2026/
-CATEGORIES:Law,Entrepreneurship
-DESCRIPTION:Accelerate Cambridge On-campus events\nTopics: Law\, Entreprene
- urship\nDetails: https://www.jbs.cam.ac.uk/events/pitch-and-judge-5-autumn
- -2026/\nVentures pitching: Aenergy\, Synthility\, Vet Validaite\, Reasearc
- hIQ\, LuminidsAI
-END:VEVENT
-BEGIN:VEVENT
 UID:elab-6afb054f81a2b23ad553feef@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261126T163000
 DTEND;TZID=Europe/London:20261126T210000
 SUMMARY:Laidlaw Scholars 2025 Cohort Graduation
@@ -54,63 +40,8 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
   programme.
 END:VEVENT
 BEGIN:VEVENT
-UID:elab-6a54f54a92a5d806b925ed23@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T163000
-DTEND;TZID=Europe/London:20261126T190000
-SUMMARY:The Swedish Connection: Film Screening and Q&A with Marcus Olsson
-LOCATION:King's College\, King's Parade
-URL:https://www.kingselab.org/all-events/marcus-olsson
-CATEGORIES:Entrepreneurship,International
-DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\, International\nDetails: https://www.kingselab.org/all-events/marcu
- s-olsson\nSign-up needed: https://www.eventbrite.com/e/the-swedish-connect
- ion-film-screening-and-qa-with-marcus-olsson-tickets-2004897897582?aff=odd
- tdtcreator\nJoin us for a screening of a new Netflix original film\, The S
- wedish Connection \, a historical drama about a Swedish bureaucrat who att
- empts to save Jewish refugees during the Second World War. The screening w
- ill be followed by a Q&A with Marcus Olsson\, who wrote and directed the f
- ilm with Thérèse Ahlbec. There will also be a drinks reception.
-END:VEVENT
-BEGIN:VEVENT
-UID:elab-6b02f6f82cbf981f30fdd812@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T173000
-DTEND;TZID=Europe/London:20261126T183000
-SUMMARY:POSTPONED: Building the Future: Technology and Innovation with Kath
- leen Fisher
-LOCATION:King's College\, King's Parade
-URL:https://www.kingselab.org/all-events/kathleen-fisher-postponed
-CATEGORIES:Entrepreneurship
-DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
- rship\nDetails: https://www.kingselab.org/all-events/kathleen-fisher-postp
- oned\nSign-up needed\nPlease note that this even has been postponed.
-END:VEVENT
-BEGIN:VEVENT
-UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261126T133442Z
-DTSTART;TZID=Europe/London:20261126T173000
-DTEND;TZID=Europe/London:20261126T190000
-SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
- )
-LOCATION:Lee Seng Tee Hall\, Wolfson College\, Bar
-URL:https://www.bennettschool.cam.ac.uk/events/annual-public-policy-lecture
- -2026/
-CATEGORIES:Law,International,Policy,Entrepreneurship
-DESCRIPTION:Bennett School of Public Policy\nTopics: Law\, International\, 
- Policy\, Entrepreneurship\nDetails: https://www.bennettschool.cam.ac.uk/ev
- ents/annual-public-policy-lecture-2026/\nSign-up needed: https://www.event
- brite.co.uk/e/annual-public-policy-lecture-were-all-going-to-die-or-are-we
- -tickets-2003663362053\nDrawing on her experience as an entrepreneur\, leg
- islator and board member\, Martha Lane Fox will explore what AI could mean
-  for the next 50 years\, including its effects on work\, business\, entrep
- reneurial opportunity\, existing institutions\, culture\, security and def
- ence. Chaired by Prof Diane Coyle\, Bennett Professor of Public Policy\, U
- niversity of Cambridge.
-END:VEVENT
-BEGIN:VEVENT
 UID:elab-6aa94fc5fe463936242563f7@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261129T090000
 DTEND;TZID=Europe/London:20261129T170000
 SUMMARY:Laidlaw Programme Leadership and Research Day
@@ -123,7 +54,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
 END:VEVENT
 BEGIN:VEVENT
 UID:ce-commercialisation-101-online-essentials@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261130T093000
 DTEND;TZID=Europe/London:20261130T103000
 SUMMARY:Commercialisation 101: Online Essentials
@@ -136,7 +67,7 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-retail-capital-in-venture-capital@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261201T111500
 DTEND;TZID=Europe/London:20261201T123000
 SUMMARY:Retail capital as a stepping stone in venture capital: theory and e
@@ -151,7 +82,7 @@ DESCRIPTION:Finance Seminar Series On-campus events Research seminars\nTopi
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6ac8d6d2677c0f2331acd7cb@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261203T173000
 DTEND;TZID=Europe/London:20261203T183000
 SUMMARY:Rebuild Identity First: Failing Well with Rachel Higham
@@ -167,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ce-from-research-to-resonance-turning-ideas-into-ventures@cambridge-eve
  nts
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261204T093000
 DTEND;TZID=Europe/London:20261204T103000
 SUMMARY:From Research to Resonance: Turning Ideas into Ventures
@@ -180,7 +111,7 @@ DESCRIPTION:Cambridge Enterprise\nTopics: Entrepreneurship\nDetails: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6afb0228b1f9cf292ded16a4@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20261205T123000
 DTEND;TZID=Europe/London:20261205T143000
 SUMMARY:Essay Competition Prizegiving Ceremony
@@ -193,8 +124,26 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Entrepreneu
  e winners of the 2026 Essay Prize Competition.
 END:VEVENT
 BEGIN:VEVENT
+UID:elab-6b087f41842ab15edaff34f1@cambridge-events
+DTSTAMP:20261126T191319Z
+DTSTART;TZID=Europe/London:20261210T173000
+DTEND;TZID=Europe/London:20261210T183000
+SUMMARY:Food Security and Innovation with Henry Dimbleby (Co-Founder of LEO
+ N)
+LOCATION:King's College\, King's Parade
+URL:https://www.kingselab.org/all-events/henry-dimbleby
+CATEGORIES:Politics,International,Entrepreneurship
+DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Politics\, 
+ International\, Entrepreneurship\nDetails: https://www.kingselab.org/all-e
+ vents/henry-dimbleby\nSign-up needed\nJoin us for our final fireside of th
+ e year with Henry Dimbleby\, who set out to prove that fast food could be 
+ good food when he co-founded LEON\, and he has spent the years since tryin
+ g to change how Britain eats\, first as a government adviser and author of
+  the National Food Strategy\, and now as an investor.
+END:VEVENT
+BEGIN:VEVENT
 UID:elab-6b02f9c9af04e33bd3f411ce@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270225T173000
 DTEND;TZID=Europe/London:20270225T183000
 SUMMARY:Building the Future: Technology and Innovation with Kathleen Fisher
@@ -212,7 +161,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nHighlight: Senior f
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-frontier-tech-female-founders-day@cambridge-events
-DTSTAMP:20261126T133442Z
+DTSTAMP:20261126T191319Z
 DTSTART;TZID=Europe/London:20270308T084500
 DTEND;TZID=Europe/London:20270308T173000
 SUMMARY:Frontier Tech Female Founders Day
