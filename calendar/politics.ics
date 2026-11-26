@@ -25,87 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:talks-273869@cambridge-events
-DTSTAMP:20261125T190634Z
-DTSTART;TZID=Europe/London:20261124T163000
-DTEND;TZID=Europe/London:20261124T180000
-SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
- nd narratives of climate in/vulnerability in contemporary Iceland
-LOCATION:Scott Polar Research Institute\, Lecture Theatre
-URL:https://talks.cam.ac.uk/talk/index/273869/
-CATEGORIES:Politics,International,Policy
-DESCRIPTION:Speaker: Utsa Mukherjee (Education\, Brunel University of Londo
- n)\nScott Polar Research Institute - HCEP (Histories\, Cultures\, Environm
- ents and Politics) Research Seminars\nTopics: Politics\, International\, P
- olicy\nDetails: https://talks.cam.ac.uk/talk/index/273869/\nWhile climate 
- vulnerability\, that is the geographical distribution of risks on account 
- of the climate crisis\, is widely discussed\; relatively little scholarly 
- attention has been paid to how colonial fantasies of climate invulnerabili
- ty underpin climate inaction and justify the maintenance of status quo (We
- atherill\, 2025). This paper contributes to the emergent body of critical 
- scholarship on the politics of climate in/vulnerability through a focus on
-  contemporary Iceland. Drawing on in-depth interviews with more than 80 pa
- rticipants from across Iceland\, who recognise the reality of anthropogeni
- c climate change and are committed to climate action\, we show how Iceland
- ’s geographical location is invoked by participants to advance ideas of 
- relative climate in/vulnerability of the island. Analysed through prisms o
- f critical feminist and decolonial politics\, these narratives assume two 
- main fo
-END:VEVENT
-BEGIN:VEVENT
-UID:talks-273765@cambridge-events
-DTSTAMP:20261125T190634Z
-DTSTART;TZID=Europe/London:20261124T170000
-DTEND;TZID=Europe/London:20261124T180000
-SUMMARY:Kropotkin’s Anarchist Animals
-LOCATION:Small Lecture Theatre\, Department of Geography
-URL:https://talks.cam.ac.uk/talk/index/273765/
-CATEGORIES:Politics
-DESCRIPTION:Speaker: David Nally\, University of Cambridge\nPolitical Ecolo
- gy Group Seminar Series\nTopics: Politics\nDetails: https://talks.cam.ac.u
- k/talk/index/273765/\nAnarchists have long argued that cooperation\, more 
- than competition\, drives evolution. In that spirit\, this seminar practis
- es mutual aid of the most intimate kind\, drawing generously on\, and rare
- ly straying beyond\, the author’s own recent work (Nally 2026). Pyotr Kr
- opotkin (1842–1921)\, perhaps the best-known anarchist of all\, was a Ru
- ssian geographer of royal lineage (he descended from the Rurik dynasty) wh
- o renounced the title of ‘Prince’ and devoted himself to the struggle 
- against domination. He idolised Alexander von Humboldt\, yet he declined t
- he offer of a Chair in Geography at Cambridge because it required him to g
- ive up his pollical convictions. Natural scientists know Kropotkin for his
-  pioneering analysis of ‘mutual aid’ among nonhumans\, whereas social 
- scientists know him better for his rigorous defence of anarchism as philos
- ophy and ideal. While most scholars have held these two 
-END:VEVENT
-BEGIN:VEVENT
-UID:talks-274135@cambridge-events
-DTSTAMP:20261125T190634Z
-DTSTART;TZID=Europe/London:20261124T180000
-DTEND;TZID=Europe/London:20261124T190000
-SUMMARY:Can Courts Save the Environment Without Weakening Democracy? Rethin
- king Environmental Judicial Activism in South Asia
-LOCATION:The Umney Theatre\, Robinson College\, Grange Road\, CB3 9AN
-URL:https://talks.cam.ac.uk/talk/index/274135/
-CATEGORIES:Law,Politics
-DESCRIPTION:What's On at Robinson College\nTopics: Law\, Politics\nDetails:
-  https://talks.cam.ac.uk/talk/index/274135/\nIn his lecture\, Dr Jashim Ch
- owdhury looks into the matter of the e nvironmental constitutionalism whic
- h has empowered courts to respond where political institutions appear unwi
- lling or unable to act. In India\, Pakistan and Bangladesh\, however\, thi
- s expansion of judicial authority raises a neglected question: can environ
- mentally progressive judgments nevertheless be democratically deficient? \
- n\n Drawing on his forthcoming book\, Dr Chowdhury examines a pattern of e
- nvironmental adjudication that is normatively ambitious but frequently les
- s inclusive\, less democratic and more combative than its objectives requi
- re. In his lecture he argues that the central challenge is not choosing be
- tween judicial activism and restraint\, but reimagining the relationship b
- etween courts\, legislatures\, governments and affected communities. Bring
- ing South Asian jurisprudence into conversation with deliberative de
-END:VEVENT
-BEGIN:VEVENT
 UID:centre-algorithmic-domination-and-oligarchic-worldmaking@cambridge-even
  ts
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261125T170000
 DTEND;TZID=Europe/London:20261125T180000
 SUMMARY:Algorithmic Domination and Oligarchic Worldmaking
@@ -121,7 +43,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273072@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261126T110000
 DTEND;TZID=Europe/London:20261126T120000
 SUMMARY:Peter Clark on "Potential mechanisms for assembly of pre-cellular r
@@ -137,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -162,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -190,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-understanding-refusing-finding-inspiration-towards-a-living-crit
  ique-of-d@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T183000
 SUMMARY:Understanding\, Refusing\, Finding Inspiration: Towards a Living Cr
@@ -210,7 +132,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -236,7 +158,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -260,7 +182,7 @@ DESCRIPTION:Speaker: Catherine Lefevre\, Glasgow\nCore Seminar in Economic
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274394@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270114T141500
 DTEND;TZID=Europe/London:20270114T150000
 SUMMARY:Working with Government and Policy Makers
@@ -273,7 +195,7 @@ DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -300,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -326,7 +248,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273737@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270209T180000
 DTEND;TZID=Europe/London:20270209T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Andrés Rodrí
@@ -354,7 +276,7 @@ DESCRIPTION:Speaker: Professor Andrés Rodríguez-Pose\, London School of E
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -368,7 +290,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N

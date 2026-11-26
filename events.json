@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:06",
+ "generated": "2026-11-26T01:30",
  "topics": [
   "Law",
   "Politics",
@@ -20,9 +20,9 @@
    "ok": true,
    "count": 1
   },
-  "King's E-Lab": {
+  "Judge Business School": {
    "ok": true,
-   "count": 8
+   "count": 7
   },
   "Cambridge Enterprise": {
    "ok": true,
@@ -36,21 +36,21 @@
    "ok": true,
    "count": 1
   },
-  "Judge Business School": {
+  "King's E-Lab": {
    "ok": true,
    "count": 7
   },
-  "Faculty of Law": {
+  "Centre for Geopolitics": {
    "ok": true,
-   "count": 30
+   "count": 5
   },
   "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 2
   },
-  "Centre for Geopolitics": {
+  "Faculty of Law": {
    "ok": true,
-   "count": 6
+   "count": 30
   },
   "Bennett": {
    "ok": true,
@@ -63,85 +63,10 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 15
+   "count": 12
   }
  },
  "events": [
-  {
-   "id": "talks-273869",
-   "title": "“It’s lucky that we live in Iceland”: Nordic exceptionalism and narratives of climate in/vulnerability in contemporary Iceland",
-   "start": "2026-11-24T16:30",
-   "end": "2026-11-24T18:00",
-   "allDay": false,
-   "venue": "Scott Polar Research Institute, Lecture Theatre",
-   "speaker": "Utsa Mukherjee (Education, Brunel University of London)",
-   "organiser": "Elizabeth Walsh",
-   "series": "Scott Polar Research Institute - HCEP (Histories, Cultures, Environments and Politics) Research Seminars",
-   "description": "While climate vulnerability, that is the geographical distribution of risks on account of the climate crisis, is widely discussed; relatively little scholarly attention has been paid to how colonial fantasies of climate invulnerability underpin climate inaction and justify the maintenance of status quo (Weatherill, 2025). This paper contributes to the emergent body of critical scholarship on the politics of climate in/vulnerability through a focus on contemporary Iceland. Drawing on in-depth interviews with more than 80 participants from across Iceland, who recognise the reality of anthropogenic climate change and are committed to climate action, we show how Iceland’s geographical location is invoked by participants to advance ideas of relative climate in/vulnerability of the island. Analysed through prisms of critical feminist and decolonial politics, these narratives assume two main forms. One portrays Iceland as geographically ‘lucky’, thereby less vulnerable to climate risks which are displaced onto far-off places ‘at risk’. The other sees Iceland as not doing enough to combat climate change, thereby exposing itself to future risks from ‘elsewhere’. We argue that these narratives of climate invulnerability are produced at the intersection of colonial imaginaries of geographical risks and widespread acceptance of Icelandic exceptionalism that obviates critical examination of current status quo. Perceptions of climate invulnerability, understood to be outcomes of geographic",
-   "url": "https://talks.cam.ac.uk/talk/index/273869/",
-   "source": "talks.cam: Scott Polar Research Institute - HCEP (Histories, Cultures, Environments and Politics) Research Seminars",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Politics",
-    "International",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "talks-273765",
-   "title": "Kropotkin’s Anarchist Animals",
-   "start": "2026-11-24T17:00",
-   "end": "2026-11-24T18:00",
-   "allDay": false,
-   "venue": "Small Lecture Theatre, Department of Geography",
-   "speaker": "David Nally, University of Cambridge",
-   "organiser": "Natalie Carter",
-   "series": "Political Ecology Group Seminar Series",
-   "description": "Anarchists have long argued that cooperation, more than competition, drives evolution. In that spirit, this seminar practises mutual aid of the most intimate kind, drawing generously on, and rarely straying beyond, the author’s own recent work (Nally 2026). Pyotr Kropotkin (1842–1921), perhaps the best-known anarchist of all, was a Russian geographer of royal lineage (he descended from the Rurik dynasty) who renounced the title of ‘Prince’ and devoted himself to the struggle against domination. He idolised Alexander von Humboldt, yet he declined the offer of a Chair in Geography at Cambridge because it required him to give up his pollical convictions. Natural scientists know Kropotkin for his pioneering analysis of ‘mutual aid’ among nonhumans, whereas social scientists know him better for his rigorous defence of anarchism as philosophy and ideal. While most scholars have held these two strands apart, this seminar argues that his studies of animal sociality were foundational to his political vision. For Kropotkin, humans and nonhumans co-evolved, sharing an entangled history and a repertoire of socially learned behaviours. Recognising this common origin – and, more broadly, the unity of all living matter – allowed Kropotkin to pose the most vital of political questions: what right does anyone have to rule over others? The seminar traces how Kropotkin’s animal studies led him to this thunderbolt of a thought, and asks what it demands of us today, in an age of resurgent authori",
-   "url": "https://talks.cam.ac.uk/talk/index/273765/",
-   "source": "talks.cam: Political Ecology Group Seminar Series",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "talks-274135",
-   "title": "Can Courts Save the Environment Without Weakening Democracy? Rethinking Environmental Judicial Activism in South Asia",
-   "start": "2026-11-24T18:00",
-   "end": "2026-11-24T19:00",
-   "allDay": false,
-   "venue": "The Umney Theatre, Robinson College, Grange Road, CB3 9AN",
-   "speaker": "",
-   "organiser": "N. Truszczynski",
-   "series": "What's On at Robinson College",
-   "description": "In his lecture, Dr Jashim Chowdhury looks into the matter of the e nvironmental constitutionalism which has empowered courts to respond where political institutions appear unwilling or unable to act. In India, Pakistan and Bangladesh, however, this expansion of judicial authority raises a neglected question: can environmentally progressive judgments nevertheless be democratically deficient? \n\n Drawing on his forthcoming book, Dr Chowdhury examines a pattern of environmental adjudication that is normatively ambitious but frequently less inclusive, less democratic and more combative than its objectives require. In his lecture he argues that the central challenge is not choosing between judicial activism and restraint, but reimagining the relationship between courts, legislatures, governments and affected communities. Bringing South Asian jurisprudence into conversation with deliberative democracy and dialogic judicial review, the lecture develops a model of collaborative environmental adjudication. Under this model, courts do not abandon rights enforcement; rather, they employ participatory and dialogue-promoting remedies that distribute responsibility, improve public justification and make environmental reform more democratically legitimate and institutionally sustainable. \n\n Dr M. Jashim Ali Chowdhury is the Baxandall Visiting Fellow at Robinson College (Michaelmas Term 2026) and a Lecturer in Law at the University of Hull. He has more than nineteen years of teaching and rese",
-   "url": "https://talks.cam.ac.uk/talk/index/274135/",
-   "source": "talks.cam: What's On at Robinson College",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "centre-algorithmic-domination-and-oligarchic-worldmaking",
    "title": "Algorithmic Domination and Oligarchic Worldmaking",
@@ -160,54 +85,6 @@
    "topics": [
     "Rights & Justice",
     "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "elab-6afd91cb96afb60473ba56d9",
-   "title": "Pitch@King's",
-   "start": "2026-11-25T17:30",
-   "end": "2026-11-25T19:30",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "King's Entrepreneurship Lab (King's E-Lab)",
-   "series": "",
-   "description": "Pitch@King’s gives participating teams the chance to practise their pitching skills with support from across the E-Lab, and to compete for a share of a £9,000 prize pot . The first round will take place on Wednesday the 25th of November.",
-   "url": "https://www.kingselab.org/all-events/pitchkings",
-   "source": "King's E-Lab",
-   "sourceGroup": "Entrepreneurship",
-   "booking": null,
-   "topics": [
-    "Entrepreneurship"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-what-next-for-cuba",
-   "title": "What next for Cuba?",
-   "start": "2026-11-25T17:30",
-   "end": "2026-11-25T18:30",
-   "allDay": false,
-   "venue": "",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/what-next-for-cuba/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
    ],
    "alsoListed": [],
    "access": "",

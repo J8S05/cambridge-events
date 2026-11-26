@@ -25,37 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:talks-273869@cambridge-events
-DTSTAMP:20261125T190634Z
-DTSTART;TZID=Europe/London:20261124T163000
-DTEND;TZID=Europe/London:20261124T180000
-SUMMARY:“It’s lucky that we live in Iceland”: Nordic exceptionalism a
- nd narratives of climate in/vulnerability in contemporary Iceland
-LOCATION:Scott Polar Research Institute\, Lecture Theatre
-URL:https://talks.cam.ac.uk/talk/index/273869/
-CATEGORIES:Politics,International,Policy
-DESCRIPTION:Speaker: Utsa Mukherjee (Education\, Brunel University of Londo
- n)\nScott Polar Research Institute - HCEP (Histories\, Cultures\, Environm
- ents and Politics) Research Seminars\nTopics: Politics\, International\, P
- olicy\nDetails: https://talks.cam.ac.uk/talk/index/273869/\nWhile climate 
- vulnerability\, that is the geographical distribution of risks on account 
- of the climate crisis\, is widely discussed\; relatively little scholarly 
- attention has been paid to how colonial fantasies of climate invulnerabili
- ty underpin climate inaction and justify the maintenance of status quo (We
- atherill\, 2025). This paper contributes to the emergent body of critical 
- scholarship on the politics of climate in/vulnerability through a focus on
-  contemporary Iceland. Drawing on in-depth interviews with more than 80 pa
- rticipants from across Iceland\, who recognise the reality of anthropogeni
- c climate change and are committed to climate action\, we show how Iceland
- ’s geographical location is invoked by participants to advance ideas of 
- relative climate in/vulnerability of the island. Analysed through prisms o
- f critical feminist and decolonial politics\, these narratives assume two 
- main fo
-END:VEVENT
-BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-ceenrg-seminars-climate-change-national-c
  ourts-pro@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CEENRG Seminars: 'Climate Change before National Courts: a Promisin
@@ -83,7 +55,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:bennett-annual-public-policy-lecture-2026@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261126T173000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Annual Public Policy Lecture: We’re all going to die! (Or are we?
@@ -106,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-att@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261127T160000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change Attribution sc
@@ -134,7 +106,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -149,7 +121,7 @@ DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -166,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -192,7 +164,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -217,7 +189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -233,7 +205,7 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274394@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270114T141500
 DTEND;TZID=Europe/London:20270114T150000
 SUMMARY:Working with Government and Policy Makers
@@ -246,7 +218,7 @@ DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -272,7 +244,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -289,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
  d-tort-la@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270205T160000
 DTEND;TZID=Europe/London:20270205T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
@@ -317,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -344,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -371,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -398,7 +370,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274399@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270304T090000
 DTEND;TZID=Europe/London:20270304T123000
 SUMMARY:Writing Policy Impact into Funding Applications
@@ -424,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261125T190634Z
+DTSTAMP:20261126T013009Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ
