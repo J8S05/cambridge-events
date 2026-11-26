@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:35",
+ "generated": "2026-11-26T13:34",
  "topics": [
   "Law",
   "Politics",
@@ -16,19 +16,11 @@
    "ok": true,
    "count": 0
   },
-  "EA Cambridge": {
-   "ok": true,
-   "count": 1
-  },
-  "Institute of Criminology": {
-   "ok": true,
-   "count": 2
-  },
-  "Judge Business School": {
+  "King's E-Lab": {
    "ok": true,
    "count": 7
   },
-  "POLIS (Politics & International Studies)": {
+  "EA Cambridge": {
    "ok": true,
    "count": 1
   },
@@ -36,7 +28,15 @@
    "ok": true,
    "count": 2
   },
-  "King's E-Lab": {
+  "Institute of Criminology": {
+   "ok": true,
+   "count": 0
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 1
+  },
+  "Judge Business School": {
    "ok": true,
    "count": 7
   },
@@ -48,13 +48,13 @@
    "ok": true,
    "count": 2
   },
-  "Bennett": {
-   "ok": true,
-   "count": 1
-  },
   "Centre for Geopolitics": {
    "ok": true,
    "count": 5
+  },
+  "Bennett": {
+   "ok": true,
+   "count": 1
   },
   "Eventbrite": {
    "ok": true,
@@ -286,10 +286,6 @@
     "Criminology"
    ],
    "alsoListed": [
-    {
-     "source": "Institute of Criminology",
-     "url": "https://www.crim.cam.ac.uk/events/big-ideas-lecture-professor-angie-hobbs"
-    },
     {
      "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/press/events/2026/11/institute-criminology-professor-angie-hobbs-flourishing-character-and-justice-why-plato-matters-now"
@@ -725,17 +721,17 @@
    "highlightWhy": []
   },
   {
-   "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
-   "title": "Cambridge Legal Theory Discussion Group (CLTDG): 'Does Consent Matter Only Indirectly in Sex Crimes?'",
-   "start": "2026-12-01T18:45",
+   "id": "dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-cltdg-consent-fundamentally-irrelevant-sex-crimes",
+   "title": "Cambridge Legal Theory Discussion Group (CLTDG): 'Is Consent Fundamentally Irrelevant to Sex Crimes?'",
+   "start": "2026-12-01T18:15",
    "end": "2026-12-01T19:45",
    "allDay": false,
    "venue": "Faculty of Law, David Williams Building",
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Tuesday 1 December 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law School)\n Abstract: Most legal academics analysing populism focus exclusively on formal legal changes. Some even suggest that constitutional scholars should keep in mind that it is more important to see what populists are doing than what they are saying. However, we act with words. As language philosopher J.L. Austin demonstrated, to say something is usually to do a number of things.\n Currently, democratic guardrails of constitutions are undermined not only by amendments to its provisions but also by political actors making them ‘dead letter.’ Speech act theory in general, and feminist philosophy of language in particular, provide valuable tools to explain (i) how populism can use speech to silence institutions and the opposition, and (ii) how populist speech can informally transform or undo constitutional norms.\n Some scholars, including Nadia Urbinati, describe the relationship between populism and democracy as parasitic. This research contributes to the explanation of such a description by evincing how populists c",
-   "url": "https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-does-consent-matter-only-indirectly-sex-crimes",
+   "description": "Adam Kolber (Brooklyn Law School)\n\n Date/time: \n\n Tuesday 1 December 2026 \n\n 6:15pm to 7:45pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n G24\n\n About \n\n Abstract : Consent has famously been described as moral magic because of its purported power to transform otherwise wrongful sexual contact into permissible conduct. On this “transformative” view, a person’s consent changes what others may permissibly do, at least sometimes allowing sex to occur even when it’s expected to make the consenter significantly worse off. I defend an alternative. Under the “evidential” view, consent is a proxy for a person’s welfare. It is our best indicator of how sexual contact is likely to affect that person’s welfare. Nothing about the evidential view diminishes consent’s importance to the law, but it changes our understanding of what the law should be doing and may recommend adjustments at the law’s borders. I argue that the evidential view is superior for three principal reasons.  \n First, the transformative view struggles to distinguish a never-discovered genital touching from a never-discovered touch on the shoulder.  \n Second, even if it could make the distinction, the violation",
+   "url": "https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-consent-fundamentally-irrelevant-sex-crimes",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
    "booking": null,
@@ -793,10 +789,6 @@
     "Criminology"
    ],
    "alsoListed": [
-    {
-     "source": "Institute of Criminology",
-     "url": "https://www.crim.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
-    },
     {
      "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"

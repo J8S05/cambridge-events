@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:talks-273143@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261126T170000
 DTEND;TZID=Europe/London:20261126T190000
 SUMMARY:Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 
@@ -54,36 +54,36 @@ DESCRIPTION:Speaker: Professor Angie Hobbs\, University of Sheffield\nInsti
 END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cambridge-legal-theory-discussion-group-c
- ltdg-does@cambridge-events
-DTSTAMP:20261126T073541Z
-DTSTART;TZID=Europe/London:20261201T184500
+ ltdg-cons@cambridge-events
+DTSTAMP:20261126T133442Z
+DTSTART;TZID=Europe/London:20261201T181500
 DTEND;TZID=Europe/London:20261201T194500
-SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Does Consent Matt
- er Only Indirectly in Sex Crimes?'
+SUMMARY:Cambridge Legal Theory Discussion Group (CLTDG): 'Is Consent Fundam
+ entally Irrelevant to Sex Crimes?'
 LOCATION:Faculty of Law\, David Williams Building
 URL:https://www.law.cam.ac.uk/events/cambridge-legal-theory-discussion-grou
- p-cltdg-does-consent-matter-only-indirectly-sex-crimes
+ p-cltdg-consent-fundamentally-irrelevant-sex-crimes
 CATEGORIES:Law,Criminology
 DESCRIPTION:Faculty of Law\nTopics: Law\, Criminology\nDetails: https://www
- .law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-does-c
- onsent-matter-only-indirectly-sex-crimes\nDate/time: \n\n Tuesday 1 Decemb
- er 2026 \n\n 6:45pm to 7:45pm\n\n Location: \n\n Faculty of Law\, David Wi
- lliams Building\n\n G24\n\n About \n\n Speaker: Adam Kolber (Brooklyn Law 
- School)\n Abstract: Most legal academics analysing populism focus exclusiv
- ely on formal legal changes. Some even suggest that constitutional scholar
- s should keep in mind that it is more important to see what populists are 
- doing than what they are saying. However\, we act with words. As language 
- philosopher J.L. Austin demonstrated\, to say something is usually to do a
-  number of things.\n Currently\, democratic guardrails of constitutions ar
- e undermined not only by amendments to its provisions but also by politica
- l actors making them ‘dead letter.’ Speech act theory in general\, and
-  feminist philosophy of language in particular\, provide valuable tools to
-  explain (i) how populism can use speech to silence institutions and the o
- pposit
+ .law.cam.ac.uk/events/cambridge-legal-theory-discussion-group-cltdg-consen
+ t-fundamentally-irrelevant-sex-crimes\nAdam Kolber (Brooklyn Law School)\n
+ \n Date/time: \n\n Tuesday 1 December 2026 \n\n 6:15pm to 7:45pm\n\n Locat
+ ion: \n\n Faculty of Law\, David Williams Building\n\n G24\n\n About \n\n 
+ Abstract : Consent has famously been described as moral magic because of i
+ ts purported power to transform otherwise wrongful sexual contact into per
+ missible conduct. On this “transformative” view\, a person’s consent
+  changes what others may permissibly do\, at least sometimes allowing sex 
+ to occur even when it’s expected to make the consenter significantly wor
+ se off. I defend an alternative. Under the “evidential” view\, consent
+  is a proxy for a person’s welfare. It is our best indicator of how sexu
+ al contact is likely to affect that person’s welfare. Nothing about the 
+ evidential view diminishes consent’s importance to the law\, but it chan
+ ges our understanding of what the law should be doing and may recommend ad
+ justments at the
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273144@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:Institute of Criminology - Professor Andreas von Hirsch Memorial Ev
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-private-law-seminar-series-tindall-v-tham
  es-valley@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261203T130000
 DTEND;TZID=Europe/London:20261203T140000
 SUMMARY:Private Law Seminar Series: 'Tindall v Thames Valley Police: the en
@@ -133,7 +133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri

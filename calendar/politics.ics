@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:centre-algorithmic-domination-and-oligarchic-worldmaking@cambridge-even
  ts
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261125T170000
 DTEND;TZID=Europe/London:20261125T180000
 SUMMARY:Algorithmic Domination and Oligarchic Worldmaking
@@ -43,7 +43,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273072@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261126T110000
 DTEND;TZID=Europe/London:20261126T120000
 SUMMARY:Peter Clark on "Potential mechanisms for assembly of pre-cellular r
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-11-cflpp-monthly-seminar-reait
  y-normati@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261126T150000
 DTEND;TZID=Europe/London:20261126T160000
 SUMMARY:CFLPP Monthly Seminar: 'Is Reality Normatively Structured?'
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-polis-cam-ac-uk-events-talk-heaven-has-wall-prof-elizabeth-sha
  kman-hurd@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261130T170000
 DTEND;TZID=Europe/London:20261130T183000
 SUMMARY:Talk: 'Heaven has a Wall' by Prof Elizabeth Shakman Hurd
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-understanding-refusing-finding-inspiration-towards-a-living-crit
  ique-of-d@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261202T170000
 DTEND;TZID=Europe/London:20261202T183000
 SUMMARY:Understanding\, Refusing\, Finding Inspiration: Towards a Living Cr
@@ -132,7 +132,7 @@ DESCRIPTION:Centre of Governance and Human Rights (CGHR)\nTopics: Rights &
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -158,7 +158,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -182,7 +182,7 @@ DESCRIPTION:Speaker: Catherine Lefevre\, Glasgow\nCore Seminar in Economic
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274394@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270114T141500
 DTEND;TZID=Europe/London:20270114T150000
 SUMMARY:Working with Government and Policy Makers
@@ -195,7 +195,7 @@ DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -222,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-legal-and-political-theology-colloquium@c
  ambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270123T100000
 DTEND;TZID=Europe/London:20270123T170000
 SUMMARY:Legal and Political Theology Colloquium
@@ -248,7 +248,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Politics\nDetails: https://www.la
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273737@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270209T180000
 DTEND;TZID=Europe/London:20270209T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Andrés Rodrí
@@ -276,7 +276,7 @@ DESCRIPTION:Speaker: Professor Andrés Rodríguez-Pose\, London School of E
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -290,7 +290,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261126T073541Z
+DTSTAMP:20261126T133442Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N
