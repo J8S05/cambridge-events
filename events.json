@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:29",
+ "generated": "2026-11-27T19:11",
  "topics": [
   "Law",
   "Politics",
@@ -16,21 +16,29 @@
    "ok": true,
    "count": 0
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 6
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 1
   },
-  "POLIS (Politics & International Studies)": {
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 0
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
+  },
+  "Bennett": {
+   "ok": true,
+   "count": 0
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 6
+  },
+  "POLIS (Politics & International Studies)": {
+   "ok": true,
+   "count": 0
   },
   "Institute of Criminology": {
    "ok": true,
@@ -42,19 +50,11 @@
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 25
-  },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 1
+   "count": 22
   },
   "Centre for Geopolitics": {
    "ok": true,
    "count": 4
-  },
-  "Bennett": {
-   "ok": true,
-   "count": 0
   },
   "Eventbrite": {
    "ok": true,
@@ -63,7 +63,7 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 12
+   "count": 13
   }
  },
  "events": [
@@ -113,105 +113,6 @@
    "alsoListed": [],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
-   "title": "LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in International Law' - Prof Fuad Zarbiyev, Geneva Graduate Institute",
-   "start": "2026-11-27T13:00",
-   "end": "2026-11-27T14:00",
-   "allDay": false,
-   "venue": "Lauterpacht Centre for International Law",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hall\n\n About \n\n Register here if attending online  \n Please note: this lecture will not be recorded.\n Situations in which claims to authority clash with each other abound in international law, ranging from competition for authority among international adjudicative bodies to the disputed allocation of powers among international and domestic authorities across various issue areas. What is common to all these situations is that each claim to authority is typically supported by some formal or informal basis for eliciting deference. Yet the practice shows that not all claims to deference entitlement are situated on the same plane, with some exerting greater attraction than others. Exclusively mandate-based authority claims, for instance, rarely gain the upper hand over epistemically grounded claims to deference. Moving away from the actor-focused conception of authority that prevails in the literature, this talk will argue that competing claims to authority in the international legal order are generally adjudicated on the basis of the deference",
-   "url": "https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-authority-international-law-prof-fuad-zarbiyev",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_nGUBoEFXRNGJVhVza-i-Hg",
-   "topics": [
-    "Law",
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "Register here if attending online",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cels-seminar-uk-eu-reset-and-future-uk-european-relations",
-   "title": "CELS Seminar: 'UK-EU Reset and the future of UK-European Relations'",
-   "start": "2026-11-27T15:00",
-   "end": "2026-11-27T17:00",
-   "allDay": false,
-   "venue": "Faculty of Law, David Williams Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 3:00pm to 5:00pm\n\n Location: \n\n Faculty of Law, David Williams Building\n\n LG17\n\n Open map \n\n Sign up\n\n About \n\n Join us on 27 November 2026 from 3:00 -5.00 pm at the Cambridge Law Faculty for a timely seminar on the UK-EU Reset and the future of UK-European Relations.  Hear expert analysis of recent developments and their implications for policy, trade, and cooperation. \n Speakers include: \n Professor Catherine Barnard (Cambridge University) Joe Cary (Oxford University) Professor Markus Gehring (Cambridge University) Nabil Khabirpour (Cambridge University) Nicolas Kurek (University of Zurich) Professor Anand Menon (KCL) Tonia Schockmel (Cambridge University) This is a hybrid event. Please do join us in-person, or you can register on Zoom to attend remotely.\n\n Contact \n\n Email: cels@law.cam.ac.uk",
-   "url": "https://www.law.cam.ac.uk/events/cels-seminar-uk-eu-reset-and-future-uk-european-relations",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://cam-ac-uk.zoom.us/webinar/register/WN_XlagfWyiQdybBynLYwGoog",
-   "topics": [
-    "Law",
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "online-register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-cambridge-women-law-society-restructuring-insolvency-inside-practice",
-   "title": "Cambridge Women in Law Society: 'Restructuring & Insolvency: Inside the Practice'",
-   "start": "2026-11-27T16:00",
-   "end": "2026-11-27T17:30",
-   "allDay": false,
-   "venue": "Trinity College",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 4:00pm to 5:30pm\n\n Location: \n\n Trinity College\n\n Junior Parlour\n\n Sign up\n\n About \n\n Cambridge Women in Law Society, in collaboration with INSOL International, invites all law students to join us for an introduction to the fascinating world of restructuring and insolvency on Friday, 27 November.\n In complex capital structures, restructuring can feel like Game of Thrones : competing interests, shifting alliances and power struggles. We will explore the roles of corporate borrowers, private equity sponsors and different groups of lenders, and how their lawyers develop strategies to maximise recoveries.\n We will also discuss the commercial opportunities and career paths in this increasingly important practice, including its growing links with private credit and distressed investing.\n All law students are welcome. If you are interested in corporate finance, private equity, banking or commercial law, we would love to see you!",
-   "url": "https://www.law.cam.ac.uk/events/cambridge-women-law-society-restructuring-insolvency-inside-practice",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": "https://tinyurl.com/CWLS-INSOL",
-   "topics": [
-    "Law"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
-   "title": "Law and the Climate Crisis Seminars: 'Climate Change Attribution science: Can It Establish Causation in Court?'",
-   "start": "2026-11-27T16:00",
-   "end": "2026-11-27T17:00",
-   "allDay": false,
-   "venue": "David Attenborough Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 27 November 2026 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Dr Rupert Stuart-Smith (Deputy Director and Senior Research Fellow in Climate Science and the Law at the Oxford Sustainable Law Programme, University of Oxford)\n Two decades of attribution research have shed light on the impacts of climate change occurring worldwide. The first wave of attribution research quantified climate change impacts on the intensity and probability of extreme weather events and slow-onset changes in glaciers and sea levels. Over the past decade, impact attribution studies have extended these methods to assess the attributable impacts of extreme events on agriculture, health, economic losses and biodiversity. Concurrently, source attribution research quantified individual emitters’ contributions to climate change impacts.\n Steady progress towards being able to quantify individual emitters’ contributions to specific losses has brought us closer to true ‘end-to-end’ attribution. This lecture will explore how these scientific developments have paved the way for better-evidenced legal claims on climate change impacts, and whether the science",
-   "url": "https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-climate-change-attribution-science-can-it-establish",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
    "highlight": false,
    "highlightWhy": []
   },
@@ -409,6 +310,31 @@
    "highlightWhy": []
   },
   {
+   "id": "talks-274454",
+   "title": "Observing Empire: A systems-theoretical perspective on colonial violence and world society",
+   "start": "2026-12-01T13:00",
+   "end": "2026-12-01T17:00",
+   "allDay": false,
+   "venue": "CRASSH Meeting Room, Alison Richard Building, 7 West Road, CB3 9DP",
+   "speaker": "Dr Kosuke Sakai",
+   "organiser": "Steffen Roth",
+   "series": "Social systems theory at Cambridge",
+   "description": "How can social theory account for imperial domination and colonial violence in the history of modern world society? In particular, how should we understand the relationship between functional differentiation and the asymmetries of imperial rule?\n Drawing on Niklas Luhmann’s social systems theory and historical research on German South West Africa, this talk examines how colonial violence was organised, observed, and attributed through legal, administrative, and political practices. Focusing on the period following the Herero and Nama War, it explores how distinctions between legitimate authority and unlawful coercion, protection and discipline, and welfare and labor regulation contributed to the reproduction of imperial asymmetries.\n Rather than treating colonial rule as an exception to modernity or as an instance of incomplete functional differentiation, the talk proposes a systems-theoretical perspective that considers imperial asymmetries as integral to the historical formation of world society.\n At the same time, it raises a methodological question about the relationship between social theory and historical research: how can empirical inquiry into historically entangled situations and asymmetrical configurations of modernity lead us to reconsider the distinctions through which social theory observes society? In this sense, the historical analysis serves not simply as an application of systems theory, but as an opportunity to reconstruct the conditions of theoretical obser",
+   "url": "https://talks.cam.ac.uk/talk/index/274454/",
+   "source": "talks.cam: Social systems theory at Cambridge",
+   "sourceGroup": "talks.cam",
+   "booking": null,
+   "topics": [
+    "Politics",
+    "International"
+   ],
+   "alsoListed": [],
+   "access": "",
+   "accessNote": "",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-12-talking-animals-law-and-philosophy-event-whale-legal-personhood-insights-posthuman-theory-and",
    "title": "Talking Animals, Law and Philosophy event: 'Whale Legal Personhood: Insights from Posthuman Theory and Nonhuman Animal Communication Technologies (NACTs)'",
    "start": "2026-12-01T17:00",
@@ -504,36 +430,15 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
+     "url": "https://www.law.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
+    },
+    {
+     "source": "Faculty of Law",
      "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
     }
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
-   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
-   "start": "2026-12-02T17:00",
-   "end": "2026-12-02T18:30",
-   "allDay": false,
-   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },

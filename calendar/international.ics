@@ -25,67 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
- ory-autho@cambridge-events
-DTSTAMP:20261127T132949Z
-DTSTART;TZID=Europe/London:20261127T130000
-DTEND;TZID=Europe/London:20261127T140000
-SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
- nternational Law' - Prof Fuad Zarbiyev\, Geneva Graduate Institute
-LOCATION:Lauterpacht Centre for International Law
-URL:https://www.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-
- theory-authority-international-law-prof-fuad-zarbiyev
-CATEGORIES:Law,International
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/events/lcil-friday-lecture-beckoning-choices-theory-autho
- rity-international-law-prof-fuad-zarbiyev\nSign-up only to join online: ht
- tps://cam-ac-uk.zoom.us/webinar/register/WN_nGUBoEFXRNGJVhVza-i-Hg\nDate/t
- ime: \n\n Friday 27 November 2026 \n\n 1:00pm to 2:00pm\n\n Location: \n\n
-  Lauterpacht Centre for International Law\n\n Berkowitz/Finley Lecture Hal
- l\n\n About \n\n Register here if attending online  \n Please note: this 
- lecture will not be recorded.\n Situations in which claims to authority cl
- ash with each other abound in international law\, ranging from competition
-  for authority among international adjudicative bodies to the disputed all
- ocation of powers among international and domestic authorities across vari
- ous issue areas. What is common to all these situations is that each claim
-  to authority is typically supported by some formal or informal basis for 
- eliciting deference. Yet the practice shows that not all claims to deferen
- ce entitlement are situated on the same plane\, with some exerting greater
-  attraction than others. Exclusively mandate-based authority claims\, for 
- instance\, rarely gain the 
-END:VEVENT
-BEGIN:VEVENT
-UID:dept-www-law-cam-ac-uk-events-cels-seminar-uk-eu-reset-and-future-uk-eu
- ropean-re@cambridge-events
-DTSTAMP:20261127T132949Z
-DTSTART;TZID=Europe/London:20261127T150000
-DTEND;TZID=Europe/London:20261127T170000
-SUMMARY:CELS Seminar: 'UK-EU Reset and the future of UK-European Relations'
-LOCATION:Faculty of Law\, David Williams Building
-URL:https://www.law.cam.ac.uk/events/cels-seminar-uk-eu-reset-and-future-uk
- -european-relations
-CATEGORIES:Law,International
-DESCRIPTION:Faculty of Law\nTopics: Law\, International\nDetails: https://w
- ww.law.cam.ac.uk/events/cels-seminar-uk-eu-reset-and-future-uk-european-re
- lations\nSign-up only to join online: https://cam-ac-uk.zoom.us/webinar/re
- gister/WN_XlagfWyiQdybBynLYwGoog\nDate/time: \n\n Friday 27 November 2026 
- \n\n 3:00pm to 5:00pm\n\n Location: \n\n Faculty of Law\, David Williams B
- uilding\n\n LG17\n\n Open map \n\n Sign up\n\n About \n\n Join us on 27 No
- vember 2026 from 3:00 -5.00 pm at the Cambridge Law Faculty for a timely s
- eminar on the UK-EU Reset and the future of UK-European Relations.  Hear 
- expert analysis of recent developments and their implications for policy\,
-  trade\, and cooperation. \n Speakers include: \n Professor Catherine Ba
- rnard (Cambridge University) Joe Cary (Oxford University) Professor Markus
-  Gehring (Cambridge University) Nabil Khabirpour (Cambridge University) Ni
- colas Kurek (University of Zurich) Professor Anand Menon (KCL) Tonia Schoc
- kmel (Cambridge University) This is a hybrid event. Please do join us in-p
- erson\, or you can register on Zoom to attend remotely.\n\n Contact \n\n E
- mail: cels@law.cam.ac.uk
-END:VEVENT
-BEGIN:VEVENT
 UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
  nce-and-t@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261127T173000
 DTEND;TZID=Europe/London:20261127T183000
 SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
@@ -100,9 +42,36 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
  owers-technoscience-and-the-military-in-britain-1930-1970/
 END:VEVENT
 BEGIN:VEVENT
+UID:talks-274454@cambridge-events
+DTSTAMP:20261127T191108Z
+DTSTART;TZID=Europe/London:20261201T130000
+DTEND;TZID=Europe/London:20261201T170000
+SUMMARY:Observing Empire: A systems-theoretical perspective on colonial vio
+ lence and world society
+LOCATION:CRASSH Meeting Room\, Alison Richard Building\, 7 West Road\, CB3 
+ 9DP
+URL:https://talks.cam.ac.uk/talk/index/274454/
+CATEGORIES:Politics,International
+DESCRIPTION:Speaker: Dr Kosuke Sakai\nSocial systems theory at Cambridge\nT
+ opics: Politics\, International\nDetails: https://talks.cam.ac.uk/talk/ind
+ ex/274454/\nHow can social theory account for imperial domination and colo
+ nial violence in the history of modern world society? In particular\, how 
+ should we understand the relationship between functional differentiation a
+ nd the asymmetries of imperial rule?\n Drawing on Niklas Luhmann’s socia
+ l systems theory and historical research on German South West Africa\, thi
+ s talk examines how colonial violence was organised\, observed\, and attri
+ buted through legal\, administrative\, and political practices. Focusing o
+ n the period following the Herero and Nama War\, it explores how distincti
+ ons between legitimate authority and unlawful coercion\, protection and di
+ scipline\, and welfare and labor regulation contributed to the reproductio
+ n of imperial asymmetries.\n Rather than treating colonial rule as an exce
+ ption to modernity or as an instance of incomplete functional differentiat
+ ion\, the talk proposes a systems-theo
+END:VEVENT
+BEGIN:VEVENT
 UID:centre-gender-populism-and-the-far-right-a-case-study-of-germanys-afd@c
  ambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261202T173000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:The AfD\, gender and the normalisation of right-wing extremism
@@ -115,7 +84,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -141,7 +110,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -166,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -195,7 +164,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261204T173000
 DTEND;TZID=Europe/London:20261204T190000
 SUMMARY:Belarus and the Baltic after 2022
@@ -207,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
  -talk@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261210T160000
 DTEND;TZID=Europe/London:20261210T173000
 SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
@@ -221,7 +190,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b087f41842ab15edaff34f1@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20261210T173000
 DTEND;TZID=Europe/London:20261210T183000
 SUMMARY:Food Security and Innovation with Henry Dimbleby (Co-Founder of LEO
@@ -239,7 +208,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Politics\,
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -267,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -288,7 +257,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -302,7 +271,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b02f9c9af04e33bd3f411ce@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20270225T173000
 DTEND;TZID=Europe/London:20270225T183000
 SUMMARY:Building the Future: Technology and Innovation with Kathleen Fisher
@@ -320,7 +289,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nHighlight: Senior f
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261127T132949Z
+DTSTAMP:20261127T191108Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N
