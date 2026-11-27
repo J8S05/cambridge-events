@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-lcil-friday-lecture-beckoning-choices-the
  ory-autho@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261127T130000
 DTEND;TZID=Europe/London:20261127T140000
 SUMMARY:LCIL Friday Lecture: 'Beckoning Choices: A Theory of Authority in I
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-cels-seminar-uk-eu-reset-and-future-uk-eu
  ropean-re@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261127T150000
 DTEND;TZID=Europe/London:20261127T170000
 SUMMARY:CELS Seminar: 'UK-EU Reset and the future of UK-European Relations'
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscie
  nce-and-t@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261127T173000
 DTEND;TZID=Europe/London:20261127T183000
 SUMMARY:Prof Richard Noakes\, ‘A secret radar war? Psychic powers\, techn
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-gender-populism-and-the-far-right-a-case-study-of-germanys-afd@c
  ambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261202T173000
 DTEND;TZID=Europe/London:20261202T190000
 SUMMARY:The AfD\, gender and the normalisation of right-wing extremism
@@ -115,7 +115,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273722@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261202T180000
 DTEND;TZID=Europe/London:20261202T193000
 SUMMARY:St Catharine's Political Economy Seminar - Professor Shailaja Fenne
@@ -141,7 +141,7 @@ DESCRIPTION:Speaker: Professor Shailaja Fennell\, Uiversity of Cambridge\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -166,7 +166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-lunchtime-conversation-what
  -special-@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261204T130000
 DTEND;TZID=Europe/London:20261204T140000
 SUMMARY:LCIL lunchtime conversation: 'What is Special about the Special Tri
@@ -195,7 +195,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, International\, Criminology\nDeta
 END:VEVENT
 BEGIN:VEVENT
 UID:centre-belarus-and-the-baltic-after-2022@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261204T173000
 DTEND;TZID=Europe/London:20261204T190000
 SUMMARY:Belarus and the Baltic after 2022
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:centre-historys-dead-hand-grip-joseph-ledford-and-daniel-j-sargent-book
  -talk@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261210T160000
 DTEND;TZID=Europe/London:20261210T173000
 SUMMARY:‘History’s Dead-Hand Grip’: Joseph Ledford and Daniel J. Sarg
@@ -221,7 +221,7 @@ DESCRIPTION:Centre for Geopolitics\nTopics: International\nDetails: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b087f41842ab15edaff34f1@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20261210T173000
 DTEND;TZID=Europe/London:20261210T183000
 SUMMARY:Food Security and Innovation with Henry Dimbleby (Co-Founder of LEO
@@ -239,7 +239,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nTopics: Politics\,
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273975@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20270119T140000
 DTEND;TZID=Europe/London:20270119T150000
 SUMMARY:Counterfeit Procedure: How 'Digital Arrest' Fraud Simulates the Sta
@@ -267,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-2027-mackenzie-stuart-lecture-res-interpr
  etata-pre@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20270122T173000
 DTEND;TZID=Europe/London:20270122T190000
 SUMMARY:2027 Mackenzie Stuart Lecture: 'Res Interpretata: Precedent and Its
@@ -288,7 +288,7 @@ DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (President Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273981@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20270216T163000
 DTEND;TZID=Europe/London:20270216T180000
 SUMMARY:The Salmon Industry in Alaska and Corporate Colonialism: Two Histor
@@ -302,7 +302,7 @@ DESCRIPTION:Speaker: Maximilien Zahnd (Law\, University of Warwick)\nScott
 END:VEVENT
 BEGIN:VEVENT
 UID:elab-6b02f9c9af04e33bd3f411ce@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20270225T173000
 DTEND;TZID=Europe/London:20270225T183000
 SUMMARY:Building the Future: Technology and Innovation with Kathleen Fisher
@@ -320,7 +320,7 @@ DESCRIPTION:King's Entrepreneurship Lab (King's E-Lab)\nHighlight: Senior f
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273872@cambridge-events
-DTSTAMP:20261127T073518Z
+DTSTAMP:20261127T132949Z
 DTSTART;TZID=Europe/London:20270309T160000
 DTEND;TZID=Europe/London:20270309T180000
 SUMMARY:Cold War - hot heritage? Making sense of the Cold War in the High N
