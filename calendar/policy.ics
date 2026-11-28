@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:jbs-public-control-of-energy@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20261130T123000
 DTEND;TZID=Europe/London:20261130T133000
 SUMMARY:Public control of energy – should we start with the retail market
@@ -41,7 +41,7 @@ DESCRIPTION:Economics and Policy seminar series Energy Policy Research Grou
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-the-value-of-codifying-organisational-knowledge@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20261202T150000
 DTEND;TZID=Europe/London:20261202T160000
 SUMMARY:The value of codifying organisational knowledge
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-press-events-2026-12-ceenrg-seminars-applying-cl
  imate-eth@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20261203T150000
 DTEND;TZID=Europe/London:20261203T160000
 SUMMARY:CEENRG Seminars: 'Applying Climate Ethics to Policy\, a Methodology
@@ -84,7 +84,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273463@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20261203T171500
 DTEND;TZID=Europe/London:20261203T190000
 SUMMARY:Financing Foreign Policy: UK Government–Bank Relations During the
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jbs-research-showcase-climate-adaptation-in-small-island-states@cambrid
  ge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20261207T123000
 DTEND;TZID=Europe/London:20261207T140000
 SUMMARY:Research showcase: Climate adaptation in small island states
@@ -125,7 +125,7 @@ DESCRIPTION:Energy Policy Research Group (EPRG) Energy and Environment semi
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274394@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270114T141500
 DTEND;TZID=Europe/London:20270114T150000
 SUMMARY:Working with Government and Policy Makers
@@ -138,7 +138,7 @@ DESCRIPTION:Speaker: Julia Gog (University of Cambridge)\nIsaac Newton Inst
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-273723@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270120T180000
 DTEND;TZID=Europe/London:20270120T193000
 SUMMARY:St Catharine's Political Economy Seminar -Professor Riccardo Cresce
@@ -164,7 +164,7 @@ DESCRIPTION:Speaker: Professor Riccardo Crescenzi \, London School of Econo
 END:VEVENT
 BEGIN:VEVENT
 UID:jbs-eei-the-behavioural-economics-of-social-media-bans@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270128T123000
 DTEND;TZID=Europe/London:20270128T140000
 SUMMARY:The behavioural economics of social media bans
@@ -179,9 +179,37 @@ DESCRIPTION:El-Erian Institute of Behavioural Economics and Policy events O
  nd preferences with Professor Cass R Sunstein\, Harvard University.
 END:VEVENT
 BEGIN:VEVENT
+UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-an
+ d-tort-la@cambridge-events
+DTSTAMP:20261128T190502Z
+DTSTART;TZID=Europe/London:20270205T160000
+DTEND;TZID=Europe/London:20270205T170000
+SUMMARY:Law and the Climate Crisis Seminars: 'Change and Tort Law'
+LOCATION:David Attenborough Building
+URL:https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-change
+ -and-tort-law
+CATEGORIES:Law,Policy
+DESCRIPTION:Faculty of Law\nHighlight: Senior figure speaking (Lord)\nTopic
+ s: Law\, Policy\nDetails: https://www.law.cam.ac.uk/events/law-and-climate
+ -crisis-seminars-change-and-tort-law\nSign-up needed\nDate/time: \n\n Frid
+ ay 5 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenbor
+ ough Building\n\n About \n\n Speaker: Lord Philip Sales (United Kingdom Su
+ preme Court)\n The Cambridge Seminar Series on Law and the Climate Crisis 
+ explores the vital role of legal systems in tackling one of the most press
+ ing issues of our time.\n This series brings together top experts in law a
+ nd climate action to discuss how climate change interacts with specific ar
+ eas of law\, setting out both how legal fields are being impacted by clima
+ te change and how the law can help drive climate action.\n The Cambridge S
+ eminar Series on Law and the Climate Crisis is co-hosted by the Centre for
+  Climate Engagement at Hughes Hall\, Cambridge Zero\, the Centre for Envir
+ onment\, Energy and Natural Resource Governance (CEENRG)\, the Cambridge C
+ limate Society\, the Lauterpacht Centre for International Law\, and the Ne
+ t Zero Lawyers
+END:VEVENT
+BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270212T160000
 DTEND;TZID=Europe/London:20270212T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Land Law'
@@ -208,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270219T160000
 DTEND;TZID=Europe/London:20270219T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and AI Law'
@@ -235,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270226T160000
 DTEND;TZID=Europe/London:20270226T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Comparativ
@@ -262,7 +290,7 @@ DESCRIPTION:Faculty of Law\nTopics: Law\, Policy\nDetails: https://www.law.
 END:VEVENT
 BEGIN:VEVENT
 UID:talks-274399@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270304T090000
 DTEND;TZID=Europe/London:20270304T123000
 SUMMARY:Writing Policy Impact into Funding Applications
@@ -288,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-climate-c
  hange-and@cambridge-events
-DTSTAMP:20261128T131337Z
+DTSTAMP:20261128T190502Z
 DTSTART;TZID=Europe/London:20270312T160000
 DTEND;TZID=Europe/London:20270312T170000
 SUMMARY:Law and the Climate Crisis Seminars: 'Climate Change and Human Righ
