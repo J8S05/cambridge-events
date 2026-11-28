@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:28",
+ "generated": "2026-11-28T13:13",
  "topics": [
   "Law",
   "Politics",
@@ -16,17 +16,21 @@
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 5
-  },
   "EA Cambridge": {
    "ok": true,
    "count": 1
   },
-  "Centre of Governance and Human Rights (CGHR)": {
+  "King's E-Lab": {
+   "ok": true,
+   "count": 5
+  },
+  "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 0
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 6
   },
   "Institute of Criminology": {
    "ok": true,
@@ -36,21 +40,17 @@
    "ok": true,
    "count": 2
   },
-  "Bennett": {
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
    "count": 0
   },
-  "Judge Business School": {
-   "ok": true,
-   "count": 6
-  },
-  "POLIS (Politics & International Studies)": {
+  "Bennett": {
    "ok": true,
    "count": 0
   },
   "Faculty of Law": {
    "ok": true,
-   "count": 21
+   "count": 20
   },
   "Centre for Geopolitics": {
    "ok": true,
@@ -77,7 +77,7 @@
    "speaker": "",
    "organiser": "Faculty of Law",
    "series": "",
-   "description": "Date/time: \n\n Saturday 28 November 2026 \n\n 9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st round: 7th November, 2nd round: 28th November, 3rd round: 30th January, times and location TBC)\n Put your advocacy skills to the test in our medical negligence moot. Participants will have the chance to grapple with a realistic medical law problem, develop oral advocacy skills and receive feedback across multiple rounds.\n Further details and the sign-up link will be released on our Instagram in mid-to-late October.\n Cambridge Medical Law Society:",
+   "description": "This event has already happened\n\n Date/time: \n\n Saturday 28 November 2026 \n\n 9:00am to 10:00am\n\n Location: \n\n TBC\n\n About \n\n Medical Negligence Moot (1st round: 7th November, 2nd round: 28th November, 3rd round: 30th January, times and location TBC)\n Put your advocacy skills to the test in our medical negligence moot. Participants will have the chance to grapple with a realistic medical law problem, develop oral advocacy skills and receive feedback across multiple rounds.\n Further details and the sign-up link will be released on our Instagram in mid-to-late October.\n Cambridge Medical Law Society:",
    "url": "https://www.law.cam.ac.uk/press/events/2026/11/cambridge-medical-law-society-medical-negligence-moot-2nd-round",
    "source": "Faculty of Law",
    "sourceGroup": "Department",
@@ -332,11 +332,11 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
+     "url": "https://www.law.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
     },
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
+     "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
     }
    ],
    "access": "register",
@@ -938,33 +938,6 @@
    "accessNote": "Further details and the sign-up link will be released on our Instagram in mid-to-late October.",
    "highlight": false,
    "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-law-and-climate-crisis-seminars-change-and-tort-law",
-   "title": "Law and the Climate Crisis Seminars: 'Change and Tort Law'",
-   "start": "2027-02-05T16:00",
-   "end": "2027-02-05T17:00",
-   "allDay": false,
-   "venue": "David Attenborough Building",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Date/time: \n\n Friday 5 February 2027 \n\n 4:00pm to 5:00pm\n\n Location: \n\n David Attenborough Building\n\n About \n\n Speaker: Lord Philip Sales (United Kingdom Supreme Court)\n The Cambridge Seminar Series on Law and the Climate Crisis explores the vital role of legal systems in tackling one of the most pressing issues of our time.\n This series brings together top experts in law and climate action to discuss how climate change interacts with specific areas of law, setting out both how legal fields are being impacted by climate change and how the law can help drive climate action.\n The Cambridge Seminar Series on Law and the Climate Crisis is co-hosted by the Centre for Climate Engagement at Hughes Hall, Cambridge Zero, the Centre for Environment, Energy and Natural Resource Governance (CEENRG), the Cambridge Climate Society, the Lauterpacht Centre for International Law, and the Net Zero Lawyers Alliance.\n For more information and to register see the Centre for Climate Engagement website .",
-   "url": "https://www.law.cam.ac.uk/events/law-and-climate-crisis-seminars-change-and-tort-law",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Policy"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "For more information and to register see the Centre for Climate Engagement website .",
-   "highlight": true,
-   "highlightWhy": [
-    "Senior figure speaking (Lord)"
-   ]
   },
   {
    "id": "talks-273737",
