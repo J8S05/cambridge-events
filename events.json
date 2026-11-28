@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T01:28",
+ "generated": "2026-11-28T07:28",
  "topics": [
   "Law",
   "Politics",
@@ -24,13 +24,25 @@
    "ok": true,
    "count": 1
   },
-  "Cambridge Enterprise": {
+  "Centre of Governance and Human Rights (CGHR)": {
    "ok": true,
-   "count": 2
+   "count": 0
   },
   "Institute of Criminology": {
    "ok": true,
    "count": 0
+  },
+  "Cambridge Enterprise": {
+   "ok": true,
+   "count": 2
+  },
+  "Bennett": {
+   "ok": true,
+   "count": 0
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 6
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
@@ -39,18 +51,6 @@
   "Faculty of Law": {
    "ok": true,
    "count": 21
-  },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 1
-  },
-  "Judge Business School": {
-   "ok": true,
-   "count": 6
-  },
-  "Bennett": {
-   "ok": true,
-   "count": 0
   },
   "Centre for Geopolitics": {
    "ok": true,
@@ -341,31 +341,6 @@
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
-   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
-   "start": "2026-12-02T17:00",
-   "end": "2026-12-02T18:30",
-   "allDay": false,
-   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
-   "speaker": "",
-   "organiser": "Centre of Governance and Human Rights (CGHR)",
-   "series": "",
-   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
-   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
-   "source": "Centre of Governance and Human Rights (CGHR)",
-   "sourceGroup": "Research centre",
-   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
-   "topics": [
-    "Rights & Justice",
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
