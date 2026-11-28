@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:11",
+ "generated": "2026-11-28T01:28",
  "topics": [
   "Law",
   "Politics",
@@ -16,45 +16,45 @@
    "ok": true,
    "count": 0
   },
+  "King's E-Lab": {
+   "ok": true,
+   "count": 5
+  },
   "EA Cambridge": {
    "ok": true,
    "count": 1
-  },
-  "Centre of Governance and Human Rights (CGHR)": {
-   "ok": true,
-   "count": 0
   },
   "Cambridge Enterprise": {
    "ok": true,
    "count": 2
   },
-  "Bennett": {
+  "Institute of Criminology": {
    "ok": true,
    "count": 0
-  },
-  "Judge Business School": {
-   "ok": true,
-   "count": 6
   },
   "POLIS (Politics & International Studies)": {
    "ok": true,
    "count": 0
   },
-  "Institute of Criminology": {
+  "Faculty of Law": {
+   "ok": true,
+   "count": 21
+  },
+  "Centre of Governance and Human Rights (CGHR)": {
+   "ok": true,
+   "count": 1
+  },
+  "Judge Business School": {
+   "ok": true,
+   "count": 6
+  },
+  "Bennett": {
    "ok": true,
    "count": 0
   },
-  "King's E-Lab": {
-   "ok": true,
-   "count": 5
-  },
-  "Faculty of Law": {
-   "ok": true,
-   "count": 22
-  },
   "Centre for Geopolitics": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "Eventbrite": {
    "ok": true,
@@ -63,108 +63,10 @@
   },
   "talks.cam": {
    "ok": true,
-   "count": 13
+   "count": 11
   }
  },
  "events": [
-  {
-   "id": "talks-273072",
-   "title": "Peter Clark on \"Potential mechanisms for assembly of pre-cellular replicating molecular assemblies (chiral selection and steps to the proton motive force)\"",
-   "start": "2026-11-26T11:00",
-   "end": "2026-11-26T12:00",
-   "allDay": false,
-   "venue": "Battcock, Room F17",
-   "speaker": "Peter Clark (University of Calgary, Department of Chemistry)",
-   "organiser": "Paul Rimmer",
-   "series": "LCLU Coffee Meetings",
-   "description": "In person.",
-   "url": "https://talks.cam.ac.uk/talk/index/273072/",
-   "source": "talks.cam: LCLU Coffee Meetings",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Politics"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "talks-273143",
-   "title": "Institute of Criminology Big Ideas Lecture - Professor Angie Hobbs 'Flourishing, character and justice: why Plato matters now'",
-   "start": "2026-11-26T17:00",
-   "end": "2026-11-26T19:00",
-   "allDay": false,
-   "venue": "Institute of Criminology, Sidgwick Site, Cambridge CB3 9DA and online",
-   "speaker": "Professor Angie Hobbs, University of Sheffield",
-   "organiser": "Anna Quenby",
-   "series": "Institute of Criminology",
-   "description": "This event is part of the Institute of Criminology's Public Guest Seminar Series for Michaelmas Term 2026. A drinks reception follows the talk. These events are free and everyone is welcome. Please register to attend either in-person or online by clicking the link at the bottom of this page. \n About What might it mean to live a flourishing life? And what is the relationship between flourishing and the virtues, especially justice? In this talk based on her recent book, Professor Angie Hobbs explores how Plato can help us with these urgent questions, and how he addresses the key issue of character formation, and why it never benefits us to return wrong for wrong. She shows how she has used his methodology, ideas and arguments in a variety of sectors to address contemporary issues in education, faith–secular debate, health care and the civil service, and invites the audience to discuss with her what further lessons can be applied. We are living in fast-moving and uncertain times and need ancient wisdom more than ever. Plato really does matter, right now! \n Why Plato Matters Now (Bloomsbury 2025). angiehobbs.com \n Angie Hobbs is Professor of the Public Understanding of Philosophy Emerita at the University of Sheffield. She gained a degree in Classics (First Class) and a PhD in Ancient Philosophy at the University of Cambridge. Her chief interests are in ancient philosophy and literature, and ethics and political theory from classical thought to the present. She has published wide",
-   "url": "https://talks.cam.ac.uk/talk/index/273143/",
-   "source": "talks.cam: Institute of Criminology",
-   "sourceGroup": "talks.cam",
-   "booking": null,
-   "topics": [
-    "Rights & Justice",
-    "Criminology"
-   ],
-   "alsoListed": [],
-   "access": "register",
-   "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "centre-prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970",
-   "title": "Prof Richard Noakes, ‘A secret radar war? Psychic powers, technoscience, and the military in Britain, 1930–1970’",
-   "start": "2026-11-27T17:30",
-   "end": null,
-   "allDay": false,
-   "venue": "McCrum Lecture Theatre, Corpus Christi College, Bene’t Street CB2 1RH",
-   "speaker": "",
-   "organiser": "Centre for Geopolitics",
-   "series": "",
-   "description": "",
-   "url": "https://www.cfg.cam.ac.uk/events/prof-richard-noakes-a-secret-radar-war-psychic-powers-technoscience-and-the-military-in-britain-1930-1970/",
-   "source": "Centre for Geopolitics",
-   "sourceGroup": "Research centre",
-   "booking": null,
-   "topics": [
-    "International"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
-  {
-   "id": "dept-www-law-cam-ac-uk-events-law-sport-and-social-justice-lessons-cricket-india-south-africa-and-uk",
-   "title": "Law, Sport and Social Justice: Lessons in Cricket from India, South Africa, and the UK",
-   "start": "2026-11-27T17:45",
-   "end": "2026-11-27T18:45",
-   "allDay": false,
-   "venue": "Lucy Cavendish College",
-   "speaker": "",
-   "organiser": "Faculty of Law",
-   "series": "",
-   "description": "Dr Shubham Jain (Lecturer, Manchester Law School; Research Fellow, Centre for Sport and Human Rights)\n\n Date/time: \n\n Friday 27 November 2026 \n\n 5:45pm to 6:45pm\n\n Location: \n\n Lucy Cavendish College\n\n Wolfson Room\n\n About \n\n Cambridge Lucy India Futures Forum Drawing on fieldwork in India and expert consultations in South Africa and the UK, this talk explores who really gets to play – how socio-economic and identity-based barriers, deepened by corruption and climate change, shape access to cricket from the grassroots to the professional game, and what legal reform can and cannot change.\n 5:30pm for a 5:45pm start",
-   "url": "https://www.law.cam.ac.uk/events/law-sport-and-social-justice-lessons-cricket-india-south-africa-and-uk",
-   "source": "Faculty of Law",
-   "sourceGroup": "Department",
-   "booking": null,
-   "topics": [
-    "Law",
-    "Rights & Justice"
-   ],
-   "alsoListed": [],
-   "access": "",
-   "accessNote": "",
-   "highlight": false,
-   "highlightWhy": []
-  },
   {
    "id": "dept-www-law-cam-ac-uk-press-events-2026-11-cambridge-medical-law-society-medical-negligence-moot-2nd-round",
    "title": "Cambridge Medical Law Society: Medical Negligence Moot 2nd round",
@@ -430,15 +332,40 @@
    "alsoListed": [
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
+     "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
     },
     {
      "source": "Faculty of Law",
-     "url": "https://www.law.cam.ac.uk/press/events/2026/12/institute-criminology-professor-andreas-von-hirsch-memorial-event"
+     "url": "https://www.law.cam.ac.uk/events/professor-andreas-von-hirsch-memorial-event"
     }
    ],
    "access": "register",
    "accessNote": "Please register to attend either in-person or online by clicking the link at the bottom of this page.",
+   "highlight": false,
+   "highlightWhy": []
+  },
+  {
+   "id": "centre-understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination",
+   "title": "Understanding, Refusing, Finding Inspiration: Towards a Living Critique of Domination",
+   "start": "2026-12-02T17:00",
+   "end": "2026-12-02T18:30",
+   "allDay": false,
+   "venue": "Room SG2, Alison Richard Building, 7 West Road, Cambridge, CB3 9DP",
+   "speaker": "",
+   "organiser": "Centre of Governance and Human Rights (CGHR)",
+   "series": "",
+   "description": "In this talk, Martin Breaugh proposes a “living critique of domination” grounded in three gestures for radically rethinking politics and rediscovering emancipatory horizons.",
+   "url": "https://www.cghr.polis.cam.ac.uk/events/understanding-refusing-finding-inspiration-towards-a-living-critique-of-domination/",
+   "source": "Centre of Governance and Human Rights (CGHR)",
+   "sourceGroup": "Research centre",
+   "booking": "https://ctrp-cghr-martin-breaugh.eventbrite.co.uk",
+   "topics": [
+    "Rights & Justice",
+    "Politics"
+   ],
+   "alsoListed": [],
+   "access": "register",
+   "accessNote": "",
    "highlight": false,
    "highlightWhy": []
   },
